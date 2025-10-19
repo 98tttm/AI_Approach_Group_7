@@ -1,0 +1,41 @@
+{
+  "id": "cv (1204).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "joyce james\naddress : mangalathu h joyjer80 gmail.com\nmidayikunnam p.o , thalayolaparambu 91-\n9880479867\nkottayam-686605\nindustry\nit\norganization\ntech mahindra\ndesignation\nsoftware engineer(tester)",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "duration\n2 years\ndomain\ntelecom\n1.btcom dante(vv&t testing)\nclient\nbritish telecom\ndomain\ntelecom\nmulti browser manual testing(desktop and\ntesting type\ndevice testing)\ntools used\niphone, ipad, samsung s4,cms\ndefect tracking\ntool\nqc, jira\nmethodology\nagile\nthe dante is to configure the bt.com site. the main aim to test the\nvarious modules that are to be placed in the bt site. the various modules are\nhero carousal, image carousal, large image carousal, medium carousal and so\non where the bt articles can be placed. these modules are tested in the test\nenvironment in content management system (cms).the testing is multi browser\ntesting(ie9,ie10,ie11,firefox and chrome) and device testing(iphone ,ipad and\nsamsung s4).after the testing these modules are given to the content writer of\nthe bt site and they publish the articles in the bt site.\ncontribution:\nworked on test case writing, test case execution in desktop as well as in the\ndevices.\nclient\nat&t\ndomain\ntelecom\ntesting type\nautomation and manual testing\nselenium, conformiq, soupui, sql\ntools used\ndevoloper\ndefect tracking\ntool\nrally\nmethodology\nagile\nmanual tasks, consolidate tasks) providing reduced manual effort and preparing\nfor migration into work flow management platform (newton) and new order\nmanagement, customer scheduling ,order capture,\nworkflow(oms,cth,lpp,spp),service activation, work assignment, digital\nnotifications).\ncth(common task handler)\nthe tasks that comes from oms(thick tasks) and ocx(thin tasks) where to be\nhandled in cth.cth was divided into cth-hir(human interaction router) and\ncth-wl, sasha and aots.\ncth-hir\ncth-hir was where the tasks where to be routed accordingly viz to wl, sasha,\naots. separate rules are to be defined in for routing each task accordingly .any\ntask that is created will be found in cth-hir and from hir it is routed according\nthe rules declared in routing table for each source system like\nocx,omx,spp,lpp,cth etc..\ncth-wl\ncth-wl is where a task can be completed ,assigned to any assignee for",
+      "keywords": [
+        "system"
+      ]
+    },
+    "SKILLS": [
+      "3.abm-ros(ui development):",
+      "automation testing:",
+      "automation testing: selenium with conformiq for modelling",
+      "cases viz conformiq. we model the test cases and with the help of attiaf",
+      "completion",
+      "contribution:",
+      "convertor",
+      "development.",
+      "dotnet to java platform. the work assigned was in xml pages for the front end",
+      "manual testing:",
+      "test case execution. since the was an agile",
+      "the aim of the was to convert the application that was already built in",
+      "the modelled english testcases gets converted to selenium scripts.",
+      "the tool used for updating the test cases results was rally dev.",
+      "the tool used was selenium. we also used a tool for the modelling of the test",
+      "then it can be deferred.",
+      "unable to be completed within the given time",
+      "unassign a task and claim a task. if the assignee feels the task is",
+      "worked on test case writing"
+    ],
+    "ABOUT": "manual testing: system testing, vv&t testing.\nb.e in computer engineering from st.vincent pallotti college of engineering &\ntechnology.\nexaminations\nboard/university\npercentage\nyear of\npassing\nb.e\nnagpur university\n65%\n2013\n12th\nandhra board\n92%\n2010\n10th\nc.b.s.e\n86%\n2008\nstrengths: good listener, good team player.\nhusband s name\n: mr. arun george\ndate of birth\n: 13 november, 1990\ngender\n: female\nmarital status\n: married\nlanguages known\n: english ,hindi, telugu and malayalam.\ndate: 07-04-2015\njoyjer80 gmail.com\nplace:bengaluru 91-9880479867"
+  }
+}

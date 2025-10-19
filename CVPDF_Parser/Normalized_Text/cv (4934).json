@@ -1,0 +1,45 @@
+{
+  "id": "cv (4934).pdf",
+  "normalized_sections": {
+    "ABOUT": "dylan hernandez\ngraduate machine learning developer",
+    "SKILLS": [
+      "application development.",
+      "experienced software professional looking for data science and machine learning roles. masters in machine learning. good",
+      "keras",
+      "knowledge of software development processes and object-oriented programming. sound knowledge of python",
+      "learn and keras.",
+      "machine learning",
+      "object oriented programming",
+      "python",
+      "scikit",
+      "scikit learn",
+      "software engineering",
+      "tensorflow"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "intelligent disease recognition using cause\ncisco\npair extraction\nsoftware developer and analyst trainee\noct 2018 - may 2019",
+      "companies": [],
+      "titles": [
+        "analyst",
+        "developer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "other qualification\ndeveloped async functions to connect machine learning\napplications and databases of clients.\nunderstanding neural networks - nanyang\nuniversity\nbachelor of technology(instrumentation) jodhpur university, jodhpur,\n2018\nmaster of technology (machine learning) iiit delhi, 2021",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "iit",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

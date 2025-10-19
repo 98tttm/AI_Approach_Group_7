@@ -1,0 +1,52 @@
+{
+  "id": "cv (2080).pdf",
+  "normalized_sections": {
+    "ABOUT": "resume\nshiv kumar gupta\n( be-ec)\nf 212 lado sarai\ndelhi\nemail id: gupta.shiv98 gmail.com\npin code 110030 mobile no. 7835991534\nto have a growth oriented career in a progressive organization that gives a scope to\nimprove my knowledge and potential in order to emerge as a good professional, at",
+    "EDUCATION": {
+      "raw": "the same time contributing to the growth of organization being flexible & innovative.\nexamination\nschool/college\nboard\npercentage/c.g.p.a\n/university\ndegree\ntit college\ncourse\nr.g.p.v\n(bachelor of\n7.49 cgpa\nengineering\nb.e.)\n(2011-15)",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "school",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "intermediate\nr.k.v.v bijuri\nc.b.s.e.\n56.4%\n(2010-11)\nhigh school\nst. joseph mission school\nc.b.s.e.\n68.4%\n(2008-09)\nbijuri description- battery level indicator indicates the status of the battery just by glowing led s. description - electronic voting machine has now days become an effective tool for voting. it ensures people about their vote being secured. it avoids any kind of malpractice and invalid\nvotes.\nareas of interests : electronics device control system",
+      "keywords": [
+        "system"
+      ]
+    },
+    "ACTIVITIES": "digital electronics\nstrengths :\ni am a quick learner with strong grasping approach. adaptable and flexible in nature i am very punctual and self-motivated person. embedded system 8051\ntraining",
+    "SKILLS": [
+      "basic knowledge of computer applications like microsoft word",
+      "c and c",
+      "date :",
+      "date of birth : 04.07.1993",
+      "declaration",
+      "excel",
+      "father s name : hari ram gupta",
+      "father s occupation : government job",
+      "from indeyes infotech bhopal",
+      "gender : male",
+      "hobbies and other interests",
+      "i here by declare that above mentioned information is correct up to my knowledge and i bear the",
+      "languages known : english & hindi",
+      "marital status : single",
+      "nationality : indian",
+      "personal details",
+      "place",
+      "playing badminton",
+      "playing cricket",
+      "powerpoint.",
+      "responsibility for the correctness of above mentioned particulars.",
+      "shiv kumar gupta",
+      "watching tv"
+    ]
+  }
+}

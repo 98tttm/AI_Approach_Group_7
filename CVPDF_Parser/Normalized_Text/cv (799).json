@@ -1,0 +1,42 @@
+{
+  "id": "cv (799).pdf",
+  "normalized_sections": {
+    "ACHIEVEMENTS": "ujjwal kumar\n05002041\nelectrical engineering\ndual degree (b.tech m.tech.)\nindian institute of technology, bombay\nmale\nspecialization: communication & signal processing\ndob: 20/11/1986\nexamination\nuniversity\ninstitute\nyear\ncpi / %\ngraduation\niit bombay\niit bombay\n2009\n8.71\nintermediate/ 2\ncbse\nst. michael s high school, patna\n2004\n82.40\nmatriculation\ncbse\nloyola high school, patna\n2002\n93.20 ranked 5th in my specialization and 9th amongst 45 students in ee dual degree batch (2009) department rank 1 out of 84 students after 1st year and hence awarded a branch change (2006) fellowship recipient from tata teleservices iitb centre of excellence in telecommunications (2009) council for scientific and industrial research (csir) leadership in science awardee\n(2003)\nolympiads represented state of bihar in indian national mathematics olympiad (inmo)\n(2003) secured 3rd rank in state in regional mathematics olympiad (rmo) (2002) secured 33rd rank in national science olympiad from amongst 25000 students\n(2002) received merit certificate in national mathematics olympiad, awarded to top 1% students (2001)\ninternships",
+    "PROJECTS": {
+      "raw": "e.p.f.l. (swiss federal institute of technology), switzerland\nmay-july 08 algorithm development for computational systems biology designed an object-oriented toolbox in matlab (partially in c using mex), for dynamical analysis\nof bio-molecular reaction networks implemented analysis and simulation algorithms for various deterministic and stochastic models of\nreaction networks, leading to important results in an award winning publication felicitated by lab for timely attainment of goals and pleasant and efficient conduct\ntcs innovation labs, mumbai\ndec 07 real-time speaker identification benchmarked various identification methods and suggested use of mfcc s for speech modeling and\n2nd order gaussian likelihood measures for identification developed an optimized c program to achieve at least 10-fold improvement in processing time carried out an exhaustive survey and presented a seminar on existing schemes based on arithmetic\ncoding and wavelet sub-band decomposition classified the various existing methods in an unified way based on standard parameters quantified the possibility of adding information to zero-tree based compression techniques currently working on quantifying additional choice presented by hybrid wavelet transforms\nimage super resolution, undergraduate research opportunity (urop), indian institute of technology bombay jan-may 07 explored the possibility of using papoulis-gerchberg method for image super resolution and method\nof total variations for de-noising implemented it on matlab and also did a comparative study of various existing techniques successfully completed the given problem of simulating a two player card game on bread boards, using\nsequential and combinational logic circuits over digital devices further improved the design to increase user-friendliness and reduce the circuit dimensions calculated dispersion for a general graded index fiber, which follows -law variation in refractive index\nalong the radial direction used matlab gui to demonstrate ray-movement and dispersion values dynamically\nmay-june 07 worked on implementation of a new routing protocol on ns-2 using c , after studying various existing",
+      "keywords": [
+        "analysis",
+        "model",
+        "system"
+      ]
+    },
+    "SKILLS": [
+      "8051 assembly language",
+      "8085",
+      "conceptualized",
+      "eagle layout editor",
+      "garnered media attention through 23 articles in national dailies and coverage from local channels",
+      "html",
+      "indian institute of technology bombay dec 07-apr 08",
+      "initiative",
+      "institute cultural web nominee",
+      "keil",
+      "languages: c",
+      "latex",
+      "link-state routing protocols such as ospf.",
+      "linux",
+      "ms office",
+      "network simulator-2",
+      "operating systems: windows",
+      "organized and systematically executed an inter school quiz competition (brain of patna)",
+      "packages: matlab",
+      "php",
+      "planned a shoe string budget of rs. 1.5 lacs with sponsorship from corporate houses & clubs of patna",
+      "positions of responsibility",
+      "successfully convinced 25 leading schools of the city attracting a participation of at least 10000 students",
+      "the event has grown into an annual state level affair and has bachelor of engineering appreciated by the governor",
+      "working with a team of seven iit students"
+    ],
+    "ACTIVITIES": "created and maintained the institute cultural website and initiated an open discussion forum introduced and implemented the idea of making separate websites for various cultural clubs promoted the website as a reliable and centralized information source of in-campus cultural events\nsenior student mentor, department of electrical engineering, iit bombay aug 07-present part of a 20 member team selected by faculty, on the basis of academic performance and sincerity assisted in identifying underperforming students and acting as a liaison between students and faculty responsible for guiding 25 students in managing their academic and extra-curricular workload\nteaching assistant, probability and random processes aug 09-present assisting the faculty in a course for 80 students by conducting tutorials and grading answer-scripts conducting sessions outside the classroom for students who are facing difficulties in the course\nweb worked with latest web related technologies viz. ajax, javascript, html, css and php and\ncontent management system such as joomla voluntarily developed websites for institute counseling services and the campus newsletter insight used web server package xampp which includes http server and mysql database\nmiscellaneous conducted state-level counseling and training workshop for engineering aspirants (2004, 2005) member of hostel hockey team: won bronze in general championship, iit bombay (2007) member of silver winning team in hostel football league.\n(2008) attended french classes at epfl and cleared the beginner level with highest marks (2008) won 1st prize in district inter-school science quiz\n(2002)"
+  }
+}

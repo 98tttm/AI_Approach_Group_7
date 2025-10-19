@@ -1,0 +1,33 @@
+{
+  "id": "cv (1537).pdf",
+  "normalized_sections": {
+    "ABOUT": "vijayalakshmi j\n8/6,2nd street\ne-mail: vijijayaraman96 gmail.com\nk.k nagar,\npazhavanthangal-600114,\nkancheepuram dist. chennai (t.n)\nmobile: 9444220753\nlooking forward to an opportunity for working in a dynamic, challenging environment, where\ni can utilize my for developing my career and for the growth of the organization.\nacademic qualification\nyear of\nboard/\nqualification\npercentage\ninstitution\npassing\nuniversity\nb.tech\nrmk engineering\nanna\ninformation\n6.49 (cgpa)\n2018\nin the play store. when the user enters the app name, information from the play store will be fetched to\nevaluate the score of each app based on the number of downloads, reviews, ratings. apis are used to\npersonal strength\noptimistic person. open to any challenging work reading books. date of birth : 09th sep 1996. father s name : n jayaraman sex\n: female marital status\n: single nationality\n: indian languages known : english, tamil\ndeclaration:\ni hereby declare that the information furnished above is true to the best of my\nknowledge.\nplace:chennai\ndate: 29.11.18 (vijayalakshmi j)\n8/6",
+    "EDUCATION": {
+      "raw": "college\nuniversity",
+      "degree": [],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "technology\nchennai\ndept. of govt.\nprince m hss\nhsc\n64%\n2014\nexamination\nchennai\ndept. of govt.\nprince m hss\nsslc\n83%\n2012\nexamination\nchennai\ndescription :\nthis application enables the user to identify the top 10 apps among the list of apps available\nunit testing, unit frame works\nandroid developer",
+      "keywords": [
+        "app"
+      ]
+    },
+    "SKILLS": [
+      "android",
+      "c",
+      "components",
+      "good learner by observation",
+      "java script frame work i angular",
+      "oops.",
+      "react",
+      "tools",
+      "workaholic in nature."
+    ],
+    "ACTIVITIES": "participated in shuttle competitions at high school level. interested in watching tennis and net surfing."
+  }
+}

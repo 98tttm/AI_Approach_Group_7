@@ -1,0 +1,113 @@
+{
+  "id": "cv (4366).pdf",
+  "normalized_sections": {
+    "ABOUT": "database programmer/analyst (.net developer)\nsoftware engineer with 2 years in web developer specializing in front end development. proficient in software development life cycle (sdlc)\nand scrum agile methodologies of development process to produce software solutions by team. involved in designing, planning, developing",
+    "WORK EXPERIENCE": {
+      "raw": "and implementing microsoft .net based solutions that meet quality and code standards. developed web based applications using c , asp.net,\nsql queries in database access layer to interface with sql database. worked extensively with .net server controls, web user controls, data\ngrid, web control, form validation controls and created custom controls. worked on creating and modifying table definitions, stored\ndatabase: sql, mysql\noperating system: windows\nversion controls : tortoise svn, github\nothers: microsoft word, excel, access, power point\ndatabase programmer/analyst (.net developer) jun 2014 to feb 2016\ncompany name city , state\nworked as graduate research assistant performing the duties of database programmer/analyst at application development network",
+      "companies": [
+        "company",
+        "solutions"
+      ],
+      "titles": [
+        "analyst",
+        "developer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "procedures in sql database. modified and written web services using c to interact with the other applications so data can be served. used red\ngate sql compare to deploy database from one server to another server (dev - test/qa).worked on .net security features such as form-\nbased authentication and role-based authorization. involved in bug fixes and production support. worked closely with scrum master for\nexpectations and deadlines interact with qa to ensure the defects are properly cleared to attain the quality standards providing demos to the qa\nhighlights\nasp.net, c , javascript, jquery, vb.net, c, c , java\nnet technologies: .net framework 4.0/4.5, asp.net, asp.net mvc, vb.net, ado.net, entity framework, ajax, web service,\nlinq, entity framework, linq queries. asp.net, html, css, javascript, jquery, bootstrap css.\nide: visual studio, eclipse, netbeans, dreamweaver\n(adn), doit which supports university of missouri system faculty and students through agile and rapid creation of new applications.\nthere are three roles tied to application they are tutee, tutor, and scheduler.\na tutee requests for tutoring for the classes that he/she enrolled and gives availability apart from the class timing through availability grid and\ntutor submits availability.\na scheduler will go through those availabilities and schedule time and location for tutoring.\nresponsibilities: created a availability calendar grid.\nin grid each cell represents time (1 hour span) and day of the week.\nclicking on the cell toggles the availability.\nautomatically populated the course schedule which comes from different database(worked with data warehouse team in order to get that\ndata) developed c console application for scheduled email task.\nand web application.\nintegrated open source html text editor ckeditor into the website.\nused jquery for filtering, sorting and search the listview, javascript for clientside validations.\nused role based authorization for various pages.\nadding functionalities to upload pdf files.\nresponsilities: created separate login page for administrator and students.\nused active directory (ad group) to restrict other department students.\ndeveloped a web interface for administrators to upload the pdf files into database which can be viewed by students.\nupdated the entire application by using new visual studio 2013 template which make use of bootstrap css by changing the master pages.\nmodified the structure of database to login.\nused redgate sql compare to copy the data from database from dev server to test sever.\nreplaced the old adn utilities assemblies with new doit utilities assemblies.\nfor every application there are application parameters which includes app structure, remedy group, user departments etc.\nand each application has different version.\nfor each version the parameters are prod, qa, test url, dcl, database, platforms, framework used to develop application, uat dates\netc.\nweeks of uat etc which they can share with clients.\nresponsibilities: entity framework was used using database first approach.\nlinq was used in the dal (data access layer) to interact with the database consumed ado.net entity frame work for entity data\nmodel, entities, relationship mapping, and querying data.\nconsole application to import the data from csv files to populate them into the system.\nautomatic logout when user is idle for a specified time by using session parameters and javascript.\nused client side validations, onbeforeunload and onunload events in javascript.\nworked on agile environment.\nparticipated in daily scrum meetings to discuss the status of development, planning and estimating the points and uat.\ngoadmin: description: gomizzou is the university of missouri flagship mobile application, designed to provide services to all possible users\nof the university.\nthese master tables are the starting point for all window services (which feed the web services).\nproduction url: https://appsprod.missouri.edu/goadmin responsibilities: developed application using ajax controls like modal popup,\nasp.net server controls like listview, formview, worked on clientside and server side validations and created master pages.\nfiltering of the data of listview based on the role.\nused n-tier architecture, created the business logic layer by using class libraries to interact with database.\nmodified the existing webservices like socialspirit, news webservices, events web and windows services.\ncreated asp.net user controls to reduce the complexity of user interface design created dynamic queries, stored procedures, views and\ntriggers in sql server for the database manipulation.\ndepartments who met the certain rules.\nresponsibilities: used smpt server to send emails developed c class library to import the data from the csv file to system lim service\nfor late fee assessment access to page based on the role (role based authentication) personalized email for outlook: the goal of the",
+      "keywords": [
+        "app",
+        "model",
+        "system",
+        "web"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "master of science , computer engineering present university of missouri state gpa: gpa: 3.7 computer engineering gpa: 3.7\nbachelor of technology , electrical and electronics engineering may 2013 jawaharlal nehru technological university india gpa: gpa: 3.65\nelectrical and electronics engineering gpa: 3.65",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "access",
+      "active directory",
+      "ado.net",
+      "agile",
+      "ajax",
+      "analyst",
+      "application development",
+      "approach",
+      "asp.net",
+      "budget",
+      "c",
+      "catalogs",
+      "charts",
+      "checkout process",
+      "client",
+      "clients",
+      "css",
+      "data warehouse",
+      "database",
+      "dcl",
+      "dreamweaver",
+      "eclipse",
+      "edit",
+      "editor",
+      "email",
+      "estimating",
+      "excel",
+      "features",
+      "frame",
+      "functional",
+      "html",
+      "ide",
+      "java",
+      "javascript",
+      "jquery",
+      "logic",
+      "meetings",
+      "microsoft word",
+      "network",
+      "operating system",
+      "outlook",
+      "page",
+      "pdf",
+      "power point",
+      "programmer",
+      "programming",
+      "progress",
+      "qa",
+      "quality",
+      "research",
+      "scheduling",
+      "scrum",
+      "sdlc",
+      "software development",
+      "sorting",
+      "sql",
+      "sql server",
+      "studio",
+      "tables",
+      "tutoring",
+      "user interface design",
+      "utilities",
+      "validation",
+      "vb.net",
+      "visual",
+      "web development",
+      "website",
+      "window",
+      "windows"
+    ]
+  }
+}

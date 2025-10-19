@@ -1,0 +1,50 @@
+{
+  "id": "cv (4832).pdf",
+  "normalized_sections": {
+    "ABOUT": "ginanna gomez\nfresher",
+    "SKILLS": [
+      "artificial intelligence",
+      "bootstrap",
+      "c .",
+      "css",
+      "data analysis",
+      "data science",
+      "deep learning",
+      "fresher starting out and wanting to join a role of machine learning engineer or data science engineer.",
+      "html",
+      "jdbc",
+      "linear regression",
+      "machine learning",
+      "modeling",
+      "mysql",
+      "php",
+      "predictive modeling",
+      "statistical"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "portal building for store front.\nhib pvt ltd\nintern, may 2019 - dec 2019\nactivites",
+      "companies": [
+        "ltd",
+        "pvt"
+      ],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "building a portfolio store front based on\nrecommender system.\npython statistics with pandas and matplotlib\nbachelor of computer applications bgbs college, mohantpur 2018\nmca bgbs college, mohantpur 2020",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

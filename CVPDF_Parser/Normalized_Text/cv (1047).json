@@ -1,0 +1,37 @@
+{
+  "id": "cv (1047).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "xiuping li\n4 arlington street, 12a\ncambridge, ma 02140\n617-876-6860\ne-mail: xiuping mit.edu\n1999-2001\nmit sloan school of management\ncambridge, ma\ncandidate for master of business administration, financial management track\nco-president of finance club, member of mediatech club 1997 - 1999\nuniversity of california, santa cruz\nsanta cruz, ca\nmaster of science in applied economics and finance",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school",
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "awarded merit-based uc regents fellowship 1990 - 1994\nnankai university\ntianjin, china\nbachelor of science in finance\ngraduated in the top 2% of 150 students summer 2000\ngoldman, sachs & co.\nnew york, ny\nsummer associate, investment banking division, financial institution and telecom groups\nanalyzed financial institution merger market, performed comparable analyses, and drafted strategic rationale and negotiation techniques to advise client on 1 billion potential acquisition\nparticipated in aig s 1.2 billion acquisition of hsb group. interacted with client to organize data room and oversee due diligence process. prepared presentation materials and evaluation\nanalyses for client s executive committee\nhelped insurance company draft ipo prospectus and road-show presentation and provided",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "advisory services on demutualization process\nassisted in identifying and evaluating potential strategic partners for emerging telecom company 1999\ninfinity financial technology, inc.\nmountain view, ca\nconsultant, opus product group\nprovided financial knowledge and technology consulting for product enhancement\ncoordinated with the financial engineering group and the software development group to integrate financial analytics into derivative trading and risk management software to address\nmarket needs authored a working paper titled empirical comparison between partial derivative hedging and\nvar hedging . organized the demo of var application for potential clients\nsummer 1998\nwells fargo bank\nsan francisco, ca\nbusiness consultant intern, business banking division\ndeveloped small business lending strategies based on market research and credit analysis results\nconducted y2k risk analysis based on survey of 5,300 existing customers researched new methodology to identify risky accounts in the initial underwriting process 1994 - 1997\nbank of china, headquarters\nbeijing, china\nsenior financial analyst, business development department\nprovided business development strategic consulting for business units, specializing in credit lending\nbusiness development, risk management and capital management\ndesigned and implemented strategies to expand the corporate lending business into high-profit market sectors including the high-tech, automobile and real estate industries\nrecommended and implemented capital management strategies in response to financial regulation changes, including using alternative fund-raising sources to reduce costs and\nstrengthening risk control of inter-bank borrowing and lending\npersonal\nenjoy swimming, tennis and latin dance. won first-prize in mit 1999 table tennis competition. native mandarin speaker.",
+      "keywords": [
+        "analysis",
+        "app"
+      ]
+    }
+  }
+}

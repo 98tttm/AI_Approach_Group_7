@@ -1,0 +1,42 @@
+{
+  "id": "cv (4575).pdf",
+  "normalized_sections": {
+    "ABOUT": "network administrator\nanalytical network administrator adept at resolving complex network issues. critical thinker who addresses customer support issues quickly and\nwho consistently exceeds performance standards.\nhighlights\nexceptional",
+    "PROJECTS": {
+      "raw": "telephone\netiquette\nserver administration, technical documentation, network security, network management, data backups, disaster\npatient and\ndiligent\nimplementation, network troubleshooting, network hardware configuration, network performance tuning microsoft\ntroubleshooting\noffice expert\nproficiency\nmicrosoft certified solutions associate (mcsa) certificate\nwindows\ndhcp/dns ethernet and firewall proficient\nxp/vista\nmaximizes network performance by monitoring performance troubleshooting network problems and outages scheduling upgrades collaborating\nwith network architects on network optimization.\nsecures network system by establishing and enforcing policies defining and monitoring access.\nmaximizing corporate network services uptime.\ngiving over the phone, email and remote support to customers.\nimplementing network security measures to protect data, software, and hardware.\nutilizes active directory to manage user accounts, create groups, and computer accounts administering a microsoft windows server network of\nservers.\ninvestigating problems and then making technical recommendations.\nsix sigma greenbelt florida atlantic university\nnetwork hardware, network design and implementation, network security, network troubleshooting, network, networking, novell\ntechnical documentation, phone, troubleshooting, upgrades, windows server",
+      "keywords": [
+        "system"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "ms office proficiency\nproficient in\nmicrosoft certified solutions associate (mcsa): name of microsoft technology avg, printers,\nmicrosoft certified technology specialist (mcts): name of microsoft technology pc security\nsystems\naccomplishments\nexceeded monthly goals by successfully handling more than 80 trouble tickets per week.\nnetwork administrator feb 2006 to mar 2016\ncompany name\nestablishes networking environment by designing system configuration directing system installation defining, documenting, and enforcing system\nstandards.",
+      "companies": [
+        "company",
+        "solutions"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "efficiently. .",
+      "installing and testing server software on a variety of platforms.",
+      "migrated computers and users from windows xp to windows 7.",
+      "professional accomplishment: successfully migrated users and computers from novell netware to microsoft active directory successfully",
+      "resolving network operational issues.",
+      "troubleshot hardware issues and worked with service providers to facilitate repairs.",
+      "upgraded network infrastructure and configured cisco 2950 switches for 66 federal contract towers in the state of florida successfully",
+      "upgraded windows server 2003 server to server 2008 successfully upgraded windows server 2008 server to server 2012 successfully"
+    ],
+    "EDUCATION": {
+      "raw": "created new account, reset passwords and configured access for users. troubleshot hardware issues and worked with service providers to\nfacilitate repairs. developed documentation for common processes for both support staff and end-users.\ncomputer information system /network engineering barry university",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": []
+    },
+    "CERTIFICATIONS": "microsoft certified systems administrator microsoft certified systems engineer microsoft certified technology specialist itil foundation v3\ncertified, microsoft certified systems engineer, windows 7, microsoft windows, windows xp, network administrator, network management,"
+  }
+}

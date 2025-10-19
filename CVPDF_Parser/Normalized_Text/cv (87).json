@@ -1,0 +1,55 @@
+{
+  "id": "cv (87).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "johns k abraham\ncontact no: 91-9946719616\nemail id:johnskabraham1995 gmail.com\neducational qualifications\ndegree: bachelor of engineeringmechanical engineering\ncollege: roever engineering college, peramballur, tamil nadu\nuniversity: anna university, chennai cgpa: 7.10 (graduated in 2017)\nhigher secondary : computer science\nschool: vimalambika public school, pampady, kerala\nboard: central board of secondary cgpa: 5.60 (graduated in 2013)\nschool: vimalambika public school, pampady, kerala\nboard: central board of secondary cgpa: 9.20 (graduated in 2011) excellent communication , can translate complex technical lingo into plain english and also\ncommunicate verbally with clients and other engineers working together on a highly motivated and eager to learn new things creative and can think of new and innovative ways to develop new systems and make existing things\nwork more efficiently shows an ability to think logically, able to make sense of complex systems and understand how things\nwork and how problems arise\nachievements and extra curricular completed certificate course in computer operation",
+      "degree": [
+        "bachelor",
+        "mba"
+      ],
+      "institution": [
+        "college",
+        "school",
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "ABOUT": "to work for an organization which provides me the opportunity to improve my and knowledge to grow\norganization: creative designing and drafting\njuly 2017 april 2018\ndesignation: design engineer\njob functions and responsibilities communicate with the engineering and research team to understand technical specifications of\nthe product design 2d and 3d illustrations and ensure that they are identical to sketches provided by the\nengineering team develop and implement design strategies review and oversee manufacturing of designs ensure that final designs are in compliance with design standards presented a paper on analysis of piston using composite materials participated in student motivation programme participated in road safety programmes participated in sahodaya youth competition in 2008 won prizes in shot-put and discuss throw competitions at annual sports meet\nan enthusiastic person with highly motivated and leadership having bachelor of engineering degree in\nmechanical engineering, expert in implementation of each step of , eager to learn new technologies\nand methodologies, always willing to innovate the new things which can improve the existing technology.\npersonal information\nfather s name: k j abraham\ndate of birth: 03-08-1995\nsex: male\nmarital status: single\nnationality: indian\naddress: kollamparambil(h.o), meenadom(p.o), kottayam, kerala,\npin: 686516",
+    "SKILLS": [
+      "autocad",
+      "automobile study",
+      "better",
+      "collecting technological data s.",
+      "create detailed design documentation",
+      "designing",
+      "excellent analytical and continually examine things and thinking of ways to help things work",
+      "explaining scientific and engineering principles to the clients",
+      "hindi",
+      "hobbies and interests",
+      "hobbies: net surfing",
+      "hvac engineering",
+      "institution: cad centre",
+      "institution: nexora academy",
+      "interests: travelling",
+      "malayalam",
+      "pays meticulous attention to detail",
+      "playing football",
+      "professional courses",
+      "qa",
+      "qc in mechanical engineering",
+      "robotics.",
+      "studying more languages",
+      "tamil",
+      "test sample products to ensure that designs are convenient and easy to use by the end user"
+    ],
+    "PROJECTS": {
+      "raw": "design and fabrication of automatic smoke analyzer\nduration: 3 months, year: 2016 design and analysis of piston using composite materials\nduration: 3 months, year: 2017\nlanguages english",
+      "keywords": [
+        "analysis"
+      ]
+    }
+  }
+}

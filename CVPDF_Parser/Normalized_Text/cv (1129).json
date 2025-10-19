@@ -1,0 +1,72 @@
+{
+  "id": "cv (1129).pdf",
+  "normalized_sections": {
+    "ABOUT": "mohanraj thangaraj\nd-wing/301, green gagan building, mhada rd. 2lokhandwala towship kandivali - e, mumbai 400101 mobile no: 9819535239 e-mail:raj.decode gmail.com\nsymbiotically grow with an organization & contribute to the growth of the company with positive attitude,\nhardworking, learning new technologies and providing outstanding results.\nstrengths:",
+    "SKILLS": [
+      ": ibm blade center hs22 (7870) and intel modular server mfsys25.",
+      "ability to work in team.",
+      "accepting challenges to achieve new assignments.",
+      "b.sc. in computer science",
+      "backups:",
+      "cent os and ubuntu.",
+      "chassis server",
+      "cisco pix 301",
+      "client: windows 7",
+      "course",
+      "degree",
+      "dell powervault md3400",
+      "eager to learn many new things.",
+      "educational qualification:",
+      "grade",
+      "hyper-v",
+      "hyper-v manager and citrix xencenter.",
+      "ibm ds3512",
+      "ibm system storage expansion exp3512 and thecus",
+      "intel s5000vsa and intel s5500bc.",
+      "linux:",
+      "mcafee epo",
+      "ms exchange 2010 and sharepoint foundation 2013.",
+      "ms-office 2007",
+      "nas n4100pro.",
+      "network and video processor devices: smc 6152l2 and f5 big ip load balancer.",
+      "networking and securities:",
+      "operating systems and applications",
+      "oracle vm virtualbox",
+      "school",
+      "security: cyberoam",
+      "server: windows 2008",
+      "servers & hardwares",
+      "servers:",
+      "sqlbackupandftp and windows server backup.",
+      "standalone server: dell 730 servers",
+      "storage devices:",
+      "symantec backup exec 2012",
+      "university",
+      "virtualization:",
+      "vmware and citrix xenserver.",
+      "windows:",
+      "year of passing",
+      "zeroshell & diladele web safety on vms."
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "mumbai university\nsecond class\n2013\nh.s.c in science\nmumbai board\nsecond class\n2006\ns.s.c\nmumbai board\nsecond class\n2003\ntechinical qualification:\ncourse\ninstitute\nyear\ndns and dnssec management and monitoring\nsouth asian network operators group\n2013\ncisco certified network (ccna)\nrst forum\n2011\ncomputer hardware maintenance and assembling\nbharatiya vidya bhavan\n2008\nweb page designing and editing\nbharatiya vidya bhavan\n2008\nmicroscan computers pvt. ltd. (from june 2010 to april 2014)\ndesignation: desktop support engineer l1, l2 & l3 support rolls & responsibilities:\nserver management\nwindows server: installation and maintenance of windows server 2008 and 2012.\ntroubleshooting and maintaining exchange server 2010. configuring and maintaining active directory, dhcp & dns. server backups and restoration. updating security patches. linux:\ndeploying and managing linux servers and applications. plan and deploy application patches and upgrades on regular basis as per client request in linux/unix. managing firewall using iptables. daily monitoring and backup & restore of linux servers. trouble shooting appliansys, dns-box for dhcp and dns service related issues. virtualization\ncreating, managing and configuring virtual machines in citrix xen server. creating, managing and configuring virtual machines in hyper-v. creating, managing and configuring virtual machines in vmware. storage management\ncreating arrays and logical drives in ibm storage ds315. configuring lun and mapping logical drives with respect to sas host-port identifiers. configuring and raid partitioning in thecus nas n4100pro. configuring iscsi for remote data recovery site. antivirus & securities\nupdating user and server with latest definition database from mcafee epo. creating policies and managing content & url filtering from diladele web safety. network management:\nconfiguring switches, routers and wireless devices for local office environment. structured cabling design and installation. configuring switches, routers and other devices for syslog server. maintaining local networks & firewalls (zeroshell). workstation management:\ntroubleshooting user level hardware and software issues.",
+      "companies": [
+        "ltd",
+        "pvt"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "configuring outlook and assisting user for ms word and excel. providing training to users about various applications and related technologies. os hardening. windows updating and applying security patches. team management:\nability to motivate and lead others in a team environment. strong decision making and problem solving . mentoring and training up junior and new staff. ability to prioritize tasks and workloads in order of importance. ability to build rapport and trust quickly with work colleagues. maintain current and accurate inventory of technology hardware, software and other assets. make recommendations about purchase of technology resources. offered best solutions to the top management regarding -related queries. orient technologies pvt. ltd. (from april 2014 to october 2014)\ndesignation: system administrator (rim) l2 & l3 support rolls & responsibilities:\ntroubleshooting and maintaining exchange server 2010. creating, managing and configuring virtual machines in hyper-v. creating, managing and configuring virtual machines in vmware. updating servers with latest antivirus definition and reporting same to the clients. scheduling and maintaining users, servers and sql backups from symantec backup exec 2012, sqlbackupandftp and windows server backup.\nvelocis system pvt. ltd. (from february 2015 to till date)\ndesignation: engineer network services\nrolls & responsibilities:\ncreating, managing and configuring virtual machines in vmware. configuring firewall for smb configuring load balancer for network load balancer for servers. creating irule codes for nlb. software/firmware up gradation of f5 big ip load balancer. creating and configuring users in big ip access policy manager for vpn access. keeping track of and documentations. poc and implementation of cyberoam in star cj. implementation of f5 big ip load balancer apm in aditya birla financial group establishment of it infrastructure, comprises of dell 730 servers, dell powervault md3400 storage, hyper-v & vms, and symantec backup exec 2012 in superior energy.\npersonal details:\n: - 11th march, 1985.\ndate of birth\ngender\n: - male.\nmarital status\n: - single.\nnationality\n: - indian.\npassport number : - m2443062\nlanguages known : - english, hindi, marathi & tamil.\nhobbies\n: - computer games, swimming, movies & listening music.\nthe above mentioned facts are true to the best of my knowledge. if given an opportunity, surely, i will\nwork with the best of my abilities & talent.\ndate\n:-\nplace\n: - mumbai.\nmohanraj thangaraj",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    }
+  }
+}

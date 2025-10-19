@@ -1,0 +1,37 @@
+{
+  "id": "cv (4997).pdf",
+  "normalized_sections": {
+    "ABOUT": "edison anys\nm a c h i n e l e a r n i n g e n g i n e e r\nmachine learning engineer seeking roles\nkruzr",
+    "SKILLS": [
+      "artificial intelligence",
+      "data",
+      "dec 2019 - august 2020",
+      "experience in working with iot data from smartphone sensors and",
+      "in machine learning",
+      "machine learning",
+      "machine learning engineer intern",
+      "natural language",
+      "processing",
+      "productionizing machine learning models at scale.",
+      "science.",
+      "working for machine learning team at kruzr on building driver safety platform."
+    ],
+    "EDUCATION": {
+      "raw": "processing, artificial intelligence, python,\nintegrated b.e. and m.sc hons. (hons. mechanical engineering) from\nsql, docker, spacy, numpy, pandas,\nbirla institute of technology and science (bits), pilani in 2020",
+      "degree": [],
+      "institution": [
+        "institute"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "tensorflow.\ngold medalist in bachelors.",
+    "PROJECTS": {
+      "raw": "cloud based distributer management\nsystem(dms).",
+      "keywords": [
+        "system"
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cv (4872).pdf",
+  "normalized_sections": {
+    "ABOUT": "avery jacobs\nfresher system developer\nfresher with excellent communication, good analyzing, and problem-solving . proficient and well-armed at",
+    "SKILLS": [
+      "c coding background and well informed in oops concepts.",
+      "chain management",
+      "debugging and bug fixing. strong c",
+      "defect detection",
+      "embedded software development",
+      "embedded systems",
+      "machine learning",
+      "management",
+      "unit testing"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "analysis of images of animals.\ntitli foundation\nface detection.\nsystem developer, jun 2020- dec 2020\nother qualification",
+      "companies": [],
+      "titles": [
+        "developer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "part of a team that developed an identification system\nfor specially-abled children to understand their needs\nicpc reward for best college elocutioner.\nand provide better housing environment.\nbachelor of technology (electronics) from manipal university in 2021.",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

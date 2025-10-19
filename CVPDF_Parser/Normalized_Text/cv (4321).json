@@ -1,0 +1,85 @@
+{
+  "id": "cv (4321).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "consultant\ncareer overview\napplications.\ntools to communicate with oracle item master.\nquality(qa), approval management (ame), oracle endeca.\ntools/language : toad, data load, visio, sql, sql developer, ms office suite.\nconsultant , 02/2016 current company name city , state\nworked on solution design and setup of inventory, work in process, qa, purchasing & order management as per the client requirements\nand suggested business process changes.\nimplemented oracle edi for sales order entry, booking and acknowledgment for customer orders received through third party\nsystems. implemented oracle e-signatures and e-records to maintain quality data books of every manufactured assembly, reducing gaps and saving\ncosts.\ndesigned, documented and executed all scm modules for 3 implementations in north american region.\nresolved functional issues related to oracle manufacturing and distribution during implementation.\nprepared training documents and assisted in user training in wip, om & po modules.\nworked on data conversion strategy from legacy systems to oracle e-business suite r12.\nconsultant , 08/2013 01/2016 company name city , state\nimplemented oracle supply chain modules for a major oil & gas manufacturing company in australia, canada, china, romania and uk\nas part of their global roll out to oracle.\nsimplified their overhaul and repair process by implementing a custom solution that reduces user s time on the system as well as resulting a\nmore organized shop floor.\nimplemented oracle edi for sales order pick release and shipping transactions based on information received from third party systems in",
+      "companies": [
+        "company"
+      ],
+      "titles": [
+        "developer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "modules of supply chain and manufacturing.\nimplemented oracle edi for the sales order entry and warehouse operations for the customer and designed custom interfaces for plm",
+      "keywords": []
+    },
+    "SKILLS": [
+      "(po)",
+      "03",
+      "08",
+      "2010 07",
+      "2011 08",
+      "2013 company name city",
+      "accomplishments",
+      "applications : r12 and 11i",
+      "bill of materials (bom)",
+      "brought awareness on latest microsoft s technologies to more than 5000 students and faculty.",
+      "built the startup from the scratch to making a revenue of 2 million rupees an year.",
+      "ceo of microsoft then.",
+      "culture and decorum so as to maintain a",
+      "customizations and training manuals.",
+      "designed lazy chef- a windows store app during the launch of windows 8.",
+      "developed best business process blueprint that suits the client s multi industry business by studying their business process in each vertical.",
+      "developed custom reports for customer facing documents as well as internal documentation.",
+      "documented setups",
+      "embedded systems and application development.",
+      "engineering (eng)",
+      "enhanced a custom interface between a plm tool(epims) and oracle.",
+      "harmonious balance.",
+      "implemented oracle endeca and worked on client demos for various customers.",
+      "increased the number of developers on microsoft store by collaborating with various universities and developer groups.",
+      "iprocurement",
+      "leadership",
+      "manager",
+      "material requirement planning (mrp)",
+      "modules : inventory (inv)",
+      "oracle edi gateway",
+      "order management (om)",
+      "pitched a windows app idea that got me to meet and present it to steve balmer",
+      "purchasing",
+      "represented india as a youth ambassador at seoul",
+      "served as manager for a robotics startup",
+      "shipping execution",
+      "south korea.",
+      "state",
+      "student partner",
+      "system administration",
+      "team leader and as a team player.",
+      "trained more than 10000 participants in the streams of robotics",
+      "trained users in different regions of the world on all supply chain modules and cmro.",
+      "training more than 10000 participants.",
+      "warehouse.",
+      "well - traveled and posses a clear and definitive understanding of the regional business ethics",
+      "work in process (wip)",
+      "worked on data conversion issues from legacy systems to oracle."
+    ],
+    "EDUCATION": {
+      "raw": "operational management\nimplemented one of a kind e-signature process for quality documentation in large scale manufacturing, reducing costs and gaps in process.\ngenerating mm business impact.\ntransitioned a large group of developers and consumers to microsoft s products and platform as a microsoft student partner for 3 years.\n2013 andhra university college of engineering city , state , india bachelor of technology instrumentation engineering\n3.4 gpa\nstarted national service scheme and was an active member.\npersonal information\nplace of birth: vijayanagaram, india\ndate of birth: 14th of may, 1992\npresent residence: houston, texas\nsex: male\nstatus: single\nhobbies: international travel, hiking, mountaineering.\nlanguages: english, telugu and hindi",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

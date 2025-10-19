@@ -1,0 +1,42 @@
+{
+  "id": "cv (924).pdf",
+  "normalized_sections": {
+    "ABOUT": "lekshmi .p\nsreelekshmi\nkunnamthanam p.o.,\nthiruvalla\npin: 689581\nmob: 9645884409\ne-mail:lekshmisree777 gmail.com\nto be a part of dynamic, growth oriented organization where performance is rewarded and\nhave exposure for the development of the organization and myself.\nsynopsis\ncompleted a certificate course in professional software testing (manual & automation) from spyro sys software testing solutions, kaloor, cochin\ncompleted mca from mg university, kottayam. analytical, good at problem solving and excellent in maintaining interpersonal relationship.\nfast learner and adaptive nature. positive thinker educational details\ncourse\ninstitution\nboard/\nyear of\npercentage",
+    "EDUCATION": {
+      "raw": "university\nparticipated in carrom competition at college level.\ni hereby declare that all the details furnished by me are true to the best of my knowledge.",
+      "degree": [],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "passing\nawarded\nmca\nschool of technology and\nm g\napplied sciences, kottayam\nuniversity\n2015\n75%\nkottayam\nbachelor of science.computer\nb c m college,\nm g\nscience\nkottayam\nuniversity\n2012\n75%\nkottayam\n1. defence securware ( front end:asp.net, back end: sql server\n2008 )\ndescription: it is an online system which users can exchange the important files\nin secured way. this application is only for army personnel\n2. placement automation (front end:php, back end: mysql)\ndescription: this is an application that provides functions for both job seekers\nand employees. it can provide an electronic version of the traditional job searching,",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    },
+    "SKILLS": [
+      "3. online college management system (front end:php",
+      "asp.net mvc",
+      "back",
+      "c",
+      "description: this system is useful for the students",
+      "display result as well as attendance and all the task like event",
+      "end: mysql)",
+      "fresh assignment",
+      "java",
+      "manual testing",
+      "news",
+      "parents who like to",
+      "persons looking for a better job",
+      "php",
+      "programming language: c",
+      "staff",
+      "which can used by both non employers looking for an entry level job and employed",
+      "without going to college."
+    ]
+  }
+}

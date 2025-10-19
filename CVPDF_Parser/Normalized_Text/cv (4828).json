@@ -1,0 +1,42 @@
+{
+  "id": "cv (4828).pdf",
+  "normalized_sections": {
+    "ABOUT": "felix winston\nfresher",
+    "SKILLS": [
+      "analysis.",
+      "data",
+      "data analyst",
+      "data mining",
+      "data science",
+      "data visualization",
+      "experiment and produce promising results and work with different kinds of data.",
+      "fresher having knowledge in machine learning and natural language processing. looking to join a role where i can learn",
+      "from an well informed environment",
+      "machine learning",
+      "natural language processing"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "data management using automated ml scripts.\ntelco\ntrainee intern, may 2018 - dec 2018\nactivites",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "data handling for clients and giving them insights\nand reports based on that.\nunderstanding neural networks nanyang university.\nbachelor of technology(bio-tech) sai charan singh university,\nludhiana, 2017\nmaster of technology(data science) sai charan singh university,\nludhiana, 2019",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

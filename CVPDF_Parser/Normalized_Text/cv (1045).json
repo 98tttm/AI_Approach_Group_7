@@ -1,0 +1,36 @@
+{
+  "id": "cv (1045).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "william chu\n295 harvard street 601\ncambridge, ma 02139\n617-497-8243\nwchu mit.edu\nmit sloan school of management\ncambridge, ma\n1999 -\nmaster of business administration candidate 2001, emphasis in new product and venture development and finance\n: venture capital club, media tech club, 50k competitor, sloan basketball team tufts university\nmedford, ma",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school",
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "1995 - 1997\nms electrical engineering\n1990 - 1994\nbs electrical engineering\nhonors: magna cum laude, dean s list, eta kappa nu and tau beta pi honor societies : intramural basketball league team captain, asian house manager, part-time jobs information technology university (itu) ventures\nlos angeles, ca\n2000 -\nmit campus partner, itu venture capitalist\nfounding mit campus partner. led each stage of the venture finance process (deal origination, due\ndiligence, term sheet negotiation) and subsequent value creation (board of directors duties,\nrecruiting, preparation for additional financing, business strategy/technology oversight & guidance).\nelected to the board of directors of a portfolio company creating wireless infrastructure software increased the valuation of the wireless portfolio company (isovia) by over 100% in three months established presence in the crowded mit/boston entrepreneurial & venture capital communities adero\nboston, ma\nsummer 2000\nsenior technical research consultant, office of the cto\ndeveloped and reviewed network architectures and technical documentation consulting for the cto.\ncreated network architecture and usage specifications for adero s edgefusion & content bridge services, an internet-wide content distribution network (cdn) leveraging caching technology\nanalyzed technology and network architectures of rival cdn s such as akamai and digital island fidelity investments\nboston, ma\n1996 - 2000\nsenior manager, internet business development and product management\nfounding member of fidelity s web partnership team and product development team. delivered web-\nbased financial services by managing all phases of the software and product development cycles.\nhelped increase fidelity s online customer base and online assets by over 1000% assisted in negotiating the terms and conditions of 10 partnerships worth over 3 million developed business relationships with firms such as microsoft, lycos, bigcharts and quote.com led numerous cross-functional teams that developed a high capacity, high availability, multi-platform internet site integrating personal market data (news, quotes, charts, portfolios and\nresearch), servicing over 2 million online clients, and handling over 40% of fidelity s web traffic\nanalyzed competitive landscape to recommend tactics and strategies to senior management managed vendors that improved fidelity s products, competitive position and time to market web securities, llc\nphiladelphia, pa\n1996\nco-founder and president\nco-founded an internet company to build an advertiser supported finance portal, the web financial\nnetwork (c) (www.webfn.com), and a virtual stock exchange, www.websecurities.com.\ndeveloped the business plan, sold plan to investors and capitalized company with 150,000 managed business partnerships and negotiated content redistribution agreements with premier information providers such as reuters, pr newswire, business wire and pc quote\nformed and managed a software development team and hired 5 employees and/or contractors defined the product and business requirements and led the development of a working prototype built internal financial models to determine a pricing strategy and to market the company s value proposition to potential sponsors and advertisers\ntexas instruments\nattleboro, ma\n1994 - 1996\ndesign/marketing engineer, telecommunications business unit\nlead member of a product engineering team that developed a diagnostic system for the public\ntelecommunications network. promoted to marketing engineer after nine months to identify new\nmarkets for existing products, forecast new business opportunities and guide technology investment.\ninterests\nbasketball, mountain biking, tennis, movies, traveling and family real estate business",
+      "companies": [
+        "company",
+        "inc",
+        "lab"
+      ],
+      "titles": [
+        "engineer",
+        "intern",
+        "manager"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "cv (4327).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "information technology manager\ninformation technology manager\napril 2007 to current company name city , state\nannual budget planning for department, network administration, implementation of new technology, developed company applications, daily\nbackups and technical support for 80 users.\nadministration of security firewall, spam firewall and web filter.\nvlan s and vpn setup and administration.\nwindows server 2008 r2 administration, microsoft active directory administration with 100 pcs on windows 7 and windows xp.\nmicrosoft dfs, dhcp, dns and wsus services administration.\nftp server implementation and administration.\nmicrosoft exchange server 2010 administration, creation of new users, distribution groups and daily backup.\nservers and desktop backup with symantec backupexec 2012.\nadministration, maintenance and daily backup for sybase sql anywhere 11.0 databases.\nadministration of mac editing rooms on os x 10.8 - 10.9 with san storage (apple xsan 30 tb array administration on promise\nvtrak ex10 series).\nsoftware installation and setup for editing rooms with final cut, adobe products, cinema 4d etc hardware installation and configuration\nfor video capture with aja, kona and black magic video capture devices.\ninews (news room management system), wide orbit (traffic, sales and revenue software).",
+      "companies": [
+        "company"
+      ],
+      "titles": [
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "CERTIFICATIONS": "knowledge of florical systems (software for television automation), omneon video server, streambox (mobile broadcast streaming\nvideo) and some miranda products.\nresponsible for research, quote, acquisition and configuration of all new network technology in the company.\nrepair, installation and updates of software and hardware for pcs and mac computers.\ninformation technology manager\njuly 2001 to march 2007 company name city , state\ndevelop, maintain and support in-house applications.\nresponsibilities include software licensing, updating operating system for desktop computers and servers and technical support for 25 users.\nsupervised two employees for the department.\nin 2004 developed a program to track inventory of all hardware being distributed to 300 branch offices as well as a user manual for the in\nhouse application detailing procedures and processes.\nnetwork administration for a lan with 30 desktop pcs and 5 windows 2003 standard edition, active directory service, dhcp and\ndns server administration.\nimplementation of ftp server for large file transfer.\nimplementation of distributed file system (dfs) to share files in each department.\nmicrosoft exchange server 2003 administration, creation of new users, groups and policy groups, daily backup.\nadministration, maintenance and daily backup for a database sybase sql anywhere 9.0.\nmaintenance and creation of desktop applications (power builder 6.5, power builder 9.0).\ntechnical support for 300 branch offices.\nnew installation and updates of software and hardware.\ninformation systems administrator\njanuary 2001 to july 2001 company name city , state\ntechnical support for 10 network users and 100 branch offices.\ncomputer technician : april 26 1997\ncity , colombia",
+    "EDUCATION": {
+      "raw": "implemented terminal service to be able to connect to five new branches in colombia.\ndaily backup for sybase sql anywhere 7.0 database, microsoft sql server 2000 database, quickbooks pro database and in house\nprogram.\nnetwork administration, implementation of ftp service for 100 branches connections, creation of uses and security access.\nwindows 2000 server administration, active directory service administration and maintenance.\nmicrosoft sql server 2000 administration.\ntechnical support for branch offices.\ninstallation and updates of software and hardware.\nbs : computer system engineer , january 29 2000 fundacion universidad autonoma de colombia city , colombia computer system\nengineer",
+      "degree": [],
+      "institution": [],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "2000",
+      "4d",
+      "access",
+      "active directory",
+      "adobe products",
+      "and configuration",
+      "apple",
+      "automation",
+      "backup",
+      "broadcast",
+      "budget planning",
+      "builder 6.5",
+      "computer technician",
+      "database",
+      "databases",
+      "dhcp",
+      "dns",
+      "editing",
+      "final cut",
+      "firewall",
+      "ftp",
+      "hardware",
+      "hardware installation",
+      "inventory",
+      "lan",
+      "mac",
+      "magic",
+      "microsoft exchange server",
+      "microsoft sql server",
+      "network",
+      "network administration",
+      "operating system",
+      "os",
+      "power",
+      "power builder 9.0",
+      "processes",
+      "quickbooks pro",
+      "research",
+      "sales",
+      "san",
+      "servers",
+      "software installation",
+      "streaming video",
+      "sybase sql anywhere",
+      "sybase sql anywhere 7.0",
+      "sybase sql anywhere 9.0",
+      "symantec",
+      "technical support",
+      "television",
+      "video",
+      "vpn",
+      "windows",
+      "windows 2000 server",
+      "windows 7",
+      "windows server",
+      "windows xp"
+    ]
+  }
+}

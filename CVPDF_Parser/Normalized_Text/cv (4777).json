@@ -1,0 +1,69 @@
+{
+  "id": "cv (4777).pdf",
+  "normalized_sections": {
+    "ABOUT": "aviation camp assistant\nworked directly with the uavs to take accurate measurements in order to model it.\ndesigned accurate aerodynamic models of the uavs using the program avl, a program for the aerodynamic and flight-dynamic analysis of\nrigid aircraft of arbitrary configuration.\nmodeled all lifting surfaces, control surfaces, and fuselage.\ncreated data and run files of mass properties corresponding with each uav.\nproperties.\nextracted stability-axis derivatives that will be imported into the flight simulation program, flightgear, to model the simulated plane to have\nthe same flight characteristics and behaviors as the uavs.\ncompany name october 2013 to current\noffer superior service to potential and actual guests to the museum according to established procedures.\nsan jose area.\ngreet school groups by meeting teachers at buses outside the group entrance, giving chaperone and student instructions to large groups",
+    "WORK EXPERIENCE": {
+      "raw": "highly motivated and results-oriented individual seeking an internship as an aerospace engineer at northrop grumman. special interests include\nunmanned aerial vehicles, aeronautical development and design, structural analysis, and in related areas inside a competitive environment\nmatlab, avl, c programming, microsoft word, microsoft excel, microsoft powerpoint\ncompany name october 2013 to current\ncollaborating with others to meet mission requirements and accomplish objectives provided by the northrop grumman aerospace\ncompany.\npart of the unmanned aerial vehicle simulations team constructing models of the uavs in order to obtain important aerodynamic\nproperties to perform flight test simulations.\nwork with a team comprised of diverse instructors, assistants, and volunteers to provide children an educational and unforgettable\ncompany name august 2012 to january 2013 guest experiences specialist\ncity , state\nfor guests.",
+      "companies": [
+        "company",
+        "inc",
+        "lab"
+      ],
+      "titles": [
+        "engineer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "collaborating with a team to design and construct an aircraft that will be competing at the sae aero design west.\ncalifornia state polytechnic university june 2016 bachelor of science : aerospace engineering gpa: gpa: 3.1 dean s list - 2 quarters class\nlevel: junior aerospace engineering gpa: 3.1 dean s list - 2 quarters class level: junior aerospace structural mechanics i, aerospace\nfeedback control systems, fluid dynamics, gas dynamics, low-speed aerodynamics, orbital mechanics, vector dynamics, thermodynamics.\nsophomore aircraft design, experimental aerodynamics, experimental aerothermodynamics, aerodynamics and flight performance,\nsupersonic/hypersonic aerodynamics, stability and controls of aerospace vehicles, guidance and controls, aerothermodynamics i, ii, & iii,\naerospace structural analysis i & ii, electric circuit theory, electronics, aerospace engineering analysis, technical writing for engineers",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "sanded the balsa wood wings smooth for the preparation of carbon fiber wrapping.\nprepared the epoxy resin mixture for application.\nwrapped the leading edge, wing spars, fuselage molds, and fuselage walls with carbon fiber.\nsawed and drill cutted fuselage components.\ndynamics and parameters of lockheed martin s f-22 raptor implemented low-speed wind and water tunnel testing using test models to\nobtain and investigate flight dynamics and performance characteristics.\nanalyzed the flow vortices over the wing at varying velocities at increasing angles of attacks.\ncalculated and observed the relationship and importance of the effect of reynold s numbers on aerodynamic coefficients.\ncompiled a technical report detailing the results of the calculations and observations, and compared the accuracy of wind/water tunnel\ntesting to theoretical f-22 characteristics.\ncompany name may 2013 to current aviation camp assistant\ncity , state\nassist children in building and flying model aircraft, launch rockets, complete flight simulation missions, and conduct flight-related science\nexperiments.\nassist in teaching course lessons based on aviation, air, and space topics organize and prepare lesson materials and work directly with\nsupervise elementary school-aged campers during sign-in, sign-out, and break times.\nsupervised field trips to aviation-related locations.",
+      "keywords": [
+        "app",
+        "model"
+      ]
+    },
+    "SKILLS": [
+      "additional information",
+      "american institute of aeronautics and astronautics (aiaa) fall 2013 - present active member at national and collegiate level attend biweekly",
+      "attend biweekly general meetings and attend field trips society of women engineers (swe) fall 2014 - present active member at national",
+      "c programming",
+      "conversational spanish",
+      "derivatives",
+      "edge",
+      "electronics",
+      "fall 2014 - present active member at national and collegiate level",
+      "general meetings and attend field trips society of women engineers (swe) fall 2014 - present active member at national level sae international",
+      "interests",
+      "involvement american institute of aeronautics and astronautics (aiaa) fall 2013 - present active member at national and collegiate level",
+      "languages",
+      "level sae international fall 2014 - present active member at national and collegiate level",
+      "lockheed martin",
+      "materials",
+      "matlab",
+      "microsoft",
+      "microsoft excel",
+      "microsoft word",
+      "powerpoint",
+      "san",
+      "simulation",
+      "special events",
+      "teaching",
+      "team leader",
+      "technical writing"
+    ]
+  }
+}

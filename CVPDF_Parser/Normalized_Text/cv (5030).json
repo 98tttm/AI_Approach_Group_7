@@ -1,0 +1,19 @@
+{
+  "id": "cv (5030).pdf",
+  "normalized_sections": {
+    "ABOUT": "david phiast\na p p l i c a t i o n d e v e l o p e r\nwork background\ni am an application developer and\naccenture\nassociate software engineer for machine\napplication development associate. jan 2019 to jan 2020\nlearning based applications. i wasn t aware\nof machine learning but after becoming\ncreated all master data of sap eam. performed data loading\nfamiliar with it over the course of a year i\nfrom legacy system to sap system using lsmw. created",
+    "EDUCATION": {
+      "raw": "am very much intrigued and fueled by its\nprocess and how applications can be\nconfiguration documents for clients and also user stories.\ndeveloped around it. i want to join a role\nperformed the end to end process of sap eam.\nwhere i can experiment and learn with new\ntypes of data and increase my ability to\nbuild more complex models in the future.\ndeep learning, machine learning,\nbachelor of technology(civil) from jawaharlal nehru university in 2019.\nartificial intelligence, linear\nregression, software engineering,",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "python, java, sap,c, c , jenkins,\nkubernetes, docker, backend.\nai based cricket match intensity\nai on the cloud using google cloud platform.\ncounter.\nproperty valuation using machine\nlearning."
+  }
+}

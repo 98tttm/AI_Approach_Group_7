@@ -1,0 +1,33 @@
+{
+  "id": "cv (3311).pdf",
+  "normalized_sections": {
+    "ABOUT": "resume\narunkumar k kande\ns/o kupendra b kande\narunkumar.kande gmail.com\nat: bodhan tq: aland\nmobile :7353029312,974198931 dist: gulbarga\n585104 ii)\nthree days national level workshop on wireless and ns/2 os in gndec\ncollege.\ntechnology exposure:\ndesigning software, developing hardware, and software design, developing\nprototype for embedded product.\nlanguages: c, assembly languages for microcontroller and microprocessors.\nide for 8 bit and 16 bit, 32 bit microcontroller.\nemulator use and logic analyzer for development of embedded system.\n1) m tech embedded system in electronics and communication from rrs\nfrom jntu\n2) b.e -electronics and communication engineering from pdace gulbarga.\nin the year 1995 with 68%.\nfather name : kupendra b. kande\nnationality : indian.\nsex : male\ndate of birth : 22.07.1980\nmarital status : married\nlanguages : kannada, hindi, english.\nwith this i want conclude that i am looking for the opportunity and i hereby\ndeclare that the information furnished above is true to the best of my knowledge.\narunkumar k\nkande\n07353029312",
+    "WORK EXPERIENCE": {
+      "raw": "work experiance:\n1) worked as a software engineer at samsung india electronics\nlimited\nfrom dec 2004 to april 2005.\nfrom may 2003 to nov 2004.\n3) worked as a firmware engineer at chip automation",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "technologies.\nfrom feb 2002 to april 2003.\n1) microcontroller based 12 channel announcers.\nit is firmware in which we have used the at89c51.the bit oriented\noperation\nof the microcontroller is made used in this . whenever test button is\npressed the\ninput channels are checked and accordingly corresponding channels o/p is\nconveyed\nand announced. turning of the siren is made by the reset buttons pressed.\n2) maximum power point tracking system.\nmaximum powertracking system (mppt) is used in photovoltaic (pv) system\nto\nmaximize the pv array output irrespective of temperature. and radiation, also\nlocal load\nelectrical characteristics .the new mppt system is developed in which\ncontrolling consist\nof buck type of dc-dc converter that is controlled by a microcontroller\nbased unit.\n3) mp3 player.\nportable mp3 player based on the pc. it uses an at89c51.and at90l/s8535\nmicrocontroller with its on board memory and sta013 decoder and dac. it\nsupports for\nrs232 communication with pc for down loading fo songs and from the\ninternet.\nprojets at isro:\n4) base band processing module for regenerative payload simulator.\nswitching module\nof the regenrative payload, which will recive the request from the user\nterminals . the input to\nthis module is request packet from extracted from signaling channel, and\nrespective\ndemodulated signal of the channel to be switched.\n5) ttc rf power monitoring system, powermeter.\nend, setting\nreference level within operating window with data logging and raise the alarm in\ncase there is\ndrastic change in power level. the hardware consist of adc, rs232, lcd, ram,\nrtc and\nbattery backup with built in power supply. the system has bachelor of engineering provided with\nbuilt in buzzer\nand external alram.the stand alone mode with internal battery verified for data\nrententivity\nlong term stability of 120 hours.\n6) dds based programmable wide band fm modulator.\nthe generated\nfm signal is to be used as rf uplink signal for satellite receversrs. developed\ncode for\nmicrocontroller which programs ad9850 dds chip.the controller sets center\nfrequency by\nloading the tuning words in dds chip.user can set the frequency and deviation.\nand phase\nmodulation words are loaded into the ad9850 via parallel byte.center frequency\nranging from\n10- 20mhz.modulating signal in the range of 283-30khz.\n7).automatic weed detectection and smart herbicide sprayer robot for corn feilds\na vision-based guidance method is presented to guide a robot platform which is designed\nindependently to drive through the crops in a field according to the design concept of open\narchitecture. then, the offset and heading angle of the robot platform are detected in real\ntime to guide the platform on the basis of recognition of a crop using machine vision. this\ncountries, such as picking, harvesting, weeding, pruning, planting, grafting, agricultural\nclassification etc.\nseminars:\ni)\ngeographic information system.\nii)\nintelligent real time embedded system.\nworkshop:\ni)\ntwo days national level workshop on psoc and development in rrs college.",
+      "keywords": [
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "from gulbarga university gulbarga in nov 2001 with 63%.\n3) p.u.c -from sharanbasveswar college of science.",
+      "degree": [],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

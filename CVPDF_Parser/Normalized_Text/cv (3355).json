@@ -1,0 +1,34 @@
+{
+  "id": "cv (3355).pdf",
+  "normalized_sections": {
+    "ABOUT": "curriculam vitae\ndeepak chander\nb.tech (mechanical engineer)\naddress:h.no-619 pratap vihar part-ii\nnear rohini\nsector-20,\nnew delhi-110086\nphone : 918882184040, 9185060743\ne-mail: deepak.mech4it gmail.com\ndate of birth: march,23,1993\nto be an engineer where i can contribute my and experience to the further\ndevelopment of organization and achieve growth in my professional career.\ndegree/\nboard/ university\nschool / college\nyear\npercentage\ncertificate\nuttarakhand\nuttaranchal institute of\n2011-",
+    "EDUCATION": {
+      "raw": "bachelor of technology\n69.6\ntechnical university\ntechnology,dehradun\n2015\ncentral board of\nsarvodaya co-ed sr\n12th\nsec\n2010\n54.4\n(cbse), delhi\nschool,saraswativihar\ncentral board of\nsarvodaya co-ed sr\n10th\nsec\n2008\n71\nposition in the college\nthe institute.",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "institute",
+        "school",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "(cbse)",
+      "delhi",
+      "graphic software : autocad",
+      "saraswativihar",
+      "school"
+    ],
+    "PROJECTS": {
+      "raw": "operating system : windows 7\nareas of interest : heat and mass transfer, rac work:\nthe topic titled automation in lathe machine using hydraulic\nsystem the aim of is controlling of tool movement in lathe machine through the hydraulic\nsystem. in which create replica of master piece with help of hydraulic system.",
+      "keywords": [
+        "system"
+      ]
+    }
+  }
+}

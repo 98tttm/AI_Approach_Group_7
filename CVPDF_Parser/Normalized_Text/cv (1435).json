@@ -1,0 +1,36 @@
+{
+  "id": "cv (1435).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "aaron d. fyke, p.eng.\n334c - 143 albany st.\ncambridge, ma 02139\n(617) 225-6500\ne-mail: afyke mit.edu\n2002\nmit sloan school of management\ncambridge, ma\ncandidate for master of business administration, june 2002\nharvard business school technology and competitive strategy cross registration\nleaders for manufacturing fellow\n2002\nmit school of engineering\ncambridge, ma\ncandidate for master of science in mechanical engineering, june 2002",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "society of manufacturing engineers graduate scholarship\n1990 - 1995\nuniversity of victoria\nvictoria, canada\nbachelor of engineering (mechanical, business management option)\ncanadian society for mechanical engineering gold medal for highest graduating average of class\n1999 -\nb.c. professional engineers association\nbritish columbia, canada\nprofessional engineer\n1999 - 2000\nballard power systems\nvancouver, bc, canada\nstructural analysis engineer, fuel cell design and analysis group\nsole analyst for structural and thermal modeling and finite element analysis for cost and time critical\nproduct development. key liaison and coordinator for structural design recommendations among\nover 15 design engineers and scientists increasing functionality of multiple product lines.\ncontributed to structural redesign and analysis of key components for mission critical product development\ninitiated structural analysis consulting relationship between ballard s canadian and german sites to save duplicate costs and provide standardized customer service\n1997 - 1998\nresearch engineer, direct methanol fuel cell group\nacted as team liaison between the development group and the joint development partners at\ndaimlerchrysler (germany). managed the information exchange between design changes and the\nprototype manufacturing facility. coordinated among laboratory scientists, manufacturing\ntechnicians, and engineers in both canada and germany.\n1995 -1997\nbc research inc\nvancouver, bc, canada\nresearch engineer, advanced systems engineering, clean transportation group leader in developing experimental technology for thermal control of hybrid electric vehicles product instrumental in launching spinoff company, azure dynamics, inc\nmarketing representative in japan - met with various japanese automobile companies to promote bc research s current products and expertise\nother\nexperience in international environments (language and/or working): japanese, german, french sloan leadership forum marketing team manulife financial graduate scholarship member of sloan crew leaders for manufacturing admissions committee founding president, ballard corporate toastmasters club volunteer leader, scouts canada rotary cultural ambassadorial scholar osaka, japan",
+      "companies": [
+        "company",
+        "corp",
+        "inc",
+        "lab"
+      ],
+      "titles": [
+        "analyst",
+        "engineer",
+        "intern",
+        "scientist"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

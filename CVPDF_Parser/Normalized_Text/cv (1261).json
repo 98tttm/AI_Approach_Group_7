@@ -1,0 +1,47 @@
+{
+  "id": "cv (1261).pdf",
+  "normalized_sections": {
+    "ABOUT": "tanveer alam\nmughalsarai india,232101 mob 918267851559 tanveeralam771 gmail.com",
+    "EDUCATION": {
+      "raw": "success of employer and at the same time my individual growth. aligarh muslim university,amu aligarh india (july 2011-june 2015)\nbachelor of technology in mechanical engineering\n(graduated may 2015)\ncpi-6.56",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "senior secondary school amu aligarh\n12thgrade amu board examination-74.75%\nlaxmi public school,mughalsarai\n10th grade cbse board examination-94.2% training at the indian railways in the wagons and engine repair and maintenance\nworkshop checking the brake system of the train inspecting the damaged body of the train",
+      "companies": [],
+      "titles": [],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "disassembling the trolley and inspecting the damaged parts\nresearch interest industrial engineering and management operational research flexible manufacturing systems design of rolling mill designed two high roll type of roll mill. many design consideration are taken for modified design.",
+      "keywords": [
+        "system"
+      ]
+    },
+    "SKILLS": [
+      "adept working in windows andlinux operating system",
+      "autocad designing",
+      "building and designing of drones.",
+      "cnc programming",
+      "composite materials",
+      "district topper in high school examination",
+      "excel",
+      "fluency in english",
+      "hindi and urdu",
+      "honor and rewards",
+      "microsoft word",
+      "power point",
+      "presentation",
+      "sense of humor and creativity",
+      "time management"
+    ]
+  }
+}

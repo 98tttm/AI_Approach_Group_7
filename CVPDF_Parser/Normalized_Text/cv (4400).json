@@ -1,0 +1,71 @@
+{
+  "id": "cv (4400).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "2001",
+      "accounts receivable",
+      "accruals",
+      "an international company.",
+      "bachelor of arts journalism",
+      "bachelor of science mathematics",
+      "book",
+      "city",
+      "consultant",
+      "credit",
+      "debit",
+      "documentation",
+      "excel",
+      "forms",
+      "general ledger",
+      "legal",
+      "microsoft word",
+      "oracle",
+      "outlook",
+      "peoplesoft",
+      "pivot tables",
+      "pricing",
+      "processes",
+      "qualifications",
+      "reporting",
+      "scheduling",
+      "state journalism",
+      "state mathematics",
+      "tax",
+      "tax compliance",
+      "tax returns",
+      "taxes",
+      "variance analysis",
+      "webster university"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "microsoft word, outlook, onesource, onenote, corptax, oracle, peoplesoft, cch, bna excel - pivot tables, vlookup\njuly 2015 to september 2015\ncompany name city , state consultant\nprojections and forecastings analysis foreign source income sec 904 foreign tax credit 6166 and w-8ben transfer pricing assist\nwith the preparation of forms 5471 and 8858s.",
+      "companies": [
+        "company",
+        "corp",
+        "inc"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "prepare and ensure accuracy and timeliness of multi-state tax returns for corporations including supporting information and schedules gather\ndata required to determine taxable income apportionment between the various states assist in the improvement of procedures within the tax\ndepartment in order to improve overall efficiency and accuracy.\nmarch 2010 to january 2015\ncompany name city , state senior tax accountant\nreviewed the u.s.\nforeign tax credit and related calculations under sec.\n901, including foreign tax receipts, computing foreign source income under sec.\n904, tracking tax carry forwards and overall foreign loss reviewed separate and consolidated foreign tax credit for u.s.\nincome tax return (form 1118), including sourcing of income and allocation and apportionment of expenses reviewed separate and\nconsolidated u.s form 5471 and form 8858 returns including analysis of accounts, book re-classes and earnings and profits adjustments\nrelated to over 70 foreign entities part of a joint task force with transfer pricing experts that revised the company s cost sharing calculation\nprocess including revision of the cost sharing cost pools, documentation, processes and key controls that led to 20m savings to the\ncompany and improved efficiency reviewed quarterly buy-in and cost share calculations including true up adjustments, variance analysis and\nensured proper documentation provided key support functions in the implementation of onenote in a paperless initiative which resulted in\n80% cost savings, process consistency and eased integration with other business applications facilitated the effort to develop, update and\ndocument processes and procedures which led to standardized and uniform work papers, time savings and improved efficiency monitored,\ntracked and served as point of contact for form 6166 u.s.\nresidency certificate and form w-8ben to minimize worldwide taxes imposed on the operations of the company and its foreign\nsubsidiaries leading to increased efficiency and time savings.\naugust 2005 to february 2010\ncompany name city , state tax assistant\nprepared the foreign tax credit calculation including sourcing income and deductions prepared and assisted with corporate tax returns and\nfederal, forms 1118, 5471,8858, dual consolidated loss, u.s.\nfederal estimated income tax payments and extensions led efforts to prepare, maintain and improve documentation to support reporting\nfunctions performed by the 1118 tax compliance group developed a tracking system for the maintenance of the form 6166 which\neliminated multiple requests to the irs and ensured that residency documentation were received timely prepared form 5713, international\nboycott for all affected legal entities and drafted documentation that is used as a training tool for that process reviewed book/tax difference\nfor the proforma u.s.\nfederal return form 1120 for u.s.\nentities with foreign operations.",
+      "keywords": [
+        "analysis",
+        "app",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "march 2004 to may 2005\ncompany name city , state ar/ap general cashier\nreceived checks, made deposits and posted them to corresponding invoices.\nprepared credit and debit memos necessary to adjust customer accounts receivable paid invoices by verifying transaction information,\nscheduling and preparing disbursements and obtaining authorization of payment proven track record in resolving historical accounts\nreceivable issues arising from misapplication, incomplete application or non-application of customer payments verified general ledger\naccuracy and prepared monthly accruals and analyzed trial balances audited cash revenues for all areas of hotel operation, balanced daily\ncash transactions and ordered daily supply of cash.\nmay 2005\nwebster university\ncity , state finance\nm.b.a finance\n2001\nwebster university",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

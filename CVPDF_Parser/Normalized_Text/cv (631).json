@@ -1,0 +1,50 @@
+{
+  "id": "cv (631).pdf",
+  "normalized_sections": {
+    "ABOUT": "gourav mithare\nplot no.167, hind co-op housing society, hindwadi, belgaum-590 011, india\nemail: gouravmithare gmail.com\nphone: 09483946899\nto secure a job in a company where i can utilize my full potential, technical",
+    "EDUCATION": {
+      "raw": "knowledge with opportunity for growth and advancement, and prove to be a\nvaluable asset to the organization. m. tech aerospace propulsion technology\nvtu pg centre,\nviat, chikkaballapur\nanticipated completion - 2016 bachelor of engineeringmechanical engineering, 63.6%\nyear of passing 2013\nr.v college of engineering, bangalore\nvtu, belgaum",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "12th , science, 54.8%\nyear of passing 2009\ngovindramseksaria science pu college, belgaum\nkarnataka pue board, bangalore 10th, 78.4%\nyear of passing 2007\nst. mary s high school, belgaum\nkseeb, bangalore 3-dimensional analysis of chevron notched bar specimen by\nusing computational fracture mechanics designed the chevron notched specimen of crack length to width ratios (a/w) ranging from 0.3 to 0.7, in ansys.\nsimulated the loading process in ansys, and evaluated the stress intensity factor for the chevron notched specimen of\ndifferent a/w ratios.\nplotted graphs and compared the results with experimental solutions from the literature. design and fabrication of energy generator from speed",
+      "keywords": [
+        "analysis"
+      ]
+    },
+    "SKILLS": [
+      ": ms office",
+      ": solid edge",
+      "adaptability",
+      "and the output electrical energy",
+      "and this",
+      "ansys",
+      "breakers",
+      "design tools",
+      "energy.",
+      "fanuc(cnc)",
+      "other software",
+      "programming language : basics of c",
+      "quick learner",
+      "rotates the shaft connected to the motor to generate electrical",
+      "solid works",
+      "tests were conducted to measure the rpm of the shaft and the",
+      "the assembly was designed on solid works and later fabricated",
+      "the efficiency was calculated.",
+      "the mechanism consists of a vertical piston spring arrangement",
+      "ugs nx",
+      "using select materials.",
+      "voltage generated. by determining the input mechanical energy",
+      "which impinges pressurized fluid on the prime mover"
+    ],
+    "ACTIVITIES": "ability to work in a team ability to communicate effectively organized gaming events for vortex , a techno-cultural department fest.\nvolunteered in 8th mile , a techno-cultural college fest. former member of rotaract club of rvce. won gold medal in snap shooting in ncc tsc held at delhi in the year 2005.\npersonal details\ndate of birth\n: 24/05/1991 gender\n: male languages known : english, hindi, marathi hobbies\n: playing table tennis, swimming, listening music, gardening"
+  }
+}

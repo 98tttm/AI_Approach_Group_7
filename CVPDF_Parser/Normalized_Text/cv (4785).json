@@ -1,0 +1,66 @@
+{
+  "id": "cv (4785).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "color consultant\nnovember 2016\nto\ncurrent\ncompany name city , state color consultant\nsephora is one of the largest cosmetic retailers world wide. as a color consultant my daily responsibilities include:\nachieving the stores daily sales goal by assisting clients with their product purchases.\nanalyzing skin condition and make appropriate product recommendations.",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "account analysis",
+      "accurate and detailed",
+      "and balance sheet",
+      "and organizing displays.",
+      "and poa s (power of attorney).",
+      "articulate and well-spoken",
+      "company name city",
+      "developing positive customer relationships through friendly greetings and excellent service.",
+      "e-filing",
+      "etc.",
+      "ga. microsoft proficency",
+      "games",
+      "helped distribute employee notices and mail around the office.",
+      "including preperation of journal entries",
+      "invoice rocessing",
+      "june 2012",
+      "managed accounts payable",
+      "march 2011",
+      "mchugh cpa group is a family owned accounting office located in atlanta",
+      "meticulous attention to detail",
+      "microsoft office profiency",
+      "oversaw inventory and office supply purchases.",
+      "performed complex general accounting functions",
+      "preperation of tax returns",
+      "recievable.",
+      "reconciliations.",
+      "screened applicant resumes and coordinated both phone and in-person interviews.",
+      "september 2016",
+      "social media knowledge",
+      "state office manager",
+      "stocking shelves",
+      "strong",
+      "strong client relations",
+      "supplies",
+      "team building",
+      "themes",
+      "to",
+      "working as a team with colleagues and participating in weekly competitions"
+    ],
+    "EDUCATION": {
+      "raw": "july 2012\ncompany name city , state receptionist worked for re/max as an entry level receptionist. daily responsibilities included: planned and coordinated logistics and materials for board meetings, committee meetings, and staff events.\nmanaged office supplies, vendors, organization, and up keep.\ncoordinated, scheduled, and arranged meeting and travel calendars, including business and social events.\nopened and properly distributed incoming mail.\ndirected guests and routed deliveries and courier services.\nmay 2010\nnorwich free academy city , state high school",
+      "degree": [],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

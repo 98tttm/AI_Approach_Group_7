@@ -1,0 +1,56 @@
+{
+  "id": "cv (632).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "163",
+      "address : 163",
+      "can work well other in team.",
+      "computer: excel",
+      "curriculum vitae",
+      "date of birth : 09-07-1995.",
+      "date: 31-05-2015",
+      "declaration",
+      "gender : male.",
+      "i hear by declare that above mentioned information is true to the best of my knowledge.",
+      "india-395006.",
+      "interests: to do practical work",
+      "leadership quality",
+      "name : patidar sunit gopal bhai",
+      "patidar sunit",
+      "patidar sunit gopal bhai",
+      "personal detail",
+      "place: surat.",
+      "position in company.",
+      "powerpoint",
+      "road karanj",
+      "surat gujarat",
+      "varsha socity-1 matawadi l.h.",
+      "word",
+      "your sincerely"
+    ],
+    "EDUCATION": {
+      "raw": "city : surat.\nstate : gujarat.\npin code : 395006.\nnationality : indian.\nlanguages known by: guajarati, hindi, english\ncontact no. : 9924963486.\nemail-id : patidarsunit159 yahoo.in\nsr.\nexam/\nschool/college\nboard/\nsgpa/\npassing\ndegree\nuniversity\npercentage\nyear\n5th\n1.\nbba(finance)\nbrcm college\nvnsgu\n5.37\ntill\npursuing\no\nbusiness\nsemester (2014)\nadministration\n2.\nhsc",
+      "degree": [],
+      "institution": [
+        "college",
+        "school",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "a.v. patel high\ngujarat\n72.57%\nmarch-\nschool\nsecondary\n&\n2012\nhigher\nsecondary\nboard\n3.\nssc\nl.p. savani high\ngujarat\n55.85%\nmach-\nschool\nsecondary\n&\n2010\nhigher\nsecondary\nboard\nsummer training\nduration 2month\nprivate sector bank worked at edlewise pvt. ltd.\n2012-2014\nprofessional strengths hard working excellence in work whatever i do",
+      "keywords": []
+    },
+    "WORK EXPERIENCE": {
+      "raw": "duration 3 month\nyear\njanuary 2014(24th to 27th)\ndo as work of volunteer in udhyog.\nfebruary 2015",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

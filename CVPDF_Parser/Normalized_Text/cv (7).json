@@ -1,0 +1,36 @@
+{
+  "id": "cv (7).pdf",
+  "normalized_sections": {
+    "ABOUT": "benjamin osta\nfresher developer\nflipkart\nas a fresher i have in the field of software\ndevelopment and business management.",
+    "WORK EXPERIENCE": {
+      "raw": "intern feb 2020 to nov 2020",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "and right now i am in search of a role\nwhere i can learn and apply machine\nworking on a data compression delivery system, along with\ndatabase management of business members.",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    },
+    "SKILLS": [
+      "bachelor of technology(civil) from anna university in 2020",
+      "c",
+      "django",
+      "educational history",
+      "firebase.",
+      "jenkins",
+      "python",
+      "sap",
+      "software developer",
+      "software engineer",
+      "springboot"
+    ]
+  }
+}

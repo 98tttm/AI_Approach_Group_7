@@ -1,0 +1,19 @@
+{
+  "id": "cv (4851).pdf",
+  "normalized_sections": {
+    "ABOUT": "isabella reed\nc o n s u l t a n t a n a l y s t\nwork background\ninterested in computationally rich\nirrm international\nproblems. loves to work on different\njunior analyst expert, feb 2020 to oct 2020\nproblems that require different",
+    "ACTIVITIES": "data analysis, data analytics.\nattrition analysis and visualization\nintroduction to python datacamp divvy rider and business analysis\nmachine learning for business\nsql (intermediate)\ndashboard cardiac arrest prediction",
+    "WORK EXPERIENCE": {
+      "raw": "understanding of data. proper hands on\nworked as a remote analyst on company production, expenditure, and\nexperience with analytical tools.\ninvestment.\ndata science, machine learning,\nb.tech(computer science) rcc it, kolkata 2018\nbusiness analysis, business analytics,\nmba, praxis school of business, kolkata 2020",
+      "companies": [
+        "company"
+      ],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

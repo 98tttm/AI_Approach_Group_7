@@ -1,0 +1,10 @@
+{
+  "id": "cv (4918).pdf",
+  "sections": {
+    "ABOUT": "JOSHUA WHITE\nA S S I S T A N T  S O F T W A R E  A N D  M A C H I N E  L E A R N I N G  E N G I N E E R\nWORK BACKGROUND\nAssociate software engineer specializing in\nLarsen & Toubro\nMachine Learning models and\nMachine Learning Engineer, Jul 2019 to Till Date\nOptimization. I work with both natural\nLanguage processing and computer vision",
+    "EDUCATION": "",
+    "SKILLS": "Model Building, Deep Learning,\nNumpy, Pandas, PySpark, Hadoop,\nMatplotlib, Keras, Tensorflow,",
+    "ACTIVITIES": "TensorflowJS, AngularJS, Computer\nVision, Natural Language Processing,\nHuggingFace, Data Wrangling, Scikit\nLearn, Algorithm Optimization.\nSummarizer of Executive Q&A using\nJunior Engineer Award L&T\nBERT.\nBest Solution Provided L&T\nOnDevice Machine Learning using\nTensoflow.",
+    "WORK EXPERIENCE": "Built an OCR-based Material Test Report validation system which reduced\nin terms of Modelling and development.\nlookup time from 20mins to 2mins.\nImplemented Knowledge Graphs that helped SME's to retrieve factual\ninformation on various windmill parts\nMachine Learning, Software Developer,\nB.Tech(Electronics/Telecommunication) from IIIT D&M Kancheepuram,\nSoftware Engineering, ML Engineer,\nChennai in 2019"
+  }
+}

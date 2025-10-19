@@ -1,0 +1,92 @@
+{
+  "id": "cv (4468).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "consultant\nbusiness analyst in telecom, utility industry. good knowledge of operations & maintenance business process. experienced in sap eam using\nelectric line of business. experienced in planning and executing scenarios for end-to-end testing, documentation and end user training\nperformed configuration for plant maintenance module for end to end process in integration with material management module knowledgeable\nconfiguration for organizational units and master data in plant maintenance. it includes plants, work centers, functional locations, equipment,\naccomplishments\nrequirements gatherire :\nrements and propose solution which align with cureness\nte.sting, evaluation and analysis: mastered engineering scureare ess.equirements and propose solution which align with the businessprograms, including program name and program name .sted equipment to ensure compliance.\nanalyzed data and provided recommendations which resulted in adoption of new cost-saving equipment.\nreceived the deans excellence scholarship and distinguish scholar award at ut dallas. consultant 07/2014 to 06/2015 company name city , state",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [
+        "analyst",
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "as-is &",
+      "asset management",
+      "business analysis",
+      "business plan",
+      "business process",
+      "capacity planning",
+      "change management",
+      "configuration",
+      "conversion",
+      "costing",
+      "data analysis",
+      "debugging",
+      "design",
+      "design process",
+      "developer",
+      "development life cycles and its different phases. deans excellence scholarship and distinguish scholar award at ut dallas. expertise 5",
+      "documentation",
+      "etl",
+      "excel",
+      "forms",
+      "functional",
+      "functional specification",
+      "gis",
+      "gui",
+      "hp",
+      "implementations. an excellent team player with a deep sense of commitment and strong desire to learn and grow. strengths include intellectual",
+      "integration testing",
+      "interface testing and regression testing. design documents",
+      "load testing",
+      "migration",
+      "office",
+      "pdf",
+      "processes",
+      "qtp",
+      "quality",
+      "reporting",
+      "requirement",
+      "requirements gathering",
+      "sap",
+      "scheduling",
+      "scripts",
+      "security testing",
+      "specification",
+      "system testing",
+      "testing",
+      "to-be process and function specifications",
+      "training manuals",
+      "user training"
+    ],
+    "ABOUT": "measuring points and counters, document link, maintenance processing, corrective and preventive maintenance notification types, objects",
+    "ACTIVITIES": "bom s, costing sheets. proficient in testing and change management tools like hpqc, qtp, smc. planning and development of test cases,",
+    "PROJECTS": {
+      "raw": "requirements gathering and data analysis.\nperform mapping of gis to sap.\nworking with developers on creating dashboard for reporting and asset management perform interface testing using soapgui,\nfunctional testing and uat.\ndata cleansing involving creating, dismantling and reconfiguring equipment, function locations, maintenance items in critical environment.\nidentifying data discrepancies comparing gis and sap data by working with sme s acting as a single point of contact between business\nusers and testers.\nidentified and automated different processes to significantly bring down the time and resources.\nproviding technical and functional support in migration of gis data to sap.\nworking on conversion requirements specifications and definition of data elements including clarification of the meaning and purpose of\nsap fields.\nworking closely with asset strategists, mappers, and gis engineers to identify the issues and resolving them.\nusing lsmw,ibip to create and update the equipment s, and functional locations.\nresponsible for preparing training manuals for end users.\nusing the par (problem action resolution), quality center tool for defect tracking.\nresponsible for preparing requirements document and testing for enhancements for gas and compliance team.\nconfiguration for capacity planning and work clearance management.\nbusiness analyst 05/2012 to 06/2014 company name city , state\nsouthern california gas involved in the requirement gathering and designed specifications for business process and interacted with business\nusers to model the requirements for reporting participated in jad, gap analysis session.\nconfiguring asset life cycle management (cp10, gas storage and riser inspection )end to end process using sap pm module in\nintegration with mm module generated maintenance plans by region for preventive maintenance.\ndesign bundling program for generation of orders by region, district, street, section, segment and house no.\ndesign exception report to capture certain conditions which requires different process.\nintegration of gis with sap for design to be sent to sap.\ngood understanding of corrective and preventive maintenance.\ncreation of data using qtp for training in different environments.\nscheduling through click schedule and click mobile preparing functional specification involved in planning and preparing test plan, test\ncases and test scripts based on business requirements in the areas like notifications, designs, work orders, equipment s, functional\nlocations, material reservation, material master, customer master, purchase requisition and other financial transactions.\ncreated test scripts for front end testing using (gui and functionality) qtp.\nmaintain requirements matrix in hpqc managed hp quality center for creating, linking and tracking defects.\nwriting and running test scripts in hpqc for different scenarios.\nproviding support after go-live including training users.\npreparing job aids for end user training.\ninvolved in user acceptance testing of reports and debugging.\ndesign and test reports using bex analyzer define the reports for compliance with compliance group, key performance indicator,\ndevelop data model and worked closely with development team worked in translating business processes into technical design documents\nfor m&i process.\n(dimp) process in sap plant maintenance module.\ndesigned and implemented electric field memo to improve electric gas and transmission field and office operations by automating the\nend to end process.\ndesigned complex compatibility search for electric field memo data extraction from legacy system to sap for riser inspection designed\nprocess flow and prepared functionalspec co-ordinated with developers with business requirements define test scenarios for mobile\napplication for riser inspection performed end to end testing of sap to mobile application provided training to end users design\nprocess for pmlite and mapped custom table with costing sheet for costing to generate letters in form of pdf to be sent to customers.\ntesting adobe forms for pmlite.\nbusiness analyst 01/2014 to 06/2014 company name city , state\ngathered requirements for implementing sap financial supply change management process.\nparticipated in brain storming sessions for collections management business process.\ndefined test scenarios and documented test scripts for end to end testing configure company segments, company codes, collection\ngroups, collection strategies data creation for testing preparing job aids for end user training.",
+      "keywords": [
+        "analysis",
+        "app",
+        "model",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "business analyst 09/2010 to 02/2012 company name city , state\nasset management life cycle responsible for gathering requirements, documentation and testing worked in translating business processes\ninto technical design documents worked in creating query transforms of the etl process design and validated reports co-ordinated with\ndeveloper for the requirements.\nmanaged the change management process.\nuploaded scripts into hp quality center from excel tested enhancements, reports, functionality and conversions performed the\nshakedown and ad-hoc testing before uat performed the smoke, white box, black box testing before actual execution of test cases.\nreported the bugs and communicated with the developers for tracking the defects.\ntracked, reviewed, analyzed bugs using quality center.\nconsultant 01/2010 to 05/2010 company name city , state\nconducted market research and prepared business plan for exploring new market opportunities.\ninvolved in requirements gathering, current market trend evaluation, financial evaluation and comparative study.\nmaster of science : information technology management 2011 university of texas city , state , united states gpa: gpa: 3.78/4.0\ngpa: 3.78/4.0",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

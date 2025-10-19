@@ -1,0 +1,45 @@
+{
+  "id": "cv (5006).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "business analyst, data analysis,\ni am a fresher business analyst with a knack for building applications that use\nbusiness analyst intern, march 2019-jun 2020",
+      "companies": [],
+      "titles": [
+        "analyst",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "c",
+      "dotnet",
+      "java",
+      "machine learning",
+      "machine learning and deep learning.",
+      "python",
+      "pytorch."
+    ],
+    "PROJECTS": {
+      "raw": "loans initiation operations and a recommender system to predict",
+      "keywords": [
+        "predict",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "bachelor of technology(civil) from institute of technology, banaras hindu\nuniversity in 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

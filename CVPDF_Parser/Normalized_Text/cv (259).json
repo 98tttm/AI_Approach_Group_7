@@ -1,0 +1,46 @@
+{
+  "id": "cv (259).pdf",
+  "normalized_sections": {
+    "ABOUT": "ansari.v\nb.tech., (information technology)\nmail id : ansariit15 gmail.com\nmobile no : 917010087267\n1.4 years of experience in networking and web technologies. looking\nforward to an opportunity for working in a dynamic and challenging x (matriculation) with 75.4% in state public board exam\ndate of birth\n: 15th may 1992\nlanguage known : english, and tamil\nmarital status\n: single\nnationality\n: indian\ncontact : 917010087267\npassport no\n: l4139993\ndeclaration\ni hereby declare that all above given information are true to my knowledge,\ni confirm you that i will discharge all my duties to the best satisfaction to all\nif a chance is given to me\nplace:\n(signature)\ndate:\nansari.v",
+    "SKILLS": [
+      "a( )plus",
+      "course completed :",
+      "environment where i can utilize my for developing my career as well as",
+      "languages",
+      "mysql query",
+      "n( )plus",
+      "organization."
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "operating system :\nwindows\ntools\n: jasper report, sql server 2008\ncompany name: five brain software technologies pvt. ltd\nrole: junior web developer",
+      "companies": [
+        "company",
+        "ltd",
+        "pvt",
+        "technologies"
+      ],
+      "titles": [
+        "developer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "team member: 5\nof the industries. as per client requirement this is developed\nand jasper tool is used to generate the report\ntechnologies\nfront end: eclipse(java) back end: my sql team members: 5\nconsist of employee work details and dashboard which used to display\nemployee performance by their outdoor client work\ntechnologies\nfront end: codeigniter (php) back end: my sql company name: trojan holding llc(al ajban chicken llc)\nrole: it engineer\ndescription: i worked as an it engineer, where i have to produce\nreport by retrieving data from database using sql query and produce\nit in presentable manner using ms excel and also worked as network\nengineer, server maintenance, system maintenance, printer and hhd\nmaintenance ,\nresponsibilities :\noperating, monitoring and maintaining efficiency of the computer systems, servers, software and networks\nprogramming an effective data extraction and mining system within the data management system\nmaintaining efficiency of the system. undertake program updates,",
+      "keywords": [
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "debugging and troubleshooting as required\nmaintaining backup of the recorded data and maintain it safely connection establishment responsible for equipment maintenance task such as managing and installing custom upgrades for customers, replacing cables\ncomponents and accessories, maintaining records about the\ncomponents bachelor of technology.,(information technology) under anna university with 6.7 (grading system) hsc (computer science group) with 64% in state public exam",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": []
+    }
+  }
+}

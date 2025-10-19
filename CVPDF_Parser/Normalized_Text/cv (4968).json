@@ -1,0 +1,21 @@
+{
+  "id": "cv (4968).pdf",
+  "normalized_sections": {
+    "ABOUT": "rachel dawn\nd a t a s c i e n t i s t\nwork background\nthe majority of my innoplexus\nincludes computer vision, deep learning\ndata scientist nov 2019 to till date\nand nlp. i have worked on traditional\nmachine learning algorithms like svm,\nbuild an end-to-end, computer vision and nlp-based pdf-extractor\nrandom forest, logistic regression, linear\nmodel to convert unstructured congress research paper pdf documents\nregression, knn, k-means clustering, etc.",
+    "EDUCATION": {
+      "raw": "and deep learning algorithms like yolo,\ninto a structured and categorical format with a micro-average f1-score\nbaidu s deepspeech, fcn on keras and\nof 0.84.\npytorch architectures.\ncreated a model for identification and conversion of the graphical\nrepresentations of chemical structures from literature sources into\nsmiles. used opencv for various image preprocessing and osra an\nopen-sourced tool for smiles generation.\ndeep learning, python, sql , keras,\ndual degree (bachelor of technology master of technology)(chemical) from indian institute of\npytorch, pyspark , data science, data\ntechnology (iit), kharagpur in 2019\nanalysis, machine learning, natural",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "iit",
+        "institute"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "language processing, artificial\nintelligence, computer vision, pattern\nrecognition, nlp, opencv, image\nprocessing.\nend-to-end computer vision model for\nnatural language mastery - datacamp\nhindi sentence recognition."
+  }
+}

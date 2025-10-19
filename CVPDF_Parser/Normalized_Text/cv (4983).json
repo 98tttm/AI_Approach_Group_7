@@ -1,0 +1,17 @@
+{
+  "id": "cv (4983).pdf",
+  "normalized_sections": {
+    "ABOUT": "harry miles\ni n t e r n f r e s h e r\npython, mysql, tensorflow, keras, machine\nindustrious and collaborative individual, currently looking\nfor an opportunity in machine learning and deep learning\nlearning, deep learning.",
+    "WORK EXPERIENCE": {
+      "raw": "roles. i have a good depth of knowledge in ml algorithms,\nvarious cnn architectures, and worked on time series data,\nimage captioning, nlp tasks. interested to work with an\nenthusiastic team on business problems.\nasm management\nb.tech(chemical) ppc university, 2020\nintern, jan 2019 - oct 2019",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "understanding image scaling models and\nusing them for quality restoration of old\nimages.\nprogress report and highlighting using\nmachine learning course - tmlf\nnlp."
+  }
+}

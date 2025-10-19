@@ -1,0 +1,37 @@
+{
+  "id": "cv (4947).pdf",
+  "normalized_sections": {
+    "ABOUT": "bryce walker\nfresher machine learning engineer\nas a recent graduate, i am looking for roles that challenge me and feed my craving for learning. i can easily adapt to new\ntechnologies, understand and work with a variety of people, and always looking to solving business problems in much",
+    "SKILLS": [
+      "deep learning",
+      "emperical modelling.",
+      "k-means clustering",
+      "logistic regression",
+      "lstm",
+      "machine learning",
+      "more technology sophisticated ways."
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "handwriting detection in real-time.\nabsolutdata research & analytics\nmachine learning intern, jan 2020 to till date\nother qualification\nimplemented a research paper by shang huan on",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "emd algorithm for time series forecasting by creating\nto cluster quality of vegetables based on\na hybrid model using empirical mode decomposition\nsize, color and produce time.\nand long short term memory neural networks.\nbachelor of technology(computers) from inderprastha engineering\ncollege ghaziabad in 2020",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "cv (2212).pdf",
+  "normalized_sections": {
+    "ABOUT": "curriculumvitae\nmd ajaz khan\nbihar, india : 847337\npassport no.: l3004828\ncontact no.: 91 7848003405\nemail address: ajaz mak28 outlook.com\nlooking to obtain a software developer position with highly-esteemed company in which to help company reach\ngoals while enhancing my career in the process.",
+    "WORK EXPERIENCE": {
+      "raw": "software developer\nvirgosys software private limited,\njun 2016 to till present\nenvironment & platform web application & windows application\ndatabase ms sql server , mysql (rdbms)\nduties & responsibilities\nstudy of the as-is system, understanding and defining the requirements of the to-be system detail design of the database and preparing the prototype of the system\nteam\n1\nsize\ndatabas\nmysql (rdbms)\ne\nlanguag\nc ,win forms, mysql, excel report\ne\nduration\n8 months\nthis is a windows based application for a college and university to help them\nmanage their internal processes like\nhome and logout buttons on every page to go back to main page in case of any network issue, one should be able to come back to main page\nin case user leaves the screen in between anywhere, after timeout of 1 descripti\nmin, he would be logged out main page will come\non\nonce user confirms, motor pulls down the flap and all book goes down print slip is generated after 2 sec motor pulls up the flap to its the original position book counter counts the book returned rfid library management solution helps to create a state of art library by streamlining and automating all library processes thereby enhancing\n3. web based application design for an asset tracking system firm\nurl\nhttp://110.172.174.236/rfid/login.aspx\nteam\n2\nsize\ndatabas\nsql server 2012 (rdbms)\ne\nlanguag\nc , asp. net mvc, ado. net, sql server, jquery, html, css, bootstrap\ne\nduration\n7 months\ndescripti\nthis is a web based application for a club and office to help them manage their\non\ninternal processes like\nassets registration location registration sub- location registration rfid mapping location mapping asset tracking solution system is very helpful in searching any misplaced asset, quick & regular audit of assets & controlling unauthorized assets movement.\ndeclaration:\ni hereby declare that the particulars are true to the best of my knowledge and belief.\nmd ajaz khan",
+      "companies": [],
+      "titles": [
+        "developer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "acceptance from customer.",
+      "ado.net",
+      "ajax",
+      "asp.net",
+      "asp.net mvc",
+      "bootstrap design",
+      "client support on the products delivered",
+      "css",
+      "enityframework",
+      "hosting the website",
+      "html",
+      "involved in developing majority of modules",
+      "javascript",
+      "jquery",
+      "json",
+      "languages: c .net",
+      "linq",
+      "ms sql",
+      "mysql",
+      "preparing test cases & involved customer for testing the application. key contributor to get user",
+      "wcf",
+      "web services",
+      "webapi",
+      "win form",
+      "wpf"
+    ],
+    "PROJECTS": {
+      "raw": "framework,\ncomputer proficiency: microsoft excel, ms word, powerpoint web page development for schookee management system windows based application development for circulation system and automated drop box system web page development for assets tracking system\neducational background\nmca (sambhram institute of technology, karnataka, india)\nbachelor of science-it (niit, bihar, india)\nn g u a ges:\nla english : fluent in speaking and writing hindi: fluent in speaking and writing urdu : fluent in speaking\npersonal information\nfull name: md ajaz khan\nnationality: indian\nmarital status: unmarried\ndate o f birth: jan 05, 1990\nplace of birth: bihar, india\n1. web based application design for a schookee management system firm\nurl\nhttp://www.schookee.com/login.aspx\nteam\n5\nsize\ndatabas\nsql server 2012 (rdbms)\ne\nlanguag\nc , asp.net, ado.net, sql server, java script, html, css, bootstrap\ne\nduration\n10 months\nthis is a web application for a school management to help them manage their\ninternal processes like a user-friendly multilingual web application which completely deals with\nschool management solution that caters to the needs of both small and midsize\norganizations as well as large enterprises. this school management software\ndescripti\nhelps organizations manage classes, after school programs, events and camps,\non\nalong\nwith\noffering\nonline\nregistration.\nschookee helps the organization to links the five important entities of school\nmanagement software namely staffs, students, library and parents and\nincreases the relationship between them. along with this, it provides the\ncomplete library management which is linked with the students, staffs.\n2. web based application design for a circulation system and automated drop box\nsystem firm\nurl\nnot available",
+      "keywords": [
+        "app",
+        "system",
+        "web"
+      ]
+    }
+  }
+}

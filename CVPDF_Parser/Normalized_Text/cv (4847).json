@@ -1,0 +1,34 @@
+{
+  "id": "cv (4847).pdf",
+  "normalized_sections": {
+    "ABOUT": "brianna williams\nj u n i o r d e v e l o p e r\na curiosity-driven data scientist, eager to\nkpmmc inc. machine learning junior developer, aug 2020 - ongoing\nleverage machine learning and data\nanalytics to extract meaningful insights,\nengineered an nlp solution that took any kind of text as an input and\nmake informed decisions and solve",
+    "WORK EXPERIENCE": {
+      "raw": "found top 5 questions and answers similar to it.\nchallenging business problems. i ensure\ncontributed to some other internal also.\nto contribute with my knowledge, logical\nthinking and analytical towards the\nconsistent growth and development of\nthe organization, and enhance my\nand teamwork.",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": []
+    },
+    "SKILLS": [
+      "2018",
+      "2020",
+      "bachelor of science(ca) mamco university kerala",
+      "cluster analysis",
+      "correlation analysis",
+      "data",
+      "data analysis",
+      "linear regression",
+      "logistic regression",
+      "machine learning",
+      "master of science(ca) mamco university kerala",
+      "mining",
+      "natural language processing"
+    ],
+    "ACTIVITIES": "principal component analysis, anova,\nneural networks, r, python, mysql,\ntableau, excel, spss, decision tree.\ntrained in big data analysis",
+    "PROJECTS": {
+      "raw": "hadoop a-1 level certificate\nchatbot for customer feedback and\nresponses.\nsmart mirror for jewelry",
+      "keywords": []
+    }
+  }
+}

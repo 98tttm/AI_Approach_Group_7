@@ -1,0 +1,42 @@
+{
+  "id": "cv (1199).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "loren shevitz\n345 w. fullerton 2101\nphone: 773-665-1234\nchicago, il 60614-2853\nloren shevitz.org\nillinois institute of art instructor of computer literacy, april 2003 - present\nteach students computer terminology, ms office (word, access, powerpoint, excel), html programming\nshircago (jewish co-ed a cappella ensemble) www.shircago.com\nfounder, director, webmaste\noctober 1996 - present\naccomplishments: producer of three cds, composer/arranger of over 30 songs, creator and\nfacilitator of national e-mail list, spring tour coordinator (twice)\ncompetitions: harmony sweepstakes semifinalists (2003), ncca quarterfinalists (2000)\nsoftware used: finale 2003 (for music notation), photoshop 7 (for graphic design), linux (for\nadministration), ms office, sql, and filezilla\nlisten up a cappella (jewish a cappella ensemble)",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "musician, arranger\njanuary 2001 - present\nperform jewish repertoire in hebrew and english locally and internationally appeared on jewphoria cd, 2002 olin-sang-ruby union institute (jewish overnight camp)\noconomowoc, wi\nsummer, 1993\ncamp counselor taught jewish and hebrew lessons kibbutz mishmar hasharon, mercazei olim,gadna, livnot u l hibanot, educational seminars\n1994-95\ntaught english to sabra and immigrant children and teenagers",
+      "keywords": [
+        "app"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "spoke hebrew extensively, especially during 2-3 month stays each in ashdod and nazareth illit university of chicago\nmaster of science, computer science, 2002\nuniversity of michigan\nbachelor of arts, psychology, april 1994",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "instruments: piano",
+      "languages: hebrew",
+      "residential college graduate (entails additional requirements)",
+      "sophomore honors award",
+      "spanish",
+      "voice"
+    ]
+  }
+}

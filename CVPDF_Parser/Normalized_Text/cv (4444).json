@@ -1,0 +1,79 @@
+{
+  "id": "cv (4444).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "director of information technology and analytics\ntechnology and support business objectives. committed to quality and service excellence with aptitude for launching new technology platforms.\nsubject matter expert in information security risk management. excellent communicator adept at identifying business needs and bridging the gap\nbetween functional groups and technology to foster targeted and innovative solutions.\nhighlights\nos/platforms: microsoft windows server 2008/2012, exchange 2010, iis, active directory, dns\nnetworking: cisco lan/wan (asa/switching), tcp/ip, vpn, voip, sip, mpls, vnc, vlan segregation\nhardware: san/fiber technology, enterprise servers, switches, routers, workstations, laptops, mobile devices\n(ipad/iphone/blackberry),\ntelephony systems: cisco cucm\ntools: jira, veritas netbackup, backup exec, pcanywhere, symantec antivirus, ghost, sharepoint, visio, microsoft office suite\ndirector of information technology and analytics\njanuary 2005 to current company name city , state\nmarket-leading global credit asset management firm with 4 billion aum and over 120 employees worldwide.\ndirected the firm s word-wide information technology strategy.\nestablished and instituted policies, procedures and technology to mitigate corporate security risk and position zais for sarbanes-oxley act",
+      "companies": [
+        "company",
+        "corp",
+        "solutions"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "compliance.\nidentified process improvement opportunities and recommended solutions and budget requirements to management committee.\nmanaged team of 6 resources responsible for technology management and support operations encompassing all aspects of it infrastructure\nincluding workstations, server platforms, ip telephony, l3 network infrastructure, network security, disaster recovery, storage area\nnetworks and videoconferencing.\nevaluated and deployed dlp solution.\nchairman of the firm s cybersecurity committee responsible for advancing the firm s security posture.\nselected accomplishments developed and led a technology strategy for the firm that supports strong business alignments, increases\nprofitability and provides a sound, flexible and reliable foundation for the future.\nenabled revenue growth by leading the timely deployment of high-performance virtual computing environment to support new models\ncreated by internal development teams.\ncreated incident response policies and procedures rooted firmly on the nist framework.\ndeveloped and lead breach rehearsal scenarios both for executive roundtable tests and technical response team practices.\ndesigned data governance and classification policies particularly in regards to personally identifiable information (pii).\nevaluated and deployed data loss prevention system (symantec) and created escalation procedures to comply with the firm s data\ngovernance policy.\nmanaged all security vendor relationships through the contract negotiation lifecycle and service level agreement reviews.\ndeveloped associates to their fullest potential by providing challenging opportunities that enhanced associate s career growth.\nrecruited and developed appropriate talent pool to insure adequate bench strength and succession planning.\nmanaged logistics, procurement and deployment of it infrastructure in dallas, baton rouge, shanghai, dublin, london, singapore and\nselected accomplishments designed and led windows 2003 migration team.\nadministered cisco multi-vlan layer 3 switched lan wan.\ndesigned and administered cisco vpn solution.\nengineered and deployed microsoft exchange 2003 solution including web access/spam protection/security.\nresponsible for disaster recovery plan/execution.\nsupervised it staff and coordinated all consultants.\nsystems administrator\njanuary 2000 to january 2002 company name city , state\nconsulting firm providing portal technology to enterprise customers.\nadministered and supported 250 client node windows nt environment.\nplanned, configured and administered the upgrade of windows nt to windows 2000.\nmaintained dns, wins and dhcp in multi-site environment.\nmaintained 85 node development server environment.\nengineered and deployed system management server 2.0 infrastructure.\ndesigned workstation and server imaging system using symantec ghost.\nloss prevention, managing, market, mentoring, access, exchange, microsoft exchange 2003, microsoft office suite, sharepoint, microsoft\nwindows, windows, windows 2000, windows nt, word, migration, enterprise, network security, network, networking, networks, next, os,\ndevelopment, requirements analysis, routers, san, sarbanes-oxley, servers, service level agreement, sound, sql, strategy, strategic\nplanning, switches, symantec, tcp/ip, telecommunications, telephony, troubleshooting, upgrades, upgrade, veritas, veritas netbackup, video,\nvpn, visio, voip, wan",
+      "keywords": [
+        "analysis",
+        "app",
+        "model",
+        "system",
+        "web"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "tokyo locations inclusive of establishing a sustainable model for support.\nestablished a viable disaster recovery strategy with a physical to virtual solution and liaison with all business units to generate the firm s\nbusiness continuity plan.\nspearheaded the analog to voip conversion of zais ipt and video infrastructures (cisco cucm environment).\ntransformed it support and organizational interaction practices, fostering strong, collaborative work environment.\nwhile developing robust help desk systems and processes for improved trouble ticket initiation and visibility.\nled the firm s cybersecurity enhancement effort by managing the design, implementation and maintenance of the advanced threat\nprotection system, next generation firewalls and mobile computing security.\ndeveloped the firms cybersecurity policy and incident response team firmly rooted on the nist framework.\nresponded to audit requests from potential and current investors, met with them to discuss finding, and guided them through the due\ndiligence process.\nresponded to external auditors and lead remediation efforts if needed.\nreported all audits to the executive board.\nfostered a culture of security awareness in the firm by obtaining executive level support for cybersecurity initiatives and enabling\ninformation technology manager\njanuary 2002 to january 2005 company name city , state\nperformed daily network monitoring tasks including backups (veritas) and log checks.\ndata/systems administrator\njanuary 1998 to january 2000 company name state\nglobal provider of information technology products and services (3 billion in revenue) oversee and modify the daily download of data from\nseveral distributors.\nuploaded data to appropriate sql databases.\nmaintained and perform hardware/software upgrades on windows ftp servers.\nbachelor of science : psychology/history , 1998 rutgers university city , state psychology/history",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "ACTIVITIES": "manufacturing firm with over 100 year history and 170 employees.\noversaw administration of network infrastructure, business systems, cabling and circuits, and telecommunications platforms.\nestablished and managed relationships with technology vendors and service providers.\nmonitored and tracked call volumes, service requests, and performance metrics.\nled work order documentation and change request management.",
+    "SKILLS": [
+      "active directory",
+      "antivirus",
+      "asset management",
+      "backup exec",
+      "budget",
+      "business systems",
+      "cabling",
+      "cisco",
+      "client",
+      "competitive",
+      "consulting",
+      "contract negotiation",
+      "conversion",
+      "credit",
+      "databases",
+      "dhcp",
+      "disaster recovery",
+      "dns",
+      "documentation",
+      "due diligence",
+      "enterprise resource",
+      "firewalls",
+      "ftp",
+      "ghost",
+      "hardware",
+      "help desk",
+      "iis",
+      "imaging",
+      "information technology",
+      "ip",
+      "it support",
+      "lan",
+      "laptops",
+      "logistics",
+      "planning",
+      "team leadership"
+    ]
+  }
+}

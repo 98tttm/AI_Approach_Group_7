@@ -1,0 +1,48 @@
+{
+  "id": "cv (4834).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "artificial neural networks",
+      "computer vision on aws.",
+      "deep learning",
+      "keras",
+      "machine learning",
+      "machine learning.",
+      "natural",
+      "nlp",
+      "nlp using aws.",
+      "object",
+      "python",
+      "science",
+      "tensorflow"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "software developer and data analytics fresher. looking to get into the field of\njunior sde, feb 2019 - till date",
+      "companies": [],
+      "titles": [
+        "developer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "understanding text models and using them to create chatbots on",
+      "keywords": [
+        "model"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "bachelor of science (ca) from university of hyderabad, 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

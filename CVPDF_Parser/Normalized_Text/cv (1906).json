@@ -1,0 +1,35 @@
+{
+  "id": "cv (1906).pdf",
+  "normalized_sections": {
+    "ABOUT": "ajay kumar\nvill.rasool pur,post mahul,\ndist.azamgarh ,uttar pradesh. 918418092530 ajaysahaniaditya18fb gmail.com\ntower crane operater,",
+    "PROJECTS": {
+      "raw": "work as tower crane operater in becon construction company llc.dubai.\npersonal information\nname:ajay kumar\nfather name:ram ashrey bind\ndate of birth:12 march 1993\nhoist crane.. namebd-43, bd-77 ,c02 majestic tower descriptionc02 majestic tower, emirates city in ajman,\n26th floor,,\nreferences\nnameajay kumar\norgnization\nphone number8418092530\ncityindia",
+      "keywords": []
+    },
+    "EDUCATION": {
+      "raw": "cnic no:0617\nmobile number: 918418092530\ne mail:ajaysahaniaditya18fb gmail.com\nnationality:indian\nba.\nfaizabad university,\n2011",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "2013",
+      "diploma in computer with ms.office"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "becon construction company llc.dubai.\ntower crane operater,\ndubai\nunited arab emirates.\n2014\n2016",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "ACHIEVEMENTS": "work as a tower crane operater,\nhobbies\ncricket,\nlanguages\nhindi, english,\ncertificate, dubai government,\ncertificate, abudhabi government,"
+  }
+}

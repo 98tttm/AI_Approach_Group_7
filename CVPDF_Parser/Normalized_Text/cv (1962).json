@@ -1,0 +1,29 @@
+{
+  "id": "cv (1962).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "bio- data\npost applied for\n- driver\nname\n- ramchander\ncontact no.\n- mob. 919896978494, 917988289425\nage\n- 45 yrs.\ndate of birth\n-01-04-1972\nsex\n-male\nnationality\n-indian\nreligion\n-hindu\nmarital status\n-married\neducational qualification - board of school\nlanguage known - english,hindi\npassport no.\n-h6098442\ndate of issue\n-06/07/2009",
+      "degree": [],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "date of expiry\n-05/07/2019\nplace of issue uae dubai worked as a driver in eta\ncompany from 2009-14\npresently working as a driver in solar hr. pvt. ltd. doha,qatar since\nlast 3 year\ndeclaration\ni hereby declare that the above mentioned\nstatements are true and correct to the best of my\nknowledge and belief.\nplace-dubai\ndate\nramchander",
+      "companies": [
+        "company",
+        "inc",
+        "ltd",
+        "pvt"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

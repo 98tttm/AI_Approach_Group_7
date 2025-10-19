@@ -1,0 +1,38 @@
+{
+  "id": "cv (4).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "development of a python module to assist ocr models.",
+      "nlp operations including but not",
+      "python",
+      "r programming",
+      "software developer with a niche towards end to end machine learning .",
+      "sql"
+    ],
+    "CERTIFICATIONS": "learning, pyspark, azure\ndatabricks, aws.",
+    "WORK EXPERIENCE": {
+      "raw": "junior data evangelist, july 2019 - till date\nsoftware developer intern, jan 2019 - jun 2019",
+      "companies": [],
+      "titles": [
+        "developer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "bachelor of technology(instrumentation), baburao patil college and\nuniversity, aurangabad, 2019.",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cv (4630).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "it manager\ncommand line ios, voip, qos tagging, layer 2, 3 and 4 switching and packet shaping. i have used fluke optiview, wireshark, netflow\nanalyzer, solarwinds network performance monitor and sms to assist me in the process of identifying network bottlenecks and performance\nv, vmware and data loss prevention software.\nhighlights\ndatabase\nmaintenance\nsystem checks\nand\ntroubleshooting\nadvanced\ntroubleshooting\nvirus and\nspyware\nsoftware symantec backup exec, system recovery, endpoint protection, trend micro, mcafee, eset, acronis,\nremoval\nshadowprotect, gfi, crow canyon, dameware, wireshark, netflow analyzer, splunk, sms, fluke optiview,\ncomputer\nsecurity,\nfirewalls and\ndlp\naccomplishments\nsaved company over 50,000.00 per year by refurbishing used computers and technological equipment and switching internet providers from t1\nlines to cable.\nit manager , 07/2012 - current company name - city , state\nserver installations and migrations, sonicwall firewalls, vpn installation and support, wireless access points, multilayer switches, routers,",
+      "companies": [
+        "company"
+      ],
+      "titles": [
+        "intern",
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "solarwinds npm, microsoft response point, gp, crm and sharepoint,\ndiagnostics and\ndatabases sql, mysql\nrepair\nhardware servers, workstations, laptops, printers, smart phones, routers, switches, firewalls, wireless access\nserver\npoints, lto autoloaders, cctv, pbx and ip phone systems, biometric scanners and readers\nmanagement\napplications apache, iis, cisco asdm, cisco vpn client, mas 90, sage medical manager, braintree\nhardware\npacs/c-arm, vmware, citrix, smartfilter, imail, websense, iprism web security, hyper-v, sonicwall global\nsupport and\nvpn client, adobe, foxit phantom pdf, jobboss, made2manage erp, word, excel, access\ntroubleshooting\nhighly\noperating systems windows 2000 server, server 2003, server 2008, server 2012, exchange server(2000,\nmotivated\n1985 indiana university - city , state , usa b.a sociology sociology and psychology",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "2003, 2007, 2010, 2013 & associated migration tools), cisco ios, linux, mac os\nresourceful\nadvanced\nknowledge of\ndiagnostic\ntechniques\nadvanced\nknowledge of\nhelp desk support for 3 sites, multi-mode fiber, microsoft exchange server, server 2012, hyper-v installation and support, windows xp\nhardware and software, biometric reader installation and support, syspine ip, microsoft response point, voip, creo pro/e, windchill,\nsolidworks, quickbooks enterprise, mcafee saas, network security, disaster recovery, infrastructure design and support, network\nhardware and software troubleshooting, administration of user accounts, responsible for developing annual it budget, responsible for it\nadministration of group policy, active directory, help desk support, hyper-v, dlp.\ninformation technology engineer , 10/2008 - 07/2012 company name - city , state\nserver installations and migrations, migration of databases, exchange server, sql, mysql.\ncisco pix and asa 5505 installation and support, network security, wireless hardware, installation and support of symantec backup exec\nand endpoint protection, mac os, help desk support for multiple sites, phone system and voip support.\nadministration of group policy, active directory, dhcp, dns, hardware and software troubleshooting, upgrades and migrations of legacy\nsoftware packages.\nsenior network engineer , 10/2007 - 06/2008 company name - city , state\ns\ni t ll ti\nd i\nti\nd t b\ne h\ns\nsql m sql\nserver installations and migrations, databases, exchange server, sql, mysql.\nhp servers, secure computing webwashers, snapgear firewall/vpn appliances, cisco switches, trend micro products, symantec\nproducts, network security, wireless installation and support, virtual machines, help desk support for multiple sites, phone system and voip\ndatabases, dhcp, disaster recovery, dns, erp, firewalls, firewall, ftp, help desk support, help desk, hp, hp servers, iis, information systems,\nexcel, exchange server, microsoft exchange server, sharepoint, windows 7, windows 8, 2000, windows xp, word, migration, mysql,\nenterprise, nas, network engineering, network hardware, network security, network, operating systems, pacs, pbx, pdf, phone system,\ntroubleshooting, solidworks, sql, supervising, switches, cisco switches, symantec, system analysis and design, teaching, user support, phones,\nterminal server, toshiba, trend, upgrades, vpn, voip, windows 2000 server",
+      "keywords": [
+        "analysis",
+        "app",
+        "system",
+        "web"
+      ]
+    },
+    "CERTIFICATIONS": "support.\nadministration of group policy, active directory, dhcp, dns, end user support.\ninformation technology engineer , 03/2005 - 10/2007 company name - city , state\nserver installations and migrations, migration of databases, mas 90, sql, mysql.\ncisco 1721, 2800 and 3600 series routers, cisco catalyst 2900 and 3100 series switches, hp procurve switches, symantec products,\nnetwork security, wireless installation, iscsi nas/san (intel hardware), media servers, terminal server applications, braintree pacs and\nc-arm, biometric readers, time and attendance installation and support, help desk and end user support for 7 sites.\nadministration of group policy, active directory, dhcp, dns, vpn tunnels, ftp servers, sage medical manager, voip, qos, layer 3 and\n4 switching, cisco aironet access points, toshiba hybrid pbx and voip phone system and qos support, hipaa compliance, media\nservers, iscsi, fibre channel, san and nas design, installation and support.\nassistant professor , 08/2000 - 07/2005 company name - city , state\nprogram chair for region 2 (south bend, elkhart and warsaw server installations, teaching a , network , microsoft mcsa and cisco\nccna classes, programming routers, switches and installing and configuring windows 2000 server and server 2003.\nsupervised all computer information systems faculty, staff and adjunct instructors for all three sites in region 2, hardware/software\ntroubleshooting and support.\nadministration of group policy, active directory, ferpa compliance.\noperating systems, business applications, network engineering\ncomptia a , network , microsoft mcp (70-210 and 70-215), previously certified as cisco ccna",
+    "SKILLS": [
+      "a",
+      "active directory",
+      "adobe",
+      "apache",
+      "backup exec",
+      "budget",
+      "business process",
+      "ccna",
+      "cisco",
+      "cisco ios",
+      "citrix",
+      "client",
+      "crm",
+      "hardware"
+    ]
+  }
+}

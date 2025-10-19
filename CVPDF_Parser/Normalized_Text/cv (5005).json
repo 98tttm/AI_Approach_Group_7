@@ -1,0 +1,25 @@
+{
+  "id": "cv (5005).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "andora mcconnel\ndata scientist\nexecutive\nskilled in creating data regression\nhp\nmodels using predictive data\nlead data scientist, feb 2020 to till date\nmodeling, and data mining\nalgorithms to deliver insights and\npredicting anomalies in the frequency of\nimplemented action-oriented\ntransactions on real-time data. used python and\nsolutions to complex business\nprophet for the same.\nproblems by using classification",
+      "companies": [
+        "solutions"
+      ],
+      "titles": [
+        "scientist"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ABOUT": "algorithms and regression\nadnet global\nalgorithms, natural language\ndata scientist, jan 2019 to dec 2019\nprocessing (nlp), object\nrecognition in python.\nbuilt face recognition for identifying various\nhollywood celebrities for a uk-based fashion\nmagazine. used python, opencv, dlib. the model\npersonal\ncould identify 90 % of the celebrities correctly.\ndata science, data analysis,\nmachine learning, deep learning,\nstatistical analysis, data mining,\ncomputer vision, algorithm\nb.com (commerce) from delhi college of art in 2017\ndevelopment, linear regression,",
+    "PROJECTS": {
+      "raw": "pg diploma (data science and business analytics)\nmarket basket analysis, python, r,\nfrom aegis school of business & data science in\nsql, nosql.\n2019\nocr model from scratch.\nextra-curriculars\ndata analyst .",
+      "keywords": [
+        "analysis",
+        "model"
+      ]
+    }
+  }
+}

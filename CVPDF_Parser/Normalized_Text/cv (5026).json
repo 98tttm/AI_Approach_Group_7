@@ -1,0 +1,37 @@
+{
+  "id": "cv (5026).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "beula smithson\ndata analyst\nexecutive\nexperience analyst and business\ngraphene health tech pvt ltd\nsolutions provider. i use the power\nbi engineer oct 2019 to till date\nof data for inference and leverage\nresponsible for the entire logic layer of the\nboth analysis and machine",
+      "companies": [
+        "ltd",
+        "pvt",
+        "solutions"
+      ],
+      "titles": [
+        "analyst",
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ABOUT": "dashboard for various . developed entire\nlearning for it. features from scratch, worked on many related to building dashboard in tableau\nusing sql for finance, procurement, hr, audit,\nsales, and quality, etc.\npersonal\ndata analytics, business analysis,\nbusiness intelligence, machine\nlearning, python, sql, tableau,\npowerbi, jupyter, ssms, data",
+    "EDUCATION": {
+      "raw": "bachelor of technology(computers) from a.g. patil institute of",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "institute"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "analysis, dax, etl.\ntechnology, solapur in 2017\nm.e(computer science) from walchand institute\nof technology, solapur in 2019\nanalysis of anomaly in olympics\ndataset.\nextra-curriculars\ndata dashboarding in tableau.",
+      "keywords": [
+        "analysis"
+      ]
+    }
+  }
+}

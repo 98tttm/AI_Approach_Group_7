@@ -1,0 +1,29 @@
+{
+  "id": "cv (1588).pdf",
+  "normalized_sections": {
+    "ABOUT": "i.caroline mary\naddress for communication\nc-2, lakshmi ganapathy flats\n7th street, lakshmi nagar,\nemail: carolinemaryjesu gmail.com\nmadipakkam\nmobile: 80725 59654\nchennai 600 091\n99405 73727\nto work smart by utilizing the abilities and continuous sharpening of teaching .\neducational qualifications\nboard/\nyear of\npercentage\ncourse\ninstitution\nof marks\nuniversity\npassing\nbharathidasan\navvm sri pushpam\n: ccmr polytechnic, thanjavur\nperiod\n: august 2007 november 2009\ndate of birth : 1st july 1980\ngender\n: female\nlanguages known\n: english, tamil,\nmarried status : married\nhusband name\n: t.jesu arulraj\nnationality : indian.\ndeclaration\ni do hereby declare that the particulars of information stated above are true, correct and complete\nto the best of my knowledge and belief.\ndate:\nplace:\n(i.caroline mary)",
+    "EDUCATION": {
+      "raw": "m.sc. chemistry\nuniversity\n2004\n66%\ncollege, poondi, thanjavur\nbharathidasan\nbon secours college of\nbachelor of engineering\nuniversity\n2006\n72%\nbharathidasan\nrishi computer institute of\np.g.d.c.a\nuniversity\n2002\n71%\ntechnology,thanjavur.\nbharathidasan\nkng\narts\ncollege,",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "b.sc. chemistry\nuniversity\n2001\n70%\nthanjavur\nsacred heart girls hr sec\n74%\nhigher secondary\nstate board\n1998\nschool, thanjavur\ndesignation\n: lecturer\norganization",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

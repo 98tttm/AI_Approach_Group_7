@@ -1,0 +1,75 @@
+{
+  "id": "cv (4549).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "it consultant\ncareer overview\nqualifications\nwindows server 2000-2012, active directory, windows desktop o.s. 7 - 10, exchange server 2010-2013/vmware vsphere (esxi),\namazon web services, ec2, s3, cloudfront, glacier, rds, mysql, ms sql, linux centos 6, apple ios, sonicwall, office365 software:",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "CERTIFICATIONS": "ms office, rdp, putty, successware21\naccomplishments\n01/2001 to 01/2015\nit consultant company name\nimplemented and managed it infrastructure designed and managed windows active directory network (windows nt 4.0, windows\n2000 - 2012 servers) managed ms exchange, ms sql, successware21, symantec backup exec, kaspersky virus protection servers,\ndiploma : computer operations computer operations\ndegree henderson county junior college city , state\nmay 1985\nassociates : science, business science, business\naws certified solutions architect - associate level microsoft certified professional (mcp) microsoft certified system administrator (mcsa)\ncitrix certified administrator (cca), certified imanage system engineer (icse)",
+    "PROJECTS": {
+      "raw": "and sonic firewalls managed and supported tadiran pbx, aeonix contact center, and csi (vo) call accounting servers developed\nand implemented secure remote access solution for sales consultants and field service technicians provided hardware and application\nsupport for in-house and field service personnel installed, and troubleshoot applications and services on windows and ios devices network design and installation (windows networking, active directory) hardware/software installation and configuration remote\naccess solutions, including secure wireless technologies email database development services performance monitoring and tuning\nserver sizing and capacity planning disaster recovery and business contingency planning vendor liaison and product selection 24x7\nnetwork & application monitoring comprehensive network support agreements.\n01/1998 to 01/2001\n01/1996 to 01/1997\nnetwork analyst/director of operations city , state\nmember of global systems integration team.\nprovided field service functions in the maintenance, installation, and deployment of networking and document management solutions for law\nfirms and various other clients in the south eastern united states.\ntroubleshooting of servers and networks, citrix metaframe 1.8, citrix metaframe xp, citrix nfuse, and 24 hour on call support.\nresearched and defined client/server security architecture and provided technical leadership and coordination for the planning and\ndeployment of citrix solutions.\ntechmatics, in., next century integration develop and provide wan and lan solutions for various clients in windows nt 3.51, nt 4.0,\nwfw, and windows 95 environments.\nincluding, install and configure internet access, remote access, system redundancy solutions that included all levels of raid, and server\nmirroring technologies.\npromoted to director of operations in december 1996, washington region: supervised five employees: successfully managed various\n01/1992 to 01/1996\ntechnical analyst company name\nresponsible for the installation, maintenance and operation of all computer related hardware and software.\nwork with technology supervisor and personnel supervisor to maintain consistency with regard to word processing procedures among\nsecretarial and word processing personnel and assist with ongoing training in new procedures.\nsupport all inter-office telecommunications, electronic mail and internet services.\nserve as the system administrator to windows nt lan supporting 150 users.\nadminister sql server and pcdocs databases.\nnetworking, ms office, office, windows, windows 2000, 2000, windows 95, windows nt, windows nt 4.0, nt 4.0, mysql, network\ndesign and installation, network support, network, networking, networks, next, netware, operating systems, pathworks, pbx, personnel,\nadministrator, systems integration, system integration, tcp/ip, telecommunications, troubleshoot, troubleshooting, upgrades, vax/vms, wan,\nwindows nt 3.51, windows server, word processing",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "coordinate with other firm offices regarding telecommunications procedures, and implementation of new technologies.\ninteract with vendors in acquisition of new software and hardware.\nmember of morrison & foerster networking taskforce: provided feasibility study that preceded implementing client/server technology into\nthe morrison & foerster environment.\nthis included costs analysis as well as operation, and management evaluations of netware, banyon vines, pathworks and windows nt assisted in the implementation of client/server technology in nationwide offices: system integration and conversion from vax/vms,\ndecnet, 56kb to windows nt, tcp/ip, frame relay network.\naws certified solutions architect - associate level. january, 2016 unitek mcse bootcamp city , state\nfebruary 2000\nmicrosoft certified professional, microsoft certified system administrator. november, 2003 interwoven technologies, inc. (formally imanage)\nchicago, illinois - imanage certified system engineer computer learning center city , state\njanuary 1988",
+      "degree": [],
+      "institution": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "access",
+      "accounting",
+      "active directory",
+      "apple",
+      "architect",
+      "backup exec",
+      "capacity planning",
+      "cca",
+      "citrix",
+      "citrix certified administrator",
+      "citrix metaframe",
+      "citrix metaframe 1.8",
+      "client",
+      "clients",
+      "conversion",
+      "database development",
+      "databases",
+      "decnet",
+      "director",
+      "disaster recovery",
+      "document",
+      "electronic mail",
+      "email",
+      "engineer",
+      "exchange server",
+      "feasibility study",
+      "firewalls",
+      "frame relay",
+      "hardware",
+      "internet access",
+      "internet services",
+      "lan",
+      "law",
+      "leadership",
+      "linux",
+      "management",
+      "mcp",
+      "mcse",
+      "microsoft certified",
+      "microsoft certified professional",
+      "ms exchange",
+      "server",
+      "windows"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cv (1387).pdf",
+  "normalized_sections": {
+    "ABOUT": "shreyas vinjmauri\nvinjamuri shreyas\nchowdavaram,\nd.no: 1-29,\nsandellari street,\nchowdavaram,\neast godavari district, email: shreyas.vinjamuri gmail.com\npin code: 533255. mobile: 91-9603866103\nto pursue a highly challenging career, where i can apply my knowledge, prove my\npotential and contribute constructively to the organization.\nacademic details:\nyear of\ncourse\ninstitution\nboard/universiy\npercentage\npassing\nsri aditya institute of\nb.tech(ece)\nscience &\n63.70 participated as an active volunteer for organization itrroddd name : v.shreyas father name : v.vinayakarao date of birth : 16-01-1994. nationality : indian. geographic and discovery\nlanguages known : telugu, english, hindi, marati. address for communication : v.shreyas, s/ov.vinayakarao,\nsandellari street,\nchowdavaram,\neastgodavari district,\npin code: 533255,\nandhra pradesh.\ndeclaration:\ni hereby declare that the information furnished above is true to the best of my knowledge.\n(v.shreyas)\ndate: 20.05.2015\nplace: e.g. district",
+    "EDUCATION": {
+      "raw": "jntuk\n2015\n( pursuing)\ntechnology,\nsurampalem\nsri sai aditya institute\nof science &\nstate board of\ndiploma\n2011\n71.97\ntechnology,\nsurampalem\nvivekananda english\ns.s.c\nmedium high school,",
+      "degree": [],
+      "institution": [
+        "institute",
+        "school"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "s.s.c\n2009\n77.1%\nramachandrapuram\nultra sonic distance meter",
+      "keywords": []
+    },
+    "SKILLS": [
+      "computer applications"
+    ]
+  }
+}

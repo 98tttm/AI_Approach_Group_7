@@ -1,0 +1,38 @@
+{
+  "id": "cv (4937).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "data",
+      "machine learning",
+      "python"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "intern, feb 2020-oct 2020",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "price forecasting using time\ncreating customer engagement module for online vendors, utilizing\ndatabase management, recommender system and data cleaning.\nclassification using logistic",
+      "keywords": [
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "bachelor of technology (electronics and communication) from punjabi\nuniversity, patiala in 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

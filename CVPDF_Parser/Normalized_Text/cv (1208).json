@@ -1,0 +1,60 @@
+{
+  "id": "cv (1208).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "julian a. carey\n45a belmont street\nsomerville, ma 02143\ntel: 617-645-0262\nfax: 661-749-7572\nemail: julian01 mit.edu\n1999 2001\nmit sloan school of management\ncambridge, ma\ncandidate for master of business administration, june 2001\nacademic interests: marketing, system dynamics, international management\ndefined mobile financial service product for movilogic during 1 month residence in buenos aires, argentina",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "planned market entry strategy with field study team for ntru, a wireless infrastructure security start-up company\n1991 1995\nstanford university\nstanford, ca\nbachelor of science, june 1995\nmajor: mechanical engineering, product design 250,000 in manufacturing equipment costs\nstudied for 3 months in paris with focus on architecture & french political history\ninterviewed customers and clarified business requirements analyzed competitors and originated differentiation strategy 1995 1999\nhewlett packard company / agilent technologies san jose, ca\nmanagerial accomplishments\nmanaged cross-functional product development team developed efficient traffic signal for 100 million market established product definition and performed competitive analysis forecast financial performance under conditions of uncertainty using simulation model presented business plan to senior management and procured 2 million budget identified and built market awareness with 2 customers in the usa and europe, generating 7",
+      "keywords": [
+        "analysis",
+        "model"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "starting forward, ice hockey team summer\nmechanicnet.com\nfremont, ca\n2000\nmarketing manager\nwrote business plan for seed-stage start-up company and procured investment capital",
+      "companies": [
+        "company"
+      ],
+      "titles": [
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "& golf",
+      "and going to the opera",
+      "and interests hockey",
+      "clubs: sloan latin club",
+      "cooking extremely spicy southeast asian cuisine",
+      "directed the installation of manufacturing equipment in penang",
+      "enjoy playing ice",
+      "french",
+      "languages: english",
+      "malaysia in the course of a 3",
+      "mediatech",
+      "million in new business",
+      "month residence",
+      "of ireland",
+      "photographing the west",
+      "playing the piano",
+      "presented research on power-diode substrates at international microelectronics symposium",
+      "spanish",
+      "technological innovations",
+      "tennis",
+      "won 2 u.s. patents (pending) shared with 3 other product design team members"
+    ]
+  }
+}

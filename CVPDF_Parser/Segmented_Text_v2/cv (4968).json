@@ -1,0 +1,8 @@
+{
+  "id": "cv (4968).pdf",
+  "sections": {
+    "ABOUT": "RACHEL DAWN\nD A T A  S C I E N T I S T\nWORK BACKGROUND\nThe majority of my \nInnoplexus\nincludes Computer Vision, Deep Learning\nData Scientist Nov 2019 to Till Date\nand NLP. I have worked on traditional\nmachine learning algorithms like SVM,\nBuild an end-to-end, Computer Vision and NLP-based PDF-Extractor\nRandom Forest, Logistic Regression, Linear\nmodel to convert unstructured congress research paper pdf documents\nRegression, KNN, K-means Clustering, etc.",
+    "EDUCATION": "and Deep Learning algorithms like YOLO,\ninto a structured and categorical format with a micro-average F1-score\nBaidu's DeepSpeech, FCN on Keras and\nof 0.84.\nPytorch architectures.\nCreated a model for identification and conversion of the graphical\nrepresentations of chemical structures from literature sources into\nSMILES. Used OpenCV for various image preprocessing and OSRA an\nopen-sourced tool for SMILES generation.\nDeep learning, Python, SQL , Keras,\nDual Degree (B.tech + M.Tech)(Chemical) from Indian Institute of\nPyTorch, PySpark , Data Science, Data\nTechnology (IIT), Kharagpur in 2019\nAnalysis, Machine Learning, Natural",
+    "ACTIVITIES": "Language Processing, Artificial\nIntelligence, Computer Vision, Pattern\nRecognition, NLP, OpenCV, Image\nProcessing.\nEnd-to-End Computer Vision Model for\nNatural Language Mastery - DataCamp\nHindi Sentence Recognition."
+  }
+}

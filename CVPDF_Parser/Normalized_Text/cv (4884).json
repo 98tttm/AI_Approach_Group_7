@@ -1,0 +1,57 @@
+{
+  "id": "cv (4884).pdf",
+  "normalized_sections": {
+    "ABOUT": "joseline\nhernandez\nd a t a s c i e n t i s t a n d m a c h i n e l e a n r i n g\ne n g i n e e r\ngood understanding of data\nbrainstrom\npreprocessing, training and deployment of",
+    "WORK EXPERIENCE": {
+      "raw": "machine learning engineer dec 2019- till date\nmachine learning and deep learning\nmodels.. worked on time series\nworked on end-to-end question generation application from\nforecasting, classification and clustering\nparagraph using bert and gpt2 with the use of gpu, docker, and\nflask framework.\ntools.,",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "aws",
+      "bert",
+      "dashboards for real-time monitoring of sensor data collected using",
+      "data analysis with python",
+      "deep learning",
+      "different sensors installed inside a house.",
+      "docker",
+      "flask",
+      "git",
+      "ibb tech pvt ltd junior",
+      "jan 2019-nov 2019",
+      "lstm",
+      "machine learning",
+      "machine learning intern",
+      "machine learning stanford university",
+      "machine learning with python",
+      "mysql",
+      "natural language",
+      "networks",
+      "neural",
+      "processing",
+      "python",
+      "rnn"
+    ],
+    "EDUCATION": {
+      "raw": "tensorflow, keras, pytorch, numpy,\nbachelor of technology (telecommunication) from skn, coimbatore in 2019",
+      "degree": [
+        "bachelor",
+        "mba"
+      ],
+      "institution": [],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "pandas, glove, lucene, linux, devops,\nspacy, gpu, data science.",
+    "PROJECTS": {
+      "raw": "study of factors affecting statistical\ncomparisons, such as the type of dataset,\nthe method of selection of train-test data,\nand the type of machine learning algorithm.",
+      "keywords": []
+    }
+  }
+}

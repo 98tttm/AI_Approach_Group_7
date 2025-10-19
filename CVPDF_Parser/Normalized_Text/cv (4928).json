@@ -1,0 +1,37 @@
+{
+  "id": "cv (4928).pdf",
+  "normalized_sections": {
+    "ABOUT": "eli scott\nf r e s h e r\nseeking challenging opportunity in the\njp chand and co",
+    "SKILLS": [
+      "deep learning.",
+      "field of data science and data analytics",
+      "intern",
+      "keras",
+      "knowledge to contribute for the growth of",
+      "machine learning",
+      "may 2020 - oct 2020",
+      "mysql",
+      "python",
+      "tensorflow",
+      "trained as a python developer and machine learning model builder."
+    ],
+    "EDUCATION": {
+      "raw": "the organization\nbachelor of technology(metallurgy) cit, calicut, 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "python machine learning udacity",
+    "PROJECTS": {
+      "raw": "prediction model which can predict the\nimpact of the incident raised by the\ncustomer.",
+      "keywords": [
+        "model",
+        "predict"
+      ]
+    }
+  }
+}

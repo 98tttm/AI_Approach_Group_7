@@ -1,0 +1,31 @@
+{
+  "id": "cv (279).pdf",
+  "normalized_sections": {
+    "ABOUT": "mohammed hameedullah sharief\nmobile : 91-9700402170\nemail : mdhsharief123 gmail.com\nto ensue a highly profitable career, seeking for a challenging job and healthy work\nenvironment where i can utilize my and knowledge efficiently for organizational goal. masters degree in communication engineering and signal processing from v.r.s.e.c\naccredited by nba, kanuru with 7.35 cgpa in 2016. bachelors degree in electronics and communications engineering from k.h.i.t.\nchowdavaram with 61.39% in 2014. completed intermediate ( 2 standards m.p.c.) from nios, guntur with 55% in\n2010. completed s.s.c. (x- standard) from viswasanthi e.m high school, guntur with 67%\nin 2008.\nsignificant acheivements published paper in international journal of research in engineering and technology\nin 2016. participated in paper presentation conducted at technozion in nit warangal. attended workshop on facebook app development conducted by innobuzz at k.l.\nuniversity\napplication overview:\nthis application is used to give the reading of electricity used by the consumer and\nsends the message through gsm modem to his/her mobile and the following message is\nalso sent to the electrical department\nfather name\n: mohammed khasim\ndate of birth\n: 3-oct-1993\nlanguages known\n: english, hindi, urdu, telugu\nalternate number\n: 7337054880\nalternate e-mail\n: mohasin 106 yahoo.com\nhobbies\n: playing shuttle, chess and singing\nadress\n: d.n.o 18-15-7, syed khan street, chinna bazar,\nguntur-522003\ndeclaration\ni, mohammed hameedullah sharief hereby declare that the particulars of\ninformation and facts stated here in above are genuine.\n(mohammed hameedullah sharief)",
+    "SKILLS": [
+      "07",
+      "08",
+      ": matlab(image processing",
+      ": windows xp",
+      "ability to quickly grasp technical aspects",
+      "ability to understand the situation and act according to it.",
+      "actively participated in workshop on cloud computing conducted by jignasa in",
+      "communication)",
+      "do not give up until i succeed.",
+      "operating systems",
+      "personal competencies",
+      "putting in maximum efforts to be the best.",
+      "signal processing",
+      "technical competencies",
+      "vijayawada.",
+      "zeal to learn new things."
+    ],
+    "PROJECTS": {
+      "raw": "packages\n: ms-office and internet\n: brain tumour segmentation using k-means clustering\nduration\n: 12months\nplatform\n: windows 7\npackages used\n: matlab version r2015a (8.5.0.197613)\nenvironment\n: digital image processing\nbrain tumour segmentation is done by using k-means clustering through this we can able to\nsegment the tumour region in mri images and also accuracy is calculated with the help of\nconfusion matrix through ground truth which is tool for creating mask from the image.\nresponsibility:\nmy greater responsibility was to involve in designing the model with overall\nclustering techniques and getting efficient results.\nfuture scope: identification and reduction of noise in image without disturbing the tumour region. skull stripping without resizing image\nduration : semester (6months)\nplatform : windows xp\npackages used : keil vision v3 and proteus design\nenvironment : embedded systems\nteam size : 4",
+      "keywords": [
+        "model",
+        "system"
+      ]
+    }
+  }
+}

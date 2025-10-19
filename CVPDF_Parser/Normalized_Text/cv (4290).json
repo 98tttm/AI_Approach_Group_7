@@ -1,0 +1,115 @@
+{
+  "id": "cv (4290).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "software engineering co-op\nacross multiple platforms, software design, development and integration. advanced knowledge of mysql, css, c with expertise in all aspects\nof the software development life cycle, including requirements analysis, design, development and production support. experienced software\ndeveloper dedicated to constantly improving tools and infrastructure to maximize productivity, minimize system downtime and quickly respond to\nlanguage processing\nsoftware engineering co-op 03/2010 to 12/2010 company name city , state\nwrote a perl script that scanned a file directory tree and converted every file (proprietary file format) into an excel compatible csv format.",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [
+        "developer",
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      ".net",
+      "adaptable to a quick changing technical environment.",
+      "advance critical thinking",
+      "and debugging code",
+      "api",
+      "automate",
+      "backup",
+      "bash",
+      "c",
+      "credit",
+      "critical thinking",
+      "css",
+      "database",
+      "database & object oriented development",
+      "designing",
+      "designing interfaces",
+      "docker",
+      "ecommerce",
+      "engineer",
+      "excel",
+      "exchange",
+      "full life software life cycle development expert",
+      "git",
+      "go",
+      "google analytics",
+      "highlights",
+      "html",
+      "javascript",
+      "leveldb",
+      "linux",
+      "markdown",
+      "microsoft office package",
+      "ms access",
+      "ms visio",
+      "mvc",
+      "mysql",
+      "natural language processing",
+      "nosql",
+      "object oriented",
+      "oop",
+      "operating systems",
+      "operating systems: linux",
+      "other languages: css",
+      "page",
+      "perl",
+      "php",
+      "postgresql",
+      "programming",
+      "programming and designing",
+      "programming languages: c",
+      "python",
+      "regular expression",
+      "sass",
+      "script",
+      "scripts",
+      "software engineering",
+      "software testing",
+      "sql",
+      "sqlite",
+      "strengths include:",
+      "system administration",
+      "testing",
+      "the changing needs of the business which does not exclude an intensive background in develop",
+      "tools: netbeans",
+      "troubleshooting",
+      "unix",
+      "updated the company s intranet pages mar. 2011 - jun. 2011",
+      "vim",
+      "visio",
+      "visual basic",
+      "visual studio",
+      "website",
+      "website design & development",
+      "wordpress",
+      "xml"
+    ],
+    "PROJECTS": {
+      "raw": "website design & development & software engineering\nobject oriented development\nwork history full stack engineer\nlogontutor llc - cincinnati, oh\ndesign and implement an ecommerce website (in php) using mvc and oop\nintegrate 3rd party tools in php using xml api such as authorized.net (for charging credit cards), an online whiteboard, and paypal\ncreate an admin page (in php) that tracks user s browsing history, incomplete registrations, user s clicks from custom links, and user s\ncommunication exchange\nwrite command line scripts in bash to automate system administration tasks such as database backup and website deployment\nmar. 2012 - present\nmanaged a team of students in the implementation of an information retrieval system (in php) that searched the bible using natural\nemerging ethnic engineering program\njun. 2013 component engineering co-op l3 communications ce - mason, oh parsed and manipulated data relating to electrical components",
+      "keywords": [
+        "system",
+        "web"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "designed an algorithm in visual basic to identify and make changes to the bad sectors in the data.\nbachelor of science : electrical engineering jun. 2013 university of cincinnati city , state electrical engineering 3.1/4.0\npresent affiliations treasurer, young people union city , state member,",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

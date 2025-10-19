@@ -1,0 +1,39 @@
+{
+  "id": "cv (3304).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "resume\ndear sir,\ni hereby present my resume for the exciting job of your\ncompany s. i ensure you that my hard work would be a great\ninvestment for company.\nresume\nname\n:\ndipen pravinbhai panchal (ph)\naddress\n:\nb9, vardhamanpark 2, kosad\nroad,\namroli-394107.\ndob\n:\n10/07/1993\ncontact no\n:\n8347094502\nemail id\n:\ndipenppanchal25 yahoo.in\nyear\ndegree\npercentag\nboard/uni.\nremark\ne\n2008\ns.s.c\n72",
+      "degree": [],
+      "institution": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "gseb\n2010\nh.s.c\n63\nghseb\n2013\nb.com\n58\nvnsgu\n:\nworking as texture desiner in\ndesignmate pvt.ltd (2 year)\ncomputer knowledge\n:\nbasic knowledge of every",
+      "companies": [
+        "ltd",
+        "pvt"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "3d",
+      "corel drew",
+      "dipen. p. panchal",
+      "fast",
+      "flash",
+      "good communicator",
+      "learner",
+      "max",
+      "part of pc",
+      "photoshop",
+      "resume",
+      "yours faithfully"
+    ]
+  }
+}

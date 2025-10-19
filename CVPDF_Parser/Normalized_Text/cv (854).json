@@ -1,0 +1,37 @@
+{
+  "id": "cv (854).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "coursework: date science",
+      "data mining",
+      "financial",
+      "multivariate analysis",
+      "quantitative financial analytics",
+      "regression & statistical computing",
+      "risk management",
+      "stochastic process",
+      "time series"
+    ],
+    "PROJECTS": {
+      "raw": "qualifications: sas certified programmer for sas 9\nlarge-scale web graph processing on aws\nsummer 2013 used hadoop/pig on amazon ec2 to analyze a 0.5tb dataset of web graph data (a billion vertices), and\ncomputed out-degree histograms of the graph showing the distribution of webpage linkages that demonstrates the\nconnectivity of a web graph studied web link patterns using page rank algorithm for measuring webpages influences\ntweets sentiment analysis for movie recommendation\nsummer 2013 derived sentiment scores of real-time tweets and evaluated the public s perception of popular movies based on\nrelated tweets using python and twitter streaming api evaluated the similarity between two movies by calculating the correlation based on their sentiment scores and\nproduced a list of recommendations on similar movies\nstock performance and earnings visualization on tableau summer 2013 used python to perform analysis on stocks and earning performances of recent ipo companies in technology,\npharmaceutical, energy, entertainment and financial industries created an interactive dashboard that demonstrated the post-ipo analysis by time, industries and filing amount\netc. on tableau for direct communication and easy interpretation of the results\nice heating oil futures analysis\nspring 2013 performed analysis with excel & r of the monthly trends and seasonality of the daily forward curves for the\nheating oil futures of the past 3 months, and proposed holistic evaluations for the phenomenon observed predicted general trends of heating oil futures by evaluating the market models and supporting markets\ncustomer risk prediction at nationwide insurance company summer 2012\nbusiness analytics consultant, marketing & strategy\nrisk-tolerance levels, to facilitate effective segmentation & targeting of customers acquired proficiency in data retrieval with teradata database using sql that ensured concurrency, coherence\nand quality of analysis, and in-depth understanding of corporate database structure and insurance products delivered methodology & results to senior executives and created sessions to explain methods & tools used to\ncolleagues, aided department in promoting innovative data analysis approaches\nkaggle data mining competition\nfall 2012, spring 2013 titanic survival prediction achieved a 90% accuracy in identifying survived passengers by constructing a\nprediction system using feature scaling and manipulation on gaussian kernel svm algorithm, integrated with a\nclose inspection of specific trends of the data that overrules the general algorithm computer vision - constructed a classification system with an ensemble of kernel svm, logistic regression\nand random forest algorithms to classify 24300 images into five categories and achieved a success rate of 88%\nhurricane damage modeling at rice university spring 2012 modeled frequency of hurricane occurrence and the damage resulted using mixed poisson regression methods\nand made predictions, provided basis for risk management in windstorm insurance",
+      "keywords": [
+        "analysis",
+        "app",
+        "model",
+        "predict",
+        "system",
+        "web"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "professional master s degree in statistics gpa: 3.74/4.00 graduation date: dec 2013\ngeorge r. brown school of engineering, rice university, houston, texas\nb.a. degrees in statistics and psychology gpa: 3.41/4.00 graduation date: dec 2012\ngeorge r. brown school of engineering, rice university, houston, texas",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

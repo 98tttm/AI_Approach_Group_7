@@ -1,0 +1,32 @@
+{
+  "id": "cv (1313).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "david brent harelick, cfa\n10 charlesgate east 001\ntel: 1 (617) 308-8424\nboston, ma 02215 usa\nfax: 1 (617) 249-0140\nharelick mit.edu\n2000 - present mit sloan school of management\ncambridge, ma\ncandidate for master of business administration, june 2002\nconcentration in new venture and product development co-organizer of the 2000 mit venture capital conference participant in the mit 50k business plan competition member of the venture capital, marketing and media technology clubs",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "1993-1996 cornell university\nithaca, ny\nb.s. in industrial and labor relations\ncompleted degree in 3 years dean s list (4 of 6 semesters) significant coursework in finance, economics, management and organizational behavior alpha epsilon pi fraternity - philanthropy chair 1998-2000 lend lease rei (formerly, boston financial)\nboston, ma\nassociate - capital markets (real estate)\naccountable for all tasks related to transaction execution including: client & investor communications, deal structuring, financial modeling, due diligence and presentation design\nsecured financing for a 394-unit residential complex and a 43 million office building promoted to associate from financial analyst in february 1999 recruited, supervised, trained and mentored junior professionals designed a series of template financial models for use across the capital markets group joined asset management group in january 2000 and performed portfolio management 1998\nthe acqumen group, llc\nnew york, ny\nmanaging member, co-founder\nformed a firm to advise emerging companies on obtaining venture financing and other financial and strategic issues\nsecured an advisory engagement with a start-up to locate 3-5 million 1996-1998 wasserstein perella & co.\nnew york, ny\nfinancial analyst - mergers & acquisitions\nmajor transactions included: 1 swiss bank merger with union bank of switzerland 2 dean witter merger with morgan stanley 3 pitney bowes 1 billion lease transfer to gatx\nmanaged a client relationship attempting to find private equity for a new chemical technology conducted new business calling effort for financial clients credited with 15 ceo meetings participated in many due diligence and negotiation sessions (often as the sole wp&co. rep.) trained & supervised several first year analysts 1995\nprudential insurance company of america\nqueens, ny\nsummer associate\nresponsible for professional recruiting including conducting many interviews 1989-1996 dbh enterprises\ndartmouth, ma\nprincipal, founder\nstarted and operated a firm specializing in technological sales & travel services personal\nenjoy bicycling (participant in 1999 boston- ny aids ride), skiing, running, intramural team sports and foreign travel\navid technology enthusiast",
+      "companies": [
+        "company",
+        "inc",
+        "lab"
+      ],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

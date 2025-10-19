@@ -1,0 +1,29 @@
+{
+  "id": "cv (1401).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "brian p. toll\n41 grove street, apt. 3, boston, ma 02114\nbtoll mit.edu\nphone: (617) 742-8110\nmit sloan\n1999 - 2001\ncandidate for master of business administration, class of 2001.\nteaching assistant, competition in telecommunications. arranged speakers and taught technical recitations for 175-student graduate level course ( http://web.mit.edu/15.020 ).\nmit 50k entrepreneurship competition, lead organizer for alumni and mentors",
+      "degree": [
+        "master"
+      ],
+      "institution": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "investment management club wharton\n1991 - 1995\nbachelors of science in economics with a concentration in strategic management.\nmagna cum laude. completed joseph wharton scholars honors program. nortel networks, new york city, ny.\nsummer 2000\nbusiness development / sales for a major account, service provider and carrier lob\ndeveloped sales strategies in consumer and small/medium business segments emphasizing sale of network elements to customer and expansion of revenues through customer s resale channels.\nstrategies addressed several product sets and customer segments including: secure dsl access, improved customer management, calling features and advanced services, telecommuting solutions,\nasp solutions, and methods to improve the effectiveness of the customer s resale channels.\nsan francisco consulting group, a division of kpmg consulting, washington, dc.\n1998 1999\nsenior consultant, communications.\nassessed verizon/bell atlantic s ability to provide competitive access in local services on behalf of new york state public service commission. managed team focusing on usage detail collection and\ndistribution system for wholesale markets. supported carrier billing, ordering and provisioning\nvalidation. testified at administrative hearings. co-author of original kpmg operational audit\nmaster test plan, the leading framework in the us for 3rd party access testing.",
+      "companies": [
+        "inc",
+        "solutions"
+      ],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "ACTIVITIES": "co-managed creation of directory schema for virtual private network service provider. this 300,000 effort included development of requirements and implementation planning.\namerican management systems, fairfax, va.\n1995 1997\nbusiness analyst, telecommunications industry group.\nimplemented a customer care program for several million residential customers at kpn telecom (formerly ptt telecom). expatriated to the hague, netherlands for over 15 months.\nled effort to integrate separately developed program modules that included a customer database, usage database, usage pricing system, and billing engine. managed technical and functional\nproblem-solving efforts by coordinating for over a dozen ams team members.\npublications are you ready for convergence how to tell if you should become an early adopter. network world magazine, september 13, 1999. this article uses a simplified self-assessment to help enterprises\ndetermine the optimal timeframe to invest in integrated voice/data products. primary author. paging leadership association s 1998 annual industry report. this report examined financial results of\nleading paging firms and identified industry trends. analyst and co-author.\nlittle league baseball coach. learning guitar and salsa dancing."
+  }
+}

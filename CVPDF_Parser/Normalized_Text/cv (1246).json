@@ -1,0 +1,38 @@
+{
+  "id": "cv (1246).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "345 w. fullerton pkwy. 2101\nphone 773-665-1234\nchicago, il 60614-2853\ne-mail loren shevitz.org\nloren shevitz\naugust, 2002\nuniversity of chicago\nchicago, il\nmaster s of science (computer science)\napril, 1994\nuniversity of michigan\nann arbor, mi\nbachelor of arts (psychology)",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "sophomore honors award residential college graduate (included additional requirements) music & movies: a mock start-up company that sold music & movies and whose\nprimary feature was the ability to cross-search based on director, actor, singer,\ncontent, etc. designed with power designer. used a crm as the focus.\nloren s a cappella superstore: another mock-startup that showcased my ability to",
+      "keywords": [
+        "app"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "produce and sell cds, arrange music, and promote concerts. used php to connect to a\nsybase database.\nadvanced work in databases, web programming/scripting, java\nhave also programmed in c, c , pascal, xml.\n1996-present\norganizations\nshircago (jewish a cappella ensemble)\nfounder and director of group formerly based out of the university of chicago, group now semi-pro accomplishments include 3 cds (producer of two of them), successful east coast spring tour in 2001, inclusion on upcoming best of jewish a cappella cd.\nmaintain website handle advertising, book gigs compose and arrange music for group using coda software s finale run rehearsals and performances 2001-present\nlisten up a cappella (jewish a cappella ensemble)\nmember of semi-pro group that has traveled internationally performed in recent greater chicago jewish arts folk festival, which also featured peter yarrow of peter, paul, & mary\nfluent in spanish, hebrew\nlanguages",
+      "companies": [
+        "inc"
+      ],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

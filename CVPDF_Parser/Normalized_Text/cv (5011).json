@@ -1,0 +1,31 @@
+{
+  "id": "cv (5011).pdf",
+  "normalized_sections": {
+    "ABOUT": "ellie mackey\nf r e s h e r i n t e r n\nactively seeking job. an enthusiast, with a\nbb house of developers\nmaster s degree in electronics &",
+    "WORK EXPERIENCE": {
+      "raw": "intern trainee, nov 2019 - feb 2020",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "telecommunication, very keen to learn &\neagerly looking for opportunities.\nlearned the in s and out s of software development of machine\nmine and analyze data from databases to\ndrive optimization and improvement of\nproduct development, marketing\ntechniques and business strategies.",
+      "keywords": []
+    },
+    "EDUCATION": {
+      "raw": "data science, deep learning, neural\nnetworks, artificial intelligence, natural\nb.ca st. subhash college, hyderabad 2020.",
+      "degree": [],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "language processing, pattern recognition,\nmachine learning, predictive analytics,\nlogistic regression.\nmachine learning with python."
+  }
+}

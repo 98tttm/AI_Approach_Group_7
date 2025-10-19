@@ -1,0 +1,18 @@
+{
+  "id": "cv (4875).pdf",
+  "normalized_sections": {
+    "ABOUT": "carolin banks\ns o f t w a r e d e v e l o p e r\nwork background\ni am a software engineer, and i want to\nxcelsior\nwork on full time roles associated with\nsde , may 2019 - till date\nmachine learning. i have previously worked\non some corporate models and due to its",
+    "EDUCATION": {
+      "raw": "used unsupervised learning algorithms like dbscan to identify new\nintricacies i want to explore more in the\nidentities in the system. this was used to increase the number of\ndomain.\nidentities in the face recognition pipeline. enhanced this setup by\nimplementing the k-means algorithm as well.\nc , python, firebase, flutter,\nbachelor of technology (computers) from national institute of technology (nit),\ntensorflow, pandas, numpy, kotlin,",
+      "degree": [
+        "bachelor",
+        "bsc"
+      ],
+      "institution": [
+        "institute"
+      ],
+      "years": []
+    },
+    "ACTIVITIES": "hamirpur in 2020\njava, mongodb, nosql.\nface recognition system\nb.tech(metallurgy) cit, calicut, 2019"
+  }
+}

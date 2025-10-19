@@ -1,0 +1,56 @@
+{
+  "id": "cv (4570).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "experienced information technology manager\nexperienced information technology manager\nastute in identifying operational business needs, turning needs into requirements, and producing supporting business and reporting systems.\napplications team leader 05/2012 to current company name city , state\nmanager of business intelligence, dba, sharepoint, and web departments including strategic planning, overall systems architecture, and\npersonnel.",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "demonstrated ability to implement effective systems and manage high output work teams.\nmanagement business intelligence communications business analysis report development/ analysis user relations/user training\ndevelopment superior microsoft office product knowledge redesign of entire bi program including streamlining of platform, redesign of\nwarehouse, and revamp of reporting tools, resulting in consistent data across entire organization, quality, trusted data for business decision\nmaking, and license cost savings of 30,000 per year over 5 year period.\nredeployment of architecture of business objects to sap bo with sap bw providing backend closed system between tools to improve\nreport design and runtime efficiency of reports.\n2010 architecture providing vendor support and established new company branding.\nwork with a variety of vertical and horizontal reporting structures to communicate progress and status.\ncultivate relationships with all levels within the organization to build strong partnerships.\noversee departmental staff development, compensation, and hiring practices.\nmanagement of personnel includes both onshore and offshore consultants as well as company employees.\naccomplishments implementation of revamped external website using sharepoint as the redesign toolset managed on-time and within\nbudget.\nredevelopment of standards for sharepoint governance managed on-time.\nimplementing governance allowed us to save over 100gb of server space and positioned our site for new branding.\nredesign of entire bi structure including platform, databases and reporting currently on-going managing and providing technical assistance.\nbusiness intelligence manager 12/2005 to 05/2012 company name city , state\nmanager of reporting department including strategic planning, and overall systems architecture.\nto company goals.\nperformed data analysis, management of reporting software systems and data warehouse environment, reviewed reporting practices to\nand hiring practices.\naccomplishments upgrade of the business objects architecture from unsupported version to latest copy.\ndone on-time and within budget.\nupgrade of databases from ms sql to oracle to support parent company design standards.\ndone on-time and within budget.\nredeployment of architecture of business objects to sap bo with bw.\nparticipated in phase 1 of 3.\ninformation systems software administrator 11/1997 to 10/2005 company name city , state\nmanaged and maintained all software packages for the entire organization including erp, crm, sql databases, and reporting software.\nlead efforts to analyze company needs and determine where software in use could best be configured to align with company needs.\nworked with all levels of the company to maintain and administer both software and reporting needs.\nmanaged help desk personnel.\naccomplishments.\nimplementation of new erp system throughout organization including database, software and reporting.\nimplementation of crm system.\nwarehouse, dba, databases, database, decision making, erp, financial, focus, help desk, hiring, leadership, managing, microsoft office,\nsql, staff development, strategic planning, systems architecture, technical assistance, user training, upgrade, website",
+      "keywords": [
+        "analysis",
+        "system",
+        "web"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "managed on time and within budget.\nba : management 2012 western governor s university management\ngeneral studies 2007 university of phoenix general studies business management focus\ndiploma : general studies 1993 denmark high school general studies",
+      "degree": [],
+      "institution": [
+        "school",
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "bi",
+      "branding",
+      "budget",
+      "budgets",
+      "business analysis",
+      "business intelligence",
+      "business management",
+      "business objects",
+      "crm",
+      "data",
+      "data analysis",
+      "girl scouts of america - troop leader",
+      "inc. - brand ambassador (may 2015 -",
+      "present) allouez traffic and safety committee (2009 - 2012) leadership green bay (2007)",
+      "professional affiliations",
+      "volunteer (2011 - present) women in technology wisconsin"
+    ]
+  }
+}

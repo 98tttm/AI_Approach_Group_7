@@ -1,0 +1,29 @@
+{
+  "id": "cv (6).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "matthew horres\njunior developer\nexecutive\nindividual with strong\ngruvil technologies\ncommunication and\nintern trainee, apr 2020 - ongoing\ncoordination. i have strong\nattention to detail when it comes\ncurrently working on nlp , understanding\nto building and analytical\nbusiness objectives, and implementing an end-to-",
+      "companies": [
+        "technologies"
+      ],
+      "titles": [
+        "developer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ABOUT": "to work on complex\nend . scrapping the data using beautiful soup\nproblems.\nand converting that into a structured format.\ndrdo\nintern developer, dec 2018 - jul 2019\nworked on an image identifier based on satellite\ncaptured images.\npersonal\npython, machine learning, deep\nlearning, r, computer vision,\nnumpy, panda, matplotlib, mysql,",
+    "SKILLS": [
+      "opencv",
+      "pytorch."
+    ],
+    "PROJECTS": {
+      "raw": "bachelor of technology, electrical, punjab university 2019\nreal -time face mask detection\nextra-curriculars\nmachine learning with python\nneural network applied in pytorch",
+      "keywords": [
+        "app"
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cv (2766).pdf",
+  "normalized_sections": {
+    "ABOUT": "chandrasekar m\nmobile: 91-9003323249\n1-56, pambalamman kovil street,\nmail id: expochandru gmail.com\nmuthugapatti, namakkal - 637 405.\na talented and dedicated it professional with diverse experience in database and data\nwarehousing for 2 years. looking for a challenging position to utilize my knowledge of\ndatabase gui tools\n: sql plus, pl/sql developer, toad\netl tools\n: informatica power center 9.1\nenvironment : informatica 8.6, oracle 10g, pl/sql, unix, toad\nb.e computer science and engineering from info institute of engineering, anna university\nrole\n: etl informatica developer\ntools used\n: oracle 11.6, informatica 9.1, unix\nthe is to provide integrated information on retail sales data for management s better\ndecision making. etl tool informatica is used to extract data from different legacy source\nsystems, and load that strategic source data to the data mart.",
+    "SKILLS": [
+      ": oracle 11g",
+      ": sql",
+      ": unix",
+      "database",
+      "designing and operating for enterprise data integration and helping in growth of industry.",
+      "linux",
+      "operating system",
+      "pl",
+      "programming languages",
+      "sql",
+      "unix shell scripting",
+      "windows 7",
+      "xp"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "of technology, coimbatore.\nworking in vba technology solutions limited from june 2014 to till date as an associate.\nresponsibilities: worked closely with business analysts in understanding the business requirements. conducted user meeting and gathered the requirements\nms access and non-relational sources like flat files into staging area. tuned mappings using power center-designer and used different logic to provide\nmaximum efficiency and performance. used technical transformation document to design and build the etl modules. worked extensively with various active transformations in informatica power center\nlike filter transformation, aggregator transformation, joiner transformation, rank\ntransformation, router transformation, sorter transformation, source qualifier, and\nupdate strategy transformation.",
+      "companies": [
+        "solutions"
+      ],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "client\n: telelookz\nduration\n: jun 2015 to till date\nrole\n: etl developer\ntools used : oracle 11.6, informatica 9.1, unix\ndescription: the retail sales process needs an understanding of the business and\nrequirements for decision making. the data is obtained from relational tables and flat files.\nthe involves cleansing and transforming the data in the staging area and then loading\ninto oracle data marts. the mainly deals with all the possible ways to perform the\nanalytical calculation to cater for the needs of strategic business requirements mainly for\nsales, stock comparisons and strategic planning for decision support systems.\nresponsibilities: was responsible for collecting requirements from business users and filling the\nrequirement specification documentation. worked on source analyzer, warehouse designer, mapping designer, mapplet\ndesigner and transformation developer. extraction, transformation and loading of data from flat files and oracle sources into\noracle database. created various transformations like source qualifier, lookup, sequence generator,\nrouter, filter, aggregator, joiner, expression, and update strategy. created informatica mappings and mapplets using different transformations. involved in performance tuning for better performance. responsible for creating workflows and worklets. created session, event, command,\ncontrol decision and email tasks in workflow manager. analyze data quality and report the anomalies to business users using toad. involved in unit, system integration, user acceptance testing of mappings.\nclient\n: smitraders\nduration\n: nov 2014 may 2015 used the debugger in debugging some critical mappings to check the data flow from\ninstance to instance. developed all the mappings according to the design document and mapping specs\nprovided and performed unit testing. performed unit testing at various levels of the etl and actively involved in team code\nreviews. excellent analytical / communication and good team player.\nclient : fastcovai\nduration\n: july 2014 oct 2014\nrole\n: back end developer\ntechnologies used\n: wordpress\ncustomer has to signup depending on their needs such as for office, for home, for\nschool etc., and the order will be accepted online. a confirmation mail and message to the\nmobile number will be triggered.\nresponsibilities: build and manipulate word press websites. promoted as an analyst in the month of jun 2016.\npersonal details:\nname : chandrasekar.m\ndate of birth : 15/05/1990\ngender\n: male\nnationality\n: indian\nfather s name : mr. maruthai.n\nmother tongue : tamil.\nlanguages known : english, tamil (read, write, speak)\ntelugu (speak)\ni hereby declare that the details furnished above are true to my knowledge.\n(chandrasekar m)",
+      "keywords": [
+        "app",
+        "system",
+        "web"
+      ]
+    },
+    "ACHIEVEMENTS": "edit and repurpose word press plugins in accordance to customers needs. write and extend word press plugins. perform quality assurance tests on all web . obtain estimates for programming and development needs. perform to optimize websites for search engine optimization. awarded on the spot award for the work contributed in the vision migration"
+  }
+}

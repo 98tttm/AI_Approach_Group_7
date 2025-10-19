@@ -1,0 +1,303 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "formTitle": "Please complete this form to apply for a position",
+        "formDescription": "Please fill each of the fields carefully and click on submit once done",
+        "formFields": {
+          "values": [
+            {
+              "fieldLabel": "Full Name",
+              "placeholder": "Enter your full name",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Position applied for",
+              "fieldType": "dropdown",
+              "fieldOptions": {
+                "values": [
+                  {
+                    "option": "System Engineer"
+                  },
+                  {
+                    "option": "Software Engineer"
+                  },
+                  {
+                    "option": "Solution Architect"
+                  }
+                ]
+              },
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Years of Experience",
+              "fieldType": "number",
+              "placeholder": "Years of Experience",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Describe your experience in detail",
+              "fieldType": "textarea",
+              "placeholder": "Please share the details of your experience",
+              "requiredField": true
+            },
+            {
+              "fieldLabel": "Why should we hire you",
+              "fieldType": "textarea",
+              "placeholder": "Please provide the detail",
+              "requiredField": true
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.formTrigger",
+      "typeVersion": 2.2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "1eafca1d-00d9-4909-b560-20119bdcff54",
+      "name": "On form submission",
+      "webhookId": "028cf185-87e1-4c0d-ba79-d4ca1ecef357"
+    },
+    {
+      "parameters": {
+        "operation": "create",
+        "base": {
+          "__rl": true,
+          "mode": "id",
+          "value": "appa00KshAYMYLRzZ"
+        },
+        "table": {
+          "__rl": true,
+          "mode": "id",
+          "value": "tblwSZ5xR4fkpdfsp"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "Full Name": "={{ $json['Full Name'] }}",
+            "Position applied for": "={{ $json['Position applied for'] }}",
+            "Describe your experience in detail": "={{ $json['Describe your experience in detail'] }}",
+            "Year of Experience": "={{ $json['Years of Experience'] }}",
+            "Why should we hire you": "={{ $json['Why should we hire you'] }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "Full Name",
+              "displayName": "Full Name",
+              "required": false,
+              "defaultMatch": false,
+              "canBeUsedToMatch": true,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "Position applied for",
+              "displayName": "Position applied for",
+              "required": false,
+              "defaultMatch": false,
+              "canBeUsedToMatch": true,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "Describe your experience in detail",
+              "displayName": "Describe your experience in detail",
+              "required": false,
+              "defaultMatch": false,
+              "canBeUsedToMatch": true,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "Why should we hire you",
+              "displayName": "Why should we hire you",
+              "required": false,
+              "defaultMatch": false,
+              "canBeUsedToMatch": true,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "Year of Experience",
+              "displayName": "Year of Experience",
+              "required": false,
+              "defaultMatch": false,
+              "canBeUsedToMatch": true,
+              "display": true,
+              "type": "number",
+              "readOnly": false,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.airtable",
+      "typeVersion": 2.1,
+      "position": [
+        220,
+        0
+      ],
+      "id": "eae4d6c8-a3c5-4268-84c0-8bd63325a0fd",
+      "name": "Airtable",
+      "credentials": {
+        "airtableTokenApi": {
+          "id": "AU1aR3aBnUOJECIs",
+          "name": "Airtable Personal Access Token account 4"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "base": {
+          "__rl": true,
+          "mode": "id",
+          "value": "appa00KshAYMYLRzZ"
+        },
+        "table": {
+          "__rl": true,
+          "mode": "id",
+          "value": "tblwSZ5xR4fkpdfsp"
+        },
+        "id": "={{ $json.id }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.airtable",
+      "typeVersion": 2.1,
+      "position": [
+        440,
+        0
+      ],
+      "id": "ef1372cc-fd25-4123-96a4-dd448382353e",
+      "name": "Airtable1",
+      "credentials": {
+        "airtableTokenApi": {
+          "id": "AU1aR3aBnUOJECIs",
+          "name": "Airtable Personal Access Token account 4"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "gpt-3.5-turbo",
+          "mode": "list",
+          "cachedResultName": "GPT-3.5-TURBO"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=You are a helpful HR assistant who summarizes job applications.  \nIngest and analyze following fields received from the previous step:\n\nCreated time: {{ $json.createdTime }}\nFull Name: {{ $json['Full Name'] }}\nPosition Applied For: {{ $json['Position applied for'] }}\nExperience Details: {{ $json['Describe your experience in detail'] }}\nWhy should we hire you: {{ $json['Why should we hire you'] }}\nYears of Experience: {{ $json['Year of Experience'] }}\n\nPlease summarize the information received and strength and weakness of the candidates and prepare it to be sent in an email format.\n\nPlease provide following output parameters as string value:\nemail_subject  \nemail_body\n"
+            }
+          ]
+        },
+        "jsonOutput": true,
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1.8,
+      "position": [
+        640,
+        0
+      ],
+      "id": "0a752e77-e94a-4974-a9d2-67285c41ae35",
+      "name": "OpenAI",
+      "credentials": {
+        "openAiApi": {
+          "id": "pZoZfrzVqYezUqrp",
+          "name": "OpenAi account 36"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "sendTo": "tranthanhthinh880@gmail.com",
+        "subject": "{{ $json.message.content.email_subject }}",
+        "emailType": "text",
+        "message": "{{ $json.message.content.email_body }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        980,
+        0
+      ],
+      "id": "51f28570-a371-4bd6-bec2-5dc82387ffec",
+      "name": "Gmail",
+      "webhookId": "7ba02f86-8c8b-4db6-ab29-1d83ea8e2b2e",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "MXgKyIqEre21Rrqp",
+          "name": "Gmail account 11"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "On form submission": {
+      "main": [
+        [
+          {
+            "node": "Airtable",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Airtable": {
+      "main": [
+        [
+          {
+            "node": "Airtable1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Airtable1": {
+      "main": [
+        [
+          {
+            "node": "OpenAI",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI": {
+      "main": [
+        [
+          {
+            "node": "Gmail",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "58cc480580f302b31ac8c42d470df5c3cc7abec35d99098288a5a3ac3b56a449"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cv (4848).pdf",
+  "normalized_sections": {
+    "ABOUT": "mason quadrado\nassociate analyst\ncertified data analyst with a degree in electronics engineering, i have hands on experience in analyzing & interpreting",
+    "SKILLS": [
+      "aws",
+      "computer vision",
+      "data analysis",
+      "data mining",
+      "data with good numerical accuracy.",
+      "decision trees",
+      "deep learning",
+      "flask api",
+      "machine learning",
+      "modeling",
+      "multivariate analysis",
+      "mysql",
+      "nlp.",
+      "numpy",
+      "predictive",
+      "python",
+      "random forest",
+      "scikit-learn",
+      "statistical analysis",
+      "xgboost"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "deep learning based pattern matching.\namz loans and mortgages\nauto-color grading using python\nerc analytics, jun 2019 to till date\nhandling data of employees and finding retention",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "other qualification\nfactors and employee satisfaction. worked closely\nwith the hr team to find a balance that was\ngoogle cloud certified\nbeneficial for both employees and the company.\nbachelor of technology/b.e. (electronics/telecommunication) from\nnagpur university in 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

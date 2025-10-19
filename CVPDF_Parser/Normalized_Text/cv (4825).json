@@ -1,0 +1,41 @@
+{
+  "id": "cv (4825).pdf",
+  "normalized_sections": {
+    "ABOUT": "jayla ramirez\ndata science engineer\ngeakminds inc\nas a data scientist, i have expertise in\nboth machine learning and statistical\nassociate data science engineer, jan 2018 - ongoing\nanalysis techniques, currently, i am\nhandling the end-to-end data science",
+    "WORK EXPERIENCE": {
+      "raw": "demand forecasting for parts/material based availability in\nprocess in azure environment, from\nwarehouse/plant and also to determine the optimum level of\ngathering requirements from the business\ninventory for the organization. identify orders at risk during the\nteam to deploying model in production.\norder processing based on business slas and predicted target, to\nincrease productivity. analyzed cdn edge network data to\nalgorithm to solve business problems\nimprove cdn edge network utilization and identify the anomaly\nwhich involve selecting features, building",
+      "companies": [
+        "inc",
+        "lab"
+      ],
+      "titles": [],
+      "years": []
+    },
+    "SKILLS": [
+      "and optimizing machine learning",
+      "and presenting data to the",
+      "artificial",
+      "business team.",
+      "data analyst",
+      "data integration",
+      "database management",
+      "deep learning",
+      "educational history",
+      "in the cdn edge network across all gateways.",
+      "intelligence",
+      "machine learning",
+      "natural language processing",
+      "python",
+      "sql",
+      "techniques"
+    ],
+    "PROJECTS": {
+      "raw": "data science, tableau, powerbi, business\nanalysis, aws lambda, spark, pyspark,\nazure, sql server.\nb.com (commerce) from madras university in 2017.\nmaster of business administration from srm university (srmu) in 2019.\ngeo data collection and prediction of",
+      "keywords": [
+        "analysis",
+        "predict"
+      ]
+    },
+    "ACHIEVEMENTS": "natural diasters.\ncurricular\ndata analyst nano degree - udacity"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "cv (4419).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "lead engineer - fluid systems and thermal accessories\nmanagement, and quality assurance, comprehensive understanding of design processes, manufacturing methods and sound engineering principles.\ncomprehensive understanding of engineering and design principles.\nexcel with minimum supervision.\nexperienced in gd&t and manufacturing support\nwriting technical requirement documents. company name september 2016 to current lead engineer - fluid systems and thermal accessories\ncity , state\ndesign premix liquid fuel delivery system for ge 9f.04 and 9ha.02 instrument air system design and specification for ge gas 9f.04 provides hazmat specification based on ibc for various gas turbine skids.\ndesign water supply skids and accessories for purging and cooling of combustor nozzles.\nconduct fmea analysis of new products.\nsize and select various gas turbine accessories such fuel pump, filters, pressure transducers, water pump based of cfd and combustion",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "designed booster anti-ice system for passport 20 engine.",
+      "designed ignition leads for ge passport 20 engine.",
+      "gd&t lean six sigma with a strong understanding of engineering mechanics",
+      "highlights",
+      "improve wear if ipv and dprv for cf34-8",
+      "improved on-wing time for cf34-10 fmu by redesigning environmental seals.",
+      "improved technical document cycle time.",
+      "principles",
+      "redesigned",
+      "skilled in use of engineering tools such as fea",
+      "solid edge",
+      "ug nx"
+    ],
+    "PROJECTS": {
+      "raw": "lean six sigma certified.\nfield investigation and customer support of fluid system hardware.\nunderstanding of export licence for various hardware and technology. requirement.\nwork with supplier design control valves and mixing valves for various fluid system.\ncompany name june 2015 to september 2016 design engineer - military & commercial engine fluid systems\ncity , state\nprovide design and redesign requirements and specifications for fluid system test hardware. review and provide engineering substantiation for material review board documents for vendor components. investigate field related failures of military engine fluid system components.\nestablishes test procedure for afterburner fuel components, fuel pumps, mechanical engine control units. provide technical and engineering requirement for vendor substantiation documents.\nreview and approves functional and dimensional changes to fluid system component request by vendor.\nreviews and approve component repair request from vendor of military engine fluid system hardware.\nprovides engineering support to manufacturing engineering.\ndesign specification for cf34 fuel metering unit.\ndesign specification for gear and centrifugal pumps.\ninvestigate field related component failures.\nestablish test procedure such pump ripple, vibration and compressor discharge dynamic response for new hardware.\nsupport and approve vendor design changes.\nredesigned fuel metering unit components such fuel metering valves, pressuring discharge valves, electrohydraulic servo valves.\ndesign wet rig to emulate aircraft engine environment to test hardware responses for aircraft duty cycles such as start, acceleration, idle,\ntake-off, burst, chop, slew, and deceleration.\ncompany name february 2012 to january 2015 design engineer - new product definition\ncity , state\nperformed preliminary and detail design of engine hardware.\nperformed and interprete fea analysis for design reviews and assessment.\nensured technical requirements of components are being met\nassigned itar/export license for both technical data and hardware.\nsigned off on engineering drawings.\nmaintained in depth knowledge of product, technical details.\nconducted weekly reviews of configuration hardware to identify design and assembly issues for correction.\nreviewed and approved engineering drawings for manufacturing.\ncollaborated with other ge partners to identify and resolve assembly issues.\nreviewed engine assembly drawings.\nassigned work and supervise contractors for controls pde.\nheaded technical document review team.\nug nx6 -nx10\nmicrosoft visio\nteamcenter\nmicrosoft office\ndigital engine visualization.\nfea/ abacus\ngd&t\nlabview\nfea/ ansys\nvisual basic\nmodifying designs.\nc lean six sigma\nmatlab\nadobe photoshop\ndata acquisition\nautocad\nsolid works",
+      "keywords": [
+        "analysis",
+        "app",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "mentored new hires and co-ops.\nconducted design review of hardware company name june 2007 to january 2012 deskside support technician / it support\ncity , state\nset up, tested and configured networks, desktops, laptops and printers.\nperformed routine software and hardware updates.\nperformed routing preventative maintenance on computers.\ncoordinated hardware and software repair processes with outside vendors.\nresolved technical issues for clients in person, on the phone and\nthrough e-mail. company name september 2004 to june 2007 account associate\ncity , state\nset up new xerox printers and copiers for client use.\nidentified equipment options to satisfy client needs.\ndeveloped new equipment training materials of for clients.\ngathered usage data and generate monthly usage cost.\nperformed maintenance of equipment. university of dayton 2016 master of science : mechanical engineering city , state , usa\nmiami university 2012 bachelor of science : mechanical engineering city , state , usa\nkwame nkrumah university of science and technology 2002 bachelor of science : agricultural engineering city , ghana\naccomplishments\ndesigned fadec cooling system for ge leap 1a and 1c engines.",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

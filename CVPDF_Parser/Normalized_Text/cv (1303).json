@@ -1,0 +1,30 @@
+{
+  "id": "cv (1303).pdf",
+  "normalized_sections": {
+    "PROJECTS": {
+      "raw": "preparation of zns nanoparticles using microwaves assisted synthesis: effects of the\nvia carbothermal reduction of silica using microwaves as an energy source.\nmagnesia spinels using microwaves as energy source. idem. pp. 104-107\nreduction of iron oxides using microwaves as power source. idem. pp. 423-428",
+      "keywords": []
+    },
+    "WORK EXPERIENCE": {
+      "raw": "on microwave and radio frequency applications. austin, tx, usa (nov. 2004).\npower institute montreal, canad . jul. 2000, pp. 72-74\ninternational microwave power institute, washington, dc. jul. 1999, pp. 5-8\nsymposium, international microwave power institute, chicago, ill. jul. 1998, pp.\ncanad . jul. 1997, pp. 38-41\nmicrowave power institute, boston ma. jul. 1996 pp. 100-103\nore. beam processing of advanced materials, tms/asm cle. oh. oct. 1995,\nmateriales, instituto tecnol gico de saltillo, nov. 2000, pp. 338-345\ninternacional esiqie, ipn, may.1996, pp. 362-367\nnov. 1995, pp. 23.1-23.12",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "microwave power institute, toronto, canad . 13-17 julio, 2004\nmicrowave power symposium, international microwave power institute, ottawa,",
+      "degree": [],
+      "institution": [
+        "institute"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

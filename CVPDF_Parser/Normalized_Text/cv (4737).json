@@ -1,0 +1,36 @@
+{
+  "id": "cv (4737).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "charts",
+      "conferences",
+      "conflict resolution",
+      "critical thinking",
+      "excellent communication",
+      "focus",
+      "instruction",
+      "instructional design",
+      "lesson planning",
+      "teacher"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "managing, meetings, office, problem solving, processes, progress, teacher, teaching, time management, written\nteacher\naugust 2004 to march 2014 company name city , state\nteacher who develops curriculum with a child s biological, cognitive and socio-emotional processes in mind.\ncommitted to the healthy maturation of every child involved.",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "teacher\naugust 2002 to june 2004 company name city , state\ncoordinated parent-teacher conferences during the school year.\ntook on numerous backstage role is, including running lights, crew and box office.\nattendance logs.\nplanned and implemented creative lessons in accordance with district, county, state and federal guidelines.\nobserved and evaluated students performance, behavior, social development and physical health.\nteacher\naugust 1997 to june 2002 company name city , state\nestablished daily routines that were easy for the children to follow.\ngave one-on-one attention to children while maintaining overall focus on the entire group.\nidentified signs of emotional and developmental problems in children and reported to parents.\nmonitored students educational progress with individual charts and files.\naddressed behavioral and learning issues with parents and daycare management.\nteacher\naugust 1996 to june 1997 company name city , state\nmonitored students educational progress with individual charts and files.\nworked with interdisciplinary team members to evaluate children s progress and recommend appropriate.\nlearning plans.\ngave one-on-one attention to children while maintaining overall focus on the entire group.\nestablished daily routines that were easy for the children to follow.",
+    "EDUCATION": {
+      "raw": "used classroom observations to create written assessments of student performance.\norganized and facilitated monthly parent support group meetings.\nnurtured a supportive learning environment that was often used as a model for other classrooms.\nvaldosta state university city , state",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": []
+    }
+  }
+}

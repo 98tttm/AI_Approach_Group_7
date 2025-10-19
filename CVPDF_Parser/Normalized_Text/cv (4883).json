@@ -1,0 +1,44 @@
+{
+  "id": "cv (4883).pdf",
+  "normalized_sections": {
+    "ABOUT": "robert mathews\nmachine learning engineer (quality control)",
+    "SKILLS": [
+      "algorithms",
+      "contributed to the testing and quality control of models over time. i am looking to switch to a development role where i can",
+      "data analytics",
+      "data manipulation",
+      "data mining",
+      "deep learning",
+      "java",
+      "jenkins",
+      "machine learning",
+      "python",
+      "quality control.",
+      "recent graduate testing and debugging machine learning models. i have worked on multiple and have",
+      "selenium",
+      "sql"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "data manipulation and code update for\ndass systems\nemployee turnover prediction using\njunior machine learning engineer, jan 2020 - ongoing\nrandom forest.",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "testing, debugging and parameter tuning for models\ndeveloped by the internal team.\nother qualification\nselenium tester - level b\nbachelor of technology(it) from national institute of science and\ntechnology,rourkela in 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "institute"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

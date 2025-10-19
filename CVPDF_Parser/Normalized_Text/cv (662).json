@@ -1,0 +1,48 @@
+{
+  "id": "cv (662).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "resume\ndeepika siddanathi\nmobile: 9885872770\nemail:deepikasiddanathi gmail.com\nfemale, 25 years, languages: english, telugu\nyear\nqualification\ninstitution\nsubjects\ncgpa/%\n2018\npgp\njawaharlal nehru\nmajor: finance , others:\n63.21%\ntechnological\nmarketing, hr management\nuniversity, kakinada\n2015\nbachelor of\nsri sai aditya\ncomputer science\n68.98%\ntechnology\ninstitute of science\nand technology,\nsurampalem\n2011\nxii (board of\nsri chaitanya\nmathematics, physics,\n82.8%\nintermediate\njr.college,\nchemistry,\nrajahmundry\na.p)\n2009\nx (s.s.c)\nsri gowthami smart",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "maths, general science, social\n84%\nschool, rajahmundry\napplication of funds and the study includes the internal analysis of the company and how\nefficiently managing its funds.\nquestionnaire to collect data and analysing it to understand the customer tastes and preferences\nand brand awareness etc. entrepreneurship development program: done a mini thesis with reference to seldom\npharma pvt.lmt.\npositions of responsibility",
+      "keywords": [
+        "analysis",
+        "app"
+      ]
+    },
+    "ACTIVITIES": "one of the active member of hr committee and worked as volunteer of eclore 2k17 fest organized by jntuk.\nmember of finclan club at jntuk. been as a volunteer for cultural events in school and college. been as a volunteer and conducted events in eclore 2k17, conducted by jntuk.",
+    "SKILLS": [
+      "10",
+      "8.1 pro",
+      "additional information",
+      "dance",
+      "drawing",
+      "etc",
+      "fitness",
+      "interests and hobbies: music",
+      "knowledge in ms office tools like excel",
+      "mac os x.",
+      "movies",
+      "operating systems: windows xp",
+      "power point and openoffice tools like",
+      "presentation",
+      "spreadsheet",
+      "text document",
+      "vista",
+      "windows 7",
+      "word"
+    ]
+  }
+}

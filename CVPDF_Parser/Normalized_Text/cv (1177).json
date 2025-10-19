@@ -1,0 +1,40 @@
+{
+  "id": "cv (1177).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "mario d. lewis\n466 cambridge street\ncambridge, ma 02141\ne-mail: mdlewis mit.edu,\ntelephone: (617) 491-4194\n1999 - 2001\nmit sloan school of management\ncambridge, ma\nmaster of business administration expected in june 2001\nmember of finance club and minority business council\nelected to the graduate management society steering committee\n1998 - 1999\nharvard university - extension school\ncambridge, ma",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school",
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "certificate of special studies in management and administration, marketing\n1990 - 1994\nbentley college\nwaltham, ma\nbachelor of science degree in finance falcon honor society\nsenior class cabinet, treasurer\ndebate team, president\nstudent government association, vp\nsummer 2000\nubs warburg\nnew york, ny\nassociate, corporate finance financial institutions group\ncompleted valuations and complex analyses for customer presentations part of team working on ipo for an efinance start-up company 1998 - 1999\ntbmcontent corporation\nboston, ma\nvice-president, finance\nmanaged day-to-day financial operations of this start-up software company.",
+      "companies": [
+        "company",
+        "corp"
+      ],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "led fundraising effort, including meeting with investors and venture capitalists. assisted in developing the business plan and prepared the financial projections. 1996 - 1998\nraytheon company\nlexington, ma\nsenior corporate auditor\nexecuted audits within all domestic government and commercial operations. prepared analyses and\ndetailed work papers to support conclusions based on the observation, inspection, confirmation and\ntesting required by the audit program. prepared written summaries of work performed and\nformulated corrective actions for problem situations.\nfinal inventory reviews for 750 million sale of the raytheon appliance division. purchase price adjustment reviews on 9.5 billion merger with hughes electronics defense operations. the audit team found over 750 million in price adjustments.\nprocurement, accounts receivable and inventory compliance reviews after 2.95 billion acquisition of texas instruments defense operations.\nvaluation of ti s monolithic microwave integrated circuit operation prior to sale. 1994 - 1996\nfinancial management development program graduate\nperformed rotations with increasing responsibilities as a bid and proposal cost analyst, business\npersonal\ndirector, city-alert.com\nadvised on business plan and strategy for start-up internet advertising and content company.",
+      "keywords": [
+        "app",
+        "project"
+      ]
+    },
+    "ACTIVITIES": "recognized as a top twelve african-american internet site within three months of operation. big brother of greater boston, bentley college alumni of color, ymca-college path volunteer",
+    "ACHIEVEMENTS": "executive leadership council s 1999 award for excellence in business commentary 1998 ymca/raytheon black achiever 1996 toastmaster international, massachusetts district speech competition finalist interests: basketball, football, golf, weightlifting, traveling\ncompleted the 103rd boston marathon (1999)"
+  }
+}

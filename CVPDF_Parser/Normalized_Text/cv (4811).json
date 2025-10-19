@@ -1,0 +1,31 @@
+{
+  "id": "cv (4811).pdf",
+  "normalized_sections": {
+    "ABOUT": "jose garcia\nintern\ncb\ngraduate database management engineer\nlooking to join a role in data analytics or",
+    "SKILLS": [
+      "analytics",
+      "business",
+      "cloud-based machine learning solutions.",
+      "data analysis",
+      "data science",
+      "data structure",
+      "dbms",
+      "graphql",
+      "intern",
+      "java",
+      "may 2020 to oct 2020",
+      "nosql",
+      "powerbi",
+      "rdbms",
+      "software development",
+      "sql",
+      "tableau",
+      "virtual internship on data engineering on the cloud."
+    ],
+    "PROJECTS": {
+      "raw": "mongodb, firebase, advanced excel,\ncloud-testing, aws, azure, cloud\nmanagement.\neducational history\ncloud-based ledger service.",
+      "keywords": []
+    },
+    "ACHIEVEMENTS": "b.tech(computers) from vit-ap in 2021\ncurricular\ndata science on cloud"
+  }
+}

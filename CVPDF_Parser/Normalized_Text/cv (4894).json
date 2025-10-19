@@ -1,0 +1,50 @@
+{
+  "id": "cv (4894).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "julia chen\njunior engineer\nexecutive\ni like to identify the main objective\ntata consultancy services ltd.\nof a problem and then work on it to\njunior data engineer, nov 2019 to apr 2021\nimprove results. build end-to-end using agile methodology",
+      "companies": [
+        "ltd"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "analytics",
+      "approach of semantic analysis. this technique",
+      "big data analytics",
+      "calculates the sentiment orientations of the whole",
+      "data",
+      "document or set of sentences from a semantic",
+      "machine learning",
+      "orientation of lexicons.",
+      "personal",
+      "python",
+      "sentiment analysis using the lexicon-based",
+      "text"
+    ],
+    "ABOUT": "mining, natural language\nprocessing, multivariate analysis,\nr, ms-excel.",
+    "EDUCATION": {
+      "raw": "bachelor of technology (instrumentation and control) from nagpur\nuniversity in 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "processing, cleansing, and\nverifying the integrity of data used\nfor analysis using python.\netl pipeline to extract data from\nsource db to target db.",
+      "keywords": [
+        "analysis"
+      ]
+    }
+  }
+}

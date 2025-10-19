@@ -1,0 +1,32 @@
+{
+  "id": "cv (4172).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "resume\nname : r.giridaran\nacademic qualification\ncourse : diploma in mechanical\nengineering\nuniversity/board : state board of technical\ninstitute : sembodai rv\npolytechnic college",
+      "degree": [],
+      "institution": [
+        "college",
+        "institute",
+        "university"
+      ],
+      "years": []
+    },
+    "WORK EXPERIENCE": {
+      "raw": "year of passing : 2015\npersentage : 87%\nproduction engineer in\ntvs brakes india\npolambakkam\nsoftware proficiency\nsoftware known : auto cad, solid works",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "office suite : ms office\narea of interst\nany mechanical feild\nelectrical felid\ngear changer in two\nwheeler\n(pneumatic model)\npersonal trait\ncreative and logical\nproblem solving ability\nco-operative and keen observer",
+      "keywords": [
+        "model"
+      ]
+    },
+    "ABOUT": "hobbies\nmechanical working\nelectrical work\nfather name :\nc.ramachandran\ndate of birth : 10/06/1995\ngender : male\nmarital status : single\nlanguages known : tamil and\nenglish\nemail id :\ngiridaran444 gmail.com\nmobile no :\n8940718987\npermanent address\n9/72 keezhakuthagai\nkatharipulam\nvadaranyam tk\nnegapattinam dt\npin code (614808)"
+  }
+}

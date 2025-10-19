@@ -1,0 +1,32 @@
+{
+  "id": "cv (4838).pdf",
+  "normalized_sections": {
+    "ABOUT": "stella thatcher\na s s o c i a t e m a r k e t a n a l y s t\ni am a market research specialist with a\nkripa infotech\ngrasp of machine learning and looking for\nassociate market research analyst intern, apr 2020 - sep 2020",
+    "SKILLS": [
+      "a deeper dive into the career of being a",
+      "business analyst",
+      "perceived by a target audience. focused on large groups of data both",
+      "professional machine learning engineer.",
+      "research associate",
+      "structured and unstructered for solutions.",
+      "worked with clients to get an overall idea of how a product is"
+    ],
+    "EDUCATION": {
+      "raw": "business analytics, data mining, data\nbachelor of technology(mechanical) bhavleesh duggar college, nasik 2020\nmodeling, predictive analysis, business",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "intelligence, machine learning, market\nresearch, customer engagement, risk\nmanagement, retention, audience, python.\ncertified python developer",
+    "PROJECTS": {
+      "raw": "stock market analyzer.",
+      "keywords": []
+    }
+  }
+}

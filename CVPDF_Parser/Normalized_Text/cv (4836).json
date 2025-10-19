@@ -1,0 +1,32 @@
+{
+  "id": "cv (4836).pdf",
+  "normalized_sections": {
+    "ABOUT": "shawn buffet\ndata processing intern\nsaiko computation\nseeking roles in machine learning,\nnatural language processing, deep\ndata processing junior intern, may 2019-august 2019",
+    "SKILLS": [
+      "analysis",
+      "business",
+      "create satisfaction ratio prediction models from customer data.",
+      "data processing tools.",
+      "deep learning",
+      "in using python libraries and different",
+      "keras",
+      "learn",
+      "learning. previously worked as a data",
+      "machine learning",
+      "natural language",
+      "numpy",
+      "pandas",
+      "processing",
+      "processing intern. having good knowledge",
+      "pyspark.",
+      "python",
+      "scikit",
+      "tensorflow"
+    ],
+    "PROJECTS": {
+      "raw": "educational history\ngesture controlled robotic lawn mower",
+      "keywords": []
+    },
+    "ACHIEVEMENTS": "b.tech sl thala model college orissa, 2020\ncurricular\nmachine learning crash course from ml\nartistry."
+  }
+}

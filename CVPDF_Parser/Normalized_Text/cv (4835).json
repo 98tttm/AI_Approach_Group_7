@@ -1,0 +1,50 @@
+{
+  "id": "cv (4835).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "timothy peterson\nsoftware developer intern\nexecutive\nenjoy communicating with\nnaxapp\nmachine in both python and r as a\nsoftware development intern. apr 2020 to may\ndata scientist. well adapt in",
+      "companies": [],
+      "titles": [
+        "developer",
+        "intern",
+        "scientist"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "2020",
+      "ability to collect",
+      "amounts of data",
+      "analyze",
+      "and disseminate significant",
+      "attention to",
+      "collaborative",
+      "detail and accuracy",
+      "fake website classification.",
+      "learning tools for descriptive and",
+      "organize",
+      "predictive analysis. focused",
+      "utilising statistics and machine"
+    ],
+    "ABOUT": "ready to seek advice.\npersonal\ndata science, data analysis, data\nanalytics, data mining, deep\nlearning, machine learning,\nartificial intelligence, linear",
+    "EDUCATION": {
+      "raw": "bachelor of technology (computers) from amity university, noida in",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "regression, python, jupyter,\n2021.\nopencv.\npredict blood anomaly using\nopencv\nnatural language based\ncharacter identification\nextra-curriculars\nintermediate predictive analysis in\npython\nimporting and managing financial\ndata in python",
+      "keywords": [
+        "analysis",
+        "predict"
+      ]
+    }
+  }
+}

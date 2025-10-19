@@ -1,0 +1,31 @@
+{
+  "id": "cv (4322).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "april 2015 to current company name",
+      "computer technical specialist",
+      "i maintained security on all companies machines.",
+      "i maintained security on our networks in which only company users could access the network.",
+      "information technology specialist",
+      "september 2007 to january 2014 company name city",
+      "set up and assisted users with their e-mail accounts.",
+      "set up and maintain all software on faculty and staff computers in a windows and mcintosh environment.",
+      "set up and maintained the network infrastructure both wired and wireless configuration.",
+      "setup and configured users android phones so they could access the company s resources.",
+      "setup and maintained all user s computers including hardware and software."
+    ],
+    "CERTIFICATIONS": "troubleshoot all software and hardware problems on user s machines.\ncheck network connectivity issues on the client side.\nset up and maintain all printers scanners and fax machines for staff and faculty and students.\nconfigure and setup all pda s for all faculty and staff.\nhelp maintain lab computers on the windows and mcintosh environment including hardware software and printing issues.\nassist network administrators with setting up and maintaining the network and assisting with network issues including routers switches and\nservers.\nthis included dhcp server and domain controllers using active directory and a layer 3 thru 5 switches.\ncaptured and pushed images to and from workstations with a ghost server.\npushed software packages to user s machines using a kbox server.\nmaintaining all classroom projectors which were connected to a smart board including the attached devices.\ninstalling and troubleshooting all software and hardware issues for the school of engineering and applied science.\nmaintain a license server to keep software operational.\nset up and maintain intermapper which monitored all switches servers and lab workstations in real time to see if machines were up and\nrunning.\nset up virtual machines and installed all software on client machines.\nset up and configured polycom qdx 6000 video and tandberg conferencing machines.\nset up and brought down conference calls.\nsenior computer network support technician\nnovember 2001 to september 2007 city , state\nprovide statewide data telecommunications and on the-site problem analysis and resolution consultation hardware and software\ninstallations technical guidance and support for personal computing equipment.\nprovide local and wide area networking support, which included router switch and server and router configurations, and installations and\nproblem resolutions.\ntroubleshoot all network components including routers switches servers and patch panels.\nmicrosoft certified professional systems engineer 2003 ccna (cisco certified network associate : 1988 northern virginia community\nghost, ip, lans, access, microsoft certified professional, mcse, windows 7, windows, network, networking, networks, printers, problem\nanalysis and resolution, protocols, real time, router, routers, scanners, servers, switches, switch, systems engineer, teaching, telecommunications,\nphones, troubleshoot, troubleshooting, video, video conferencing, windows server, wiring",
+    "WORK EXPERIENCE": {
+      "raw": "analyzing and diagnosing the network for the correct topology protocols and configurations.\ninstall and maintain video conferencing systems which included meeting point.\ndiagnosed and fixed any problems computers may be experiencing including network software, and hardware issues.\njunior network administrator\nseptember 1999 to november 2001 company name city , state\nperformed the installation and removal of all programs on a network in a teaching and testing facility.\nassigned rights and permissions to users and servicing them on the network.\ntroubleshoot all hardware as well as software problems on the network.\nalso configured ip addresses dynamically and statically for new machines on the network using a dhcp server.\nmaintaining compatibility of new hardware and software on our network which included routers, switches, and servers as well as\nworkstations.\nreorganized lans to insure speed and performance.\ninstalled and maintained all wiring on the network.\ncomp a course, windows 7 course, comptia network course, comptia security course, windows server 2012 class. ccna class.\ncollege virginia commonwealth university gpa: dean s lists gpa: 3.4 dean s lists gpa: 3.4\nb.s : biology , 15 biology\nnvcc alexandria a.a.s networking (06-25-2001) nvcc alexandria a.a.s microcomputer specialization (06-25-2001) virginia\ncommonwealth university richmond",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

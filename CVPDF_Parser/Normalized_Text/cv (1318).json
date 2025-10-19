@@ -1,0 +1,40 @@
+{
+  "id": "cv (1318).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "douglas c. roach\n195 binney street - apt. 2315\ncambridge, ma 02142\n(917) 868-6036\ne-mail: droach mit.edu\n1999 - present mit sloan school of management\ncambridge, ma\ncandidate for master of business administration, june 2001 financial engineering track\nmember of finance, investment management and mediatech clubs. teaching assistant for 15.401 - finance theory i portfolio manager, and csfb s creditrisk for inclusion within the creditsource website.\ndetermined business requirements, user scenarios and use-cases for credit risk analytic models served as the liaison between the business and programming teams. 1999-2000\npricewaterhousecoopers risk management consulting",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "ACTIVITIES": "currently conducting a study of portfolio credit risk models under professor dimitri vayanos. 1992-1995\ngeorgetown university\nwashington, d.c\nbsba in accounting and finance (double major)\ngraduated summa cum laude gpa 3.92/4 ranked 7th in class of 307.",
+    "ACHIEVEMENTS": "finance tutor, transfer student advisor, teaching assistant society, dean s citation for community service, accounting recognition award\nconsulted on a variety of domestic and international corporate treasury risk management issues-\nincluding exposure analysis, risk measurement methodology, risk management systems, risk\nmanagement organization, policies and procedures and limit structures.\npersonal\naffiliations: global association of risk professionals (garp), georgetown club of new york,\ngeorgetown university wall street alliance, georgetown university alumni interviewer\ninterests: golf, travel, skydiving, emerging internet technologies (xml, web appliances)\nhomepage: http://web.mit.edu/ droach/www",
+    "WORK EXPERIENCE": {
+      "raw": "summer 2000\ncreditdimensions.com\nnew york\nintern, portfolio credit risk analytics\nassessed various portfolio credit risk models including riskmetrics creditmanager, kmv s",
+      "companies": [
+        "inc"
+      ],
+      "titles": [
+        "intern",
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "new york\nprincipal consultant risk analytics and derivatives valuation services group\nderivatives portfolio.\nresponsible for the weekly revaluation of a portfolio of over 6000 fixed income and equity derivatives including interest rate swaps, swaptions, caps/floors, total return swaps and\ncmt/cms swaps and options.\nanalyzed new deal structures, market data requirements, and underlying financial theory of client models conducted coordination meetings with traders, salespeople and research staff.\nresolved valuation differences with traders and trade support staff at local and international divisions.\n1997-1999\nconsultant, risk analytics and derivatives valuation services group\nre-engineered the salomon swapco derivatives valuation process by developing an automated reconciliation system written in visual basic/c .\nmaintained pricing models, including data feeds, enhancements/modifications/upgrades and implementation of new pricing systems. marking/modeling client positions, building interest rate and volatility curves and developing\nexcel/access tools for pricing financial instruments.\n1995-1997\nprice waterhouse llp\nnew york\nconsultant, corporate treasury risk management consulting",
+      "keywords": [
+        "model",
+        "system"
+      ]
+    }
+  }
+}

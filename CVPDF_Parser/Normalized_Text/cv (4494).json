@@ -1,0 +1,61 @@
+{
+  "id": "cv (4494).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "java intern\ncareer overview\ndatabases and performance testing san.\nconcepts\njava intern , 06/2013 current company name city , state\ndesigning and implementing leave management system for internal use(spring mvc)\nreceiving training in core java and j2ee technologies\nconsuming and producing web services for a bank application\ncreating single page application in angularjs\ntest contractor (performance and benchmarking team) , 05/2014 05/2015 company name city , state\nexecuted test cases and analyze performance numbers against benchmarks\nconducted root-cause analysis for performance degradation in controller firmware builds by running continuous performance verification\n(pcv) tests daily.\nparticipated in scrum meetings\nautomated using action word script (aws), batch script, java ( member of automation team)\ngraduate research assistant , 12/2013 05/2014 company name city , state\nmanaged and maintained niar composites database\ncreated charts and updated the database\nwrote macros for doing data analysis",
+      "companies": [
+        "company",
+        "technologies"
+      ],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "may 2015 wichita state university city , state master of science computer science gpa: gpa: 3.93/4\ngpa: 3.92/4\nmay 2013 bmsce city , state bachelor of engineering computer science gpa: gpa: 8.81/10\ngpa: 8.81/10",
+      "degree": [
+        "bachelor",
+        "master",
+        "msc"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "angularjs",
+      "client-side scripting : html5",
+      "consuming and producing soap and restful web services (xml and json)",
+      "css",
+      "design patterns",
+      "ejb",
+      "hibernate3.x",
+      "j2ee technologies",
+      "java script",
+      "jms",
+      "jpa",
+      "jquery and bootstrap",
+      "jsp",
+      "methodology",
+      "pl",
+      "qualifications",
+      "server-side technologies : servlets",
+      "spring 3.0",
+      "sql",
+      "struts 2.0"
+    ],
+    "PROJECTS": {
+      "raw": "optimizing and performance tuning\na team\nc, c ,unix system programming, cuda, perl\ndata structures, operating system concepts, multicore and multi-threaded programming, san, unix\ntools : eclipse, iometer , code warrior, vi editor, visual studio, arduino, oracle 11g, code blocks, iscsi initiator, netapp internal\ntools, navicat, jconsole, jmeter, tomcat, jboss, git\nunix system programming : built a binary search tree using system calls in c (on linux platform) to sort a file of records implementation\nof unix commands : tail, tee, cp and mv, in c\nparallel apriori algorithm proposal on nvidia gpu performance of apriori algorithm with multiple threads on a single-core machine was\ncompared against multi-threading on gpu. the newly proposed algorithm reduces the processing overhead on gpu.\nleave management system: designed and implemented a module to help the organization to log the attendance of employees with its\nend and oracle 11g server as database",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    }
+  }
+}

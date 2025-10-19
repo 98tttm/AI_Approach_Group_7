@@ -1,0 +1,20 @@
+{
+  "id": "cv (5001).pdf",
+  "normalized_sections": {
+    "ABOUT": "tessa maers\nb u s i n e s s s t r a t e g i s t\nbusiness strategy, consulting, excel, capital\na strategic analyst whose spans over a vast array of\nexperience. i have been part of teams and contribute a lot\nmarkets, investment banking, investment research,",
+    "WORK EXPERIENCE": {
+      "raw": "to their products and services. as an analyst, i always try to\nstatistics, strategy consulting, vba, python,\nprovide the best results i can extract from data.\nmatlab, machine learning.\ngdmns\nb.tech(computers) from university\nstrategy analyst,\nof delhi, delhi in 2018\noct 2019 - ongoing\nprovide key insights that help make business decisions",
+      "companies": [
+        "lab"
+      ],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "elucidata\ndata scientist,\njan 2018 - sep 2019\ncreated a crispr/cas9 splicing simulator for\nresearching dna/rna cutting process and other genomic\nsoftware applications in r and python.\nimage generation from text using auto-",
+    "CERTIFICATIONS": "encoder"
+  }
+}

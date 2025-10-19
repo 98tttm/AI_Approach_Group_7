@@ -1,0 +1,44 @@
+{
+  "id": "cv (4678).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "additional information",
+      "automotive",
+      "companies goals.",
+      "consolidations",
+      "consultant",
+      "dc 8",
+      "excel",
+      "excel and microsoft office read schematics and blue prints",
+      "microsoft office",
+      "non smoker or drinker. i am punctual honest and have a good work ethic.",
+      "office",
+      "personal information",
+      "personal information non smoker or drinker. i am punctual honest and have a good work ethic.",
+      "read",
+      "san",
+      "schematics",
+      "telephone",
+      "work history"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "company name\ncompany name city , state consultant had classes for safety and handed out rule books to personnel. set up programs on their computers help\nthem keep current location of their inventory (rail cars). set up a process for computer personnel to report information on movement of inventory\nto their supervisors. company name city , state manager asst. bldg. superintendent, manager of the demurage and switching billing, asst. to clerical director,\nmanager crew\ncompany name city , state manager",
+      "companies": [
+        "company"
+      ],
+      "titles": [
+        "manager"
+      ],
+      "years": []
+    },
+    "EDUCATION": {
+      "raw": "prevention of inter-modal equip- ment.\nretired) assembler chrysler automotive mcdonald aircraft co. long beach, calif. assembler on dc 8 aircraft general telephone co.\nlong beach, calif. central office computers tech.\ntuloso-midway high school corpus christi texas diploma san jacinto college pasadena texas (60 semester hours) general telephone long\nbeach, calif. (4 company schools",
+      "degree": [],
+      "institution": [
+        "college",
+        "school"
+      ],
+      "years": []
+    }
+  }
+}

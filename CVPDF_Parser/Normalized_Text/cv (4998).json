@@ -1,0 +1,52 @@
+{
+  "id": "cv (4998).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "samuel lee\njunior machine learning engineer\nexecutive\ni am a junior machine learning\ns2h minds pvt ltd\nengineer who has worked on\njunior machine learning engineer may 2019 -\ncommercial grade recommender\nongoing",
+      "companies": [
+        "ltd",
+        "pvt"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "algorithm",
+      "and recommender system.",
+      "data mining",
+      "development",
+      "key-word recognition",
+      "machine learning",
+      "natural language",
+      "personal",
+      "python",
+      "speech processing engines",
+      "systems and speech processing",
+      "systems for home devices.",
+      "text mining",
+      "working on natural language processing based"
+    ],
+    "ABOUT": "processing, pattern recognition,\ndeep learning, neural networks,\nspeech identification, rnn, lstm,\nword-clouds, tensorflow,\nbeautiful soup.",
+    "EDUCATION": {
+      "raw": "b.sc (statistics) from osmania university in 2019",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "mini interactive website for quiz\nextra-curriculars\nrecommender systems -\nunderstanding the underneath,\nuniversity of waterloo.",
+      "keywords": [
+        "system",
+        "web"
+      ]
+    }
+  }
+}

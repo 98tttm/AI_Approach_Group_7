@@ -1,0 +1,53 @@
+{
+  "id": "cv (2584).pdf",
+  "normalized_sections": {
+    "ABOUT": "sharanya p.v.\nemail:sharanyapv624 gmail.com\ncontact: 9964667669\nbe part of a team-oriented, creative organization, where my educational background,",
+    "WORK EXPERIENCE": {
+      "raw": "company s core goals.",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": []
+    },
+    "EDUCATION": {
+      "raw": "bachelor of engineering in electronics & communication from canara engineering\ncollege benjanapadav affiliated to vishwesvaraya technological university, belgaum in\nthe year 2013.\npercentage aggregate: 62.45 %\nsslc from st. victor s girls high school puttur percentage of marks: 75.52%\npuc from st. philomena college puttur karnataka percentage of marks: 76.5%\ndiploma from kvg p sullia percentage of marks:66.56%",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "school",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "technical proficiency:\nmicroprocessor, microcontroller ,vhdl programming\nvlsi designing, computer hardware and networking\nms excel, ms access, ms word ,ms paint\nprogramming languages: c , microprocessor, microcontroller\noperating system: dos, windows 98 xp millennium,linux\nundertaken\ntitle: cryptographic\nsecured\nwireless\ncommunication for militory application .\nfor militory application team size: 4 the art of protecting information by transforming it into an\nsoftware: pic18f442\nprograming language:\nunreadable format, called cipher text. only those who possess a\ntiny encryption\nsecret key can decipher the message into plain text. encrypted\nalgorithm.\nmessages can sometimes be broken by cryptanalysis, also called\nhardware: rs232\ncodebreaking, although modern cryptography techniques are\nuart, zigbee\nvirtually unbreakable .as the internet and other forms of electronic\nmodule,keypad,power\ncommunication become more prevalent, electronic security is\nsupply, crystal.\nbecoming increasingly important. cryptography is used to protect e-\nmail messages, credit card information, and corporate data. one of\nthe most popular cryptography systems used on the internet is pretty\ngood privacy because it s effective and free.\nencryption system in which the sender and receiver of a message\nshare a single, common key that is used to encrypt and decrypt the\nmessage. symmetric-key systems are simpler and faster, but their",
+      "keywords": [
+        "analysis",
+        "app",
+        "system"
+      ]
+    },
+    "SKILLS": [
+      "a budding professional with extensive conceptual knowledge in software testing",
+      "decent information of build",
+      "good knowledge on stlc",
+      "good knowledge on writing test case",
+      "key in a secure way.",
+      "main drawback is that the two parties must somehow exchange the",
+      "manual testing",
+      "re-spin",
+      "release",
+      "reviewing process.",
+      "software development life cycle (sdlc) & different models of sdlc",
+      "test plan",
+      "types of testing"
+    ],
+    "CERTIFICATIONS": "knowledge on defect, defect cycle good knowledge on defect tracking tool bugzilla\ntraining attended :\niso 9001: auditor/lead auditor course.\ndesignation : certificate engineers.",
+    "ACTIVITIES": "duration : from 25--03-15 till the date\nreading news paper, cooking, listening music, browsing.\npersonal profiles :\nfather s name - venkappa p.s\npermanent address - keremoole house, savanoor post ,\n- puttur taluq,dakshina kannada, pin-574202\ndate of birth - 3rd march1989\nsex - female\nnationality - indian\nmarital status - single\nlanguages known - kannada, hindi, english\ni hereby declare that the above information is true to the best of my knowledge and belief.\nplace: banglore\nsharanya p.v"
+  }
+}

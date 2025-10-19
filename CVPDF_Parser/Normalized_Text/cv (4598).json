@@ -1,0 +1,41 @@
+{
+  "id": "cv (4598).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "adjunct instructor",
+      "coaching & mentoring business intelligence sdlc people management team building data analysis oracle sql",
+      "ms access progress rdb",
+      "quality engineering process improvement acceptance testing strategic planning organizational development requirement assessment"
+    ],
+    "PROJECTS": {
+      "raw": "clarity software\nplanning and strategy 01/2014 - 11/2014 oversaw and facilitated development, qa and production of monthly metric dashboard\npackages across ait that illustrates the organization s collective value and overall contribution for senior level reporting and review.\n(ait) leadership development rotation program 2012 to 2013 leadership development program rotation across annuities organizational\nand functional departments, focused on hands-on and real scenario exposure to various executive leadership approaches and styles.\nexecution.\nanalyst, developers and stakeholders.\ndesigned and developed the process to collect and track 29m in it-sourcing business case multi year savings. piloted and socialized\ndata collection process and procedures to obtain five organizational units executives sign off without issues. the tool and process enabled\ntimely, accurate and effective decision senior leadership decisions for strategic planning.\nled acquisition of two commercial off the shelf software for ait, 50% below whole sale by successful negotiation and package order\nreconfiguration. vendor management lead for the enterprise procurement of hp s requirement management tool (rmt) and apptio\n(financial saas application) by developing and implementing request for proposals (rfps), master service agreements (msa) and\nstatement of work (sow) in collaboration with prudential legal and business and senior stakeholders.\nrequirements for collaborative work effort between apptio and prudential annuities.\ndeveloped traceability matrices and risk based test strategies for reliable analysis with optimized test coverage and prioritized execution.\ncollaborated and negotiated development of qa testing infrastructure for information management and business intelligence (imbi) qa\ncluster through research, development and incorporation of business intelligence testing methodology and established qa guidelines for\nmethodology to business clients and ait s analysis and development teams. this process became the foundation of testing procedure for\nait qa department.\ninformation management and business intelligence by design process participation, peer and quality control reviews. oversaw\ndevelopment of qa strategies, test plans and test cases to migrate prudential s annuity system to newly established data warehouse, mart\nwith cognos as reporting front-end.\nmanaged qa validation execution, tracking and governance of annuities information factory data warehouse, the foundation of ait s\nbusiness intelligence infrastructure in qa organization by leading two onshore and six offshore, from india and ireland, in design, creation\nbridged qa sme single point-of-failure gap by developing succession plans and approach though knowledge transfers, documentations\nand trainings.\nmonitored and reported relevant qa metrics for test performance to senior management for though use of charts and graphs for trend and\nanalysis. managed prioritization of production defect resolution, validation and on-time production deployments. defined, developed and\nstandardized production defect resolution infrastructure and processes for the newly formed qa production support team.\nworking knowledge of test environments, capabilities and user needs. this process improvement resulted to a single point of contact and\nmultiple call reduction.\nengineered and streamlined qa region refresh procedures resulting into a repeatable process implemented in ait qa department. this\nprocess reduced test region set-up to 5 days from its usual 9 days set up. employed automation, batch processing, collaboration and\nnegotiations with it partners to drive success.\nlifecycle.\ninformation technology s automation infrastructure and processes. developed regression test bed to reduce manual testing effort of\nrepeatable process.\ncollaborated in the establishment of the qa automation infrastructure through proof of concepts, benefits and impact analysis with\npramerica offshore team. established the 1st automation infrastructure using rational software and base line regression test bed for\nprudential s annuities technology line of business.\nreduced database table seeding qa validation by 75% in qa, uat and production environment by developing and implementing excel\nmacro comparison tools to validate data accuracy.\nbuilt a cyclic redundancy check automated script that save 4 person hours on each execution by launching 100 application screens that\nexecuted initiation modules.\nsoftware developer\njanuary 1996 to january 1998 company name city , state\njanuary 1988 to january 1996 company name city , state\nsow, statement of work, strategic planning, technical requirements, training, vendor management, business intelligence, cases, clients,\ncoda, cognos, data warehouse, etl, extract, transform, and load, front end, front end design, front-end, governance, ibm cognos, life\ncycle, qa methodology, quality assurance, quality assurance standards, quality control, sme, subject matter expert, test lead, test plans,\nbatch processing, its, process improvement, scheduling, instructor, order processing, acceptance testing, access, coaching, data analysis,\ndevelopment, organizational development, rational software, rdb, software qa, sql, team building, user acceptance, visio, word",
+      "keywords": [
+        "analysis",
+        "app",
+        "system"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "adjunct instructor\njanuary 1999 to november 2014 company name city , state",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "ms : computer science , 1992 university of new haven city , state , us ms in computer science university of new haven - new haven,\nct 1992\nbs : computer science , 1985 fairleigh dickinson university city , state , us bs in computer science fairleigh dickinson university -",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19"
+      ]
+    },
+    "CERTIFICATIONS": "teaneck, nj 1985 links http://www.linkedin.com/in/josephmueller201\nait"
+  }
+}

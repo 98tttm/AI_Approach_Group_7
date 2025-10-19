@@ -1,0 +1,6 @@
+missing = {'cv (3498).pdf', 'cv (1054).pdf', 'cv (4022).pdf', 'cv (3138).pdf', 'cv (2586).pdf', 'cv (1055).pdf'}
+
+for file in os.listdir(json_dir):
+    if file.replace('_annotated.json', '.pdf') in missing:
+        continue  # skip
+    process_json(file)

@@ -1,0 +1,20 @@
+{
+  "id": "cv (4989).pdf",
+  "normalized_sections": {
+    "ABOUT": "cash flores\nf r e s h e r\nmachine learning, text analytics, software\nmachine learning enthusiast. motivated to learn, grow and",
+    "WORK EXPERIENCE": {
+      "raw": "excel my experience by challenging myself.\ndevelopment, data analysis, python, java,\njavascript, matplotlib.\nrnt laboratories\nb.tech(cse) dr. nidhiram goyal\nintern trainee, apr 2019 - jun 2019\nengineering college, murshidabad",
+      "companies": [
+        "lab"
+      ],
+      "titles": [
+        "engineer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "2020\nusing ml algorithms for different\nclassification and regression problems over\nlarge datasets.\ndecision models using machine learning.\ndata science with python."
+  }
+}

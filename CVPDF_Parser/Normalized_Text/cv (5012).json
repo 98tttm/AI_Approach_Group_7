@@ -1,0 +1,32 @@
+{
+  "id": "cv (5012).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "garette paige\nassociate software engineer\nexecutive\nassociate solution advisor\ndelta info-nancial services\ncurrently enrolled in pg for data\nsde for software caging, jun 2019 to ongoing\nscience, knowledge in data\nmanipulation, analysis, reporting\napplying iam solutions using sailpoint with\nand data visualization. in depth\nintegration to various target systems like active\nknowledge of tools used for",
+      "companies": [
+        "solutions"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ABOUT": "directory, web services, workday, and delimited\nproduction.\nfiles. implemented all solutions using java\nimplementing & monitoring security alerts for the\nprotection of computer systems, networks, and\ninformation. working on requirements gathering,\ndesign & development of the iam solution with\nleading healthcare clients.\npersonal\nmachine learning, data analysis,\ndata visualization, risk\nassessment, debugging, database\nmanagement, access control, iam,",
+    "EDUCATION": {
+      "raw": "b.e. (computers) from jyothi institute of engineering",
+      "degree": [],
+      "institution": [
+        "institute"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "sail point, java, python, mysql,\n& technology, hyderabad in 2019\nmongodb, data structures.\nrisk management\nsentiment analysis general\ntext classification\nextra-curriculars\nmicrosoft technology associate\n(software fundamentals) python",
+      "keywords": [
+        "analysis"
+      ]
+    }
+  }
+}

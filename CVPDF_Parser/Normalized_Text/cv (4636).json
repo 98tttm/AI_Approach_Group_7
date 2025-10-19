@@ -1,0 +1,44 @@
+{
+  "id": "cv (4636).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "geek squad agent\ni am hard working, willing to learn, team oriented, and comfortable working independently as well.\nqualifications\nwindows / mac / ios / android technical support hardware & software maintenance user training malware detection & removal\ncustomer service entry level active directory & ticketing problem solving & research\ncompany name august 2014 to october 2016 geek squad agent\ncity , state\nprovided technical support in person and over the phone.\nperformed hardware and software installation and repair.\nrefurbished and setup pcs and peripheral devices.\ncompany name january 2013 to january 2014 shipping & receiving associate\ncity , state\nperformed shipping and receiving of product.\nassisted with inventory management.\ngeneral logistics and warehouse duties.",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "company name january 2009 to january 2012 assembler/shipping & receiving associate\ncity , state\nassembled and tested tanks according to specifications.\nmaintained inventory of tools and supplies.\nperformed shipping and receiving duties.\ncompany name january 2005 to january 2009 aviation electrician\ncity , state\nperformed troubleshooting and maintenance of aircraft.\nperformed ground handling and marshalling of aircraft.\nperformed daily safe for flight inspections.\npurdue university 2014 b.s : computer & information technology city , state computer & information technology",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "active directory",
+      "customer service",
+      "hardware",
+      "inventory",
+      "inventory management",
+      "logistics",
+      "mac",
+      "phone",
+      "problem solving",
+      "receiving",
+      "research",
+      "shipping",
+      "software installation",
+      "technical support",
+      "troubleshooting",
+      "user training",
+      "windows"
+    ]
+  }
+}

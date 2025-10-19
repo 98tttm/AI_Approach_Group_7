@@ -1,0 +1,9 @@
+{
+  "id": "cv (4953).pdf",
+  "sections": {
+    "ABOUT": "SETH HALL\nD A T A  S C I E N T I S T  A N D  D E V E L O P E R\nWORK BACKGROUND\nI am Data science enthusiast focused on\nNeuraTech\nsolving complex problems using machine\nDeveloper, Mar 2019 - till date\nlearning techniques. I try to simplify\nproblems and attack them head on. Always",
+    "EDUCATION": "",
+    "ACTIVITIES": "Natural Language Processing,\nTransformers, BERT.\nFederated Machine Learning using\nDeep learning Specialization\nArduino.",
+    "WORK EXPERIENCE": "Using BERT we designed a model which captured the users\nworking and striving to be better solution\ncomments on news websites and calculated the reaction based on\nfinder.\nthose comments to a news article.\nData Scientist, Machine Learning,\nB.tech (ECE) LPU, Chandigarh, 2019\nPython, Big Data, SQL, PySpark, Scala,\nHive, Scikit Learn, Pandas, Matplotlib,"
+  }
+}

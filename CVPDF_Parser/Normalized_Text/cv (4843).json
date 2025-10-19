@@ -1,0 +1,21 @@
+{
+  "id": "cv (4843).pdf",
+  "normalized_sections": {
+    "ABOUT": "jaroslav chechnik\nf r e s h e r\nlooking for a job opportunity in which i\nexperts hub\ncan interact, learn, and contribute\nintern, may 2020",
+    "EDUCATION": {
+      "raw": "solutions to the problems, which\nenhances company benefits along with\nsmart parking system\nmy career.\nb. tech, ece vit-ap university 2021\npython, anaconda, numpy, pandas,",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "matplotlib, scikit learn, tensorflow,\nstreamlit, arduino, raspberry pi.\ndeep learning masters",
+    "PROJECTS": {
+      "raw": "machine learning\nmusic genre classification\nface, eye, smile recognition",
+      "keywords": []
+    }
+  }
+}

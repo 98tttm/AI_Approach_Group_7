@@ -1,0 +1,76 @@
+{
+  "id": "cv (4718).pdf",
+  "normalized_sections": {
+    "ABOUT": "consultant\nconsultant/system engineer with 6 years in healthcare it. primary focus has been on linux with a recent emphasis on regulatory consulting and\ntransition of care. experienced in training and development of associates along with development of documentation.\nqualifications\nworking independently\ngap analysis\ntraining program implementation\nsystem administration",
+    "WORK EXPERIENCE": {
+      "raw": "quality control\nunix system performance monitoring\nprocess improvement\ntechnical writing\nsystem testing\nunix/linux environments\ncreated build guides that ultimately led to the automation of many elements of the build process for several teams. this automation saved my\nteam as well as others, weeks of build time and has allowed for a more standardized process.\nconsultant 08/2015 to current company name city , state",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "provides leadership and oversight to engagements so that results are met on time as well as to ensure value is being provided to the client.\nsuccessfully be able to meet meaningful use measures.\nconduct on-site client workshops and client summits as needed and determined by the hospital systems.\nmanage provider and hospital data through various tools including discernvisualdeveloper, hnauser, and bedrock build hundreds of\nrules and pools for direct and transition of care for clients.\ncreate and maintain build guides and team collateral to use for future client and new hire training.\nbuild guides and workflows were also used to partner with an internal automation team to streamline our processes.\nworks with the hospital systems and designated him staff on how to maintain systems once we begin to disengage from the product.\nsystem engineer - health sentry 02/2013 to 08/2015 company name city , state\nbackend support on production servers of extracted data on linux systems including investigation of corrupt data, creating ssh keys,\nextracting data from client database, managing disk space and troubleshooting.\nfront end work on production servers by maintaining opsjobs and troubleshooting any operation failures.\noften working with the client to teach the ongoing maintenance of the opsjob.\ncreate various macros and spreadsheets for quality assurance checking create and run numerous sql queries.\nmanage and monitor the ftp, phinms and vpn connections on a daily basis to provide a proactive approach to catching any issues.\nuse custom ccl scripts to modify the format of hl7 messages.\ncreate and provide appropriate workflow documentation for clients to support the system and setup during the testing processes.\nadhere to applicable client access, client notification, and change management policies and procedures.\nwork with other engineers to alleviate problems with data extracts.\nsystem engineer 06/2012 to 02/2013 company name city , state\nassist hr teams with designing and implementing solutions rebuilt a custom tool for events planning team using microsoft access.\nconduct fact finding meetings with various team members to better understand how the solution would be used.\nheld regular meetings to provide updates on the current status of work and to give a timeline of completion.\nsupport service pack installation and continued maintenance of solutions, and infrastructure.\nidentify where applications are having performance/reliability issues analyzes and formulate a proposed method to correct issues.\nperform domain replicate/refreshes from a production environment to a non-production environment.\nwork through a queue of service requests to resolve issues the client reported or that other internal teams encountered.\nworked with other internal architects to resolve more complicated issues.\nmanage end user access and privileges including group 0 access, creation of user profiles, and custom lists.",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "support the maintenance of specific clients and their servers/application needs including after-hours work.\nbuild various servers including websphere, rrd, chart and citrix servers.\ncoordinate with client for the testing of environment functionality as well as service pack installs and the subsequent downtimes.\ncompleted numerous service package installs for non-production clients and for testing partners.\nmaintain long-term support and management troubleshoot and resolve issues daily.\nmaster of business administration : information systems 2015 park university city , state information systems\nbachelors of science : business administration/management 2015 park university city , state business administration/management\nassociates of applied science : computer networking 2010 itt-technical institute city , state computer networking",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "access",
+      "aix",
+      "automation",
+      "change management",
+      "citrix",
+      "client",
+      "clients",
+      "consulting",
+      "database",
+      "delivery",
+      "designing",
+      "documentation",
+      "ftp",
+      "hp-ux",
+      "hr",
+      "leadership",
+      "linux",
+      "macros",
+      "managing",
+      "meetings",
+      "microsoft access",
+      "peoplesoft",
+      "policies",
+      "processes",
+      "quality assurance",
+      "scripts",
+      "servers",
+      "spreadsheets",
+      "sql",
+      "ssh",
+      "troubleshooting",
+      "vms",
+      "vpn",
+      "websphere",
+      "workflow",
+      "works",
+      "workshops"
+    ]
+  }
+}

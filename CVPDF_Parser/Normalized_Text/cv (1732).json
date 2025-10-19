@@ -1,0 +1,30 @@
+{
+  "id": "cv (1732).pdf",
+  "normalized_sections": {
+    "ABOUT": "resume\nmuthazhagan.p mobile :9176255835\nemail id: muthazhaganrackram518 gmail.com to purpose a growth oriented career where i can use my to the\nworking intrest service maintaince\nname\n:\nmuthazhagan.p\nfather s name\n:\nparamasivam.a\ndate of birth\n:\n05.07.1993\ngender\n:\nmale\nmarital status\n:\nsingle\nnationality & religion\n:\nindian & hindu\nlanguage known\n:\ntamil & english\nmobile : 9176255835\naddress : no.3/83-sangar street,vettuvankeny\ninjam pakkam p.o, kanjipuram d.t\npin code -600 015\ndeclaration:\ni hereby declare that above provided information s are true and i\nsolemnly bear all the responsibilities and consequences resulting from the\ninformation provided in the document.\ndate :\nplace : (muthazhagan p)",
+    "EDUCATION": {
+      "raw": "best of my abilities and be a useful asset to the organization.\ncourse\ninstitute\nboard\nyear\n%\nannamalai university\nbe\nannamalai\n2011-2015\n5.72%\nchidambaram",
+      "degree": [
+        "mba"
+      ],
+      "institution": [
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "state\nhslc\nsen.josep high sec school\nboard\n2011\n50%\ntv. malai\ncomputer proficiency basic operating typing cad cam voltaslimited- source hov india pvt.ltd ,guindy\nchennai (2014-2015) (vrf, package a/c units maintenance) emerson unitetdaircon,\nkarapakkam,chennai.\nyear (2015-2017) (pac and pahu a/c units service)",
+      "companies": [
+        "ltd",
+        "pvt"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

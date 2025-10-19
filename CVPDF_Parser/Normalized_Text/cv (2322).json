@@ -1,0 +1,42 @@
+{
+  "id": "cv (2322).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "curriculam vitae\nname: khuster raza\ndate of birth: 08/08/1992\ne-mail id: khusterkhan1992 gmail.com\nmobile: 91-9891505392\ncarreer objectives\nto obtain challenging and rewarding full time position in network\nadministrator with growth and learning opportunities in\nsupportive, challenging work environment that would take\neducational qualification\nuniversity / boards\npassing\ndegree\ninstitution\nyear\nexam passed\nbachelor\nof\nm.m.h.a & p\nm.m.h.a & p\ncomputer\n2013\nuniversity\nuniversity\napplicatio\nn\nb.s.e.b\n2009\nintermedi\nmirza galib\nate\ncollege\nmatricula\na.n.s.h.scho\nb.s.e.b\n2007\ntion\nol\ntechnical qualification ccna- cisco certified network associate (cisco id-\ncsco12955323) mcse- microsoft certified system engineer\nn e t w o r k i n g dca- diploma in computer application\nwork expirience company name: vertex costumer india solution private\nltd. company name : microchip info tech system private\nlimited\nkey duties and responsibilities troubleshooting of complex lan/wan infrastructure,\nincluding routing protocols eigrp, ospf & bgp. working on troubleshooting of complex lan/wan\ninfrastructure. designed and deployed networks using dynamic routing\nprotocol (eigrp, ospf and bgp). working on troubleshooting of complex lan/wan\ninfrastructure. ip addressing and sub netting, routing concepts\nkhuster raza security administration port security on switch and ip\nsecurity on router via access list",
+      "companies": [
+        "company",
+        "inc",
+        "ltd"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "upgrading and backups of cisco router configuration files. installation & troubleshooting of software s & hardware\ndevices installation & troubleshooting of operating system configuration of domain & workgroup configuration of ads, dns, wins, dhcp, iis, profiles, group\npolicy configuration of exchange server, users & groups, ou,\nn e t w o r k i n g\ncluster nodes installation & configuration of router, switch, modem configuration of vlan, vpn, nat , rras , sites etc. installation & configuration of wireless access point,\nbluetooth, administering & designing lans, wans internet/intranet, and\nvoice networks. network connectivity troubleshooting, ping, tracers, telnet. routing protocol : rip, eigrp , ospf , bgp switching : vlan , vtp , stp , ether channel security : port security , acl , nat\nsummer trainning\nsystem organization : megasoft solution duration : 6 month platform : java, oracle\nkhuster raza\ndata base management system (rdbms) and object\nbecause it is very powerful object oriented language. it\ngives totally user friendly environment to the user s and give\nfreedom to developing software on it. it gives the feasibility\nto create new table and linked to other tables.\nn e t w o r k i n g\narea of intrest networking. web designing\npassport details passport no : l1321315 date of issue : 01/04/2013 date of expire: 31/03/2023 place of issue : patna\nhobbies net surfing. watching movie making friend\npermanent address vill : sihuli po\n: darioura ps\n: aamas\nkhuster raza dist : gaya state\n: bihar pin : 824211\npersonal details father name : kalam khan sex : male marital status : unmarried\nn e t w o r k i n g language : hindi, english, urdu nationality : indian\ndate\nkhuster raza\nkhuster raza",
+      "keywords": [
+        "system",
+        "web"
+      ]
+    },
+    "SKILLS": [
+      "2007",
+      "2008",
+      "2010",
+      "database : ms access",
+      "diagnosing and resolve all network problems.",
+      "html",
+      "investigating",
+      "language : c",
+      "maintaining pre-packaged software applications on the lan.",
+      "office suits : ms office 2003",
+      "operating system : ms dos",
+      "oracle 10g",
+      "windows xp"
+    ]
+  }
+}

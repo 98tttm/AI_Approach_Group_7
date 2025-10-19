@@ -1,0 +1,108 @@
+{
+  "id": "cv (2211).pdf",
+  "normalized_sections": {
+    "ABOUT": "mohammed abdul khayoom\nmobile: 91-8099914812\ne-mail: mohd.abdulkhayoom786 gmail.com",
+    "EDUCATION": {
+      "raw": "degree\nuniversity/college\nyear\ngraduation bachelor of technology (eee)\nvishwa bharathi college of\n2010-2014\nengineering",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "intermediate- mpc\nsri chaitanya jr. kalasala\n2008-2010\ncbse\nkendriya vidyalaya(ofpm)\n1998-2008\n1)\nbasic topology. dc- dc converters are frequently utilized in traction motor speed control and switched\nmode power supply. control of speed of dc motor is specially required where supply is dc voltage matrix\nconverter does not have energy storage components as compared to conventional converters which use\nenergy storage components.. in this paper, dc-dc converter is proposed to generate a variable dc voltage\nfrom a fixed dc voltage using single phase matrix converter topology that has bachelor of engineering used in direct ac-ac\nconverter application. state space modeling is developed taking currents as state variables. but using\ninductance in load generates some distortions in output of converter. as frequency is increased distortions\nin the output of the converter get reduced for inductive load. the dc-dc converter is based on four\nquadrant operation of chopper and the output of converter is synthesized by using pwm technique.\n2)\nthat keeps control of stepper motors in different applications, which executes with respect to the\nsignal sent by the mobile. for utilization of appliances the new concept has bachelor of engineering thought to manage them\nremotely by using mobile, which enables the user to remotely switching and controlling of stepper\nmotor using pwm (pulse width modulation) technique. just by dialing keypad of remote telephone, from",
+      "keywords": [
+        "app",
+        "model"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "where you are calling you can perform on / off and at the same time we can control the speed of stepper\nmotor operation. the ranges of appliances that can be controlled through tele remote systems are many in\nnumbers. some of them are as follows and this depends upon the usage priority of the appliances i.e.\nparking lights, music system or other electrical / electronic appliances.\n1)arken solutions, (february- 2017-till date)\nresponsibilities\nelectrical engineer in solar plant (33/132kv)\n1.\ninstallation of lt, ht, scada panels, inverters, ups, smb, pv modules, transformers, fire alarms , cctv.\n2.\nerection of switchyard.\n3.\ntesting (ir , vector group test, oil filtration test, continuity test, hipot test)\n4.\ncommissioning\n5.\nbasic scada operations\n2)sp electricals, 1.8years (18 november 2014 to 14 july 2016)\nresponsibilities\nelectrical engineer trainee",
+      "companies": [
+        "solutions"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "0.433kv distribution substation and electrical maintenance of industrial buildings.",
+      "07",
+      "1)",
+      "1.",
+      "2)",
+      "2.",
+      "2014",
+      "2024",
+      "3)",
+      "3) ordnance factory",
+      "3.",
+      "33",
+      "4.",
+      "5.",
+      ": 24-09-1992",
+      ": 29",
+      ": 30",
+      ": english",
+      ": lahari jade residenza",
+      ": m0562251",
+      ": microsoft office (word",
+      "acheivements:",
+      "achieved 6 bands in ielts speaking and overall 5.5 bands.",
+      "achieved first prize in quiz competition in sparx 2012",
+      "achieved silver medal in football from hyderabad region.",
+      "adaptable.",
+      "address",
+      "autocad",
+      "computer languages: c",
+      "control panels.",
+      "date of birth",
+      "date of expiry",
+      "date of issue",
+      "declration:",
+      "diagnose cause of electrical or mechanical malfunction.",
+      "excel",
+      "for two months.",
+      "hindi",
+      "i hereby declare that the above written particulars are true and correct to the best of my knowledge and belief.",
+      "india",
+      "inplant trainee.",
+      "installing motor-control devices",
+      "languages known",
+      "leadership qualities",
+      "matlab",
+      "md abdul khayoom",
+      "office tool",
+      "operating system : windows xp",
+      "operation and maintenance of 132 kv main receiving station.",
+      "participated as an athletic runner for hyderabad region from kendriya vidyalaya school.",
+      "passport number",
+      "patancheru",
+      "personal information:",
+      "power medicine and first aid certificate from st. john ambulance association .",
+      "powerpoint)",
+      "quick learner.",
+      "replacing equipments which fail to meet acceptable operating standards.",
+      "responsibilities",
+      "strengths :",
+      "switch panels",
+      "team player",
+      "telangana",
+      "telugu",
+      "testing of switchgear protection",
+      "transformers",
+      "urdu.",
+      "windows 7",
+      "windows 8"
+    ]
+  }
+}

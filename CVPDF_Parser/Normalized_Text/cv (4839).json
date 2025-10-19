@@ -1,0 +1,18 @@
+{
+  "id": "cv (4839).pdf",
+  "normalized_sections": {
+    "ABOUT": "kelsey stens\ns o f t w a r e d e v e l o p e r ( m a c h i n e l e a r n i n g )\nwork background\nsoftware developer focused in the areas of\nklp technology solutions\nmachine learning application development.\nsoftware engineer, jan 2019 - till date\nmotivated to learn, grow and excel my",
+    "ACTIVITIES": "oriented programming, pandas,\nnumpy, java, python, springboot,\nlaravel.\nbuilt predictive and decision models\nondevice machine learning\nusing machine learning algorithms.\nui/ux development\ndeveloped and integrated the ui\ncomponents with hmi framework for\nhead up display.",
+    "WORK EXPERIENCE": {
+      "raw": "experience by challenging myself.\nbuilt predictive and decision models using machine learning\nalgorithms for various business study cases with feature\nengineering and evaluation methods.\nsoftware engineer, data analyst,\nb.tech (ece) dr. jagjiban rao engineering college, 2019\nmachine learning, text analytics,\nsoftware development, object",
+      "companies": [],
+      "titles": [
+        "analyst",
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cv (1257).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "jennifer barker\n4 morrison court\ncambridge, ma 02140\n(617) 868-3549 / jennb mit.edu\n1998-present\nmassachusetts institute of technology\ncambridge, ma master of business administration candidate, mit sloan school of management, 2001\n- member, sloan finance club and sloan women in management master of city planning candidate, mit, 2001",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "institute",
+        "school"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "- recipient, national science foundation fellowship\n1987-1991\nuniversity of california, berkeley\nberkeley, ca\nba with honors, field major in the social sciences\nsummer 2000\ngoldman sachs\nnew york, ny\nsummer associate\nhelped conduct due diligence and write s-1 for ipo of unregulated electricity generator contributed to sales memo and worked with senior management to execute 100m ipo of microturbine firm stock gained 200% on first day of trading and maintains consistent ratings\nhelped position industry trends, run merger analyses and pitch for sale of semiconductor firm participated on two-person team to write offering memorandum, conduct valuation and identify buyers for 60m insurance asset divestiture\n1999-present\nmit energy laboratory\ncambridge, ma\ngraduate research assistant, china energy technology program (sponsored by abb, ltd.)\nsimulating electricity service planning and financing scenarios for shandong province, china",
+      "companies": [
+        "inc",
+        "lab",
+        "ltd"
+      ],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "CERTIFICATIONS": "recommending power generation strategies that minimize the costs of providing electricity, enhance peak load management and reduce emissions\n1994-1998\ncolorado housing and finance authority\ndenver, co\ntraining director, e-star program\ne-star was the first program in the us to gain the full endorsement of fannie mae and freddie\nmac in addition to fha and va for energy mortgages, products that allow underwriting\nconcessions for buyers of energy efficient homes.\ndeveloped the country s first energy mortgage training curriculum to span the conventional and governmental secondary markets\nrecruited and personally trained over 1500 lending, realty and appraisal companies coordinated underwriting for 23m in loans for low-income borrowers in rural colorado served as division liaison with trade associations, secondary markets and regulatory agencies cultivated partnerships between rural utilities, mortgage lenders, and building codes departments to offer incentives for homebuilders and buyers of energy efficient homes\ninvited to speak nationally to promote similar programs 1992-1993 windsurf bicycle warehouse\nsan francisco, ca\nsalesperson\n1991-1992\ncondominium management company\nwinter park, co\nassistant to manager, hideaway village resort\npersonal\nparticipant in massachusetts roundtable on electricity restructuring interests include backcountry and alpine skiing, mountain biking and running"
+  }
+}

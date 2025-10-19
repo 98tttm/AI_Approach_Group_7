@@ -1,0 +1,60 @@
+{
+  "id": "cv (1123).pdf",
+  "normalized_sections": {
+    "ABOUT": "personal information\nname and surname:\nsaif ali al-mamari\nphone number: 968 92574754\ne-mail:\nsaif26797 gmail.com\na competent and committed finance graduate who has hands on\nknowledge and experience in the private equity investment process. possessing\nexcellent communication and having the ability to communicate\nprofessionally with clients and colleagues on detailed financial issues.\neasy going by nature, and able to get along with work colleagues",
+    "EDUCATION": {
+      "raw": "and managers, currently looking for a starting position as a financial analyst.\n2014 - 2018\ncollege of economics and political science\nsultan qaboos university\nbachelor of science in finance (gpa 3.0)",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "june 2017 - august 2017\nstate general reserve fund (sgrf)\nfinancial analyst private equity direct deal department\nresponsibilities include:\nanalysis & evaluating of proposed companies\nsector research",
+      "companies": [
+        "inc"
+      ],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "",
+      "additional qualification and certificates:",
+      "analysis of leverage buyout models and financial statements",
+      "arabic",
+      "chinese",
+      "communicative",
+      "creating financial models from scratch",
+      "creativity",
+      "dean s honors list.",
+      "english",
+      "excel",
+      "financial modeling (dcf & lbos)",
+      "financial statement reformulation",
+      "fundamental analysis",
+      "ielts academic certificate with an overall band score",
+      "languages",
+      "of 6.5",
+      "organized",
+      "personality",
+      "powerpoint",
+      "punctuality",
+      "references",
+      "references available upon request.",
+      "scenario analysis",
+      "volunteered in georgia for 6 weeks with aiesec.",
+      "word",
+      "writing investment thesis"
+    ]
+  }
+}

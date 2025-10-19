@@ -1,0 +1,36 @@
+{
+  "id": "cv (4948).pdf",
+  "normalized_sections": {
+    "ABOUT": "jade roberts\nj u n i o r a n a l y s t\ni like to explore data and use analytics to\nirrm international",
+    "WORK EXPERIENCE": {
+      "raw": "provide a larger insight to data and its\njunior analyst expert, feb 2020 to oct 2020\nproviding solutions based on retail\nworked as a remote analyst on company production, expenditure, and\nanalysis and business intelligence.",
+      "companies": [
+        "company",
+        "solutions"
+      ],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "investment\nbusiness intelligence, market analysis,\nbachelor of technology(computer science) srm it, chennal 2021\nstatistical analysis, data science, retail",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "analytics, ibm spss, python, tableau,\npower bi.\nsix-sigma, green belt advanced excel it management\nmarketing and retail analytics - advanced",
+    "PROJECTS": {
+      "raw": "statistics for data science advanced sales\nanalytics for decision making using\npowerbi\ncustomer satisfaction index using nlp\ncomparison approach.\ninsurance sector satisfaction of customers\nbased on remark based scalling.",
+      "keywords": [
+        "app"
+      ]
+    }
+  }
+}

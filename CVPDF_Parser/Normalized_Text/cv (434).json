@@ -1,0 +1,34 @@
+{
+  "id": "cv (434).pdf",
+  "normalized_sections": {
+    "ABOUT": "harwinder singh\ncell : 91 8437919174\nemail:harwinder219221 gmail.com\nseeking a position where i can utilize my knowledge, abilities and personal while being\nresourceful, innovative and flexible that offers professional growth\ncourse details\ndegree:",
+    "EDUCATION": {
+      "raw": "b. tech\nspecialization:\nelectrical engineering\nyear of\nqualification\ninstitute\nuniversity/board\n%\npassing\ninstitution of\niosh\noccupational health\n2018\ngreen world group(gwg)\n& safety\nludhiana group of college\nptu\nbachelor of technology\n2018",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "73.7%\nchaunkimaan\nguru nanak dev\ndiploma\npsbte & it\n2013\n66%\npolytechnic college, ldh\ngovt. high school\nth\n10\np.s.e.b\n2010\n62%\nmukandpur\n45 days experience at punjab state transmition corporation limited 132kv sub-station\nbilaspur ludhiana(punjab)",
+      "companies": [
+        "corp"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "two month plc (software) training at innovative solution.\nproduction of electricity from warm air of ac\nms-office, power point\npersonal details\nfather s name\n: kewal singh\nnationality\n: indian\ngender\n: male\nmarital status\n: unmarried\nlanguages\n: punjabi, hindi & english\ndeclaration i hereby declare that all the particulars given above are true to the best of my knowledge\nand belief.\nplace : ludhiana\nsignature :\ndate :\nharwinder singh",
+      "keywords": []
+    }
+  }
+}

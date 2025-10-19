@@ -1,0 +1,37 @@
+{
+  "id": "cv (132).pdf",
+  "normalized_sections": {
+    "ABOUT": "curriculum vitae\nshobhit mohta\nemail: shobhitskm gmail.com\ncontact no: 08769832311\nwork as civil engineer in an infrastructure company. long-term objective is to manage\nbranch or department of infrastructure or real estate company.\nacademic qualifications\nsl.\nclass / semester\nboard/university\npercentage\nyear of\nno.\npassing\njodhpur national playing badminton sketching fine arts civil models designing of various buildings\nfather s name : mr. ramesh kumar mohta\naddress : 17e/449, choupasani housing board, jodhpur, rajasthan 342008.\ndate of birth : 16 june, 1993\ngender : male\nmarital status : unmarried\nlanguages known: english, hindi, marwari.",
+    "EDUCATION": {
+      "raw": "bachelor of technology.\n73.40%\n2015\n2.\nuniversity ,\n(civil)\njodhpur\n12th\nboard of secondary\n64.46%\n2011\n3.\n10th\nboard of secondary\n69.17%\n2009\n4.\ntechnical exposure: languages : c, c",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "ms office autocad\nsummer training : organization: good listener.\n: active participation in university , including academic competitions. campus ambassador in ignus 2014 (iit jodhpur) research work on monolithic dome.\nhobbies: face painting",
+    "PROJECTS": {
+      "raw": "jodhpur development authority\nperiod:\n16 may 2014 to 15 june 2014\nconstruction of new jda main office building\nindustrial visit jmch construction site, boranada. railway station, bhagatki kothi. ganga canal system, roorke.",
+      "keywords": [
+        "system"
+      ]
+    },
+    "SKILLS": [
+      "cbri. iit",
+      "dedicated to work.",
+      "department of civil engineering",
+      "enthusiastic.",
+      "hrishikesh.",
+      "iit",
+      "lakshaman jhoola (suspension bridge)",
+      "roorkee.",
+      "tihari dam",
+      "uttarakhand."
+    ]
+  }
+}

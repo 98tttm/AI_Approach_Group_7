@@ -1,0 +1,34 @@
+{
+  "id": "cv (4597).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "information technology specialist"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "information technology specialist 03/2018 to current company name city , state primary responsibilities include production support, installation and configuration, migration, backup and recovery, performance tuning,\ncloning, security, upgrades, and patches.\nplanned, installed and upgraded multiple oracle databases from 11.2.0.4 to 12.2.0.\nadded targets to oem 13c and used oem 13c to monitored databases.\ncreated rules, security profiles using oem 13c.\nperformed hot/cold backup, recovery and cloning of databases using rman\nplanned and implemented backup strategies, used rman and crontab to schedule backup.\ninstalled and upgraded databases from mysql 5.6 to 5.7 and implemented mysqld multi for better performance.\nmigrated databases from on-premise to aws using database migration services.\nlaunched and maintained rds and ec2 instances in aws.\ncreated snapshots, elastic ips, ebs volumes, security groups per clients/costumers request.\nperformed cross region replication with s3.\ncreated security groups to manage inbound and outbound rules.\ndatabase administrator 12/2014 to current company name city , state\ntroubleshot and resolved web application issues escalated from customer support and other departments with a 100% success rate.\nworked with clients to analyze computing and network needs and implemented appropriate solutions within each department s budget.\nanalyzed performance monitoring/tuning/troubleshooting - oracle database performance tuning services with explain plan, tkprof,\nstatspack, awr and sql trace.\ninstalled, configured and maintained physical, logical, active standby databases supported by data guard on oracle 11g, and 10g rac\nservers for the purpose of disaster recovery procedures.\ngenerated ash, addm and awr reports using oem from oracle 10g, 11g and 12c database and analyzed the reports for oracle wait\nevents, time consuming sql queries, tablespace growth, and database growth.\nimplemented database re-organizations as required to improved performance and ensure maximum up-time of the database implemented\nsql access and sql tuning advisers recommendations.\nlaunched and maintained rds and ec2 instances in aws.\ncreated snapshots, elastic ips, ebs volumes, security groups per clients/costumers request.\nplanned and implemented high availability solutions such as real application cluster (rac) in oracle 11gr2 grid and 10g on asm and",
+      "companies": [
+        "company",
+        "inc",
+        "lab",
+        "solutions"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "acfs file systems.\nmigrated multiple stand-alone databases to rac databases using rconfig, rman and oem.\nmigrated single instance databases from non-asm to asm file system to improve performance.\ninstalled oracle 10g, 11g and 12c software and created multiple databases including plug-able and container databases in oracle 12c.\nimplemented tde, data redaction and database auditing to improved data integrity and security.\napplied psu on standalone test environment using opatch and same psu (grid and rdbms patching) on production cluster using\nopatch auto.\nreplicated data in real time using oracle golden gate and oracle streams.\nanalyzed, interpreted and troubleshot golden gate related issues.\ndesigned and implemented different backup strategies like cold, hot backup using rman with flash recovery area and logical backups\nwith expdp/impdp.\nscheduled rman backups, purge jobs, maintenance jobs using dbms jobs, dbms scheduler, crontab and oem.\nimplemented and managed logical backup/recovery with datapump and export/import utilities.\ncloned databases using rman and manually using scripts.\nimplemented point in time recovery on one or more tablespaces to recover lost of a table(s) while eliminating down time for the database.\ninstalled sql server ee 2012 on windows and created databases, triggers, tables, procedures, functions and database diagrams.\nupgraded databases from 10g to 11g and to 12c using dbua, datapump, manually, transportable tablespace and oracle dataguard.\noracle database administrator 07/2012 to 10/2014 company name city , state\nprepared technical architecture proposals for enhancements and migrated an existing standalone database to rac database.\nprovided senior technical support to developers and troubleshot performance issues and maintained high availability and security of\ndatabases.\nanalyzed and tuned the database to identify potential database bottle necks such as response delay, locking contention, wait event using\ntools like statspack, explain plan, and tkprof.\ncollaborated and worked together with development and operations staff and resolved problems quickly and efficiently.\nmaintained physical, logical, active standby databases supported by data guard on oracle 11g, and 10g rac servers for the purpose of\ndisaster recovery procedures.\ninstalled, configured, deployed and monitored different databases and application servers using oracle oem 12c grid control.\nmanaging oracle instance and database security and materialized views.\nmaintained and administered high availability solutions such as real application cluster (rac) in oracle 11gr2 grid and 10g on asm file\nsystem.\nplanned and applied psu/cpu patches and upgraded multiple databases from 10g to 11g.\nreplicated data in real time using oracle golden gate.\nincreased data security implemented tde and database auditing and created threshold on database metrics and set alert for a more",
+    "EDUCATION": {
+      "raw": "stronger security.\nmaintained active data guard, creating both logical and physical standby databases for data disaster recovery solutions.\nworked on 24/7 environments, supported, monitored, managed and troubleshot database related issues over 300 oracle 10g, 11g and 12c\ndatabases with sizes from 300g to 2tb.\nimplemented backup strategies used rman for incremental/full backup and datapump to backup logical components.\nbachelor of science : civil engineering university of bachelor of engineering city , state , cameroon civil engineering\ntechnical environment\ndatabases: oracle 10g, 11g, 12c, mysql 5.6, 5.7, sql server 2008, 2012\nplatforms: oracle enterprise linux 5.11, 6.7, 7, hp-ux 10.x, 11.x. sun solaris 2.5, 2.6, windows server 2008\ntools : tkprof, explain plan, statspack, awr, and addm toad, putty, x-wing32, winscp. database utilities : oracle enterprise manager, real application cluster, asm, transportable tablespaces, sql loader, rman,\ndatapump, export, import\nlanguages : sql plus, pl/sql, unix shell scripting, ksh, bash",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

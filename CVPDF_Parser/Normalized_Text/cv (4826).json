@@ -1,0 +1,32 @@
+{
+  "id": "cv (4826).pdf",
+  "normalized_sections": {
+    "ABOUT": "everett burnsley\ndata analyst",
+    "WORK EXPERIENCE": {
+      "raw": "an avid data analyst looking to step into the world of machine learning and data sciences. i have experience related to\ndata analyst, data mining, data visualization, text analytics, data collection, data cleaning, business analysis, python,\nsql, google bigquery, tableau, kibana, ms excel/ ms office, linux, elastic search, machine learning.\npolymon\nblockchain analyst, jun 2020 - ongoing\nanalyzing the transactions made on a blockchain",
+      "companies": [],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "data mining, data visualization, text analytics, data collection and would currently like to expand my horizon and work",
+      "keywords": []
+    },
+    "EDUCATION": {
+      "raw": "network and providing insights related to transaction\nvolume market cap and investment predictions to the\ntechnical and managerial teams.\nbachelor of computer applications from sp jain university, 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

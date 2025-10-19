@@ -1,0 +1,30 @@
+{
+  "id": "cv (1601).pdf",
+  "normalized_sections": {
+    "ABOUT": "sudha. r\n5/24,3rd cross street,\nsudhadhinaharan gmail.com\ndr. seethapathy nagar, 91 97873332164\nvelachery,\nchennai -600 042\nlooking to work with an educational institution, to teach mathematics to students and educate them in\nunderstanding math fundamentals.\nacademic record",
+    "EDUCATION": {
+      "raw": "master of science(mathematics) (2009-2011) at bharathidasan university, trichy. bachelor of science (mathematics) (2005-2008) at govt. college for women, kumbakonam",
+      "degree": [
+        "bachelor",
+        "master",
+        "mba"
+      ],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "organization\nchrist the king matric higher secondary school, kumbakonam\ndesignation\nbt. assistant in mathematics\nduration\njune 2011 2014\npersonal information\nhusband s name\ndhinaharan\ndate of birth\n10-june-1988\nmarital status\nmarried\nnationality\nindian\npermanent address\n68,vengatesa nagar, chettimandabam, kumbakonam 612001\nlanguages known\nenglish, tamil\ndeclaration\ni hereby declare that the details furnished above are true and correct to the best of my knowledge.\nsudha r",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cv (4517).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "consultant\nadjunct or full time faculty while running a consulting firm.\nhighlights\nproficient in html\nself-starter\nsql expert\njavascript expert\nanalytical\nc, c , java expert\naccomplishments\nawarded united states patent number 5,758,052 in may 1998 for network management method using redundant control processors\nawarded united states patent number 5,491,791 in february 1996 for system and method for remote workstation monitoring within a\ndistributed computing environment\ndeans scholarship at the university of pittsburgh towards ph.d. degree, may 1989 - may 1990\nteaching assistant at the university of pittsburgh, operating systems, august 1989\nconsultant",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "19"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "january 2002 to current company name city , state currently running a business doing general programming and web development. the\nticket broker with 1500 websites. another was doing business analysis programming using sql server, c , .net, ajax, and html for a\nglobal law firm.\nsenior operations programmer\njanuary 2001 to january 2002 company name city , state operations programmer responsible for programming card access systems. the\nprogramming included enhancements to the casi-rusco picture perfect system. responsibilities were to write c and sql code to enhance the\ncapabilities of picture perfect. maintained a red hat linux 7.1 server for development purposes. wrote php code to generate reports from a\nmysql database.\nprogramming manager & systems analyst\nnovember 1999 to january 2001 company name city , state programming manager for a distance learning web based business.\nresponsibilities included managing the programming department and the programming for a virtual classroom. the classroom was created using\ndirector with parts including asp, html, flash, quicktime and vb.\nis manager\njuly 1999 to november 1999 company name city , state programming manager for a web based business. responsibilities included\nmanaging programmers and it professionals and maintaining the front and back ends of an internet based business. programming was done in vb,\ndelphi and javascript.\nsystems analyst - department manager\nresponsibilities included troubleshooting, interface set-ups with other vendors and new account set-ups. managed the whole department while the\ndirector was not available. languages used in this position were java, c , vb, sql, foxpro and html. databases used were oracle and\nbtrieve.\nsenior systems developer\ndeveloped in a windows and a unix environment, with the final product to be delivered under unix. code was developed in c using dynamic\nsql on an oracle database. duties included coordinating with off-shore programmers, unit testing, sub-system testing, development and\nperformance tuning. tools were written in vb on a windows system.\ncomputer consultant\nteam. ge capital stamford, ct maintained and enhanced c programs supporting a client/server collections application. provided 24 hour\ncustomer support for the application as well. ibm corporation fishkill, ny maintained previously existing code written in lotus 123. oversaw\nthe delivery of code using tcp/ip and worked on ibm s financial data warehouse s internet pages. provided general pc customer support to\nibm management. ibm corporation southbury, ct designed and implemented an os/2 db2/2 interface for all sql in a vx-rexx\napplication. ibm corporation fishkill, ny designed and implemented an os/2 presentation manager program in c to capture real-time scientific\ndata from an ibm mainframe assembly line producing computer wafers. the data was captured from the serial port of a piece of equipment\nmonitoring wafer qualify. graphs were then drawn using the os/2 pm gpi commands. spent some time learning gpf as a tool for code\ndevelopment. self-employed new hyde park, ny designed and implemented modifications to a dbase program to customize it for a client.\nsenior associate programmer\njanuary 1990 to march 1994 company name city , state and poughkeepsie, ny systems test lead and os/2 developer for a large os/2\nwas a lan based system and some communications programming was included. also did some 370 assembler programming for the tpf\noperating system. additional programming january 1979 - july 1984 defense industry programmed for defense contractors in virginia, maryland\nand new york mostly using the unix operating system, with c, extended basic and fortran. this work was mostly classified some was real-\nmaster of science : computer science , 1989 university of pittsburgh university of pittsburgh, master of science in computer science, 1989,\ngpa: 3.75 courses included: compilers, computer architecture. operating systems, algorithm design and analysis, computational geometry,\ninformation processing, database design, digital design, graphics and microcomputers. almost all of this work was done using the unix\noperating system.\nassociate, defense industry, fortran, lan, mapping, test lead, topo, tpf, assembly, assembly line, client/server, collections, credit,\noracle, web based, flash, engineer, inventory, inventory control, performance tuning, software engineer, system testing, testing, unit\ntesting, access, casi-rusco, linux, operations, red hat, btrieve, c , databases, foxpro, java, new account, ups, adult learning, apache,\nback end, clients, computer programming, database management, dod, government contracting, instructor, mentor, pascal, patent, security,\nsoftware development, structured software, systems analysis, teaching, visual basic, web server, delphi, javascript, algorithm, architecture,\ndatabase design, digital design, systems programming",
+      "keywords": [
+        "analysis",
+        "app",
+        "system",
+        "web"
+      ]
+    },
+    "SKILLS": [
+      ".net",
+      "1978 state university of new york",
+      "1978 studies included: languages",
+      "ajax",
+      "and operating systems.",
+      "asp",
+      "bachelor of arts : computer science",
+      "bachelor of arts in computer science",
+      "business analysis",
+      "c",
+      "college at",
+      "college at potsdam state university of new york",
+      "contracts",
+      "database",
+      "html",
+      "ms sql server",
+      "mysql",
+      "os",
+      "php",
+      "potsdam",
+      "real-time",
+      "sql",
+      "sql server",
+      "systems programming",
+      "top down structured programming",
+      "unix"
+    ]
+  }
+}

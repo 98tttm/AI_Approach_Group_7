@@ -1,0 +1,71 @@
+{
+  "id": "cv (4572).pdf",
+  "normalized_sections": {
+    "ABOUT": "information technology administrator\ni am a jack of all trades it guy at one of the premier intellectual property law schools in the world, whose job description and responsibilities\ncontinue to evolve with the ever-changing opportunities that new technology provides. extremely self-motivated, detail oriented, and organized, i\nthrive most when presented with opportunities to creatively solve new and interesting challenges.\nqualifications",
+    "WORK EXPERIENCE": {
+      "raw": "systems administration\nnetwork administration\nstrong verbal and written communication\nextensive knowledge of apple products\nteam leadership\ncompany name city , state information technology administrator 09/2014 to current\ni oversee the purchasing, management, and maintenance of all infrastructure-related hardware and software, while simultaneously overseeing\nappliances and applications: drupal, expression engine, aerohive, bluesocket wireless controller, barracuda anti-spam appliance, barracuda\nweb filter, barracudaware, sonicwall nsa (including vpn), 3com nbx, avaya, cisco pix, cisco network assistant, blackberry enterprise\nserver, vmware esx, vmware fusion, pharos uniprint, ntop, nagios, nagiosql, icinga, cacti, realchat, mrbs, webcalendar. vbulletin,\nmovable type, wordpress, mediawiki, gallery2, gallery3, simple, joomla, moodle, mailman, ems campus, ems master calendar, virtual\nems, c-cure, remedy, teamdynamix\nsalary history\nuniversity of new hampshire school of law, formerly franklin pierce law center\n2 white street\nconcord, nh 03301\nassociate director of computer services\n07/2000-09/2014\nstarting salary: 31,500\nending salary: 54,000\nuniversity of new hampshire school of law, formerly franklin pierce law center\n2 white street\nconcord, nh 03301\ninformation technology administrator\n09/2000-present\nstarting salary: 62,300\nending salary: 62,300",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "end-user hardware and software support for a law school with roughly 85 fte faculty/staff, and 275 students with a roughly 1:1 pc:mac\nuser ratio.\ni work closely with the durham campus, all it vendors, and our bachelor of science office to develop and manage the it budget, including all it-related\nduties include managing a 5-host, 40-server vmware farm, help desk system, network monitoring system, campus-wide physical/building\nsecurity system, id card system, printing infrastructure, electronic exam system, backing up all critical data on the unh law network, and\nadministering a plethora of fileservers, webservers and web applications, including various content management systems.\ni work with system administrators in durham to design and maintain the entire network on the concord campus.\nextensive knowledge installing and supporting various server platforms, including windows, linux, mac os server.\ncompany name city , state associate director of computer services 07/2000 to 09/2014\nprimary responsibilities included the day-to-day support of end-user hardware, software, and peripherals in a mixed microsoft windows,\nmac os x, linux, and novell environment, while also assisting with the everyday demands of maintaining a rather complex campus-wide\nnetwork that was driven by a predominately cisco infrastructure.\nreported directly to, and served as the immediate backup for the director of computer services.\ndesigned and implemented the first ever wireless network on campus, which i administered and upgraded through three different platform\nchanges over the course of thirteen years.\nplanned and administered the campus upgrade initiatives from windows 98 to windows xp, windows xp to windows 7, and numerous\nmac os and ios version upgrades.\nafter franklin pierce law center integrated with unh, i developed the plan for and administered the transition from a predominately\nnovell-based infrastructure to a predominately microsoft-based infrastructure, including transitioning our e-mail platform from novell\ngroupwise to microsoft exchange.\ncompany name city , state district computer technician 08/1999 to 07/2000\ni supported all end-user related hardware and software demands for the entire school district.\nduties ranged from day-to-day troubleshooting to implementing new technologies, such as the first ever apple airport wifi network and\nroaming ibook lab.\ncompany name city , state electrician s apprentice 06/1990 to 07/1999\npredominately industrial electrical work, mostly in a manufacturing setting, with some residential work mixed in.\nbachelor of science : exercise and sports sciences 1999 colby-sawyer college , city , state , usa",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "school"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "adobe acrobat",
+      "adobe connect pro",
+      "android",
+      "apache",
+      "apple ios",
+      "bind",
+      "centos",
+      "dhcp",
+      "dns",
+      "for windows and mac",
+      "html",
+      "iis",
+      "ip",
+      "ldap",
+      "mac os x",
+      "mac os x server",
+      "microsoft active directory",
+      "microsoft exchange",
+      "microsoft group policy",
+      "microsoft office",
+      "microsoft windows server",
+      "mobility server",
+      "mysql",
+      "netware",
+      "novell",
+      "novell datasync",
+      "novell edirectory",
+      "novell groupwise",
+      "novell open enterprise server",
+      "novell teaming",
+      "novell zenworks configuration management",
+      "openssl",
+      "php",
+      "platforms and protocols: microsoft windows",
+      "ssl",
+      "suse enterprise server",
+      "tcp",
+      "zenworks"
+    ]
+  }
+}

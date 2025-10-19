@@ -1,0 +1,65 @@
+{
+  "id": "cv (861).pdf",
+  "normalized_sections": {
+    "ABOUT": "sudheer v.muhammed vattakudy house nellikuzhi p.o.\nernakulam (dist.) mob: 8281065563\nkerala\nph: 0485 2852253\npin: 686691\nemail: sudheer.muhammedv gmail.com\nto use my creativity and logical for the betterment of the firm for which i work\nand to constructively develop my thought and personality during the process..\nacademic qualifications:\nqualification\nuniversity/board\ninstitution\nperformance\nb tech, computer science\nmahatma gandhi\nmar athanasius college\nand engineering(2003 university, kottayam,\nof engineering,\n60.9%",
+    "SKILLS": [
+      "07)",
+      "2.0",
+      "3.5",
+      "4)",
+      "72.00%",
+      "76.40%",
+      "a.i.s.s.c.e 2003",
+      "a.i.s.s.e 2001",
+      "ado.net",
+      "ajax",
+      "asp.net 4.0",
+      "c",
+      "c .net",
+      "c.b.s.e",
+      "css",
+      "entity framework 4.0",
+      "frameworks",
+      "html 5",
+      "java",
+      "jquery",
+      "jquery mobile",
+      "json",
+      "kerala",
+      "kothamangalam",
+      "languages and",
+      "linq",
+      "linux",
+      "mvc-(3",
+      "mvvm",
+      "operating systems",
+      "silverlight",
+      "vb.net",
+      "vimalagiri public school",
+      "wcf",
+      "wf",
+      "windows",
+      "wpf",
+      "xml"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "visual studio 2010,2008, 2005,2003, svn, vss, dexterity , adobe\ntools\ndreamweaver ,adobe fireworks ,net beans\nmicrosoft dynamics gp , ms crm 4.0, familiar with ms sql server\nothers\n2008,2005, oracle 9i, ms sql server 2000,mysql, nopcommerec\ncustomisation.\nnetwork systems &technologies (nest), technopark,trivandrum march 2011 to till date.\nkameda infologics , technopark trivandrum- novemeber 2010 to march 2011",
+      "companies": [
+        "technologies"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "reachmarketing inc,trivandrum october 2008 to may 2010 1.\nnop commerce customisation\ntechnologies used : asp.net mvc 4.0 , jquery, entity framework 4.0,\nlinq,autofac,fluent validation\n2.\nfailure rma tracker\nrole - team lead\ntechnologies used : asp.net, sql server\n3.\ntele-tag:\ntechnologies used : asp.net mvc 3.0 , entity framework 4.0, linq, jquery mobile ,\nwcf , ffmpeg api, facebook api,twitter api.\ntele-tag is an online mobile game targetting viewers of tv channels . ui designed using\njquery mobile . have 3 users the players , sponsors (channels) and admin . sponsors are\nbeing served by tele tag and they can consume teletag service . the website is\nintegrated with social networks including facebook ,twitter etc .\n4.\ncrs central reciepe server\ntechnologies used : ef 4.0, wcf, wpf , linq\ncentral reciepe server is a source control software for reciepes and library components\ncrs is a repository of recipe and recipe library components. central and local\nrecipe databases are automatically synchronized when recipes are added, deleted\nor updated. it will be integrated with an existing client machines for each tools.\nit also has a management console for settings and other inputs in server side.\n5.\npattern editor\ntechnologies used : wpf , mvvm , linq\npattern editor is a user interface that defines patterns and measurement areas for\nthe purpose of statistical quality analysis of glass materials, semiconductor\nmaterials and lenses, which is integrated to a mapping hardware. the software\nwill be an interface for giving the valid input to the mapping hardware as well as\nit analyses the quality information read from the hardware.\n6.\nice cell fts:\ntechnologies used : wf 4.0, wpf , linq, wcf\ncell fts is a host software which is used to automate the equipment in a semi conductor\nfab manufactoring company . it is build upon a cell controller service which implements\nall the functionalities of equipment . it contains workflow",
+      "keywords": [
+        "analysis",
+        "app",
+        "web"
+      ]
+    },
+    "ACTIVITIES": "that corresponds to\njob sequences that to be performed with the equipment .\n7.\nhospital information system :\ntechnologies used : wpf , c .net ,oracle\ncomprehensive, scalable hospital management information software designed\nfor use in all types of clinical settings - from a primary healthcare center to\nmulti-specialty tertiary care hospital. the ease of use and the wealth of\ninformation provided are specifically targeted to simplify the work pressure of\nhealthcare provider and improve the quality and work flow. manage the\nadministrative, financial and clinical aspects of a hospital.\n7 . phoenix cardnet asp.net website\ntechnologies used : asp.net 3.5 , ms sql 2005 , ms sql server reporting\nservices, linq,ajax ,rad controls , jquery , econnect , gp webservices .\na website for managing users and transactions for sold atm and pos machines . all\nthe sales reports and customer management are implemented . the website is\nintegrated with a gp application using econnect and webservices .\n8 . phoenix cardnet microsoft dynamics gp application .\ntechnologies used : dynamics gp, microsoft dexterity , visual studio tools\ndynamics gp application for financial processing of phoenix atm and pos machines\nsales .\n9. psa - program status analysis\na web application for analysis and management of different types of .\nprovision for importing and exporting from different management\ntechnologies used : asp.net 3.5 , linq,ms sql 2005, ajax ,rad controls\n10. myetrek\nsocial networking website . fully ajax enabled website with all features of normal\nsocial networking websites . videos , galleries seperate school and college sections ,\nbook section , walls etc.\ntechnologies used : asp.net 3.5 , ms sql 2005,linq, ajax ,rad\ncontrols,jquery\n11. reach marketing inc crm website web store\nwww.reachmarketinginc.com was developed for a us client. the reach is an online\nmarketing site. the reach site contains website marketing, flyers and software. the reach\nsite has 4 types of users client, employee ,admin, and reach partner. it includes flyer\nsending options, and system to manage the orders from the client. and admin and\nemployee side is designed such as they can communicate through the system itself, and\nmail sending is also allowed there between the users, admin can assign the work and\nresponsibilities through the site itself. environment: visualstudio.net 2005, asp.net,\nc , sql server 2000/2005, ms sql server reporting services 2000/ 2005, iis 6.0.\n12 . carnivo xo www.carnivoxo.com\nwww.carnivoxo.com was developed for a us client. the carnivo is an online\nmarketing site. the carnivo site contains blog, forum, chat order posting etc. and\ncarnivo contains a weekly news sending service. and it contains admin part to control\nmost part of the system from the site itself.\nenvironment: visualstudio.net 2005, asp.net, c , sql server 2000/2005, ms sql\nserver reporting services 2000/ 2005, iis 6.0.\n13 .homeownership talk - www.homeownershiptalk.com\nthis site is also developed for a us client, through which user can ask their doubts\nregarding their loan, and home ownerships. from the site itself admin can see the\nquestions and can send reply to them, auto mail sending, flyer sending is also allowed in\nthis site.\npassport :\nname: sudheer vattakudy muhammed\npassport number : g4922169\nhobbies:\nlistening to music\nplaying and watching football,cricket,badminton\nlearning new technologies\nwriting technical articles\npersonal details:\nnd\nage & date of birth\n27, 22\njuly 1985\nsex\nmale\nnationality\nindian\nfather s name\nv.a.muhammed\nlanguages known\nenglish, malayalam,hindi\ndeclaration:\ni hereby declare the details given above are true to my best of my knowledge and belief.\nplace: trivandrum\nyours sincerely,\ndate:\nsudheer v.muhammed"
+  }
+}

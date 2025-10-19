@@ -1,0 +1,40 @@
+{
+  "id": "cv (4915).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "amelia martin\ndata science major\nexecutive\ni am a master of data science\nna\ngraduate looking to work as a full-",
+      "companies": [],
+      "titles": [],
+      "years": []
+    },
+    "SKILLS": [
+      "and determined attitude to",
+      "can offer a strong programming",
+      "demands. i am a highly analytical",
+      "i am keen to learn",
+      "individual with interpersonal and",
+      "level role in data science domain. i",
+      "of implementing machine learning",
+      "seeking an entry",
+      "succeed.",
+      "techniques. also",
+      "time employee",
+      "together with a sound knowledge"
+    ],
+    "ABOUT": "personal\nsoftware development, client\nb.tech(computers) from ait, gurukulnagar in 2018\nmanagement, technical",
+    "EDUCATION": {
+      "raw": "masters (data science) from wsm university,",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "architecture, data visualization,\nahmedabad in 2020\ndata science, python, statistics,\nmachine learning, learning\nalgorithm, heuristics.\ndetermining correlation of dataset\ninterpretability of unlabeled.\nextra-curriculars\ndata management on large scale.",
+      "keywords": []
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cv (746).pdf",
+  "normalized_sections": {
+    "ABOUT": "resume\njadhav naresh sitaram\nemail: jadhavnaresh11 gmail.com\ncontact: 9049654408\npermanent address: 201,godavari apt, sec -29, belapur c b d, navi mumbai 400614. power of understanding positive attitude ability of hardworking readiness to accept challenges. confident & smart worker. date of birth\n:\n21th june 1991. sex\n:\nmale. nationality\n:\nindian. language known\n:\nenglish, hindi, marathi.\ndeclaration\ni hereby declare that the above-mentioned information is correct up to my\nknowledge and i bear the responsibility for the correctness of the above-mentioned\nparticulars.",
+    "EDUCATION": {
+      "raw": "to be a part of an ever-growing organization, this encourages my career growth\ncontributing to the growth of the organization.\nacademic qualifications\nexamination\nboard/university\npercentage\nyear of passing\nbe\nshivaji university\n60.41\n2015\n(comp sci & engg)\nh.s.c\nmumbai board\n54.17\n2009",
+      "degree": [
+        "mba"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "CERTIFICATIONS": "s.s.c.\nmumbai board\n63.07\n2007\nsoftware proficiency computer basics\n: ms office, networking. languages\n: c, java, html database\n: sql, microsoft access. environment : windows and linux. good understanding of internet and related technologies.\ninstitute of hardware technology (iiht).",
+    "PROJECTS": {
+      "raw": "technologies used : java, jsp,sql.\nteam size : 4 members.\ndescription :\nappliances remotely using android phone via wi-fi connection.\nachivement won zonal level & participated in finale of national level android championship\n(nadc india) conducted by ark techno solutions mumbai pvt. ltd. &\nrobokart.com at indian institute of technology bombay (iit-bombay).\nstrengths",
+      "keywords": [
+        "app"
+      ]
+    }
+  }
+}

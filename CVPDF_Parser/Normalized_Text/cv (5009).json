@@ -1,0 +1,19 @@
+{
+  "id": "cv (5009).pdf",
+  "normalized_sections": {
+    "ABOUT": "taylor benley\nj u n i o r a n a l y s t\nwork background\nfresher starting out with business analysis,\nbiswa pvt ltd\nand machine learning modelling based on\npart-time analyst, nov 2019 - oct 2020",
+    "ACTIVITIES": "tableau, seaborn, python, r, aws\nview, nodejs.\nproducing tableau dashboards on",
+    "CERTIFICATIONS": "large dataset.",
+    "WORK EXPERIENCE": {
+      "raw": "data engineering.\nworked with clients to sample their data and produce meaningful\noutcomes from them.\nbusiness analyst, data analysis,\nbba, jjr college, uttaranchal, 2019.\nbusiness analysis, machine learning,",
+      "companies": [],
+      "titles": [
+        "analyst",
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

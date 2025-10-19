@@ -1,0 +1,19 @@
+{
+  "id": "cv (4994).pdf",
+  "normalized_sections": {
+    "ABOUT": "sydney jones\nj u n i o r m a c h i n e l e a n r i n g d e v e l o p e r\ndata mining, deep learning, machine learning,\ni am currently working as a junior machine learning engineer\nand i want to learn more about how machine learning",
+    "WORK EXPERIENCE": {
+      "raw": "software testing , algorithms, python, jira, nlp, impact real work scenarios.\nsql, unsupervised learning, clustering, regression,\nmodel development, mlops.\ntsc solutions\nb.tech(electronics/telecommunication\njunior machine learning engineer,\n) from stes college of engineering,\noct 2019 - ongoing",
+      "companies": [
+        "solutions"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "pune in 2019\nworking for an automotive manufacturing\nclient to figure how fault predictions in\nproduction line using machine learning and\ncomputer vision.\nphoto basher using python and nltk\ncertified cloud deployment\ncorrespondent.\nembedded systems on python - level b"
+  }
+}

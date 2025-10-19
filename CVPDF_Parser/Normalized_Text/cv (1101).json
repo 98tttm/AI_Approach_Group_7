@@ -1,0 +1,69 @@
+{
+  "id": "cv (1101).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "frederick chen\nfrederi1 andrew.cmu.edu\n4257 bryn mawr road\npittsburgh, pa 15219\n(509) 432-9173\ncarnegie mellon university, pittsburgh, pa\ngpa: 3.08\nbachelor of science in computer science (minor: robotics), may 2015\nuniversity of california los angeles, los angeles, ca\nbachelor of science in computer science (august 2012 may 2013)\ngpa: 3.67\nwashington state university, pullman, wa",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "running start program, (august 2010 - june 2012)\ngpa: 3.95 state program that allows juniors and seniors to take college courses (53 units completed)\npullman high school, pullman, wa\nhigh school diploma with honors, june 2012 gpa: 3.96\nsystex corporation, taipei, taiwan\nstudent intern (summer 2013) consulted with clients to determine their it needs assembled solutions to meet clients it security needs learned and worked with big-data business models",
+      "companies": [
+        "corp",
+        "solutions"
+      ],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "integrated cloud services such as iaas and saas in business models\nwashington state university physics department, pullman, wa\nstudent researcher (september 2011 - may 2012)\nworked with luminescence machines to analyze luminescence properties and applications of yag and zno\nwon the early career award in surca for the engineering and physical science category\napplied computational intelligence lab (2014), pittsburgh, pa\n-\ncarnegie mellon university: creating a smart mirror interface to display various information implementing features such as facial recognition, voice sensing, and information display. integrating local and personal information to display and communicate to the users utilizing various techniques learned out of class such as application development and kinetic\nprogramming\n-\ncarnegie mellon university: using the lego mindstorm nxt to perform various challenges completed challenges such as dead reckoning, path search, trajectory following, localization,\nand usar challenge.",
+      "keywords": [
+        "app",
+        "model"
+      ]
+    },
+    "SKILLS": [
+      "adaptability",
+      "and japanese",
+      "and probability mapping",
+      "applications: matlab",
+      "c",
+      "chinese",
+      "commitment",
+      "computer languages: c",
+      "css",
+      "fluent in english",
+      "graph search algorithm",
+      "html",
+      "interpersonal",
+      "java",
+      "javascript",
+      "linux",
+      "mac os",
+      "motivation",
+      "operating systems: unix",
+      "origin",
+      "php",
+      "robotc",
+      "sml",
+      "soft : communication",
+      "teamwork",
+      "utilized various techniques learned in class including motor encoders",
+      "visual studio .net",
+      "windows",
+      "working with members of different discipline such as mechanical and electrical engineering",
+      "workspace and configuration space"
+    ]
+  }
+}

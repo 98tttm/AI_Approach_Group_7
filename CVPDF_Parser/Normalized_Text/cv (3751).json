@@ -1,0 +1,18 @@
+{
+  "id": "cv (3751).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "college/institutes\nuniversity\nuniversity\naggregate(bachelor of technology):70.03%\ninstitute/department",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "institute",
+        "university"
+      ],
+      "years": []
+    },
+    "ACTIVITIES": "extracurricular"
+  }
+}

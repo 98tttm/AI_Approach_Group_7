@@ -1,0 +1,60 @@
+{
+  "id": "cv (4446).pdf",
+  "normalized_sections": {
+    "ABOUT": "pavithra shetty",
+    "WORK EXPERIENCE": {
+      "raw": "principal consultant company name city , state june 2018 - current\ndesign, develop, test and document business intelligence reports:\ngather business needs to develop interactive dashboards and bi reports.\nwork with data warehouse and other data sources to get data for data visualization using business intelligence tool.\nwrite sql queries and stored procedures to pull data to visualization tool.\nmodeling the data to efficiently pull the data for visualization\ndesign dashboard and provide insights to management and departments to make data driven decisions.\nembed bi reports to customer application using .net framework, javascript. which uses web apis to access bi reports.\ncreate and peer review sql queries for ad hoc data reporting.\nmanaged junior developer by delivering consistent coaching and constructive feedback.\ndesign, develop, test and document sql queries, stored procedures, .net codes in order to maintain and add features to student",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [
+        "developer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "information system.\ncommunicate with clients to gather requirement for new data collection or for change request.\ndesign a data model and web interface for collecting new data and improve existing system.\npeer review codes to validate correctness and integrity of the system.\nperform unit test, integration test and regression test in development and qa environment for build release.\nfollow agile methodology for software development using azure devops for better utilization of time and resources.\ncreate sql queries for ad hoc data reporting.\nsupport end users resolving technical issues.\nbusiness intelligence developer company name city , state september 2015 - may 2018\ndesigning, developing, validating, and documenting sql queries, graphical reports, dashboards, and data warehouse applications that support the\nstrategic initiatives.\nconceived, developed and implemented wide range of bi solutions.\noptimized data gathering processes, analysis procedures and visualization strategies.\ncreated and oversaw dashboards with qlikview.\ncreate and maintain ssis packages using microsoft visual studio. extract the data from files received through sftp and upload the data-\nto-data warehouse in a required form.\nusing given technical specs create flat files and send data files to clients using ssis package. also, automate maintenance of sql server\ndatabases and updates.\nanalyzed code and corrected errors to optimize output.\nresolved customer issues by establishing workarounds and solutions to debug and create defect fixes.\nwrote user manuals and other documentation for roll-out in customer training sessions.\nestablished and maintained key relationships with business stakeholders to promote future opportunities.\nmanaged 2 junior developers by delivering consistent coaching and constructive feedback.\ncollege student company name city , state january 2015 - may 2016\npredicting breast cancer:\ncreate machine learning model to predict malignant tumors.\nused python - random forest classifier to predict malignant tumors in breast tissue.\nhere, main idea is building multiple models with different sample and different initial variables from train data set.\ngoal is to determine what attributes provide the most information that can be used to predict malignancy.\nmy model was tested against test data set for accuracy and it is 96% successful in predicting whether the tumor is malignant or\nbenign.\ndata mining- image classification:\nit is the process to categorize images into one of several categories. classification requires training for each image category.\nconstructed training and test data for given image data using java programming.\nconstructed the five different classifier models using each training data file.\ntested these classifiers using test data and compared the prediction accuracies among five different classifiers. achieved 95% accuracy.",
+      "keywords": [
+        "analysis",
+        "app",
+        "model",
+        "predict",
+        "system",
+        "web"
+      ]
+    },
+    "SKILLS": [
+      ".net framework",
+      "best practices for efficient and easier to maintain code.",
+      "best practices for securing web applications.",
+      "c",
+      "data analysis and visualization",
+      "develop code in java and document artifacts including unit test plans and ensure that the output is as per the specifications:",
+      "execute tasks with both procedural and oop development techniques.",
+      "inserting",
+      "mysql",
+      "python",
+      "querying and managing data stored in databases or files.",
+      "software engineer company name city",
+      "sql server",
+      "state october 2013 - january 2014"
+    ],
+    "EDUCATION": {
+      "raw": "javascript\nazure devops\nmaster of science computer science university of illinois at springfield , city , state\ncompleted coursework in data science, c programming and .net and data mining.\n3.95/4.0 gpa\nmay 2016\nbachelor of engineering information science p.a college of engineering (vtu) , city best outgoing student recipient\nhonor roll 2010-2011\nmay 2013",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

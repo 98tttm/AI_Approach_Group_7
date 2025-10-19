@@ -1,0 +1,49 @@
+{
+  "id": "cv (768).pdf",
+  "normalized_sections": {
+    "ABOUT": "sreenath e\nkundoor house vallachira p.o thrissur kerala 8593838691 esreenath000 gmail.com\nwith the main objective being towards satisfaction, both for myself and the company, i strive to\nwork towards the high standards of loyalty and dedication which has been consistent\na good communicator. quick in adapting to changing environment. enthusiastic good in working as an individual or as a team. date of birth : 01/10/1994\ngender : male\nmarital status : single",
+    "EDUCATION": {
+      "raw": "throughout, thereby making work a pleasure.\ncompleted bachelor of technology in electronics & communication engineering in mala educational trust of engineering, mala.\ncompleted 12 th grade from c.n.n.g.h.s school,thrissur with an aggregate of 81.3% participated in techfest programs in college level.",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "school"
+      ],
+      "years": []
+    },
+    "SKILLS": [
+      "aggregate of 68%",
+      "and system testing.",
+      "automation testing(qtp) proficiency:",
+      "compatibility and various other types of",
+      "completed 10 th grade from paramekkavu vidya mandir",
+      "completed a certified course in software testing at spyrosys.",
+      "in testing.",
+      "integration",
+      "kaloor well versed with all the concepts",
+      "knowledge in c",
+      "knowledge of writing",
+      "knowledge on functional",
+      "knowledge on recording options in qtp such as checkpoint",
+      "knowledge on smoke",
+      "knowledge on test plan",
+      "manual testing proficiency:",
+      "matlab and vhdl programming.",
+      "output values.",
+      "regression",
+      "reviewing and executing test cases.",
+      "stlc and defect life cycle.",
+      "strong in sdlc",
+      "testing",
+      "thrissur with an",
+      "tracebility matrix.",
+      "undergoing testing course at spyrosys"
+    ],
+    "PROJECTS": {
+      "raw": "topic wireless gesture controlled robot designed a wireless robot using microcontroller which moves in any direction according\nto the movement of our hand. topic sixth sence technology through image processing and matlab we can interact with deaf people. also we can take\nphotos and change its properties.\ncertificate: published a paper on sixth sense technology in international research journal of\nengineering and technology (irjet) volume-03: issue-03 march-2016\nstrengths",
+      "keywords": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cv (4927).pdf",
+  "normalized_sections": {
+    "ABOUT": "julia thomas\nfresher developer",
+    "SKILLS": [
+      "am experienced in both machine learnig and deep learning and have worked on few collaborative on such.",
+      "css",
+      "deep learning",
+      "flutter",
+      "front end",
+      "html",
+      "i am a fresher who is looking to work as a software developer in machine learning application building and deployment. i",
+      "javascript",
+      "machine learning",
+      "neural networks",
+      "python",
+      "tensorflowjs",
+      "web development"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "object detection\nasi technologies\nimage segmentation\nintern,\npassenger health classification based on\ndec 2020 - ongoing\nbmi.\nworking as an intern to learn the usage of neural",
+      "companies": [
+        "technologies"
+      ],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "networks and machine learning for web applications.\nother qualification\nwas part of a team that designed a website to\ngenerate random images based on search terms. also\ntensorflowjs workshop\nworked with docker-based units for the deployment\nof applications.\nbachelor of technology from sggs college of engineering and\ntechnology, kormandal in 2020",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

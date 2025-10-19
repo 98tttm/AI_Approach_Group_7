@@ -1,0 +1,36 @@
+{
+  "id": "cv (4932).pdf",
+  "normalized_sections": {
+    "ABOUT": "charles rodriguez\ns o f t w a r e a n d p r o j e c t m a n a g e r\nwork background\nas an associate software and general electric (ge) healthcare",
+    "WORK EXPERIENCE": {
+      "raw": "manager i have completed and contributed\ndata scientist, feb 2020 to ongoing",
+      "companies": [],
+      "titles": [
+        "manager",
+        "scientist"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "to machine learning focused on\nnlp. from collecting and refining data to\nbuilding and deploying the final model i\nhave had my experience in all. i want to\ntata metaliks ltd.\njoin a firm as a machine learning engineer\nassistant manager aug 2019 to jan 2020\nas it will broaden the scope and",
+      "keywords": [
+        "model"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "opportunities to learn more about the\ndomain.\nusing transformers i was able to make a 1:1 analyzer and translator for german\nto english\nnatural language processing, nltk,\nbachelor of technology, ju university, kottam in 2019\ntransformers, pytorch, machine\nlearning, rnn, deep learning, lstm,",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "gru, text analysis, aws sagemaker,\nibm watson.\ntext extraction and cleaning using\nnlp using python - udemy\npytorch.\nmasterstroke nlp classes\nocr for pictographic languages."
+  }
+}

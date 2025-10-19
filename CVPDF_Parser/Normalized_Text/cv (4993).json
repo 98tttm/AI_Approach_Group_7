@@ -1,0 +1,30 @@
+{
+  "id": "cv (4993).pdf",
+  "normalized_sections": {
+    "ABOUT": "eric milroy\nsystem engineer and analyst\nbluem solutions\nversatile experience in machine learning,\npython, sql & computer vision. good\nassociate software engineer and analyst, jun 2020 - till\nknowledge of statistics and mathematics.\ndate",
+    "SKILLS": [
+      "artificial intelligence",
+      "automatic verdict suggestion using and emotion regression",
+      "building an end-to-end based on rating system and",
+      "data modeling",
+      "data validation",
+      "data visualization",
+      "deep",
+      "detection and clustering.",
+      "knowledge of automating unsupervised",
+      "learning",
+      "learning methods such as anomaly",
+      "machine learning",
+      "method development",
+      "mongodb",
+      "mysql",
+      "python",
+      "system from the given rating and suggestions."
+    ],
+    "PROJECTS": {
+      "raw": "plotly, seaborn, matplotlib.\neducational history\ndata extraction with python.\nbachelor of technology (electronics and telecommunication) from cdac",
+      "keywords": []
+    },
+    "ACHIEVEMENTS": "acts, 2020\ncurricular"
+  }
+}

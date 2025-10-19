@@ -1,0 +1,23 @@
+{
+  "id": "cv (912).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "cosmopolitan magazine be launch. september 2002",
+      "degree": [],
+      "institution": [],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "in style magazine and jones new york, may 2003\nthe may department stores company introduces new proprietary brand, be june 2002",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cv (849).pdf",
+  "normalized_sections": {
+    "ABOUT": "ian d. allen\n22 oak street\ntelephone: 1 (613) 235-6216\ne-mail: idallen idallen.ca\nottawa, ontario,\nwww: www.idallen.com\ncanada. k1r 6s9 professor of information and communications technologies 1996 to present",
+    "EDUCATION": {
+      "raw": "preparation, delivery, and assessment of community college computer science courses. unix/gnu/linux computer systems administrator 1980 to present\noperating system set-up, networking, security, programming, and friendly support. linux professional institute lpic-1 2009 (code ve2pwfp22v at www.lpi.org) master of mathematics (mmath), computer science, university of waterloo 1985.",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "college",
+        "institute",
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "emphasis on software engineering, debugging, and human/computer interaction. honours bachelor of arts (dean s list), psychology, university of waterloo, 1980.\nspecialized in counselling and social psychology.\nteaching.idallen.com\ncommunity college professor (1996 to present)\ndeveloping curriculum and teaching students at the algonquin college of applied arts\nand technology. current topics at teaching.idallen.com include: introduction to\nunix/gnu/linux system administration, unix/gnu/linux script programming. prior\ntopics: unix/gnu/linux for programmers, web html and css, web cgi programming,\ntcp/ip network programming, computer architecture, intermediate c programming\n(compiler writing), windows 9x, visual basic, ibm os/390 mvs jcl.\nwww.ncf.ca\nnetwork technical director (3 years, to 1996)\nresponsible for technical management, design, and programming at the 60,000-member\nnational capital freenet (ncf), canada s largest community network. supervised ncf s\nadoption of www and ppp technology under unix (sunos/solaris).\nwww.cgl.uwaterloo.ca\nresearch systems manager (5 years, to 1993)\nresponsible for a network of 50 unix/ultrix computers in the computer graphics\nlaboratory at the university of waterloo. con gured, upgraded, and modi ed most areas\nof the unix/ultrix system environment to support academic research. some real-time\nmessage-passing programming experience under the nrc harmony operating system.\nwww.math.uwaterloo.ca\nhead of math user services (3 years, to 1988)\nsupervised a staff of sev en student consultants in the mathematics faculty computing\nfacility at the university of waterloo. solved faculty, staff, and student problems on\ncomputers ranging from honeywell dps-8 main-frames to networked unix/bsd/ultrix\nsuper-mini s and sun workstations.\n2019-01-15\nresume: ian d. allen\n-2-\nacademic standings and scholarships mmath: master of mathematics, computer science, university of waterloo, 1985. ba: honours bachelor of arts, psychology, university of waterloo, 1980. canadian natural sciences and engineering research council (nserc)\ngraduate scholarship 1981. province of ontario graduate scholarship (ogs) 1982. faculty of arts dean s list, university of waterloo, 1980. faculty of arts scholarships, university of waterloo, 1974 1978.\noperating systems and languages decades of experience (1976 to present) with several variants of unix/gnu/linux\noperating systems on various hardware platforms and virtually under vmware. this\nincludes: unix/linux systems administration system and network security ssh, nat , rewalls x-windows installation (xdm, xrdb, etc.) network and communications programming, iptables protocols: http, nntp, smtp, pop3, etc. unix/linux kernel con guration and installation samba, apache, news, sendmail, post x, perl, php, cgi, html, css, c programming, rsync,\ndns/bind, shorewall, troff/groff, etc.\nbash/sh/csh/awk/sed scripting, etc. some windows 9x, xp networking and customization windows cygwin unix toolkit win4lin vmware minor apple osx (darwin bsd unix) installation and customization my past experience, mostly academic, also includes the following: assembler: pdp-11, gcos, ibm-pc macintosh system 6/7 (mpw c, hypercard) real-time o/s: rt-11, harmony nrc leg acy languages: cobol, fortran, pl-1, ibm mainframe: vm/cms, tso, jes3, jcl\npascal, algol, snobol, modula2, etc.\nmiscellaneous family: married to retired midwife jan teevan step-father to three young adults aged 33 38. languages: english, conversational french, very little german and even less esperanto. leadership training: context associated excellence series, mastery graduate. theatre: amateur actor, improviser, director, writer, producer. arts: contact improv dance, calligraphic lettering, posters, layout, digital photography. electronics hobbyist, x10 (bsr) home automation. music: piano, guitar, ute, recorder.\nlinks to this document www.idallen.com/resume/\n2019-01-15",
+      "companies": [
+        "inc",
+        "lab"
+      ],
+      "titles": [
+        "engineer",
+        "manager"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

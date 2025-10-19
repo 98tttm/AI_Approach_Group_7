@@ -1,0 +1,17 @@
+{
+  "id": "cv (4819).pdf",
+  "normalized_sections": {
+    "ABOUT": "jeremy wang\nj u n i o r p y t h o n d e v e l o p e r\nwork background\nfresher python developer interested in\ndkb innovations\ndata analytics and machine learning.",
+    "ACTIVITIES": "python programming, pycharm,\ndjango.\nsmart api serving.\nstatistics in python",
+    "WORK EXPERIENCE": {
+      "raw": "python intern, jun 2019 - jan 2020\nworked on a small end-to-end related to a shopping site and\nsearch engine recommender.\nmachine learning, data processing,\nb.tech cse heramba chandra college, 2020\ndata visualization, deep learning, sql,",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cv (4300).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "consultant\nexpertise in creating detailed test plans and test cases for optimal quality control. solid background in various testing methodologies for both client-\nfacing and non-client-facing procedures and products.\ncustomer relations monitored customer technical related issues",
+      "companies": [],
+      "titles": [],
+      "years": []
+    },
+    "SKILLS": [
+      "affiliations",
+      "autocad",
+      "c",
+      "customer support",
+      "data acquisition",
+      "data analysis",
+      "database",
+      "fda",
+      "gmp",
+      "government",
+      "ieee computer society",
+      "interface design",
+      "maximized operational efficiency by coaching staff on various customer service initiatives",
+      "member",
+      "neu alumni association",
+      "orcadd"
+    ],
+    "PROJECTS": {
+      "raw": "ensured optimal productivity and quality assurance initiatives by performing routine maintenance on electrical equipment.\nreview statistics and determine areas requiring enhancement, which includes inspecting samples and formulating improvement policies to\nmeet quality standards.\norganization and document management\nmanaged capa s and risk assessment analysis, failure mode and effect analysis, and forensic investigation of manufacturing and product\nfield failures. wrote procedures and established practices to develop templates and documentation to improve forensic investigation for manufacturing\nand product field failures. ensured proper documentation of phase deliverables in products design history and technical files.\nwork history\nconsultant 01/2009 to current company name city , state\nconducted product analysis to address products high failure rates, which led to more than 15% decrease in failure rate.\nprovided failure analysis, engineering support, forensic investigation, and statistical data analysis.\nprovided training to staff in leadership, strategic planning, and organizational management.\nelectrical engineer 03/2007 to 11/2008 company name\nprovided systems and electrical engineering support for government programs development.\nsupported vehicle hardware and integration, vehicle systems modeling and analysis, and systems requirements.\nprovided system integration design usining mil-std-1553 interface, eia rs-422 interface design, usb and ethernet interfaces.\nperformed installation, testing, and verification of simulators audio visual systems.\ndeveloped vehicle s software test description (std), interface design description (idd).\ndeveloped interface cable systems for vehicles.\nprincipal electrical engineer 04/2005 to 11/2006 company name\nprovided engineering support of dialysis instruments.\nprovided expert advise on the quality improvement team (qit)\nperformed products trend analysis, statistical data analysis calculations of raw data, dfmeas, and design reviews.\nmanaged capa s and risk assessment analysis.\nensured proper documentation of phase deliverables in products design history/technical files, technical summaries, technical manuals.\nwrote products test protocols and procedures\nconducted environmental tests for product reliability.\nsystems engineer 08/2003 to 11/2004 company name\nimplemented test plans, validation protocols, verified code changes, identified and investigated bugs.\nperformed stress tests and assessed product functionality and usability.\nelectrical engineer 10/2001 to 07/2003 company name city , state\ndesigned power controls distribution and avionics wiring.\nperformed analysis on voltage power system control.\ndesigned and developed electrical test equipments.\ninstalled and verifiedn simulators audio visual systems.\nsystems quality engineer 10/2000 to 10/2001 company name city , state\nwrote and implemented quality control procedures\nmaintained weapon engagement simulation systems.\nprovided technical support to manufacturing and quality control for testing and calibration of laser equipments system\ndesigned and developed electrical test fixtures for optical devices.\nprovided logistical support and analysis, reliability and maintainability analysis, human factors analysis.\nconducted product reliability testing using environmental test chambers.\nmade technical presentations to customers worldwide, which resulted in several government contracts with us supported military\ncontracts with egypt, kuwait and turkey.\napplications engineer 08/1999 to 09/2000 company name city , state\nimproved character and graphic lcd displays designs, engineering changes, and customer support, product testing and validation.\nresolved customers technical issues, which improved company s customer relations.\nresolved customers complaints and concerns.\ndeveloped test programs, calibration test equipments\nmaintained automated test equipments (ate)\nperformed failure mode analysis, yield enhancement, statistical process\ndeveloped and executed test plans, validation protocols, test procedures to support manufacturing lines of medical instruments.\nreliability engineer 04/1990 to 07/1995 company name\nprepared the company s quality and reliability metrics of all products, safety and hazard analysis, failure mode and effect analysis (fmea),\nreliability metrics, and system assurance analysis (saa)\nimprovement, quality control, risk assessment, strategic planning, system integration, technical support, presentations",
+      "keywords": [
+        "analysis",
+        "app",
+        "model",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "prepared product complaints information reports, medical device reports (mdr).\nmonitored products reliability, maintainability, and availability.\nperformed system criticality assessment (sca) on several products\nanalyzed acceptance of incoming material and in-process material, product return information, and product investigations.\nwrote test procedures and maintained the quality control database.\nexecuted and troubleshot reliability test plans.\nperformed reliability data analysis and reports distribution.\nbachelor of science : electrical engineering minor in computer science 1997 northeastern university city , state , usa electrical engineering minor in computer\norganization and management 2011 capella university city , state , usa organization and management",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

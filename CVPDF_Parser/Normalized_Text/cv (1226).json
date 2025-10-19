@@ -1,0 +1,30 @@
+{
+  "id": "cv (1226).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "luis bernardo pintado\n550 columbus ave. apt. 7\nboston, ma 02118\n(617) 867-0263\ne-mail: lpintado mit.edu\n09/99 - 06/01\nmit sloan school of management\ncambridge, ma\nmaster s in business administration class of 2001\n09/96 - 04/97\nitesm",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "mexico city, mx\nexecutive diploma in telecommunications\n08/89 - 12/93\nitesm\nstate of mexico, mx\nbachelor s in business administration graduated with honors\n06/00 - 08/00\ncambridge strategic management group",
+      "companies": [],
+      "titles": [],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "cambridge, ma\nsummer associate\nresponsible for assessing business opportunity and performing market research for a start-up long-\nhaul fiber operator in northern europe and scandinavia responsible for performing sensibility\nanalysis of financial models for a proposed 3-way merger between regional clecs in the us.\n05/98 - 06/99\narthur andersen, sc\nmexico city, mx\nbusiness consulting firm servicing the global communications & entertainment industry.\ncommunications & entertainment senior consultant\nresponsible for defining strategy, creating business plans and segmenting market to identify key\ntransformation, market research, and revenue assurance within the gc&eg in latin america.\n04/96 - 03/98\navantel, sa\nmexico city, mx\nfirst competitive long distance carrier to enter the mexican deregulated market.\nprimary interexchange carrier manager\nresponsible for expediting revenue through improving customer procurement and internal efficiency\nwith respect to installation timeframes, billing, account collections, and customer service and\nretention.\nquality and processes manager\nresponsible for implementing continuous improvement and process innovation headed inter-\ndepartmental task force pinpointing weaknesses in existing processes, where objectives, strategy and\nprogress were managed on all levels: vice-presidential, senior management, and operational.\nproduct and market processes consultant\nresponsible for developing, coordinating, imparting, evaluating, and updating market processes and\nvoice products training programs provided to all sales and support organizations.\n06/95 - 04/96\ngrupo dime, sa de cv\ncancun, mx\nfrozen food distribution company catering to foodservice clients in select mexican resorts.\noperations manager, co-founder\nresponsible for establishing and starting of operations for the cancun regional office, including areas\nsuch as: purchasing, sales, distribution routes, budgets and sales forecasting, among others.\n01/94 - 05/95\narby s restaurantes, sa de cv\nmexico city, mx\nmaster franchise and corporate head quarters in mexico for arby s restaurants international.\njr. brand manager\nresponsible for marketing budget, sales and budget forecasting and analysis, special promotional",
+      "keywords": [
+        "analysis",
+        "model"
+      ]
+    }
+  }
+}

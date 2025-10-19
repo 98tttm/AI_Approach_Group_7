@@ -1,0 +1,46 @@
+{
+  "id": "cv (2215).pdf",
+  "normalized_sections": {
+    "ABOUT": "shravan maheshwaran\nshravan maheshwaran n r\nshravan maheshwarn\ncontact\nshravanx28 gmail.com\n9643505725\nto work in industries where my knowledge and are constantly tested with challenging assignments and\nto work in positions empowering innovation and creativity.interested to work in diverse fields pertaining to",
+    "EDUCATION": {
+      "raw": "engineering and management.\nbachelor of technology mechatronics\njuly 2011 may 2015\nbharath university,chennai\nacademic performance\nfirs t divis ion in bachelor of technology mechatronics - cgpa- 7.15/10 , 67% in the year 2015",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "secured 69.76 in higher secondary school examination(12th)(tamilnadu state board)in the year 2011.\nsecured 77.86 in the secondary school examination(10th) (cbse) in the year 2009.\ndes ign and fabric ation of gs m c ontrolled robot\nthis robot is used for rescue purpose in earthquake areas. in the proposed system the dtmf decoder, pir\nsensor, ultrasonic sensor and the robot is interfaced with the pic controller. the robot is navigated according\nto the commands given in the mobile. the dtmf decoder will decode the particular data and give it to the\ncontroller. according to the data the robot will move. the pir sensor is used to check whether any human is\npresent in the area. if any human detected then a message will be send to the monitoring gsm number. the\nultrasonic sensor is used to stop colliding with obstacles. if any obstacle or human detected gps value is fetch\nby controller and send through gsm\ndes ign and fabric ation of red objec t trac king 2-axis robot us ing matlab s oftware\nobject tracking can be done by identifying and tracking some specific feature of the moving object such as\ncolor that belongs to the moving object. thus trajectories of moving object can be traced through this process\nover time. object tracking using computer vision is a crucial component in achieving robotic surveillance.the\nmain aim of the object tracking is to track the object based on the information obtained from video\nsequences.in our , we determine the region on interest (roi) of the moving target which is followed",
+      "keywords": [
+        "system"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "adaptive color filter to extract the color information and thus the object is tracked. the main contribution on\nthis paper is that the introduction on a color filtering method which is capable of adaptively identifying the\nmost salient color feature that belongs to for moving object and using this color feature for tracking.\nshravan maheshwaran\n1\nministry of communication and\n24th june 2014 18th july 2014\ninformation technology\ntrainee\ni had undergone training at the department of electronics and information technology ,ministry of\ncommunications & information technology under the guidance of mr. b.m baveja (senior director & scientist",
+      "companies": [],
+      "titles": [
+        "scientist"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "applications",
+      "everyday according to the work assigned .",
+      "future scope and negative aspects if any",
+      "g). the work assigned to me was to study and analyze the proposals and research papers on new",
+      "microsoft office module - proficient in excel",
+      "powerpoint",
+      "technology submitted by the academia from all over india for monetary funding by the indian government and",
+      "was required to brief the director about concepts",
+      "word"
+    ],
+    "ACTIVITIES": "proe -basic level\nreading - i like to spend my time reading on various subjects ,especially mythology and also love reading\nfundamental science related concepts and theories,nuclear physics in particular, it intrigues me. i like to watch\nmovies and am a god loving person by nature.\ncollege - hosted cultural programs and took part in dancing competitions, essay writing, took\nseminars related to new technology and systems like valvetronics, sensotronics,3d printing etc.\npersonal details\nname: shravan maheshwaran n r.\ndob : 28/05/1993.\nnationality: indian.\nmarital status:single\nlinguistic ability: english, hindi,telugu .\n,tamil.\nfather s name : n.v.r.k murthy ( osd ,nid delhi center).\npresent address: c6a/4b , janakpuri ,\nwest delhi district,\nwest delhi district,\nnew delhi -58\nnew delhi - 110058\ndeclaration\ni hereby declare that all the details furnished above are true to the best of my knowledge and belief.\nshravan maheshwaran n r\nshravan maheshwaran\n2"
+  }
+}

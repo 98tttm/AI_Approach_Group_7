@@ -1,0 +1,66 @@
+{
+  "id": "cv (1857).pdf",
+  "normalized_sections": {
+    "ABOUT": "red hat certified system administrator\nmashad abbas\n30/17 ashoka road\ncontact no: 917875554648\nshiprasuncity,\nghaziabad\nemail: mashad9 gmail.com\nup-201014\ncompetitive 3.4 years in analysis, design, development , implementation &\napplication development using pl/sql and informatica .have worked on live telecom and\nhas ability to work on various technologies. have good analytical, user interaction and trouble\nshooting . strong knowledge and experience on informatica, teradata oracle, sql, pl/sql\ndevelopment on unix platform. experienced in sql, pl/sql, sql performance tuning, function, trigger,\nsql loader, indexing, unix shell scripting. knowledge of amdocs billing system and bscs",
+    "SKILLS": [
+      "10",
+      "7.x",
+      "8.0",
+      "8i",
+      "9i",
+      "data warehousing tools: informatica power center 9.5",
+      "databases : oracle 11g",
+      "etl processes",
+      "extensively worked on data extraction",
+      "pl",
+      "programming gui : sql",
+      "red hat certified system administrator",
+      "sources like oracle",
+      "sql",
+      "sql developer",
+      "sql plus and unix shell scripting",
+      "sql server and flat files",
+      "teradata sql assistant",
+      "tools",
+      "transformation and loading data from various",
+      "utilities : toad"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "bottlenecks in various levels like sources, targets, mappings and sessions. strong knowledge of database schemas, tables, views and indexes.\ninformatica power center\nclient tools - mapping designer, repository manager, workflow manager/monitor\nand server tools informatica server, repository server manager wrote several teradata sql queries using teradata sql assistant for ad hoc\ndata pull request.\nworking with ericsson global services ,noida as solution integrator since dec2015 to till date\nhad worked with atos india pvt ltd as s/w engineer from sep2013 to nov2015",
+      "companies": [
+        "inc",
+        "ltd",
+        "pvt"
+      ],
+      "titles": [
+        "engineer",
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "implementation and support of etl processes for large scale data warehouses using",
+    "EDUCATION": {
+      "raw": "operating systems : windows xp/nt/2003, unix\nticketing tool : bmc remedy , hpsm bachelor of technology(2008-2012) from uptu,niet noida cbse class 12th (2008),sd public school , muzaffarnagar",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "cbse class 10th (2006),holy angels convent school , muzaffarnagar\ndubai telecom\n:\nclient\n:\ndu\ntechnologies\n:\ninformatica 9.5 ,teradata ,oracle,pl/sql,unix shell script\nduration : dec 2015 to till date\ndescription : du is the mobile communication and technology provider(mobile\nand internet provider) which deals in uae .it has bscs lx billing system having different\nmodules with 8 million subscribers\nrole/responsibility :\nresponsible for\nerror handling using session logs in the workflow monitor and responsible for\nalso logs generating in unix path\n.\nresponsible for requirement definition and analysis in support of data warehousing responsible for\nefforts\nmonitoring of jobs scheduled in cron maintaining server space and taking primitive action on alerts handling data loading from workflow monitor and provide l1 &l2 support by monitoring chains and sessions\nrecovering and scheduling the workflows as per the business requirement validating and providing cdr to business users using teradata query web based reporting application\n:\nclient\n:\nvodafone mobile services ltd\ntechnologies\n:\noracle pl/sql, toad, java,unix shell script\nduration : sep 2013 to nov 2015\nweb based reporting application is an application, which can\n:\ndescription\ngenerate different reports as per the business requirement .the primary goals of web based\nreporting application are, to support business decision and minimize load on the database.\npostpaid user.\nred hat certified system administrator\nrole/responsibility\n:\ncreation of database objects like packages, procedures, functions, views to implement the business logic.\nresponsible for providing month-end reports (pl/sql procedure) to business like activation, churn, unbilled data and aging reports.\ntaking care of all day-to-day operational issues of business regarding the reports fetched by the end user/business user.\nalso fulfilling the adhoc requirement of data by the local circle it team like legal cdr data, report related to check business growth in weekly or monthly basis\naccording to business review.\ninvolved in client interaction declaration\ni confirm that the information provided by me is true to the best of my knowledge and\nbelief.\nplace : (mashad abbas)",
+      "keywords": [
+        "analysis",
+        "app",
+        "system",
+        "web"
+      ]
+    }
+  }
+}

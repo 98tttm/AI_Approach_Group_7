@@ -1,0 +1,65 @@
+{
+  "id": "cv (893).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "loren shevitz\n345 w. fullerton 2101\nphone: 773-665-1234\nchicago, il 60614-2853\nloren shevitz.org\nillinois institute of art instructor of computer literacy, april 2003 - present\nteach students computer terminology, ms office (word, access, powerpoint, excel), inner workings of computers, databases, html programming\nchicago friends of the idf consultant, september-december 2003\ndonorperfect (ms foxpro database extension), ms office, online seating chart for 1,400-person dinner with html (ability to add functionality with php, javascript), working with dignitaries and sensitive requests to\ncreate workable seating plan for dinner\nshircago (contemporary co-ed a cappella) founder, director, webmaster (www.shircago.com) october\n1996 - present",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "accomplishments: producer of three cds, composer/arranger of over 30 songs, creator and\nfacilitator of national e-mail list, spring tour coordinator (twice)\ncompetitions: harmony sweepstakes semifinalists (2003), ncca quarterfinalists (2000)\nsoftware used: finale 2003 (for music notation), photoshop 7 (for graphic design), linux (for\nadministration), ms office, sql, and filezilla\nhillel, university of chicago technical consultant, january 1999-march 2002\norganized online computer conference reformatted and upgraded systems university of chicago\nmaster of science, computer science, 2002\nrelevant coursework: advanced databases, web programming, advanced java, networking, it security\nuniversity of michigan\nbachelor of arts, psychology, april 1994",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "and apache",
+      "and corba",
+      "and unix",
+      "c",
+      "css",
+      "development tools: ms office suite",
+      "dreamweaver",
+      "fireworks",
+      "frontpage",
+      "golive",
+      "homesite",
+      "hotdog",
+      "html",
+      "javascript",
+      "languages: java",
+      "linux",
+      "macos",
+      "operating systems: windows 9x",
+      "perl",
+      "photoshop",
+      "php",
+      "python",
+      "residential college graduate (entails additional requirements)",
+      "sophomore honors award",
+      "sql",
+      "xml",
+      "xp"
+    ],
+    "PROJECTS": {
+      "raw": "network systems: tcp/ip, http, ethernet\ndeveloped java pda that included a memo pad, calculator, bookmark list, and game developed customer relations model using powerdesigner, sql, and quickdraw developed online store loren s a cappella superstore used php to connect to a sql database\no\nsold cds and custom music arrangements\no\ndeveloped online othello game using java networking services implementation with polling\no\nimplementation with rmi\no\ndeveloped xml calendar application in java involving swing and dom (apache s xerces parser)",
+      "keywords": [
+        "app",
+        "model",
+        "system"
+      ]
+    }
+  }
+}

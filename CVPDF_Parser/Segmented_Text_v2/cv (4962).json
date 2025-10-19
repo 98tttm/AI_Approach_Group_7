@@ -1,0 +1,11 @@
+{
+  "id": "cv (4962).pdf",
+  "sections": {
+    "ABOUT": "Joseline\nHernandez\nD A T A  S C I E N T I S T  A N D  M A C H I N E  L E A N R I N G\nE N G I N E E R\nGood understanding of Data\nBrainStrom\nPreprocessing, training and deployment of",
+    "WORK EXPERIENCE": "Machine Learning Engineer Dec 2019- till date\nmachine learning and deep learning\nmodels.. Worked on Time Series\nWorked on end-to-end Question generation application from\nForecasting, Classification and Clustering\nparagraph using BERT and GPT2 with the use of GPU, Docker, and\nFlask Framework.\ntools.,",
+    "SKILLS": "IBB Tech Pvt Ltd Junior\nMachine Learning Intern, Jan 2019-Nov 2019\nDashboards for real-time monitoring of Sensor Data collected using\ndifferent sensors installed inside a house.\nPython, MySQL, Natural Language\nProcessing, Machine Learning, Neural\nNetworks, Flask, Docker, GIT, BERT, LSTM,\nRNN, Deep Learning,  AWS, RNN,\nData Analysis with python\nMachine Learning with Python\nMachine Learning Stanford University",
+    "EDUCATION": "Tensorflow, Keras, PyTorch, Numpy,\nB.Tech (Telecommunication) from SKN, Coimbatore in 2019",
+    "ACTIVITIES": "Pandas, Glove, Lucene, Linux, Devops,\nSpacy, GPU, Data Science.",
+    "PROJECTS": "Study of factors affecting statistical\ncomparisons, such as the type of dataset,\nthe method of selection of train-test data,\nand the type of ML algorithm."
+  }
+}

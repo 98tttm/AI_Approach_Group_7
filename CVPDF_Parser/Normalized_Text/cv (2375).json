@@ -1,0 +1,34 @@
+{
+  "id": "cv (2375).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "roy a. jaleco jr.\ne-mail: ra.jaleco yahoo.com phone: 97158 882 6544\n440 the centre residence al muteena deira dubai, uae\nbachelor of science in information technology 2006 2013\nadamson university\nsecondary 2001 2006\ngrant s apostolic institute",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "primary 1996 2002\ngrant s apostolic institute\ndestinations of the world january 2017- february 2018\ndata entry operator\nmandaluyong, philippines accommodating requests from partner hotels all over the world together with the\ncompany s contract managers. process updates based on hotel s preference. creation of promotional offers for the hotels. accurately managing room availability based on hotel s request. room rates management. reporting of daily productivity via microsoft excel.\nleadsrus inc. may 2016 december 2016\nresearch analyst (sales)\nmakati, philippines researching of possible clients or points of contact from different companies. data profiling. ensuring a good impression of the company with the client over the phone. discussion of the product with the client. making sure that the client is fit for the product or system implementation that the\ncompany offers. discussing products and services to potential clients. getting newly profiled clients to listen on the product proposal.\nglobal payments process centre inc., february 2014 may 2016\nmasterfile analyst (back office)\nmandaluyong, philippines system modification for credit card terminals by utilizing company s standard\nprocesses and system. accurate setup of terminals for newly acquired merchants in the system. maintenance of existing terminals. processing rate change requests from client.\nteletech roxas april 2012 february 2014\ncustomer service representative (voice)\npasay city, philippines handled calls for visa rewards client. promoting items to be redeemed by customers. enrolling customers to the program and placing orders for them through company s\nsystem. handled calls for visa s fraud prevention service. detecting fraudulent transactions through customers verification over the phone and\nplacing a block on the credit card if necessary.\naskim online english tutorial april 2011 nov 2011\nonline english tutor\nmandaluyong, philippines teaching english as second language for turkish students through by utilizing\ncompany s e-book and skype.\nphilippine national bank financial center march 2010 jun 2010\nadmin staff (password administration department)\npasay city, philippines password management for employees. ensures that the records of the department are updated.\nkfc (sm bicutan) jan 2009 feb 2010\nrestaurant team member\nbicutan, para aque city, philippines serves as cashier and helped the store by suggestive selling. making sure that the customers are satisfied.\ncharacter reference is upon request.",
+      "companies": [
+        "company",
+        "inc",
+        "lab"
+      ],
+      "titles": [
+        "analyst",
+        "manager"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

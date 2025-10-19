@@ -1,0 +1,39 @@
+{
+  "id": "cv (4813).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "dalton green\ndata scientist\nexecutive\ni am currently working as a data\nunited health group\nscientist and i like to build\ndata scientist jun 2019 to till\nrecommender systems and\nprediction models. my role revolves",
+      "companies": [],
+      "titles": [
+        "scientist"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "and debugging",
+      "around building",
+      "business criterias.",
+      "data analyst",
+      "data scientist",
+      "date managing the including designing",
+      "developing",
+      "evaluation of models based on",
+      "machine",
+      "personal",
+      "software development",
+      "testing",
+      "testing and",
+      "the machine learning models to fit the business needs.",
+      "troubleshooting"
+    ],
+    "ABOUT": "learning, natural language\nprocessing, business solutions,\nprocess flow, logistic regression,\nmysql, mongodb, python,\npowerbi, hadoop",
+    "PROJECTS": {
+      "raw": "b.e. (data engineering) from rajiv gandhi\nproudyogiki vishwavidyalaya (rgpv), bhopal in\n2019\nautomatic mapper using text\nmatching by nlp.\nextra-curriculars\nnlp developer - caltech",
+      "keywords": [
+        "app"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cv (4888).pdf",
+  "normalized_sections": {
+    "ABOUT": "michael reever\nfresher software developer",
+    "WORK EXPERIENCE": {
+      "raw": "systemica consultants\nanalyzing complex, high-volume, and high\nsde, apr 2019 to till date\ndimensionality data from varying data\nsources enhanced data collection\ncreating dashboards and analytical front-ends to collect, display\nprocedures to include information that is\nand analyze data effectively analyzing real-world problems and\nrelevant for building analytic systems",
+      "companies": [
+        "inc"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "algorithms to improve performance",
+      "and accuracy. understanding business objectives and developing",
+      "and fine-tuning using test results.",
+      "clustering",
+      "data analytics",
+      "data management",
+      "data science",
+      "data structures",
+      "engineer",
+      "excelled at performing statistical analysis",
+      "logistic regression",
+      "machine",
+      "models that help to achieve those objectives along with metrics",
+      "providing ways to solve them. using machine learning and",
+      "quality",
+      "software",
+      "statistical modeling techniques to develop and evaluate",
+      "to track their progress."
+    ],
+    "ACHIEVEMENTS": "learning, visual studio, statistical\nanalysis, linux, unix, python,software\ndeveloper.\neducational history\ncurriculars",
+    "PROJECTS": {
+      "raw": "training and deploying a machine model.\nbachelor of science (it) university of mangalore, 2019\narchitecture and design of the entire ids\nsystem.",
+      "keywords": [
+        "model",
+        "system"
+      ]
+    }
+  }
+}

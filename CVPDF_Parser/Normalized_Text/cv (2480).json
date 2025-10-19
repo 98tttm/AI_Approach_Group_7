@@ -1,0 +1,46 @@
+{
+  "id": "cv (2480).pdf",
+  "normalized_sections": {
+    "ABOUT": "nikhil khatri\nemail: nikhilkhatri8055 gmail.com\nphone: 91-9643508055\nto be a part of a reputed organization and grow within the industry to the zenith of its organizational hierarchy.",
+    "SKILLS": [
+      "(june 2016) 59.30%",
+      "encounter",
+      "linux",
+      "master of technology. in vlsi design(ece) from north cap university (formerly itm university) gurgaon",
+      "matlab",
+      "red hat",
+      "software packages: xilinx",
+      "virtuoso"
+    ],
+    "EDUCATION": {
+      "raw": "bhagwanmahavir institute of engineering &technology(mdu), sonepat bachelor of technology (bachelor of technology) in electronics and communication engineering (july 2014): 61% happy child senior secondary school, sonepat, haryana janki das kapoor public school, sonepat, haryana\n(2008) workshops attended\nsir padampat singhania university, udaipur (feb 19, 2015 feb 20, 2015) workshop on tcad and hspice conducted by synopsys",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "institute",
+        "school",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "guru teg bahadur institute of technology(gtbit),delhi (feb 27,2015) one day workshop on hands on training on vivado design tool flow using zed board\nthenorthcap university(ncu),gurgaon (march 1,2015- march 3,2015) national workshop on mems design, technology & application organized by ncu & iit delhi\nsummer training at param high tech pvt. ltd. (june-july 2013) summer training at bharat sanchar nigam limited, sonepat in fields of switching, transmission, gsm, broadband and marketing (june-july 2012)\nsummer training at bharat electronics limited ghaziabad(june 15, 2015 july 25, 2015)",
+      "companies": [
+        "ltd",
+        "pvt"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "winter training at 3st technologies pvt. ltd,noida of verilog & linux(dec 12, 2014 jan 5, 2015) thesis topic(master of technology.): implementation and development of melp encoder",
+      "keywords": []
+    },
+    "ACTIVITIES": "programming languages: verilog leadership deterministic and hard working college president for the year 2013-14 active participation in cultural events at school performed duet dance at freshers festival 11 of our college participated in dance competition at inter college fest conoscenza 13 personal information\nfather s name\n: surender singh khatri\nmother s name\n: sunita khatri\ndate of birth\n: april 12,1992\nlanguages\n: hindi & english\nnationality\n: indian\nmarital status\n: single"
+  }
+}

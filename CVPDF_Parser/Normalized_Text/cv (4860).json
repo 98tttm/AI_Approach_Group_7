@@ -1,0 +1,33 @@
+{
+  "id": "cv (4860).pdf",
+  "normalized_sections": {
+    "ABOUT": "alexis mathews\ngradute machine learning engineer",
+    "SKILLS": [
+      "algorithm development",
+      "chatbot.",
+      "data arbitration",
+      "i am a post graduate having knowledge of industry-level machine learning problems and research topics. i currently",
+      "machine learning engineering",
+      "neural networks",
+      "pattern",
+      "python",
+      "pytorch",
+      "regonition",
+      "work as a machine learning engineer and i want to keep exploring such opportunities."
+    ],
+    "PROJECTS": {
+      "raw": "erc solution associate\nhelps the customer very easily what his/her\nmachine learning engineer, jan 2020 - ongoing\nissue is.\nmodulated data engineering\ni had an extensive range of responsibilities including\ntransformer based data engineering to get\nselecting features, performing classification. also\nworking both with the end of a carefully\nunderstanding the diametrics and overall structure.",
+      "keywords": []
+    },
+    "EDUCATION": {
+      "raw": "other qualification\nintroduction to data science in python data\nb.sc (computer science engineering) from st josephs\nvisualization and communication with\ncollege of arts and science bengaluru in 2018\ntableau\nm.sc(science) (big data analytics) from loyola\nacademy degree & pg college, hyderabad in 2020",
+      "degree": [],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cv (656).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "institute\nuniversity/board\nm.j.college",
+      "degree": [],
+      "institution": [
+        "college",
+        "institute",
+        "university"
+      ],
+      "years": []
+    }
+  }
+}

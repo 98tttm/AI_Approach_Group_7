@@ -1,0 +1,27 @@
+{
+  "id": "cv (4833).pdf",
+  "normalized_sections": {
+    "ABOUT": "drew hall\na s s o c i a t e m a c h i n e l e a r n i n g e n g i n e e r\nmachine learning engineer skilled in nlp ,\nbristlecone\nchatbot , databases and creating machine\nmachine learning engineer nov 2018 to apr 2020\nlearning models and retraining systems\nand transforming data science prototypes\nsolve bot is using ml to find ticket categories, as well as auto,",
+    "ACTIVITIES": "mongodb, sql, flask, data analytics, big\nsoftware development in 2019\ndata analytics.\ncertificate program in python",
+    "PROJECTS": {
+      "raw": "programming.\nwhats app chatbot\ndevnagari character recognition",
+      "keywords": [
+        "app"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "to production-grade solutions. machine\npopulate various fields like location, personal details thus enhancing\nlearning engineer skilled in ml, python,\nuser experience. the bot has seamless integration with sap to get user\nnlp, frameworks, dl.\ndetails.\npython, machine learning, natural\nb.tech from thakur shiv kumar singh memorial engineering college in\nlanguage processing, text mining, data\n2019\nscientist, data analyst, deep learning,\ndiploma (big data analytics) from institute for advanced computing and",
+      "companies": [
+        "solutions"
+      ],
+      "titles": [
+        "analyst",
+        "engineer",
+        "scientist"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

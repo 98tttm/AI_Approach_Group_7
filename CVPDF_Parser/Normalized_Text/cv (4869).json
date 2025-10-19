@@ -1,0 +1,27 @@
+{
+  "id": "cv (4869).pdf",
+  "normalized_sections": {
+    "ABOUT": "madelyn milner\nc o m p u t e r v i s i o n e n g i n e e r\nskilled machine learning and deep learning\nmachine learning, deep learning,\npractitioner, and i have worked on computer vision-\ncomputer vision, pattern recognition,",
+    "WORK EXPERIENCE": {
+      "raw": "based . on the lookout for opportunities that\nimage processing, image segmentation,\nhelp me understand more about the domain.\npython, ruby, pillow, opencv.\nbrane enterprises pvt ltd\nb.tech(computers) from jt university,\ncomputer vision engineer, jan 2020 - ongoing\nkanchipuram, 2020\ncore responsibilities included building",
+      "companies": [
+        "inc",
+        "ltd",
+        "pvt"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "computer vision solutions for clients. i\ntook part from data funneling to the final\nstages of evaluation and deployment,\nmaking sure that the model was service-\nready and also do proof-of-concepts",
+      "keywords": [
+        "model"
+      ]
+    },
+    "ACTIVITIES": "detecting snake breeds\nopencv made easy - pyimagesearch\nestimation of infection based on skin\nthrottle into the world of machine\ngranulation.\nlearning - workshop by h2o.ai"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cv (4886).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "emma marshall\ngraduate software engineer\nexecutive\nleadership and team building\ncognibot\noriented mentality. working\nintern, may 2020 to dec 2020\ntowards of being a better\nprofessional, someone on whom a",
+      "companies": [],
+      "titles": [
+        "engineer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "and grow my skillset.",
+      "company can easily rely on.",
+      "dbms",
+      "looking for roles where i can learn",
+      "part of a team that designed the software for smart",
+      "personal",
+      "rdbms",
+      "robots used on assembly lines.",
+      "software"
+    ],
+    "ABOUT": "developer, software engineer,\njava, sas, sql, business\nintelligence, learning algorithm,\nmachine learning, python.",
+    "EDUCATION": {
+      "raw": "integrated bachelor of technology & master of technology (software engineering)\nfrom vellore institute of technology (vit) in 2021",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "institute"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "smart medicine box\nextra-curriculars\npython programming",
+      "keywords": []
+    }
+  }
+}

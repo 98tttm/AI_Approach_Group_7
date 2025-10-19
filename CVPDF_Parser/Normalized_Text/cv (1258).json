@@ -1,0 +1,51 @@
+{
+  "id": "cv (1258).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "jennifer l. goodwin\n50 blake street\nnewton, ma 02460\n(617) 558-9704\ne-mail: jgoodwin mit.edu\nmit sloan school of management\ncambridge, ma\nmaster of business administration, class of 2001\nacademic interests: strategic management and new product venture and development\nmember of management consulting club and marketing club\nelected as mit sloan student senator\nuniversity of massachusetts",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "amherst, ma\nbachelors of business administration, 1993\nmajor: operations management minor: economics\nreceived william f. field scholarship for academic excellence\n1997 - 1999\nlasertron, inc.\nbedford, ma\nmarket leader in manufacture of fiber optic components for telecommunications\nquality and customer satisfaction manager",
+      "companies": [
+        "inc"
+      ],
+      "titles": [
+        "manager"
+      ],
+      "years": [
+        "19"
+      ]
+    },
+    "SKILLS": [
+      "and new employee orientation",
+      "and structuring the training process",
+      "changes",
+      "corrective and preventive action",
+      "demonstrating effective",
+      "growth of the customer base",
+      "including developing and implementing a formal",
+      "including management review",
+      "including streamlining engineering",
+      "internal audits",
+      "led cross-functional teams for process improvement",
+      "led the customer satisfaction program",
+      "managed all aspects of the quality system",
+      "managed customer relations associated with complaints and audits",
+      "presented the quality system processes and controls to potential clients",
+      "simplifying process documentation",
+      "supporting the"
+    ],
+    "ACTIVITIES": "customer rating system\nrecruited, trained, and coached internal audit team members restructured the audit process, reducing auditor workload and facilitating corrective actions\n1993 - 1997\nbemis company, inc.\npepperell, ma\nmanufacturer of high quality, industrial and consumer packaging\nquality manager established strategies for production and quality improvement",
+    "CERTIFICATIONS": "managed customer complaints, interacting directly with major clients 18 months for a 160 employee facility\ndesigned and conducted a 2-day training seminar for corporate management developed and executed formal training and performance evaluation programs managed staff of 3 and supervised the internal quality audit team of 20 members interviewed and hired direct labor employees internships\nbaybanks, inc. - credit card security operations, 1992 u.s. government housing and urban development, 1990-1991 personal\nactive member of sloan senate academic and admissions committees enjoy skiing, racquetball, exercising, reading, traveling participated in national student exchange to university of hawaii at manoa, 1991-1992 catechism teacher and community service volunteer through church"
+  }
+}

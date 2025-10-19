@@ -1,0 +1,79 @@
+{
+  "id": "cv (934).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "sarath ks\nmale, age 24 years\ntitle: application for job as developer\ndear sir,\ni write to express my interest in the position as software engineer in your company. my responsibilities\nincluded the designing, development and debugging of the application. most of the that i have dealt\nwith are windows and web application.\nexperience has taught me how to build strong relationships with all departments in an organization. i have\nthe ability to work within a team as well as cross-team. i can work with web engineers to resolve technical\nissues and implement technical enhancements, work with the development department to implement design\nand functional enhancements.\nthank you for your consideration.\nsarath .k.s\nbj corps : developer\nriolabz technolgies : developer\nresponsibilities my responsibilities include the designing, development and debugging of the application.",
+      "companies": [
+        "company",
+        "corp",
+        "inc",
+        "lab"
+      ],
+      "titles": [
+        "developer",
+        "engineer"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "most of the that i have dealt with are web application.\nenvironment: php , mysql, ajax , jquery, html\nrole: developer\n3 different login student, teacher, admin.\nstudent: view/update profile, view/ manage payment/order histories, view teacher s list- search/filter\nthe list by name, subject, topic, level of study and could buy teacher class as units of 1 hour each. he\ncould select any of the time that teacher available and not purchased by any other user. payment\ncould done through paypal.\nteacher: view/update profile, view/ manage payment/order histories, teacher could declare their\navailable timings on any date/time it is allowed alter the list at any time that are not purchased by any\nuser.\nadmin: view all the user profiles and their",
+      "keywords": [
+        "app",
+        "web"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "also worked with various sites like http://www.lauggs.com.au/, http://www.grandprixmazda.com.au/,\nhttp://www.scraustralia.com/, http://www.samallen.com.au/, http://www.springlakehotel.com.au/, etc.\nbachelor of technology (ec)\n2010\ns.n.g.c.e ,kadayiruppu (m.g.u)\n61.81%\ngovt.hss,perumbavoor (kerala\nclass xii\n2006",
+      "degree": [
+        "bachelor",
+        "mba"
+      ],
+      "institution": [],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "2003)",
+      "2004",
+      "77.11%",
+      "81.17%",
+      "ajax.",
+      "aluva- 683107.",
+      "application based : ms office suit( word",
+      "asram hss",
+      "board)",
+      "c .",
+      "cal",
+      "choopruth house",
+      "class x",
+      "databases : mysql.",
+      "date:",
+      "declaration",
+      "e-mail : sarath-ks outlook.com phone (m) : 91 9995111998",
+      "email sarath 89 yahoo.com",
+      "excel",
+      "i confirm that the above mentioned details are true to the best of my knowledge.",
+      "jquery",
+      "kurppampadi (kerala",
+      "marampilly .p.o",
+      "mark up languages : html.",
+      "north ezhipruram",
+      "operating system : windows (7",
+      "p.point)",
+      "permanent address",
+      "phone no. (m) : 9995111998",
+      "php .",
+      "place: aluva",
+      "programming languages : core java",
+      "sarath .k.s",
+      "scripting languages : java script",
+      "server",
+      "server side technologies : jsp",
+      "techni",
+      "thorough knowledge in oops concepts.",
+      "xp"
+    ],
+    "ACTIVITIES": "and delete/block/unblock users. view/manage\norders/payments. order/payment history could be filtered by teacher name, student name, date, order\nstatus, etc. reports could be view by a day/week/month/year/all.\nresponsibilities:\ndesigning, coding, debugging.\ne-mail : sarath-ks outlook.com phone (m) : 91 9995111998\nsarath ks\nmale, age 24 years\nenvironment : php , word-press , mysql, ajax , jquery, html\nrole : developer\nreal estate site shows lists of properties for sale,sold properties and there details and description.\nadmin panel: word-press plugin. admin could add for sale,sold properties and there details and\ndescription\nresponsibilities:\ndesigning, coding, debugging.\nenvironment : php , mysql, ajax , jquery, html\nrole : developer\n4 different login: super-admin, admin, manager, staffs.\nany of the users could create a new leads. super admin view/manage all leads and could make teams\nfor the leads and making any of the admin/manager as the team leader. admin/manager/staff could\nview only the leads that are assigned to them by super admin. team leader could assign tasks to his\nteam member for the lead. each user will have their own calendar showing all there associated leads\nand tasks, he could update status, progress of the lead/task created and could add notes for each\naction.\nresponsibilities:\ndesigning, coding, debugging.\nenvironment: php, mysql, jquery, ajax , html\nrole: developer\na site for online equestrian supplies. products are categorised in a well manner and could be viewed\nbrandwise, product search etc. any product could have a number of variants. each one will differ in\ntheir properties.\nadmin panel to add categories, subcategories, products. admin could link them as desired. admin will\nget complete details of orders, purchases, stock, reports etc.\nresponsibilities:\ndesigning, coding, debugging.\nenvironment: php, word-press , mysql, jquery, ajax , html\nrole: developer\nsite for a canoeing group. made the admin panel to add the headlines, contents, photos and galleries.\nand made the front-end dynamic\nresponsibilities :\ndesigning, coding, debugging.\ne-mail : sarath-ks outlook.com phone (m) : 91 9995111998\nsarath ks\nmale, age 24 years"
+  }
+}

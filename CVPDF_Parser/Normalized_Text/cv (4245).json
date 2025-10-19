@@ -1,0 +1,98 @@
+{
+  "id": "cv (4245).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "active directory",
+      "and offering in-depth understanding of it infrastructure areas. detail-oriented",
+      "anti-virus",
+      "azure",
+      "backup",
+      "backup exec",
+      "bash",
+      "batch",
+      "cacti",
+      "cisco asa",
+      "databases",
+      "datadomain",
+      "dhcp",
+      "dns",
+      "documentation",
+      "emc",
+      "enterprise vault",
+      "epo",
+      "exchange",
+      "experienced in server management",
+      "file servers",
+      "firewall",
+      "gpo",
+      "group policy objects",
+      "highlights",
+      "html",
+      "iis",
+      "independent",
+      "information technology technician i",
+      "isa",
+      "ldap",
+      "linux",
+      "mcafee",
+      "microsoft office",
+      "microsoft windows",
+      "new technology and product research",
+      "nmap",
+      "policies",
+      "powershell",
+      "programming",
+      "proxy server",
+      "scripts",
+      "security",
+      "servers",
+      "solarwinds",
+      "sql",
+      "storsimple",
+      "systems analysis",
+      "tmg",
+      "troubleshooting",
+      "ubuntu",
+      "vbs",
+      "vdi",
+      "veeam",
+      "veritas netbackup",
+      "virtual manchine",
+      "visual basic script",
+      "vmware",
+      "vpn",
+      "vranger",
+      "working with various teams to achieve shared goals and objectives.",
+      "zenmap."
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "office 365 and azure\npowershell and vbscript\nstorage management\nmicrosoft exchange\nenterprise backup management\ndisaster recovery\ninformation technology technician i aug 2007 to current\ncompany name city , state\nmigrating and managing user accounts in microsoft office 365 and exchange online.\ncreating and managing virtual machines for systems such as domain controllers and active directory federation services (adfs) in",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "microsoft windows azure (iaas).\ncreating and managing storage in microsoft windows azure (iaas).\ninstalling and configuring storsimple iscsi cloud array (staas/baas).\ninstalling, configuring, and testing twinstrata iscsi cloud array (staas/baas).\ndeveloping detailed specifications for the office 365 migration, including business-case documentation, cost benefit analyses, technical\ndiagrams, and work flow documentation.\nreceived training in mvc 4 for visual studio using .net framework 4/4.5 to develop application using html5 and css3.\ncompiling and generating statistical information concerning wireless network traffic using cacti.\nconfiguring wireless lan router networking and security access.\ninstalling and configuring wireless certificates.\ndeveloping detailed specifications for the acquisition of an enterprise backup system including systems design, business-case\ndocumentation, cost benefit analysis, technical diagrams, and work flow documentation.\nreviewing, evaluating, and analyzing departmental policies, guidelines, procedures, and standards with management and staff.\ndeveloping test scripts for acceptance, unit, and system testing of hyperion phase 1 and miamibiz phase 2.\ndeveloping quality assurance and testing plan for hyperion phase 1 and miamibiz phase 2.\ndebugging and logging of errors in hyperion and miamibiz using team foundation server (tfs).\npreparing presentations and documentation to demonstrate hyperion and miamibiz functionality or design.\nmonitoring network traffic, and compiling and generating statistical information using solar winds.\ncollaborating on disaster recovery plan and procedures.\nresearching, evaluating, and recommending new hardware and new software.\ncommunicating and defining systems design and requirements for new and existing systems and applications.\nresearching, evaluating, recommending, testing, and implementing third party software/utilities.\nplanning and designing network infrastructure changes adding/removing servers, appliances, network logical flow.\nreviewing, evaluating, and analyzing existing system and application viability with management and staff.",
+      "keywords": [
+        "analysis",
+        "app",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "administering and maintaining shares on the file servers.\nreviewing server logs to troubleshoot issues.\nscheduling and applying hot fixes and security patches on the server infrastructure which includes the operating system and application\nsoftware.\nreviewing systems reporting in sccm (system center configuration manager).\nresolving service requests escalated by the help desk or other technicians.\ntroubleshooting and analyzing and system problems for root cause analysis.\nmigrating users documents from local computer storage to shares on the file servers.\nconfiguring, supporting, and maintaining file shares using distributed file system (dfs)\nmanaging, implementing, and testing enterprise backup infrastructure systems such as the symantec veritas netbackup, symantec backup\nexec system recovery/livestate, and vranger backup servers.\nmanaging, configuring, and supporting datadomain storage.\nconfiguring and supporting microsoft windows server 2003, 2008, and 2012.\ninstalling, configuring, and supporting microsoft windows 7, windows 8, and microsoft office 2007, 2010, and 2013.\ninstalling, configuring, and supporting mcafee anti-virus software on servers.\nmigrating exchange infrastructure from exchange 2003 to exchange 2007 and from exchange 2007 to exchange 2010.\nsupporting servers in the virtualization infrastructure using vmware vsphere.\ninstalling, configuring, and testing veeam virtual machine backup software and virtual desktop infrastructure (vdi).\nreviewing systems reporting in system center configuration manager (sccm).\nadministering and maintaining the symantec enterprise vault servers.\nmanaging the active directory domain controllers (dcs).\ncreating and maintaining group policy objects (gpos) in microsoft active directory.\nconfiguring and supporting microsoft exchange active sync on devices with apple ios and android mobile operating systems.\nconfiguring and supporting blackberry devices on the blackberry enterprise server to receive exchange email.\ndeveloping, testing, designing, and implementing application scripts using languages such as command batch files, visual basic script, and\npowershell.\ncreating policies and procedural documentation.\ninformation services liaison, t aug 2005 to aug 2007\ncompany name city , state\ntroubleshooting hardware and software problems over the telephone and through remote pc administration software.\ninstalling, configuring, and supporting mcafee anti-virus software on desktops.\ninstalling, configuring, and supporting bbars computer backup software.\ndeveloping and maintaining websites on servers running microsoft sharepoint server and internet information services (iis).\nsupporting systems management server (sms)\ntroubleshooting lan, wan, internet, and intranet network and security access.\ntroubleshooting network connectivity issues related to tcp/ip, domain name service (dns), dynamic host configuration protocol\n(dhcp) protocols, internet security and acceleration (isa) proxy server, and vpn.\ntroubleshooting web application/page issues, client browsers, and related software.\nadministering and maintaining of end user accounts, permissions, and access rights in in microsoft active directory.\nadministering and maintaining of ntfs security permissions on the file servers.\ninstalling, configuring, and maintaining hardware such as: servers, workstations, laptops, printers, and scanners in a windows enterprise\nenvironment.\ninstalling, configuring, and supporting printers on the print servers.\ninstalling, configuring, and supporting microsoft windows server 2000 and 2003, microsoft windows xp and windows vista, and\nmicrosoft office xp, 2003, and 2007.\nbachelor of science , information technology 2005 florida international univeristy city , state , united states\ncoursework in programming, web administration, network administration, database administration, and systems administration",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [],
+      "years": [
+        "20"
+      ]
+    },
+    "CERTIFICATIONS": "linux\nprogramming languages: c , java, jsp, html, css, vb.net, bash, t-sql\ncomptia network - 2014"
+  }
+}

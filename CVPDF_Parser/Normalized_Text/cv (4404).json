@@ -1,0 +1,127 @@
+{
+  "id": "cv (4404).pdf",
+  "normalized_sections": {
+    "ABOUT": "information technology specialist information security officer\nblah, blah\ncore qualifications",
+    "SKILLS": [
+      "10g",
+      "11g",
+      "8i",
+      "9i",
+      "access",
+      "account management",
+      "ad",
+      "agency",
+      "analyst",
+      "application development",
+      "asm",
+      "audit reports",
+      "auditing",
+      "backup",
+      "budgets",
+      "capability maturity model",
+      "capacity planning",
+      "certified information systems security professional (cissp) (isc)2",
+      "client",
+      "cmm",
+      "cognos",
+      "concept",
+      "conferences",
+      "consultation",
+      "consulting",
+      "contracts",
+      "data dictionary system",
+      "database",
+      "database administration",
+      "database and applications",
+      "database design",
+      "databases",
+      "dba",
+      "designing",
+      "disaster recovery",
+      "document",
+      "due diligence",
+      "enterprise",
+      "government regulations",
+      "ibm",
+      "information security",
+      "information systems",
+      "law",
+      "linux",
+      "management",
+      "managing",
+      "meetings",
+      "mentoring",
+      "modeling",
+      "money",
+      "operating systems",
+      "oracle",
+      "oracle certified professional (ocp)",
+      "oracle database",
+      "oracle enterprise manager",
+      "oracle rdbms",
+      "page",
+      "patch management",
+      "peoplesoft",
+      "pl",
+      "policies",
+      "procurement",
+      "risk assessment",
+      "scanning",
+      "scripting",
+      "scripts",
+      "server",
+      "servers",
+      "software development",
+      "sql",
+      "sqlloader",
+      "statistics",
+      "sybase",
+      "systems development",
+      "tivoli",
+      "training programs",
+      "troubleshooting",
+      "unix",
+      "unix shell scripts",
+      "upgrade",
+      "versions 8.0",
+      "windows nt",
+      "workshops"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "certified information security manager (cism) isaca\ndatabase servers\ninformation technology specialist information security officer\noctober 2010 to july 2015 company name city , state\ninstalling and configuring oracle software versions 10g-12c.\nscripting maintenance and monitoring tools.\ncreating risk assessment template based on nist 800-30r1 to facilitate and evaluate secure software development practice.\nbuilding automated database risk/security models for quantifying degrees of database risk and enabling the standardization and prioritization\nof remediation efforts.\nmanaging/mentoring support staff and participating in 24x7 production support and security monitoring rotation for large scale, mission\ncritical applications.\ndeveloping, implementing and supporting enterprise backup and recovery, change control, security and audit procedures.\nperforming database, server and application performance and security monitoring and tuning.\nimplementing vendor and customized database auditing and analysis packages.\ndevelop pattern recognition triggers for anti-money laundering systems.\nworking closely with corporate security to ensure that application and database server procedures and controls support all government\nregulations and corporate policies.\ndesigning and implementing least-privilege database administration model and application development templates.\nproviding support and guidance for the modeling, development and testing of enterprise applications to ensure that applications are secure,",
+      "companies": [
+        "company",
+        "corp"
+      ],
+      "titles": [
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "highly available and fully meet the needs of our end user communities.\ndevelop its enterprise database installation, configuration, monitoring and security standards and procedures.\ntrain other database administrators in security best practices, change control, monitoring, account management and role-based user\nadministration.\ncreate and configure security templates for oracle enterprise manager.\nact as bureau security liaison and represented database security at conferences and meetings.\ndevelop and implement database security policies and procedures.\ncreate comprehensive and cross-referenced database security benchmark utilizing the cis oracle security benchmark, nist and dod.\nmanaged ibm engagement for guardium from proof of concept to procurement.\nprovide remediation roadmap for database and application security issues.\nidentify and analyze data access rights that violate state law and memoranda of understanding.\nreplace manual terminal service audit reports with secure self-service, repeatable and audited process using pl/sql and cognos.\nvice president\napril 2002 to september 2010 company name city , state\nperform database penetration testing and regular server and database scanning for security vulnerabilities and compromised passwords.\nthe oracle rdbms, grid control and asm software, patches and supporting products, backup & recovery, database tuning, monitoring\nand troubleshooting utilizing tkprof, oem, statspack, dbartisan, tivoli and custom sql, pl/sql and unix shell scripts.\nplan and manage multi-location disaster recovery exercises.\nprovide operational 24x7 support of all corporate oracle systems (341 databases, 65 servers, 5 versions of oracle and 5 operating\nsystems).\ndeveloped and implemented procedures that reduced in-house database problem tickets by 60%, job failures by 80% and on-call support\nissues by 80%.\ncreated enterprise wide capacity planning, troubleshooting and performance monitoring models.\ncoordinated and supported application development, testing and performance improvement efforts including data model revisions, sql\ntuning and client configurations.\ninstituted a series of workshops, classes and training programs for developers to expand their knowledge and understanding of sql,\noracle and data security.\nthis group is now self-sufficient.\nperformed block-level data recovery that oracle corporation said was not possible, saving critical business data and minimizing impact to\nbusiness functions.\ndatabase manager\nfebruary 2000 to april 2002 company name city , state\ncreated and supported multi-instance spatial environments for internet startup company.\ngathered user requirements and designed and built logical and physical database structures.\nmanaged unix server farm to ensure proper sizing, organization, and recoverability.\nwrote pl/sql, sqlloader and custom routines to load and integrate data from various outside sources and to enforce data security,",
+    "PROJECTS": {
+      "raw": "reliability and integrity.\nmonitored shared system resources and recommend improvements to application development staff.\nwrote database-monitoring scripts used to page dba in the event of database problems.\nautomated dba functions for table restructuring, statistics, space management and backup.\nsenior database administrator\njanuary 1999 to february 2000 company name city , state\ntechnical liaison and support manager for international leasing company.\ntraveled abroad as needed.\nparticipated in due diligence audits of takeover candidate companies.\nwrote oracle installation and configuration standards for windows nt and unix.\ncreated dba practice lab and developed practice lab exercises for other dba staff to learn backup and recovery software.\nworked closely with various vendors and development groups to improve application reliability and performance.\ndeveloped a capability maturity model and created cmm training program for database administration.\nprovided 24x7support of international commercial leasing applications.\nsystem staff specialist/database administrator\ndecember 1997 to january 1999 company name city , state\ndba for telesales, signature verification, and electronic payment systems.\nparticipated in off-site disaster recovery exercises.\nreviewed schema, tuned queries and managed change control process.\ndeveloped cost based sql standards and trained development staff on sql tuning.\ndeveloped database installation and administration guidelines.\nsenior database administrator\njune 1997 to december 1997 company name city , state\nconverted document management system from sybase to oracle.\nmentored and trained oracle database administrators at client sites.\nmonitored and tuned oracle system and applications to prevent resource shortages and shorten the execution time of long-running queries.\nconducted training in database concepts and sql.\ndatabase administrator\nseptember 1996 to june 1997 company name city , state\nimplemented and maintained critical high volume online and internet server oracle databases in unix environment.\nperformed performance monitoring, capacity planning and application tuning.\nworked closely with engineering consulting firm to trouble shoot database and applications, optimize system performance, ensure data\nintegrity and increase system reliability.",
+      "keywords": [
+        "app",
+        "model",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "wrote extensive sql and pl/sql programs to manage data and create ad hoc reports.\ndeveloped, implemented and enforced oracle design and usage standards.\nassociate computer programmer/analyst\njune 1991 to september 1996 company name city , state\ntechnical lead responsible for pavement and bridge management systems development and production oracle databases operating in\nclient/server environment.\nprepared edp sections of consulting contracts and budgets.\nmanaging analyst for pavement and bridge maintenance systems jointly developed by rensselaer polytechnic institute and the thruway\nauthority.\ndeveloped and maintained data standards and agency data dictionary system.\nmaster of science : management college of saint rose city , state management\nbachelor of arts : music history city , state music history",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "college",
+        "institute"
+      ],
+      "years": [
+        "19"
+      ]
+    }
+  }
+}

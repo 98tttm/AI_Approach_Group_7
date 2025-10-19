@@ -1,0 +1,44 @@
+{
+  "id": "cv (303).pdf",
+  "normalized_sections": {
+    "ABOUT": "sanju bhandari\ngk-ii, new delhi 8105400409 sabsan17 gmail.com male 13/05/1990 to gain work and utilize the same for personal and social benefits",
+    "EDUCATION": {
+      "raw": "slc 2007 balodaya english boarding school, nepal 89.63%\nintermediate of science 2010 birendra sainik awasiya\nmahavidyalaya nepal 78.57%\nbachlor in civil engineering 2015 the oxford college of\nengineering bangalore visvesvaraya technological university",
+      "degree": [],
+      "institution": [
+        "college",
+        "school",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "83.49%",
+      "all normal daily use software",
+      "autocad",
+      "communication",
+      "computer along with core field of study",
+      "engineering",
+      "facebook page",
+      "inventor fusion",
+      "management",
+      "management of website www.readymadeseminar.com",
+      "photoshop",
+      "proficient in ms office",
+      "revit",
+      "staad pro"
+    ],
+    "ACTIVITIES": "good communication and can communicate properly in english , hindi and nepali language\nleadership had worked as leader in college work and different hard working, strong academics with practical knowledge.\nseminars on green building , green building association of india\ntaekwondo red belt\nyouth red cross member\nactive blood donor",
+    "WORK EXPERIENCE": {
+      "raw": "basic hardware knowledge , can use windows, ubuntu\nteaching great motherland academy 2010-2011\nsecrets of success-2012, iskon , bangalore",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "ACHIEVEMENTS": "active member of nss (national social service)\nlanguage:\nenglish, nepali and hindi school level scholarship from class 4 to 10\nscholarship provided by nepal army for higher secondary studies\nmahatma gandhi stipend fund by embassy of india, kathmandu\ncompex nepal schlorship, provided by embassy, of india, for graduation in civil engineering\npage 2"
+  }
+}

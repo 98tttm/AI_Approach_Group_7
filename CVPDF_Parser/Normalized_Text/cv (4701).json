@@ -1,0 +1,59 @@
+{
+  "id": "cv (4701).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "03",
+      "2014 to current",
+      "ada",
+      "additional information",
+      "cad",
+      "creative writing",
+      "css",
+      "design software",
+      "eit",
+      "excel",
+      "excel vba",
+      "fluent in spanish",
+      "fluent in spanish.",
+      "graduate engineer",
+      "graduate engineer company name city",
+      "html",
+      "inspection",
+      "interests",
+      "interests: programming",
+      "languages",
+      "layout",
+      "macros",
+      "microstation",
+      "powerpoint",
+      "producing",
+      "programming",
+      "python",
+      "reading",
+      "rock climbing",
+      "safety",
+      "state",
+      "transportation",
+      "utilities",
+      "vba",
+      "visual displays",
+      "word"
+    ],
+    "PROJECTS": {
+      "raw": "developed conceptual plans for two intersections near jersey shore university medical center, based on traffic data, geometric constraints,\nand roadway design standards.\nemployed knowledge of microstation, inroads, excel, and vba to efficiently complete miscellaneous tasks, including producing reports,\ncreating visual displays, and generating automated text descriptions.\nsections, revised vertical and horizontal alignments to meet njdot standards, modeled highway sections using cad (microstation) and\ndesign software (inroads), and generated plan cross sections.\ncoordinated quantity effort across multiple disciplines (highway, electrical, drainage, utilities) on i-295 direct connection contract 3 used in-house excel vba program to collect and organize quantity data, and devised additional vba macros to optimize the initial setup\nand printing of quantity calculation sheets.\ndeveloped ada compliant grading and geometric layout for pedestrian facilities.\n07/2012 to 08/2012\nsummer aviation intern company name city , state\nassisted the port authority s manager of structural integrity.",
+      "keywords": [
+        "model"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "presented summaries of engineering reports to pa technical and non-technical staff.\ncompiled and organized safety and priority repair data from numerous inspection reports.\ninspected bridge components alongside members of port authority s engineering division.\ncreated details for the repair of longitudinal cracking along roadway, and the remediation of cracked catch basin, as well as cost estimates.\ngathered information on tenant employees to be relocated generated cubicle plan for new tenant building.\npresent\nmaster of science : civil engineering new jersey institute of technology city , state civil engineering\noctober 2013\nbachelor of science : civil engineering rutgers university city , state civil engineering 3.7/4.0\nachieved passing score on fe/eit exam relevant courses: intro to transportation, transportation planning, transportation capstone",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cv (1397).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "berrak fatma dogruer\n143 albany street apt.133b cambridge, ma 02139\nhome: (617) 225-8199 e-mail: berrak mit.edu\nmit sloan school of management, 1999-2001\ncambridge, ma\ncandidate for master of business administration, june 2001, strategic management and consulting track\nco-president for marketing club member of management consulting club and european club elected by classmates to sloan student senate member of ambassador program for prospective students gettysburg college, 1992-1996",
+      "degree": [
+        "master",
+        "mba"
+      ],
+      "institution": [
+        "college",
+        "school"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "gettysburg, pa\nb.a. economics and physics, may 1996\ngraduated magna cum laude and with departmental honors in economics\nphi beta kappa and alpha lambda delta member (honor society for freshmen) president of a club that strives to educate peers about socially responsible drinking awarded scholarship for demonstrating leadership on campus and excellence in academics booz allen & hamilton, summer 2000\nlondon, u.k.\nsummer associate: worked on two different engagements in berlin and london\ndue diligence study for a possible acquisition: analyzed the cost structure of the company to be acquired and provided understanding of its product offerings and market position to my team. presented and defended findings to\nsenior client staff. identified about 15% potential savings in the procurement area, which, along with the other\nsavings opportunities, led to a go decision.\ncost reduction and reorganization study: prepared a report on industry research in the real estate markets in europe, competitive analysis and specific country trends. identified areas of cost reductions (up to 33%) in two departments\nthrough streamlining and improving processes.\nnational economic research associates, inc., 1996-1999\n(division of mercer consulting group)\nwashington, dc\nanalyst ( 98- 99) associate analyst ( 97- 98) - worked as part of various teams\nadvised clients on the competitive effects of mergers among high-profile electric utilities evaluated different strategic alternatives for prominent electric utilities and helped them decide on divestiture or acquisition of assets and market penetration\nfacilitated a recent complex merger between two major national hmos represented company at university recruiting sessions research assistant ( 96- 97)\nperformed economic analysis in securities fraud litigation cases conducted anti-competitive behavior analysis in the health care industry by identifying market participants and defining relevant geographic and product markets\ndeveloped a valuation model for an electric power plant in order to advise our client on the profitability of the investment\nvaillant gmbh u. co., summer 1995\nremscheid, germany\nintern as member of a multinational team on european market strategy conducted a market structure assessment of water heaters in turkey and produced a final report on the general outlook of the energy sector and its most recent developments\nresearched the economies of eastern european countries and identified investment opportunities gettysburg college, 1992-1996\ngettysburg, pa\nresident coordinator: counseled and supervised 40-60 upper-class students with academic, personal or disciplinary matters in hall. guided staff members in working with residents.\npeer tutor in physics, calculus and the german language and microeconomics teaching assistant personal\nfluent in turkish and proficient in german member of toastmasters international in washington, dc enjoy swimming, tennis, singing and travel",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [
+        "analyst",
+        "intern"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "cv (1610).pdf",
+  "normalized_sections": {
+    "ABOUT": "resume\ndhivya g\ncontact address:\nmail id: dhivhum gmail.com\ncontact phone:( 91) 8098563044 12, first floor,\ndate of birth:15-05-1992\nannamalai street,\ngender: female\nnear to apt kids play school,\nnationality: indian\npuzhuthivakkam, madipakkam,\nfather s name: gopalan r\nchennai-600091\nmarital status: married\ntamilnadu, india\nspouse name: satheesh kumar p\nlanguages known: english and tamil\nto work in the most challenging position with an institution that provides an opportunity\nto learn and seeking a position to utilize my and abilities in the institution that offers",
+    "SKILLS": [
+      "& speak)",
+      "141",
+      "c",
+      "class representative in ug class",
+      "competencies",
+      "data structures",
+      "date: 26-feb-2018",
+      "db system",
+      "dbms",
+      "declaration",
+      "dhivya g",
+      "english (read",
+      "erode d.t",
+      "gardening",
+      "gobichettipalayam t.k",
+      "gobichettipalayam- 638476",
+      "hobbies",
+      "i hereby declare that the information furnished above is complete and true to the best of my",
+      "independent and self-motivated",
+      "india.",
+      "innovative and flexible",
+      "java",
+      "kalaramani",
+      "knowledge",
+      "languages known",
+      "member of iste group",
+      "modachur p.o",
+      "page 6 of 7",
+      "page 7 of 7",
+      "permanent address:",
+      "personal detail:",
+      "place: chennai",
+      "playing shuttle",
+      "professional growth while being resourceful",
+      "programming languages",
+      "reading newspaper",
+      "responsibilities undertaken",
+      "tamil (read",
+      "tamilnadu",
+      "team work and adaptability",
+      "watching movies",
+      "will-power and logical thinking",
+      "write",
+      "yours faithfully"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "operating systems\nwindows xp, win 7\npackages\nms office\nname of the\ndate of joined and\nname of the role\njob location\norganization\nresigned\nassigned\n06-january-2014\nand\nsoftware engineer",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "javsystems india pvt.\nerode,\n03-march-2017\nltd.\ntamilnadu. india.\nemployee number : js15514\n(3.3 years)\npage 1 of 7\ndegree/\nname of the\nyear of\ncgpa\nspecialization\nuniversity/board\nclass\ninstitution\npassing\n/percentage\ncomputer\nbannari amman\ncgpa 9.06)\nanna university\nb.e\nscience and\ninstitute of\napril,2014\n(85.33%)\nof technology",
+      "degree": [],
+      "institution": [
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "engineering\ntechnology, sathy.\nsaratha matric and\nstate board\nh.s.c\nna\nhigher sec. school,\nmay,2010\n95.40%\ngobi.\nsaratha matric and\nstate board\n95.30%\ns.s.l.c\nna\nhigher sec. school,\nmay,2008\ngobi\ncgpa: cumulative grade point average (10 points)\nparticipated in the international workshop on the topic android lab, erode.\nparticipated in the bec exam on the topic british english communication held at bannari amman institute of technology, sathy, erode d.t.\nparticipated as an active volunteer on earth day celebration (every year)",
+    "CERTIFICATIONS": "application development held at institute of road and transport technology,\nerode d.t. held at bannari amman institute of technology, sathy, erode d.t.\nparticipated in the real-time networks on the topic of networking held at cisco",
+    "PROJECTS": {
+      "raw": "organizer in women s day celebration (every year) competition\narea of interest\npage 2 of 7\njava c/c software engineering networking operating systems cloud-user security based on rsa and md5 algorithm for resource\nattestation and sharing (js cus j014)\ndescription\nthe increased degree of connectivity and the increasing amount of data\nhas led many providers and in particular data centers to employ large\ninfrastructures with dynamic load and access balancing.\nwe have made and developed this into two parts. first part was\ncontrolled by a normal user which gets permission by the cloud environment\nfor performing operations and for loading data. second part was shown a\nsecure and trusted computing for the cloud. along with this, the also\nprovided two way security protocols which help both the normal user and the\ncloud. in this we employ two algorithms for security purpose they are\nrsa and md5.\nprogramming\njava, cloud computing, and cryptography\nlanguage &\nplatform\nteam size and\n10 and matio software solutions bangalore client\nduration of\n10 months (from jan 2014 to oct 2014)\nresponsibility\ndeveloped and tested in java environment for cloud-user security based\non rsa and md5\npage 3 of 7\ndeveloped elliptic curve cryptography (ecc) applets in java card\n(js cus j015)\nits object-oriented model allows smart card programmers to develop\ndescription\ninteroperable applets that can be deployed on smart cards independently\nof their manufacturer. elliptic curve cryptography (ecc) is a branch of\npublic-key cryptography based on the arithmetic of elliptic curves. java\ncard is a technology that has benefited from the success of the java\nlanguage.\nwe developed this for implementing ecc applications in smart\ncards will be an attractive option for many companies willing to create\nnew security services.\nprogramming\njava and cryptography\nlanguage &\nplatform\nteam size and\n10 and matio software solutions bangalore client\n10 months (from nov 2014 to aug 2015)\nresponsibility\ndeveloped and tested in java for ecc\ndeveloped and deployed a high speed algorithm for identifying hand\ngestures for atm input system for the blind (js cus j016)\ndescription\nwith the evolution in science and technology, a lot has bachelor of engineering done over\nthe past few years to make the lives of the differently-abled more\ncomfortable and easy. this concentrates on a novel\nmethodology to ease the use of an atm machine for the blind. it\ndescribes an approach wherein both the\nuser-name and pin for the atm machine can be input using british\nsign language. a cost effective setup and also a high speed algorithm\nfor hand gesture recognition has bachelor of engineering elaborated. in comparison with\nprevious algorithms, the method explained in this is 1.65 times\nfaster thus proving its efficacy and efficiency. all algorithms were first\ndesigned and\ndeveloped in matlab 2011b and then later deployed as software\nusing the java programming language\nprogramming\njava\nlanguage & platform\nteam size and client\n10 and matio software solutions bangalore 10 months (from sep 2015 to june 2016)\nresponsibility\ndeveloped and tested in java\npage 4 of 7\ndeveloped java based computer algebra system for symbolic computing\n(js cus j017)\ndescription\nto solve complex and large mathematical expression manually using pen\nand paper is a time taking task which in most cases ends up in an erroneous\nresult. this is a major drawback which may lead to heavy losses to people\ndealing in numbers.\nhenceforth we have come up with a vision of symbolic\ncomputation which provides a quick, efficient and user friendly\nenvironment to its users. symbolic computation is a computer algebra\nsystem which has bachelor of engineering designed in java. the object oriented\nprogramming(oop) concept and predefined packages of the language have\nbachelor of engineering used to solve expressions consisting of differentiation, integration,\nseries and many more symbols.\nprogramming\njava/ mathematical pseudo language (mpl)\nlanguage &\nplatform\nteam size and\n10 and matiotl software solutions bangalore client\nduration of\n09 months (from july 2016 to march 2017)\nresponsibility\ndeveloped and tested in java\nfinal year : mining of high utility item-sets using transactional database description\nin this front-end based up on asp.net and the back-end\ndepends on ms-excel. the main objective of this is to\nidentify high utility candidate item-sets by efficient algorithms.\nbased on up (utility pattern) growth and up growth algorithms high utility item-sets was effectively constructed.\nthese algorithms reduce the space requirement and execution\ntime by generating up-tree. the transactional database was used\nfor working with large candidate item-sets it reduces runtime of\nlong transactions.\nprogramming language &\nasp.net, ms-excel, up (utility pattern) growth and up\nplatform\ngrowth algorithms\nteam size and client\n04 and bits, erode\n07 months\nresponsibility\ntaken care the system design, coding, testing & documentation\npage 5 of 7 criminal face identification system (cfis) description\nin this front-end based up on java7 and the back-end depended on\noracle10g. the main objective of this was identifying criminal face\nby eyewitness. based on this the image was segmented using mathlab tool\nfor correct assurance. one of the criteria among detecting criminal face was\nthe segments of face image must match with existing image. application of\nthis technology was used by cbi and fbi.\nprogramming\njava7, oracle10g, mathlab\nlanguage &\nplatform\nteam size and\n04 and bits, erode\nclient\nduration of\n06 months\nresponsibility\ntaken care the system design, coding, and testing",
+      "keywords": [
+        "app",
+        "model",
+        "system"
+      ]
+    }
+  }
+}

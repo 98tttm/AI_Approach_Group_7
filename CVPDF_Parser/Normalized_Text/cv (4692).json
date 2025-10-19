@@ -1,0 +1,70 @@
+{
+  "id": "cv (4692).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "vp of information technology\nkey stakeholders to develop information technology vision and strategy by effectively building organization, processes, infrastructure and services in\nsupport of short and long-term business needs. understands the business value of available tools and applications as to provide optimal strategic\nquickly gained expertise in the company s crm that resulted in saving the company over 600,000 in consulting fees.\nincreased sales and reduced costs by cutting manual quoting process time by 80% through design and implementation of a new automated\nquoting system.\nspearheaded the design and build of a commissions system that resulted in recovering over 2.5m in unaccounted commissions due.\nvp of information technology 07/2014 to 03/2017 company name city , state hired to transform the it department, which was successful\nwithin the first few months. developed an it strategy designed to increase sales and business process efficiency, and lower costs and company\nrisk. built and managed a highly effective team of employees, vendors, and service providers. reporting to the ceo, responsible for all information\ntechnology budgeting, vendor negotiations, and business intelligence. responsible for the it budget, task management and delegation, and it\nstaff mentoring and reviews.\nvp of information and security technology 02/2009 to 05/2014 company name city , state lead all it operations, including purchasing, budget\nsupport, leadership, marketing, network analysis, performance reviews, voip, presentations, process enhancement, product development,\nservers, sql, sql server, strategy, desktop support, visual studio, workflow\nelectronics technician 07/1997 to 07/2001 company name city , state deployed and maintained cat5 and fiber optic cable. directed and",
+      "companies": [
+        "company",
+        "inc",
+        "lab"
+      ],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "active directory",
+      "asp.net",
+      "asp.net 4.5",
+      "backup",
+      "benefit at the appropriate cost.",
+      "budget",
+      "contract negotiation",
+      "contract negotiations",
+      "crm",
+      "data analysis",
+      "data processing",
+      "databases",
+      "disaster recovery",
+      "disaster recovery plans",
+      "edi",
+      "etl",
+      "executive management",
+      "goldmine",
+      "gpa 3.82",
+      "healthcare it",
+      "information security",
+      "it",
+      "it governance",
+      "itil",
+      "magna cum ladue",
+      "senior management",
+      "systems integration",
+      "team leadership",
+      "training",
+      "vb.net"
+    ],
+    "PROJECTS": {
+      "raw": "it operations\ncore accomplishments\nimplemented a new phone system that will immediately save the company over 100,000 a year with benefits that have increased\nproductivity while lowering the need of it support. this includes vendor contract negotiation, which resulted in the cost of the new phone\nsystem to be covered with no out of pocket expenses.\nenhanced communications between our nationwide offices using video conferencing, saving over 50,000 a year in travel costs.\nworked with marketing to integrate our crm and other systems with our marketing systems, which resulted in real-time feedback to\nmarketing and end users of client actions.\nconverted vmware to hyper-v which resulted in lower costs & quicker recovery as part of the drp.\ndesigned, implemented and maintained a disaster recovery plan that reduced recovery time from 4 days to 2 hours, potentially saving the\ncompany from catastrophic downtime.\ninitiated a task management system that resulted in better communication and increased productivity from the team. this kept all\nusing qualitative and quantitative techniques, discovered numerous ways to improve current systems, saving bradley-morris over 250,000\na year.\nmentored and coached employees resulting in a 25% increase in productivity.\nhistory of increasing infrastructure performance and increasing uptime to nearly 100%, saving the company over 5m a year in revenue.\nand structure. conduct performance reviews and record results. prepare and deliver reports and presentations on it issues for ceo and vp of\nsales on demand. train employees on system use, workflow procedures, and technology policies. manage employees in connection with it\nfunctions. manage outside vendors and consultants as needed. served as the hipaa compliance officer. worked with marketing and the vp\nof product development to align new products concepts with corporate technology and corporate strategic goals.\ndirector of information technology 02/2006 to 02/2009 company name city , state\nmanaged all information security to follow hipaa compliance guidelines. advise the ceo and other executives on advanced technology\nfeasibility translate the needs into technical requirements. established high functioning lean it department to quickly respond to internal and\nexternal it support requests. bolstered system performance through design and development of new electronic data processing system by\nleveraging expertise with visual studio 2010, sql server, and asp.net. oversaw all areas of infrastructure.\ninformation technology manager 02/2003 to 02/2006 company name city , state\ncontinued to improve and expand the commissions tracking application. gained expertise in the companies crm and digitally integrated the\ncommissions tracking system with the crm. increased system uptime from 80% to over 99% by implementing new hyper-v virtual\nservers/dfs with no downtime. developed and deployed corporate software and apps to employee s mobile devices for streamline corporate",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "use and uniformity.\napplication developer 08/2002 to 02/2003 company name city , state\nspearheaded major, year-long initiative to plan, design, build, and implement an etl commission database system utilizing sql databases and\nasp.net, including data analysis reporting that recovered more than 2.5m in lost commissions. provided some end-user desktop support.\ninformation systems 2014 park university gpa: 3.5\nbachelor of science : management 2007 park university",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACHIEVEMENTS": "trained subordinate technicians. configured 5 stations with cat5 and fiber optic cable. conducted quarterly and annual formal performance"
+  }
+}

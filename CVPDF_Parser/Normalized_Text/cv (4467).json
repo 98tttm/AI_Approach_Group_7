@@ -1,0 +1,81 @@
+{
+  "id": "cv (4467).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "aviation records analyst\nto u.s navy, marine corp, and civilian customers.\ncustomer service expert\ndeadline-oriented\ncompany name june 2014 to current aviation records analyst\ncity , state\nutilize the skybooks aviation maintenance tracking application to provide aircraft configuration and maintenance program compliance\ndata to build aircraft electronic logbooks accurately and in a timely manner within a web-based software application (saas) providing an\nall-around complete product to the aircraft owner / operator ensuring a precise aircraft maintenance planning and tracking tool.\nmeticulously researched and accurately analyzed over 200 aviation logbooks and other forms of maintenance documentation provided by\naircraft owner operators to determine compliance in accordance with specified maintenance requirements.\nexpertly examined aircraft engine and aircraft specific component maintenance manuals and instructions for research airworthiness\ndocuments to determine required maintenance actions and associated intervals.\ncompany name february 2014 to june 2014 functional analyst\naviation maintenance training application",
+      "companies": [
+        "company",
+        "corp"
+      ],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "000 military",
+      "and civilian customers.",
+      "and management of approximately 3000 mission critical technical",
+      "and provide system maintenance",
+      "and troubleshooting when required.",
+      "and verification of vital data entry requirements into the asm application for use by the majority of the naval aviation",
+      "city",
+      "community encompassing over 4500 military and civilian personnel.",
+      "company name february 1999 to october 2004 aviation data analyst e-6",
+      "company name november 2004 to september 2013 technical support representative",
+      "coordinated implementation of new systems",
+      "development",
+      "diligently conducted vital daily server system checks ensuring 100% system availability 24 hours a day",
+      "directed the design",
+      "documents within the asm program.",
+      "electronic and paper record keeping",
+      "enhancements",
+      "ensure maximum utility and functionality of the asm system to meet customer needs and expectations.",
+      "extensive technical knowledge",
+      "fluent communicator",
+      "hardware and software installations",
+      "highlights",
+      "implementation",
+      "implementation and testing of enhancements to asm to",
+      "in the use of asm",
+      "marine sites and advised higher management as to suggested actions for immediate resolution.",
+      "monitor and ensure continuous successful system interface with navy erp",
+      "patches and other on-site upgrades",
+      "performed nightly server back-ups",
+      "proven problem solver",
+      "provide information systems technical support including numerous windows servers and two linux servers supporting over 1",
+      "provided expert user support to the development team on customer needs and assist customers in articulating user needs and",
+      "quality assurance",
+      "recommendations.",
+      "release and print batch reports",
+      "resolving and documenting customer issues",
+      "responsible for ensuring the timely review and updates of the teams vital standard operating procedure technical documents.",
+      "single point of contact for collecting and interpreting customer feedback on all problematic e-tool issues and data from all 19 naval and",
+      "soliciting",
+      "sql",
+      "state",
+      "troubleshooting"
+    ],
+    "EDUCATION": {
+      "raw": "proven aviation data analyst for the u.s. navy at naval air station jacksonville, fl. supporting numerous aircraft and types of ground\nsupport equipment. performed a variety of functional processes using ntcss desktop ii. changes ntcss passwords, monitors and\nmanages print request and printer configurations, monitors system information, changes application process limits. maintained system\nsecurity. inputs, extracts, analyze and validate maintenance data develops and interprets management reports, monitor input of data and the\nparameters for up-line reporting and related interface requirements. performed analysis of aviation 3m data as directed and in support of the\nnaval aviation maintenance program. regularly prepared highly detailed data summaries and reports using sql ad hocs, spreadsheet,\ngraphical, narrative, and oral presentations.\nincreased analytical focus on vital source documents led to a 50% decrease in component turnaround time from 7.4 days to 3.7 days and a\n45% increase in corrosion man-hour documentation from 4,950 hours to over 9,000 hours\nexpert analytical ability allowed for the timely implementation and accurate management of the aviation financial analysis tool (afast)\napplication which was directly responsible for saving the command over 3.7 million dollars.\ndowners grove south high school 1984 high school diploma city , state , us\nflorida state college of jacksonville associate of science : computer science city , state , usa seeking degree in computer science and\ninformation, 2011-2015 3.36 gpa 55 semester hours completed. courses completed: computer concepts, intro to the internet,",
+      "degree": [],
+      "institution": [
+        "college",
+        "school"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "hardware configuration, software configuration, micro-computer applications, database concepts, intro to computer programing, oracle\ninternet programing.\naccomplishments\nbased, technical support, data entry, documenting, quality assurance, subject matter expert, testing, training, analyst, aircraft\nunix, word, enterprise resource planning.",
+      "keywords": [
+        "app"
+      ]
+    },
+    "CERTIFICATIONS": "earned technical certificate for it customer support specialist from florida state college of jacksonville."
+  }
+}

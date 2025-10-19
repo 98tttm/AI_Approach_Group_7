@@ -1,0 +1,44 @@
+{
+  "id": "cv (4895).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "software engineer with a track record of implementing and\nsde dec 2019 to till date",
+      "companies": [],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "application programming, system\nimplemented utility for transforming images by removing noise\nusing fourier transform function.",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    },
+    "ABOUT": "expectations. enthusiast about data science and keen to learn and",
+    "SKILLS": [
+      "aws",
+      "machine learning",
+      "mysql",
+      "network using machine learning.",
+      "nlp.",
+      "nosql",
+      "python"
+    ],
+    "EDUCATION": {
+      "raw": "bachelor of engineering (computer engineering) from\nuniversity of pune, pune in 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

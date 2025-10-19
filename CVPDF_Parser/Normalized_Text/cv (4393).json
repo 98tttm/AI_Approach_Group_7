@@ -1,0 +1,41 @@
+{
+  "id": "cv (4393).pdf",
+  "normalized_sections": {
+    "ABOUT": "administrative manager\nhighly skilled bilingual (english/spanish) and motivated professional seeking a suitable position in your esteemed facility.\ncore qualifications\nreport writing\nhuman resource knowledge\nprofessional demeanor",
+    "WORK EXPERIENCE": {
+      "raw": "time management ability\nability to prioritize\nself-directed\ncomputer proficiency\ncompany name june 2013 to current administrative manager\ncity , state\nanswer multiple phone lines\nbookkeeping\nsending and receiving emails, faxes, copying\nmanaged office inventory and placed new supply orders.\nsorting & distributing mail\nit &telecoms troubleshooting\ncollections account reconciliation.\ndeveloped and administered department budgets.\nliaised directly with customers to meet needs and maintain satisfaction.\ncompany name march 2012 to september 2012 administrative assistant\ncity , state\nanswer multiple phone lines\nhandle daily reports\nsending emails,faxing,copying\nmaking outbound calls to customers\nordering office supplies",
+      "companies": [
+        "company"
+      ],
+      "titles": [
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "data entry.\nscheduled appointments and maintained master calendar.\nupdated employee paperwork and records.\ncompany name march 2011 to july 2011 front desk/ customer service rep\ncity , state\narranges for customer travel, hotel reservations, and auto rental.\ntracks aircraft arrival and assures prompt line service.\narranges for prompt customer de-briefing by appropriate technical personnel.\ndispatch information to line service and pilots.\ncompany name january 2007 to january 2011 registrar / receptionist\ncity , state\nanswering telephones\nregister patients\nverifying insurances\nenter patients information into computer\nfollow up on unpaid claims within standard billing cycle timeframe\nfile patients document.\nsanford brown institute medical assistant city , state\ncpr certified",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "institute"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "clinical asepsis",
+      "ekg s",
+      "filing appointment scheduling",
+      "health insurance",
+      "ms word ms excel ms powerpoint",
+      "pharmacology",
+      "phlebotomy",
+      "urinalysis",
+      "vital signs"
+    ]
+  }
+}

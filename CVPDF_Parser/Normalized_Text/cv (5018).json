@@ -1,0 +1,47 @@
+{
+  "id": "cv (5018).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "analytics",
+      "excel",
+      "machine learning",
+      "postgresql",
+      "powerbi",
+      "python",
+      "python machine learning.",
+      "science course using python and r programming. strong willingness to exhibit",
+      "sql",
+      "table",
+      "webscrapping",
+      "xml."
+    ],
+    "EDUCATION": {
+      "raw": "completed bachelor of science in statistics from the mumbai university. completed data\nbachelor of science(stats) mumbai university 2020.",
+      "degree": [
+        "bachelor",
+        "mba"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "junior analyst, jul 2019-sep 2020",
+      "companies": [],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "completed data science training using r software.",
+      "keywords": []
+    },
+    "CERTIFICATIONS": "powerbi course from udemy."
+  }
+}

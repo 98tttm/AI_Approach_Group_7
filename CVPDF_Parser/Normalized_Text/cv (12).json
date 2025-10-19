@@ -1,0 +1,18 @@
+{
+  "id": "cv (12).pdf",
+  "normalized_sections": {
+    "ABOUT": "mirad yastein\na n a l y s t i n t e r n\nwork background\nmachine learning engineer seeking\nlarsen & toubro\nassignments deep learning, reinforcement",
+    "ACTIVITIES": "keras, scikit learn, numpy, pandas,\nmatplotlib.\nwesbite using react\nksst scholar\nmade a fully customizable website for\na company",
+    "WORK EXPERIENCE": {
+      "raw": "analyst intern, dec 2019-till date\nlearning, tensorflow. keras.\nbuilding ocr models based on test report data\nartificial intelligence, deep learning,\nb.tech(it) from iiit d&m kancheepuram, chennai in 2019\nreinforcement learning, tensorflow",
+      "companies": [],
+      "titles": [
+        "analyst",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

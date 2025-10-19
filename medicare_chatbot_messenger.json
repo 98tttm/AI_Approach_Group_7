@@ -1,0 +1,394 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "multipleMethods": true,
+        "path": "97dd7633-26d0-485d-9eb2-82fd5a981aae",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "9215e664-b6ca-4831-ae17-864c81618b72",
+      "name": "Messenger",
+      "webhookId": "97dd7633-26d0-485d-9eb2-82fd5a981aae"
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "=<ReferenceError: $json is not defined>",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.2,
+      "position": [
+        460,
+        -220
+      ],
+      "id": "82acdfc1-5a16-48d1-b6ab-f7c14f4e22e3",
+      "name": "Respond to Webhook"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=<ReferenceError: $json is not defined>\n",
+        "options": {
+          "systemMessage": "Bạn là trợ lý tư vấn sức khỏe trực tuyến, trả lời các câu hỏi về thuốc, triệu chứng, chăm sóc sức khỏe. Hãy trả lời theo các nguyên tắc:\n\n- Không kê đơn thuốc trực tiếp. Nhắc người dùng tham khảo bác sĩ/dược sĩ.  \n- Thân thiện, gần gũi, có “ạ”, “nhé”, nhưng vẫn lịch sự.  \n- Trả lời đúng trọng tâm, không lặp tên nhà thuốc.  \n- Có thể gợi ý biện pháp tạm thời an toàn (nghỉ ngơi, uống nước…).  \n\nTham khảo qua Google Sheet: FAQ_MediCare trước khi trả lời\n\nLuôn trả lời bằng tiếng Việt\n"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1.9,
+      "position": [
+        920,
+        0
+      ],
+      "id": "d4e02cb8-df01-48aa-8312-db03071e96d9",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "modelName": "models/gemini-2.0-flash",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1,
+      "position": [
+        860,
+        180
+      ],
+      "id": "92bfce24-d46f-4966-b031-e924c7d14d4a",
+      "name": "Google Gemini Chat Model",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "pQkAxb6gbrnBpkRK",
+          "name": "Google Gemini(PaLM) Api account 26"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "authentication": "serviceAccount",
+        "documentId": {
+          "__rl": true,
+          "value": "1-gALdETcVDqM2m7KkcfXH-15PLBpn7JdRm-1ExUBTwE",
+          "mode": "list",
+          "cachedResultName": "FAQ_MEDICARE",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1-gALdETcVDqM2m7KkcfXH-15PLBpn7JdRm-1ExUBTwE/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "FAQ",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1-gALdETcVDqM2m7KkcfXH-15PLBpn7JdRm-1ExUBTwE/edit#gid=0"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheetsTool",
+      "typeVersion": 4.6,
+      "position": [
+        1160,
+        200
+      ],
+      "id": "35258294-437a-4f9d-bdcb-5e5561b12db3",
+      "name": "Google Sheets",
+      "credentials": {
+        "googleApi": {
+          "id": "mqE5Sd9SG0Sw4BTB",
+          "name": "Google Sheets account 12"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.memoryPostgresChat",
+      "typeVersion": 1.3,
+      "position": [
+        1020,
+        200
+      ],
+      "id": "154ef40b-ba78-4a6b-9045-a9801c7fe176",
+      "name": "Postgres Chat Memory",
+      "credentials": {
+        "postgres": {
+          "id": "Bdn9HSmUHoIHyWtR",
+          "name": "Postgres account 7"
+        }
+      },
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "f706bdea-5a22-4c61-baee-7c766f3e4296",
+              "name": "ID Khách Hàng",
+              "value": "=<ReferenceError: $json is not defined>",
+              "type": "string"
+            },
+            {
+              "id": "16bf8fd7-e7f5-44d9-9dd2-391fc274e976",
+              "name": "ID Page",
+              "value": "=<ReferenceError: $json is not defined>",
+              "type": "string"
+            },
+            {
+              "id": "8a61d885-47b4-40e7-9975-d743dbd62015",
+              "name": "Nội dung tin nhắn",
+              "value": "=<ReferenceError: $json is not defined>",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        680,
+        0
+      ],
+      "id": "ccbdc32c-fe5f-4242-a82c-4e82f36f650e",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "jsCode": "const body ={\n  \"recipient\":{\n    \"id\":`${$('Edit Fields').first().json['ID Khách Hàng']}`\n  },\n  \"message\":{\n    \"text\":`${$input.first().json.output}`\n  }\n}\nreturn {\n  data: body\n}"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1280,
+        0
+      ],
+      "id": "a6f542ff-1fff-4101-8752-e0961591c733",
+      "name": "Code"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://graph.facebook.com/v22.0/835639202960374/messages/",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer EAALQ8izdmBMBPpwY04BMWu4eV67q0izBuiGlPBizWV2ZAIns5rLgtKHtgw6SZCKsciInXdhfTUDGZCma0c3aG9nttZCoJZCRjm7eQjaCESXPu0OSQymZBH6hH8ZAZC1vGfvRWZB6xdCNZB9SUWj1cmApPuJJPdZCsXfSRVtZAPs8cJm6ZC9F6Q0GQpRoKljdJxQuZClF82kSzwI5eWNeJjhyFzarDGHofYd9xdlTPXsZBmuAHwPatAZD"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "=<ReferenceError: $json is not defined>",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1500,
+        0
+      ],
+      "id": "a2be2abb-5592-44a7-b19c-b8f25425bf34",
+      "name": "HTTP Request"
+    },
+    {
+      "parameters": {
+        "jsCode": "const body ={\n  \"recipient\":{\n    \"id\":`${$input.first().json.body.entry[0].messaging[0].sender.id}`\n  },\n  \"message\":{\n    \"text\":\"Chào anh chị ạ! Mình cần tư vấn gì ạ?\"\n  }\n}\nreturn {\n  data: body\n}"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        420,
+        260
+      ],
+      "id": "780fc898-febe-46bb-90a0-befceb4d799d",
+      "name": "Code2"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://graph.facebook.com/v22.0/835639202960374/messages/",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer EAALQ8izdmBMBPpwY04BMWu4eV67q0izBuiGlPBizWV2ZAIns5rLgtKHtgw6SZCKsciInXdhfTUDGZCma0c3aG9nttZCoJZCRjm7eQjaCESXPu0OSQymZBH6hH8ZAZC1vGfvRWZB6xdCNZB9SUWj1cmApPuJJPdZCsXfSRVtZAPs8cJm6ZC9F6Q0GQpRoKljdJxQuZClF82kSzwI5eWNeJjhyFzarDGHofYd9xdlTPXsZBmuAHwPatAZD"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "=<ReferenceError: $json is not defined>",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        720,
+        340
+      ],
+      "id": "530ac96a-8bc6-45e0-87b9-4d040149116a",
+      "name": "HTTP Request1"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "0aebb2a5-298f-4276-a108-bc966ee0ec49",
+              "leftValue": "=<ReferenceError: $json is not defined>",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "exists",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        440,
+        20
+      ],
+      "id": "e16d9b96-ab29-463e-a792-fcb7245dd3a9",
+      "name": "If"
+    }
+  ],
+  "connections": {
+    "Messenger": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Postgres Chat Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code2": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Code2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "58cc480580f302b31ac8c42d470df5c3cc7abec35d99098288a5a3ac3b56a449"
+  }
+}

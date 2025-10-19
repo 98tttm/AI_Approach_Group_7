@@ -1,0 +1,33 @@
+{
+  "id": "cv (1343).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "chung lyong lee\n60 wadsworth st. apt. 7d\ncambridge, ma 02142\nphone.: 617 577 5623\ne-mail: chunglee mit.edu\n2000-present\nmit sloan school of management\ncambridge, ma\ncandidate for master of business administration, june 2002\nintended track: finance management",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "school"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACHIEVEMENTS": "member: finance club, asian business club, and socially responsible business club\n1986-1994\nyonsei university\nseoul, korea\nbachelor of arts, double major in law and business administration.\norganized and conducted law college s first chorus of over 30 members.",
+    "WORK EXPERIENCE": {
+      "raw": "1994-2000\nsamsung corporation\nseoul, korea\nmanager & senior copper trader\nkazakhstan copper corporation (kcc) directed the first operation of enameled-wire plant producing 8,400 tons ( 24million) per annum. managed plant operation: purchased materials and negotiated the operating technology from\naustrian equipment manufacturer. planned and guided wire-rod plant operation: conducted market research and set up marketing plan. headed sales and marketing of plant for asian markets resulting in production increase from 2,000\nto 29,000 tons per annum while achieving 20% cost reduction per ton through economies of scale. developed new container-based cargo shipping system reducing damage rate 5% to 0.5%.\nsamsung deutschland gmbh led international team developing market strategy for 200,000 tons ( 360 million) copper cathode increased market share in european market by 100%. utilized 30% lower-cost trans siberian railway route for export in conjunction with establishing\ncargo inventory management system. performed sales analysis in 15-member task force for 200 million acquisition of kazakhstan state-\nowned copper producer with volume of 200,000 tons per annum. evaluated 400 existing sales\ncontracts and reviewed payment history and logistics.\nmetal division initiated and updated metal division s web-based knowledge management system, gathering,\nstoring, and sharing market and sales information to build intellectual capital. imported and traded 18,000 tons per annum: bought from china, russia, kazakhstan, chile and\nperu sold to korea, japan and china. launched and led 7-member futures trading unit for hedging against lowering london metal\nexchange s spot and futures prices. authored field manual for in-house sales and marketing. conducted general market research on metal industries as member of natural resources study\ngroup of samsung.\n1989-1991\nkorean military service\nchungbuk, korea\ncorporal\nmanaged munitions supply for 300-military-force regiment. created pc-based accounting model for\nmunitions management.\npersonal served as representative of samsung social volunteer program. member of diverse choirs and led 20-member church choir. enjoy golf, running, cooking, and traveling: traveled 25 countries over the world. fluent in korean.",
+      "companies": [
+        "corp",
+        "inc"
+      ],
+      "titles": [
+        "intern",
+        "manager"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

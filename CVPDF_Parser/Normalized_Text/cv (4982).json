@@ -1,0 +1,38 @@
+{
+  "id": "cv (4982).pdf",
+  "normalized_sections": {
+    "ABOUT": "robert sergey\nf r e s h e r",
+    "WORK EXPERIENCE": {
+      "raw": "i recently graduated with a b.tech degree\nin it and currently am looking for jobs in\nsectors related to machine learning. i",
+      "companies": [],
+      "titles": [],
+      "years": []
+    },
+    "EDUCATION": {
+      "raw": "want to explore and hone my . i am\ncommitted towards better coding\npractices.\nbachelor of technology symbiosis university pune, 2020",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "c",
+      "data modeling",
+      "data science",
+      "java.",
+      "machine learning",
+      "python",
+      "requirement gathering"
+    ],
+    "ACTIVITIES": "artificial intelligence and robotics",
+    "PROJECTS": {
+      "raw": "intelligent library portal\ncafeteria smart management\nhousing classification based on\ngeographic data\ndisaster management helping iot",
+      "keywords": []
+    }
+  }
+}

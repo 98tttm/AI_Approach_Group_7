@@ -1,0 +1,55 @@
+{
+  "id": "cv (4618).pdf",
+  "normalized_sections": {
+    "ABOUT": "consultant\nbuilding design and construction manager extensive management leadership in successful operations, devising strategies to measurably improve",
+    "WORK EXPERIENCE": {
+      "raw": "01/1996 to current\nconsultant company name city , state",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "19"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "expanded new business opportunities in texas for program management firm.\nworked with contractors and construction managers to reconcile estimates, schedules and scope changes.\nadvised owners, developers, and lending institutions in contracting with architects, engineers, constructors and subcontractors.\nfacilities.\nadvised owner on needed corrective measures, realistic costs/ schedules and worked with developer to implement solutions.\nclient during the process.\nworked with state of texas emergency management on disaster relief to coordinate applicants efforts with fema.\ndeveloped matrix to manage information regarding status of all non-profit organizations.\nadvised applicants on solutions for corrective measures and how to implement them.\n01/1986 to 01/2001\nprincipal company name city , state\ndeveloped new business.\nfacilities.\npartnership to perform the construction.\nclient subsequently had firm build two additional facilities in state.\n01/1986 to 01/2006\nprincipal company name city , state\ncontracted engineering support for documentation.\n01/1984 to 01/1986\nbranch office manager / business development manager company name city , state\nlaunched branch office of major construction firm.\nbusiness process.",
+      "keywords": [
+        "app"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "1965\narchitecture university of houston city , state , united states architecture\npost-graduate studies in city planning, university of houston (houston, tx) architect, state of texas license 6624 texas residential\nconstruction commission registration 41143",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19"
+      ]
+    },
+    "SKILLS": [
+      "2012-present",
+      "american institute of architects city of rollingwood",
+      "architect",
+      "board of directors",
+      "board of trustees 2004",
+      "business process",
+      "chairman 2012 tarrytown umc",
+      "chairman. 2005 volunteer healthcare",
+      "client",
+      "clients",
+      "clinic",
+      "co-chair building committee 2001-2004",
+      "competitive",
+      "consulting",
+      "contracts",
+      "design and construction",
+      "documentation",
+      "engineering support",
+      "professional affiliations",
+      "texas - planning & zoning commission 1986-1989",
+      "utility commission 2009-2012"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cv (4711).pdf",
+  "normalized_sections": {
+    "ABOUT": "teacher\naccomplished, experienced, well educated business minded career seeker who takes great pride in establishing strong and lasting relationships\nwith co-workers, parents, students and other industry professionals. extremely organized and self-driven.",
+    "EDUCATION": {
+      "raw": "graduate course gpa: 3.58\nmasters in science degree status: in-process (two courses outstanding)\nbachelor of arts , marketing communications 1998 metropolitan state university city , state , us",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19"
+      ]
+    },
+    "SKILLS": [
+      "encouraging and motivating",
+      "engaging",
+      "excel",
+      "highlights",
+      "infinite campus",
+      "information management and edi systems",
+      "maintained and enhanced existing business.",
+      "marketing communications",
+      "microsoft office (word",
+      "microsoft office suite",
+      "outlook)",
+      "powerpoint",
+      "prepare and present information logically",
+      "provided optimum sales and customer service",
+      "relationship development and maintenance abilities"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "exceptional attention to detail\nteacher oct 2010 to current\ncompany name city , state\nvarious elementary and middle schools work autonomously as a leader and interact successfully as a team member.\nfoster relationships of trust and maintain confidentiality.\ncommunicated extensively verbally and in writing with entire retail customer base, foreign agents, factories, forwarder/brokerage personnel\nand warehouse personnel..\ncustomer service representative & marketing assistant oct 2000 to mar 2001\ncompany name city , state\nworked extensively with company sales manager and all line representatives.\nother duties included customer relations, addressing consumer inquiries, order entry, processing returns and invoicing credits.\nhydrogel sales support and technical service representative oct 1998 to oct 2000",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [
+        "manager"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "ACTIVITIES": "initiate, facilitate, and moderate classroom discussions.\nengage and motivate learners by presenting information in a logical manner and revising as needed.\nconduct research using multiple source modalities\nplan, evaluate, and revise course material and methods of instruction to meet the needs of all students.\norganize and maintain various accurate records.\nthe program and meeting program requirements.\nguide and support school staff for the purpose of ensuring program success.\nserves as a resource to students, parents and staff for the purpose of providing information, guidance, and addressing questions and\nconcerns.\nmonitors individual and/or groups of students in a variety of settings (classroom, snack time, group or individual games, playground\nyouth program assistant mar 2009 to jun 2012\ncompany name city , state\nserve as liaison between ces and the school to promote program teaching opportunities to school staff, increase the number and the\nvariety of program offerings available, and increase awareness of programs available to families.\npartner with youth programs coordinator (ypc), principal, and other school staff to assess youth and parent program needs.\nwork with ypc in developing and implementing a plan for future opportunities.\nwork with ces staff to effectively market ces programs and increase enrollment.\nfollowed. respond to any safety or special concerns as they arrive and provide crisis management/response as needed, including first\naid, cpr, aed, and evacuation.\npromote a safe environment by following after school class safety procedures.\nassist ces with special events.\nimporting, warehousing and domestic distribution manager mar 2001 to jun 2006\ncompany name city , state\nmanaged all logistics including ocean and air imports, exports and domestic distribution via tl, ltl, and small parcel.\nevaluated potential third party warehouses and freight forwarder/brokerage firms.\nnegotiated import ocean and airfreight rates, warehousing costs and domestic distribution rates.\nreviewed all foreign import documentation for accuracy..\nensured all import freight was shipped on time and cleared by u.s. customs, inventoried and warehoused accurately.\ndistributed retail orders according to customer specific vendor guide requirements, policies and procedures.\ntracked, monitored and approved all billings associated with importation, customs clearance, warehousing and distribution.\ntracked and monitored each outgoing sales order via edi to verify accurate distribution and delivery in order to expedite customer\ninvoicing.",
+    "PROJECTS": {
+      "raw": "meet the needs of a diverse population including students, parents, faculty and administration.\nassume responsibility for the safety and well-being of a group of people.\nsite leader - summer adventures (summer position) jun 2012 to aug 2013\ncompany name city , state\nfacilitate the daily operations of the program for the purpose of ensuring student and program success.\nsupervises site program (attendance, behavior management, curriculum, budget, student safety, etc.) for the purpose of ensuring success of\ncompany name city , state\nexecuted the hydrogel marketing communications plan.\ninitiated improvements to existing print ads and marketing literature.",
+      "keywords": []
+    }
+  }
+}

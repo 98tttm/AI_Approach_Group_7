@@ -1,0 +1,46 @@
+{
+  "id": "cv (4818).pdf",
+  "normalized_sections": {
+    "ABOUT": "jaime horan\ndata analyst\ndata analyst, interested in machine learning application development. as a data analyst, i have extensive experience with\ndata preprocessing and pipeline building and i would like to venture further into this domain to learn more about it.",
+    "SKILLS": [
+      "analysis",
+      "business analytics",
+      "data analysis",
+      "data analyst",
+      "data analytics",
+      "data visualization",
+      "image processing",
+      "linear regression",
+      "predictive modeling",
+      "python.",
+      "regression",
+      "requirement analysis",
+      "sql",
+      "statistical analysis",
+      "tableau",
+      "time series analysis"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "sanrachna sgt university\ndeputy data analyst jun 2019 to jun 2020\ncreating reports, extracting, and cleaning the data.\ndata analysis, eda and modelling of the secondary\ndata particularly data related to weather. creating",
+      "companies": [],
+      "titles": [
+        "analyst"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "dashboards using rshiny of quantitative data and\nmade a good animated graphical representation,\nworked on unstructured text data as well, built a text\nclassifier.\nbachelor of science (information technology) from sikkim manipal\nuniversity in 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

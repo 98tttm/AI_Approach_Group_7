@@ -1,0 +1,43 @@
+{
+  "id": "cv (848).pdf",
+  "normalized_sections": {
+    "ABOUT": "remi n.r.\nchalil house\nkuthukuzhy p.o.\nkothamangalam\nkerala india.\nmobile: 919400884550\ne-mail : remi1188 gmail.com\nto become a successful professional by acquiring a technically challenging position in an\nesteemed organization, whereby i can combine my knowledge and vision, which will help the\norganization to grow further and thereby to help myself to grow professionally.\nlevel\ncollege\nyear of\nuniversity / board\npassing\nmca\nsree narayana\n2013\nm.g university\ngrukulam college of\nengineering,\nkadayiruppu\nbca\namrita school of arts\nname : remi n.r.\nfather s name : n.n.rajan\ndate of birth : 11-12-1988\nsex : female\nnationality : indian\nlanguages known : english, hindi, malayalam, tamil, sanskrit\nhobbies and interests : dance, reading\nfishing, travelling\ndeclaration\ni hereby declare that the above stated information is true to my knowledge.\nplace: kothamangalam\ndate: 3-9-2015\n(remi n.r.)",
+    "SKILLS": [
+      "10th std",
+      "12th std",
+      "2005",
+      "2007",
+      "2010",
+      "amrita vishwa vidhyapeedam",
+      "and sciences kochi",
+      "android",
+      "asp.net",
+      "asram higher",
+      "c",
+      "database",
+      "govt girls",
+      "highersecondry",
+      "java",
+      "languages",
+      "mysql",
+      "perumbavoor",
+      "school perumbavoor",
+      "secondry school",
+      "sql",
+      "state",
+      "university"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "operating system\nwindows xp/7,ubantu\nin srsitsolutions ernakulam\nin oms coders kaloor ernakulam\ndevelopment\nin kloudpad systems kalamasery ernakulam\ndevelopment",
+      "companies": [
+        "solutions"
+      ],
+      "titles": [],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "3 months experience in android\nin cyberprism limited kaloor\nmingle box\nfront end: asp.net\nback end: sql\nteam size: 2",
+      "keywords": []
+    }
+  }
+}

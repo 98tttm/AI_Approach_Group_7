@@ -1,0 +1,48 @@
+{
+  "id": "cv (1022).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "345 w. fullerton pkwy. 2101\nphone 773-665-1234\nchicago, il 60614-2853\ne-mail loren shevitz.org\nloren shevitz\n2002\nuniversity of chicago\nchicago, il\nmaster s of science, computer science\n1994\nuniversity of michigan",
+      "degree": [
+        "master"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "access)",
+      "adobe photoshop",
+      "ann arbor",
+      "bachelor of arts",
+      "dreamweaver",
+      "etc.)",
+      "excel",
+      "mac",
+      "mi",
+      "ms office (word",
+      "powerpoint",
+      "productivity",
+      "psychology",
+      "unix",
+      "various code-your-own-website programs (indesign",
+      "windows",
+      "world wide web"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "html, php, xml, javascript languages\njava, c, c , pascal, basic, logo. 2003-present\nprofessional\nillinois art institute, chicago, il\ninstructor of computer literacy 1996-present\nshircago, chicago, il\nfounder and director of jewish a cappella group maintains website 2001-present\nlisten up a cappella, chicago, il\nperforms and travels internationally as member of a semi-pro group creates sheet music in finale and upload it to server summer, 2001\ncatholic theological union, chicago, il\nhelp desk attendant\nassisted users with ms office, internet, windows 98, 2000 1999-2000\nkam isaiah, chiacgo, il\nsunday school teacher\ntaught 9th graders developed lesson plans facilitated discussions on ethics fluent in spanish and hebrew\nlanguages",
+      "companies": [],
+      "titles": [
+        "intern"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

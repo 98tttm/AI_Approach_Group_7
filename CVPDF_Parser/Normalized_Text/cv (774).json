@@ -1,0 +1,20 @@
+{
+  "id": "cv (774).pdf",
+  "normalized_sections": {
+    "EDUCATION": {
+      "raw": "pennsylvania state university\n354f ist building, university park, pa 16802\narchitectures which will be the main computing paradigm in next few years. in particular, he has worked",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": []
+    },
+    "PROJECTS": {
+      "raw": "cation networks and communication mechanisms, resource management, multi-core/system-on-chip (soc)",
+      "keywords": [
+        "system"
+      ]
+    },
+    "ACHIEVEMENTS": "his papers have received the best paper award in three different conferences (icpp, icdcs, and prdc),\nand two additional papers were nominated for the best paper award. his research has been funded by"
+  }
+}

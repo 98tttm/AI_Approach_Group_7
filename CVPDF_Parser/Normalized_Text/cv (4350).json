@@ -1,0 +1,59 @@
+{
+  "id": "cv (4350).pdf",
+  "normalized_sections": {
+    "ABOUT": "consultant\ntransition from an application developer and secure a position as a business analyst or technical liaison with a company that can fully utilize my",
+    "EDUCATION": {
+      "raw": "microsoft .net visual basic and c blaze advisor .net rules engine\ninternal values used by underwriting rules engine.\nutilized sql server 2008 management system.\ndeveloped legacy mainframe it specifications for system enhancements related to agent portal initiatives.\nprovided it technical leadership for legacy mainframe, quality assurance using sdlc methodology, architecture design and\nimplementation of cics web based applications with db2 relational database interfaces.\nbachelor s business administration degree : computer science ursinus college computer science\na.a.s dp : computer/applied science montgomery county community college computer/applied science\ncertificate in computer programming. maxwell institute, computer learning center",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "institute"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "html, javascript\nvisual basic 5.0 and c programming - introduction and advanced concepts.\nconsultant 06/2012 to current company name city , state\nmanaged/designed/developed market segment determination rules. rules service provided account and policy a market segment values\nof either mid-market or small-market areas of underwriting. determining market segments streamlined underwriting workflows and\nallowed processing center to efficiently handle insured accounts.\nmanaged/designed/developed underwriting rules question service. real-time access of questions, per entry screen from online quoting\nsystem. service provided agent or support users immediate access to underwriter questions in regards to the specific entry screen user\nwas working with. rules provided on-line questions and answers for analysis through nationwide s underwriting binding authority rules.",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "managed/designed/developed underwriting rules based protocol system which provided underwriter guidance with little or no agent\nintervention when assessing a policy s insurance risks.\nmanaged outside consultant s work assignments while providing technical leadership in designing process flows, business object model, .net\nweb service changes and rules engine updates.\ndeveloped rules decision tables, internal methods, functions and .net field translation for rules engine.\nprocess for ease of doing business when initiating a quote.\npracticed lean am (application maintenance), developing it maintenance efficiencies within our department. creating huddle cards with\nremoving overhead processing costs.\ncode deployments into requested test and production environments. designed blaze code for renewal rules by routing certain accounts to\nincreased policy renewal flow rates by having less underwriter intervention and routing accounts directly into specific processing units.\napplication staff specialist 04/1986 to 06/2012 company name city , state\nmanaged/ developed fico rule applications using templates, decision tables, rule sets, patterns, while integrating srl code to provide\nviable business solutions in developing work flow authority levels to processing units, and pertinent policy information to underwriters.\nresponsible for developing system, product rule sets which directed system entry and product availability to both internal users and outside\ninsurance agencies. system successfully routed small market agents to use selected products and lines of business for quicker issuance of\nharleysville policies. small market rule processes created less call center interaction with agents and generated over 300k in small market\npremiums in one quarter.\ndeveloped/maintained web services for underwriting rules engine. by integrating commercial lines and agent portal data with blaze\n(fair isaac), rules engine output enhancing underwriters ability to analyze data in english terms and establish profitable decisions for each\npolicy submitted. applications consisted of insurance system/ product determination and underwriting binding authority interfaces.\nservices developed with visual studio 2010, c .net wrappers integrated xml business objects with blaze rules software.\ndeveloped windows console application for unit testing fico rules. testing framework allowed user to enter test cases through excel and\ncreate xml file input invoking specific insurance rules. application increased business analyst productivity by allowing more time for\nwriting business rules and less time correcting defects within integration test phase. software developed with c , visual studio .net and\nmicrosoft programmability interop.\nresearched/developed insurance new business and endorsement object models for policy binding authority. arranged planning sessions\nwith data modelers, and business analyst to develop schemas using visual studio xsd and xml structures.\nmanaged team foundation server deployments for .net and sql database changes. experienced with visual studio tfs source control\nand data backlog items.\nimplementation dates.\ndesigned object models, and system determination process flows.\ndesigned sdlc documentation and deployment procedures for production implementations.\ncoded .net web services unit testing and analyzing rules requests with proper rules response validating specific rules processes.\nmanaged sql server database valid values table, updating and inserting data rows. table provided data translation from outside vendor to",
+      "keywords": [
+        "app",
+        "model",
+        "system",
+        "web"
+      ]
+    },
+    "SKILLS": [
+      "blaze advisor .net 6.10.1",
+      "business object models in xml",
+      "control",
+      "developed technical specifications",
+      "excel",
+      "exercise and weight training.",
+      "gardening and recreational fishing.",
+      "html",
+      "interests",
+      "javascript",
+      "microsoft c .net 4.5 framework",
+      "microsoft visual studio 2013 and 2015.",
+      "quality assurance",
+      "real-time processing",
+      "sdlc",
+      "sql server management 2014",
+      "technical leadership",
+      "tfs source",
+      "visual basic 5.0"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "cv (4772).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "information technology intern (test automation engineer)\narchitectural design, prototyping, development, and testing of application using java/j2ee technologies in various domains.\nvery good understanding of object oriented programming, data structure, algorithms, design patterns and distributed systems.\nsecurity, data, transaction management etc.\nexperienced in developing microservices with spring boot, spring rest, spring cloud, etc.\nreactjs and backbonejs.\nexperienced in working with sql databases like mysql, postgresql, oracle and have some knowledge of nosql databases like\nmongodb.\nexpertise working in agile methodology environments like scrum.\narchitectures: microservices, single page application, rest, client/server\nversion control: svn, git\ncloud application platform: aws\nothers: bower, grunt, npm, node, json, xml, jenkins\nide: eclipse, intellij, android studio\noperating systems: linux, windows\ninformation technology intern (test automation engineer) 05/2017 to 08/2017 company name city , state\ncreated nicely baked test automation framework to provide an execution environment for the automation test scripts. the framework\nallowed automated regression testing of webtix , frontend/web interface that extremetix s (ticketing solution company) clients use to\naccess web services.\nextensively used selenium webdriver and spring boot combined to write automation scripts for dynamic pages of webtix written on",
+      "companies": [
+        "company",
+        "technologies"
+      ],
+      "titles": [
+        "engineer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "a proactive learner with exceptional analytical",
+      "android",
+      "angularjs",
+      "ant",
+      "bootstrap",
+      "build tools: gradle",
+      "clean coding",
+      "continuous delivery",
+      "css",
+      "cucumber",
+      "databases: mysql",
+      "design and problem-solving capabilities.",
+      "experienced in build tools like ant",
+      "experienced in performing automation using selenium",
+      "experienced in working with version control tools like svn and git.",
+      "frameworks and libraries: spring",
+      "gradle and using them with continuous integration tools like jenkins.",
+      "h2",
+      "hibernate",
+      "html",
+      "j2ee",
+      "java and performing behavioral driven testing using cucumber.",
+      "javascript",
+      "jquery",
+      "maven",
+      "mongodb",
+      "oracle",
+      "postgresql",
+      "practices: agile",
+      "programming languages: java",
+      "reactjs",
+      "restful-web services",
+      "scrum",
+      "selenium webdriver",
+      "sql",
+      "tdd",
+      "waterfall"
+    ],
+    "PROJECTS": {
+      "raw": "angularjs framework. modularized web components as java objects following page object model i.e created object repository for all\nlocators which can be easily automated.\nleveraged the benefits of both data-driven and behavior-driven approaches and built the framework that is maintainable and reusable.\nintegrated automated tests with cucumber (behavior-driven testing framework) to allow quality assurance team write high-level use cases\nin plain text.\nautomated reports generation and distribution.\ninterpreted and converted manual test cases into automation smoke and regression suites.\ntrained and supported the qa team with automation framework and script issues.\ncollaborated with the qa team and went through an evolutionary approach in writing concise documentation to help configure the\nframework and add new automated tests as required.\njava full stack developer 05/2014 to 06/2016 company name city , state\nworked on varied aspects of application development including requirement analysis, design, implementation, and testing.\ncoded and debugged multi-tiered java-based applications to provide enterprise and embedded solutions using java and spring framework\napis like mvc, aop, dao, jdbc, transaction, validation, annotation, json, xml, maven and junit test.\ninvolved in implementation of applications using conventional design practices (soa - service oriented architecture).\ndeveloped database access layers using spring data jpa and hibernate.\ndeveloped rest web services for external application integration.\ndeveloped a java-based sdk and driver software for making the card reader, pua-310v-0/m2u2/y4 to work on linux environment.\nscbtims (smart card based trekkers information management system).\nwas responsible for writing core software logic for qms (queue management system) in java, developing plugin architecture and\nimplementing rs485, tcp & http channels as plugins for interfacing qms hardware devices.\nscbtims (smart card based trekkers information management system).\nworked with js, jsp, html, css, bootstrap, angularjs and reactjs to design and develop interactive user interfaces and hmi (human\nmachine interface) for real-time data monitoring and interactions.\nbuilt multiple mobile applications (android and ios) for real-time monitoring of hydrologic parameters and alert dissemination during floods\nand glacial lake outburst risks.\nanalysis of change requests and enhancements, investing alternate configurations and implementing better solutions.\nsophisticated ides such as intellij and many other.\nwas responsible for client interactions and handling technical aspects in a sales pitch.\njava developer intern 03/2014 to 05/2014 company name city , state\ncore java programming with multithreading exception handling, file handling, io, generics, and java collections. developed the entire mrp (machine readable passport) reading module both backend and frontend by utilizing java 1.7 and java swing.\ndesigned and developed applications using scrum, an iterative and incremental agile software development methodology.\nperformed back-end development using php (codeigniter mvc framework).\ndeveloped cms like system majorly based on php and mysql.\nbuilt a file-crawler app in codeigniter for sorting and removing duplicates and redundant files.\ncreated data entry forms in html embedded with php.\ntrained in effectively utilizing agile methodologies and object oriented programming practices.\napplications.\nresponsible for writing user and administrator modules of php mysql applications as per the technical specifications.\nconducted and mentored microcontroller workshop (13th january 2013) , and circuit synthesis training program (14th june 2013) at\nkathmandu engineering college.\ngave a presentation to nepal army club on the application of robotics in safety and security (during tech exhibition 2013).\ntreasurer and event organizer in nepalese student association (nsa) at lamar university (2016 - 2017).\nwebsite and links\nwebsite: www.sagunpandey.com\nlinkedin: www.linkedin.com/in/sagunpandey\ngithub: www.github.com/sagunpandey",
+      "keywords": [
+        "analysis",
+        "app",
+        "model",
+        "system",
+        "web"
+      ]
+    },
+    "ACTIVITIES": "used jdbc for database connectivity to sql server.\ninvolved in backend development and optimizing the search engine for nepal tourism board (ntb) s website.\nprepared test plans for unit testing and implemented test cases using junit.\nsoftware developer intern 01/2013 to 10/2013 company name city , state\nhonours and distinction\nwinner of national robotics competition, yantra 1.0 organized by robotics association of nepal (ran): july 2012\noutstanding student award, lamar university: fall 2017 resource manager in robotics club, kathmandu engineering college, tribhuvan university (2013 - 2013).\ntwice the winner of national robotics competition organized by robotics association of nepal (ran).",
+    "ABOUT": "responsible for implementing and hosting of prototype systems on test servers.\nmaster of science : computer science 2017 lamar university city , state , united states of america gpa: 4.0/4.0\nbachelor of engineering : electronics and communication engineering 2013 tribhuvan university city , state , nepal gpa: 3.94/4.0"
+  }
+}

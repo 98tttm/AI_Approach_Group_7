@@ -1,0 +1,50 @@
+{
+  "id": "cv (4837).pdf",
+  "normalized_sections": {
+    "ABOUT": "macy williams\ndata scientist\ndata scientist working on problems related to market research and customer analysis. i want to expand my arsenal of\napplication building and work on different kinds of problems. looking for a role where i can work with a coordinative team",
+    "SKILLS": [
+      "algorithms",
+      "and exchange knowledge during the process.",
+      "c",
+      "computer vision",
+      "data analysis",
+      "data analyst",
+      "data science",
+      "deep learning",
+      "java",
+      "kubeflow.",
+      "machine learning",
+      "natural language processing",
+      "pattern",
+      "pyspark",
+      "python",
+      "recognition",
+      "software engineer"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "customer browsing patterns.\none97 communications limited\npredict potential rto(return to origin) orders for e-\ndata scientist jan 2019 to till date\ncommerce.\ndetect important information from images and redact\nrequired fields. yolo cnn object-detection, ocr",
+      "companies": [],
+      "titles": [
+        "scientist"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "activites\ninsights, find anomaly or performance drop in all\npossible sub-space.\nobject detection.\npredict the insurance claim probability. estimate the\npremium amount to be charged\nbachelor of technology(computer science) from sgbau university in\n2017.\nmaster of technology (computer science engineering) from indian\ninstitute of technology (iit), kanpur in 2019",
+      "degree": [
+        "bachelor",
+        "master"
+      ],
+      "institution": [
+        "iit",
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

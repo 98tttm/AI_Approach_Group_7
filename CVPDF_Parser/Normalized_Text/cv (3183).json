@@ -1,0 +1,47 @@
+{
+  "id": "cv (3183).pdf",
+  "normalized_sections": {
+    "PROJECTS": {
+      "raw": "mobile: 971 - 544998079 email: im.edwindavis gmail.com\nselection of ht & lt switchgear based on breaking, making & short time capacity.\nselection of ht & lt cables based on thermal, short circuit & voltage drop values.\npreparation of sectional drawings of ht & lt switches board and bus- bar sizing.\ndesign of earthing based on max fault current & design of lightning protection system. preparation of building plan & equipment layout:\npoint of supply and cable trench layout. dg & main lt electrical room layout. earthing scheme & earthing layout. lighting, power & ups layout with distribution scheme. co-ordinated cable tray & raceways layout with detailed sections. load balancing & preparation of bill of quantity(boq)\ncompany 1\nwipro technologies\njan 2015 jan 2017\nname: mazda (japan based company)\nclient: visteon\nplatform: bluetooth\nhardware: cmu freescale i.mx applications processor\ndescription:\nbluetooth in bluetooth, deals with 4 modules mainly bluetooth hands- free, bluetooth connection application, btmusic, pairing application.\n.\nname: forcetriad\nclient: medtronic (us based company)\nplatform: medical devices\ndescription:\nforcetriad - energy platform is a full-featured electrosurgical system, which provides electrosurgical cutting and coagulation, bipolar\nfunctionality and vessel sealing in a single generator. rf generator uses\ndifferent power modes and is compatible with conventional\nelectrosurgical instruments.\nrole and contribution:\nanalysis of requirements, design and development of forcetriad modules.\nimplemented the new support for the changes and bugs related to the\n: autocad , electrical-cad ,electrical design, dialux\n: automotive, medical",
+      "keywords": [
+        "analysis",
+        "app",
+        "system"
+      ]
+    },
+    "ABOUT": "to pursue a highly rewarding career, challenging and healthy work environment where i can utilize my and knowledge efficiently for organizational growth\nhaving 2 years of experience as a role of engineer in design, development & unit testing of\nembedded application development on different platforms, which includes 1.5 year of experience on\nmedical domain,proficient in medical devices development and its standards and 6 months of experience on\nautomotive infotainment development at wipro technologies, bangalore & kochi.\nhave good experience :\ncore areas of are electrical design , r&d & embedded testing.",
+    "EDUCATION": {
+      "raw": "both practical as well as theoretical knowledge in electrical design, drafting. working more efficiently and productively so as to produce maximum output. hands on experience in various phases of dlc such as analysis & testing. year of\nboard/university\ndegree\npercentage\npassing\nies engineering college,\nbachelor of technology electrical\n76.6 %\napr-2014\nthrissur\n& electronics nirmala matha central school,\nintermediate",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college",
+        "school",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "79.6 %\nmay-2010\nthrissur, kerala\nnirmala matha central school,\nssc\n81.8 %\nmay-2008\nthrissur, kerala\ntraining course detail:-\ninstitute name : national institute of electronics and information technology, calicut, kerala\ntraining title : pg diploma in embedded system\nduration : 6 months.\ntitle: electrical design of g 5 floors residential apartment\nclient: dhanush engg services\ndescription:\ncalculation of transformer & dg set rating and designing of ht/lt cables, bus-bars, light fixtures, cb s,distribution boards, earthing,\nsockets, a/c load & capacitor banks\nload calculations and designing of ht/lt cables, bus-bars, light fixtures, cb s, sockets, a/c load\nsystem design:\nestimation of total load and deciding voltage level. selection of transformer/dg capacity and number with necessary metering & protection.\nselection of load center location & captive power generation station. segregation of estimated maximum demand into individual load centers.\npreparation of detailed schematic main single line diagram. calculation of short circuit current & voltage drop at each level of distribution.\nbluetooth supported features and specially used features in jci car kit\nprofiles are detailed\nrole and contribution:\nanalysis of requirements, design and development of bluetooth modules.\nworked on several bluetooth scr s.",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "device.",
+      "ernakulam for 6 days",
+      "experienced in adding the usb feature support in the device.",
+      "experienced on upgrading the new support for latest accessories in the",
+      "industrial training:",
+      "tools",
+      "visited bramapuram diesel power plant unit",
+      "visited shalom private electrical industry for 4 days."
+    ],
+    "ACHIEVEMENTS": "won first prize in state level mime and third prize in district level.\nrepresented & won prizes for badminton and soccer in corporate company level & college\nlevel competitions.\npersonal information\nname\n: edwin davis\ndate of birth\n: 18 jan 1992\npassport number\n: l7524505\nvisa status\n: visit\nlanguage\n: english, malayalam\nsex\n: male\npermanent address\n: kanjiraparambil house\nkottekad po kuttur\nthrissur, kerala\nindia\ni , edwin davis hear by declare that all the information i have given above is true as per my\ndocuments.\nedwin davis"
+  }
+}

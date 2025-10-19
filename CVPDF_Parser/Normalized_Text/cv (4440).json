@@ -1,0 +1,103 @@
+{
+  "id": "cv (4440).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "it consultant\nenvironments. windows server 2000, 2003, 2008 r2, cisco, active directory administrator and network administrator with proven\nnew horizons computer learning center, houston, texas.\nimplementing microsoft windows 2000 professional server.\nimplementing microsoft windows 2000 network infrastructure.\nadministering microsoft sql 2000 server database.\njanuary 2014 to february 2016 company name\ntechnical anaylst network anaylst for t1 and vsat network.\nsupport of applications for pipeline technicians.\ncisco unified communicator manage cisco voip phones.",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      "2000",
+      "access",
+      "accomplishments",
+      "accounting",
+      "active directory",
+      "ad",
+      "apache",
+      "backup",
+      "bloomberg",
+      "cisco",
+      "cisco cme",
+      "cisco lan",
+      "citrix",
+      "client",
+      "communicator",
+      "core qualifications",
+      "database",
+      "databases",
+      "dell",
+      "desktop support",
+      "dhcp",
+      "directory",
+      "email",
+      "energy trading",
+      "exchange",
+      "exchange 2010 networking: active",
+      "gis",
+      "hardware",
+      "hp servers",
+      "internet applications",
+      "ip",
+      "isilon",
+      "kingdom",
+      "lan",
+      "laptops",
+      "managing",
+      "market",
+      "market data. mitel 3000 & 5000",
+      "microwave",
+      "ms office 97",
+      "ms office 97-2013 citrix",
+      "network",
+      "network administrator",
+      "networking",
+      "odbc",
+      "office",
+      "oil",
+      "petra",
+      "phone system",
+      "phones",
+      "promotion",
+      "reuters",
+      "scada",
+      "server",
+      "servers",
+      "sql",
+      "symantec",
+      "t1",
+      "tcp",
+      "technology",
+      "terminal server",
+      "troubleshoot",
+      "troubleshooting",
+      "voip",
+      "vpn",
+      "wan",
+      "windows",
+      "windows nt"
+    ],
+    "PROJECTS": {
+      "raw": "work with datto, acronis and symantec backup applications.\nmanaged licensing and flexlm for petra.\nsupported user installation and maintenance of petra database.\nmanaged all installation and configuration for network, workstations and laptops.\ngas control and application management.\nmanaging applications on 2008r2 server for accounting and gas flow.\nactive directory management creation of users and groups and permissions for all corporate users.\ncreating solutions for measurement applications for gas pipeline.\noffice 365 administrator to create user mailboxes and distribution groups.\ndesktop support for all users in corporation.\nsupport for scada platforms insuring data connection.\nit consultant\njune 2013 to december 2013 company name\nfor acquisition of apache shelf properties.\ncordinated network and application replication with apache oil & gas.\nworked with apache and other 3rd part vendors and contractors to replicate apache infrastructure for transition to fieldwood energy.\nthis was replicating all apache network, databases applications and voice for offices and gulf platforms for a seemless transition.\nworked to replace cisco phone system.\nwored with vendors to replace application and software license.\nspn rescources/dynamic offshore llc/sandridge energy 4-2007 &ndash 5-2013 network administrator managed all installation and\nconfiguration of hardware and software for all workstations and laptops on shore and handled all equipment and communications for\noffshore platforms.\nterminal server administrator.\nworked with citrix applications for corporate and external users.\nmanaged ision server for g&g applications users for kingdom software.\nadministrator of dell and hp servers.\nmanaged and maintained osilon server nodes for geophysical engineers.\nmanaged ad and created accounts for all users and groups needed for corporation access, email and all network drives.",
+      "keywords": [
+        "app",
+        "system"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "managed and was administrator for mitel 3000 voip phones for company.\nmanaged all 2003 and 2008r2 servers for corporation.\nmanaged the installation of p&a and workover jobs and communications offshore.\nbuilt configured and was administrator for exchange 2010 on windows 2008r2 server.\nmanaged all network communication for offshore platforms with microwave and vsat connectivity.managed licensing of all prioritary\nsoftware and applications for company.\nmanaged and supported bez server and blackberry&rsquo s and smartphone, iphone, samsung.\nsupport of vpn cisco client.\nsuperior energy, houstontexas 12-2005 &ndash 4-2007 system support specialist install and configure hardware and software for xp\nworkstations and laptops and server 2003 on network.\nmanagement of active directory on server 2003 and remote desktop to support all users throughout region.\nbuilt and managed servers for corporation.\nadministrator of exchange creating users and troubleshooting server issues administror ad for corporation.\nsupport of bez server and blackberry&rsquo s.\nsupport of vpn cisco client.\nsold to dynamic offshore got promotion to network administrator of company.\nsenior workstation technician\njanuary 1997 to january 2005 company name city , state\ncitrix administrator managed ad for accounts.\ninstall and configure hardware and software for workstations and laptops with windows nt, 2000 or xp on network for energy trading\nfloor with live market feeds, reuters and bloomberg market data.\nused active directory for support of users and groups.\nsupport network and client/server applications, shared data storage, proprietary software, and internet applications and troubleshoot\nhardware and software issues for end-users throughout corporation.\nassociate : computer science technology , 1993 microcomputer technology institute city , state computer science",
+      "degree": [],
+      "institution": [
+        "institute"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

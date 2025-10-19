@@ -1,0 +1,103 @@
+{
+  "id": "cv (4425).pdf",
+  "normalized_sections": {
+    "ABOUT": "senior vp - information technology",
+    "SKILLS": [
+      "& business",
+      "2003",
+      "2008",
+      "able to adapt to changing priorities and maintain a",
+      "able to strategize and prioritize effectively",
+      "active directory",
+      "and conscientious self-starter",
+      "and coordinate and distribute daily",
+      "api",
+      "backup",
+      "bloomberg",
+      "bonds",
+      "budget",
+      "budgeting",
+      "budgeting &",
+      "building",
+      "business management",
+      "business planning",
+      "cisco",
+      "client",
+      "conflict",
+      "contracts",
+      "convertible",
+      "cost",
+      "customer support",
+      "design and construction",
+      "detail-oriented",
+      "direct information technology operations for a global institutional sales",
+      "disaster recovery",
+      "email",
+      "equities",
+      "equity",
+      "exchange",
+      "existing legacy site-to-site vpn network in the u.s which consisted of 6 branch offices to the toronto based mpls network in conjunction",
+      "experienced technology leader with expertise in managing all aspects of front and back office systems in the financial services industry.",
+      "expertise",
+      "fidessa",
+      "goal-setting",
+      "hardware",
+      "head of technology infrastructure u.s.",
+      "international bonds",
+      "investment grade debt and asset-backed securities coordinated relocation and setup of our primary nyc office",
+      "leadership",
+      "location to a new office space",
+      "microsoft active directory",
+      "operating systems: windows 7",
+      "operational",
+      "optimization",
+      "planning",
+      "policy &",
+      "positive attitude and strong work ethic",
+      "resolution",
+      "resourceful and flexible",
+      "senior management",
+      "server 2013",
+      "sharepoint",
+      "support mission-critical infrastructure svp",
+      "tasks and unexpected issues that may arise an organized",
+      "team-",
+      "technology",
+      "to accomplish multiple tasks and stay calm under pressure creative",
+      "toward sharing expertise and assisting others to learn. exceptional ability to manage a group of individuals",
+      "trading firm specializing in high yield and distressed debt",
+      "training",
+      "which included an entire hardware refresh for all network and desktop equipment led migration of the",
+      "with nyc office relocation managed implementation of a nj data center for high availability for critical u.s.",
+      "xp"
+    ],
+    "PROJECTS": {
+      "raw": "server: 2003, 2007, 2013, vm ware, trend micro, cisco infrastructure routers and switches, palo alto, emc\nprocedure\nstorage solutions, data center management market data & trading systems: open bloomberg and server api,\ncreation\nfactset, fidessa, tethys, lava, lek, ice, tradeware, reuters eikon, thomson one, reuters station, instinet,\nconflict\nnasdaq trader, advent\nresolution &\nmanagement\nproductivity,\nefficiency, &\nperformance\nimprovements\nit security\nmanagement\nvendor\nrelations\ntrading operations, and migrated direct client wires to the data center implemented a vm environment which reduced hardware, energy,\nand licensing costs saving 1.5m in capital expenditure managed the migration of legacy pbx telecommunications system and implemented\nvoip and video conferencing coordinated setup and configuration of 3 new branch offices in houston, tx, stamford, ct, and new\norleans, la implemented disaster recovery plan which would make the stamford, ct branch office the dr site for the nyc office\nmanaged and negotiated all new and renewal vendor support contracts managed bloomberg terminal contracts and fix connections for\nsseoms equity trading, and toms sell-side fixed income and derivative trading member of the gmp steering committee for the\nchief information officer 01/2006 to 08/2014 company name city , state\nmanaged technology for an institutional trading firm, specializing in fixed income and equities products.\nresponsible for strategy, support and technology initiatives in a dynamic trading environment resulting in maximum system availability and\nresponsive customer support.\nworked very closely with fixed income and equities traders, sales, analysts and senior management.\nmotivated direct reports and instilled a culture of teamwork to aid in the support and administration of a shared network and\ntelecommunications infrastructure for both firms with 8 branch offices in the u.s established policies and procedures and implemented a\nchange control process to iron out all issues related to all new hardware and software rollouts managed and negotiated all new and renewal\nit related contracts with various vendors successfully implemented and provided managerial oversight for a disaster recovery and business\nimplemented a new order management trading system and coordinated the migration of existing fix connections to the new oms managed\nthe successful replacement of core infrastructure appliances and negotiated costs with the vendor given the limited budget, and coordinated\nthe design and construction of a more powerful ups for the core infrastructure providing 3 hours of up-time in the event of a power outage\nto allow mission critical systems to remain functioning until main power is restored planned and implemented the replacement of legacy web\nsecurity appliances with cisco asa and ironport appliances reducing network vulnerability, and allowing traders secure remote access to\nnetwork resources upgraded all primary and secondary network circuits due to the growing business relieving network latency issues.\nit support manager 02/2001 to 06/2006 company name city , state\nfinancial, fixed income, gmp, goal-setting, information technology, leadership, team-building, managerial, managing, market, meetings,\naccess, exchange server, microsoft exchange, mail, office, sharepoint, windows 7, migration, network hardware, network, operating systems,\nsecurities, servers, strategy, switches, teamwork, telecommunications, trading systems, trading system, trend, upgrades, upgrade, vendor\nrelations, video conferencing, vpn, vm, voip",
+      "keywords": [
+        "app",
+        "system",
+        "web"
+      ]
+    },
+    "WORK EXPERIENCE": {
+      "raw": "data center\noperations\nsenior vp - information technology 08/2014 to 09/2015 company name city , state",
+      "companies": [
+        "company"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "worked directly with vendors to implement/upgrade market data software and hardware coordinated a successful pc hardware and\noperating system upgrade for all branch offices managed and administered the upgrade of the microsoft exchange email system which\nincluded hardware replacement and server software upgrades managed daily and incremental backups of critical files, and mail servers, and\ncoordinated off-site storage of backup tapes set standards and ordered equipment for the firm including pcs, servers and network\nperipherals managed market data entitlements, fix connections and new systems for all traders participate in finra and in-house audits,\nrequests and regulation requirements.\nb.s : computer science 1999 montclair state university computer science",
+      "degree": [],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "19"
+      ]
+    }
+  }
+}

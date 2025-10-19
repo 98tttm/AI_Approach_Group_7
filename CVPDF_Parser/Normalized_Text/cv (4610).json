@@ -1,0 +1,42 @@
+{
+  "id": "cv (4610).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "accomplishments",
+      "captain of high school football and baseball 2014-2015",
+      "career focus",
+      "dependable",
+      "fast learner",
+      "first team all region football 2014",
+      "independent decisions. looking for a long term job to better myself.",
+      "laborer",
+      "lettered varsity baseball 3 years",
+      "lettered varsity football 4 years",
+      "lettered varsity track 1 year",
+      "second team all conference football 2014",
+      "voted most athletic by classmates 2015"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "trustworthy\nhard working 08/2016 to 12/2016\ncompany name city , state\naided in aircraft mechanics, aircraft clean up, and restoration.\n02/2016 to 05/2016\nlaborer company name city , state",
+      "companies": [
+        "company",
+        "lab"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "categorized livestock to be sold at auction. worked with live animals in livestock pens and with auctioneers. in charge of loading and\nunloading livestock.\n06/2014 to 08/2014\nlaborer company name city , state\npart time summer worker in charge of general labor and maintenance of parts and inventory.\nhvac new river community college city , state , usa\n2015",
+      "degree": [],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "CERTIFICATIONS": "advance diploma rural retreat high school city , state , usa\ncdl class a learners\npesticide applicator certificate boating safety course certificate hunter safety course certificate"
+  }
+}

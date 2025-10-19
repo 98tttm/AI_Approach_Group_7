@@ -1,0 +1,93 @@
+{
+  "id": "cv (4787).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "accomplishments",
+      "android",
+      "award",
+      "aws",
+      "business technology club board member",
+      "buying",
+      "cases",
+      "challenge for charity",
+      "competitive analysis",
+      "consultant",
+      "core qualifications",
+      "databases",
+      "drivers",
+      "evert mccabe fellowship",
+      "excel",
+      "iaas",
+      "ios",
+      "it infrastructure",
+      "maintenance",
+      "market research",
+      "marketing",
+      "master of business administration",
+      "ms excel",
+      "network security",
+      "new product development",
+      "power point.",
+      "procurement",
+      "product development",
+      "product marketing",
+      "professional affiliations",
+      "publishing",
+      "red x",
+      "rick and marilyn wong scholarship",
+      "roi",
+      "saas",
+      "sales",
+      "satisfaction",
+      "secretary",
+      "security",
+      "service",
+      "software as a",
+      "spss",
+      "sql",
+      "tableau",
+      "testing",
+      "transmissions",
+      "use cases",
+      "vmware",
+      "volunteer english teacher for teach india",
+      "web based",
+      "web services"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "owned development, testing and maintenance of 4 mission critical web services that powered a web based product that generated over 5m in annual revenue. won beyond the call of duty award for outstanding effort\n04/2015 to 04/2015\nconsultant company name city , state\ncloud and mobile services)\ncreate journey maps and identify touch points for different personas of application developers. asses the capability maturity of different\ncomponents within windows, ios, and android development platforms.\n01/2015 to 03/2015\nnew product development consultant company name city , state (hyper-converged it infrastructure)\n06/2014 to 08/2014\nproduct marketing manager intern, vcloud air company name city , state\nidentified market size, and target customer segments for a new hyper converged it infrastructure product. conducted competitive analysis.\nproposed a product for mid-market and a go-to-market strategy. vmware inc., palo alto, ca summer 2014 product marketing\nmanager intern, vcloud air (infrastructure as a service- iaas)\ninterviewed vmware customers to discover adoption rate of vcloud air based on use cases. identified top 10 customer use cases of\nvcloud air. presented specific changes to fine tune targeting and positioning of vcloud air.\nanalyzed win/loss interviews to identify top 8 buying criteria and top 4 roi drivers used by potential customers to select iaas vendor.\nrecommended specific changes to fine tune sales tool-kit.\ndeveloped a content strategy for vmware s iaas case studies by eliciting buying criteria, and by bench-marking 150 iaas case studies\npublished by competitors such as aws, microsoft azure, rackspace, and google.",
+      "companies": [
+        "company",
+        "inc"
+      ],
+      "titles": [
+        "developer",
+        "intern",
+        "manager"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "01/2014 to 03/2014\nmaster of business administration marketing consultant company name city , state\ndeveloped a market entry plan for a new network security software as a service (saas) product. conducted market research and\ncompetitive analysis to identify opportunity worth 1.6b in network security space.\nproposed and presented acquisition as the market entry route to the executive team. in may, f5 networks acquired defense.net - a cloud\nbased security saas provider.\n01/2012 to 01/2013\nteam leader company name city , state\nclient: an international chain of convenience stores)\nled an agile product team of 8 consultants to develop and implement 5 core web services of customer loyalty software to help the client\ncapture 600m in annual revenue.\n01/2007 to 01/2012\ntechnology & product analyst company name city , state\nclient: an american publishing and financial information firm)\nowned development, testing and maintenance of 4 mission critical web services that powered a web based product that generated over 5m in annual revenue. won beyond the call of duty award for outstanding effort.\nproposed methods to speed up online financial news search feature of client s web product and presented to vice president of technology,\ndeveloped a software to filter out redundant information from enterprise databases, eliminated manual processes and saved 550k per\nmaster of business administration : business technology the michael g. foster school of business, university of washington city , state ,\nus the michael g. foster school of business, university of washington, seattle, wa june 2015 candidate for master of business\nadministration evert mccabe fellowship, rick and marilyn wong scholarship, business technology club board member",
+      "keywords": [
+        "analysis",
+        "web"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "bachelor of engineering : computer science manipal institute of technology, manipal university manipal institute of technology, manipal\nuniversity, manipal, india may 2007 bachelor of engineering, computer science founder of disha - a socio-economic platform for the\nunderprivileged students. co-founder & first general secretary of red x - the largest student club of the university.",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "institute",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

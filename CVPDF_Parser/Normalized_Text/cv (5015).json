@@ -1,0 +1,20 @@
+{
+  "id": "cv (5015).pdf",
+  "normalized_sections": {
+    "ABOUT": "max leclerc\nj u n i o r d a t a s c i e n t i s t\npredictive modelling, statistical solutions, data\na fresher seeking roles in machine learning, business\nanalysis, data predictive modelling, statistical solutions,",
+    "WORK EXPERIENCE": {
+      "raw": "mining, artificial intelligence, forecasting, data\ndata mining.\nanalyst, related .\nlt solutions\nb.tech(mechanical) from godavari\nmachine learning and data analysis associate,\ninstitute of engineering and\njan 2019 - oct 2020\ntechnology, 2018",
+      "companies": [
+        "solutions"
+      ],
+      "titles": [
+        "analyst",
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "understanding and working with machine learning models\nand analyzing datasets for feature engineering and\nextraction. working with senior members of the team to\nget an idea of complex problems and how to approach\nthem.\nsentiment analysis and named entity\npart-time program in data science and\nrecognition.\nbigdata."
+  }
+}

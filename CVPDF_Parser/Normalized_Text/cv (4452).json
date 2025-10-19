@@ -1,0 +1,65 @@
+{
+  "id": "cv (4452).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "consultant\nqualifications\ni am a senior it infrastructure specialist and have 7 years of oem administration and 6 years of dba administration. i have masters in\ncomputer applications (mca) and a seasoned technical specialist providing business infrastructure solutions, services and support,\nhave a tremendous track record in it support area for multiple products and applications with a great level of consistency and excellence.\nmy expertise includes,\noperating system : linux, hp-unix, solaris, windows 9\n12\n2016\njuly 2016\ncompany name consultant\ncollaborate with clients, customers to ensure successful implementations which includes.\nimplement oem 12c setup, apply bp, plugins, performance monitoring, notification set up.\ninstall/upgrade/patch oracle database, performance tuning.\ninstall/upgrade/patch oracle weblogic servers, deploy applications.",
+      "companies": [
+        "company",
+        "inc",
+        "lab",
+        "solutions"
+      ],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "his expertise includes,\noracle enterprise manager\nimplementation specialist weblogic server administration\nincident management\ndatabase administration oracle cloud operations\npeople management\ndecember 2014\nto\njune 2016\ncompany name city manager\nmanaged a team for enterprise manager cloud control(cloudem12c) for oracle public cloud that supports and facilitates end to end\nmonitoring solutions for oracle cloud services.\nnew em sites for cloudem customers and administer them.\nrecruit, work with new team members to bring them on board in quick time writing technical documents to help team members in executing\nshooting assistance.\nfebruary 2005\nto\nnovember 2014\nprincipal systems consultant\npart of oracle public cloud s monitoring solution team - cloudem operation s team.\nmonitoring included 20000 database double the number of fusion middleware targets zfs targets and making enterprise manager\nthe source of truth for any monitoring and inventory storage solution in oracle public cloud.\nthe cloudem operations team supports multiple em sites across all of the oracle fleet.\nthis is an ever growing portfolio as oracle is constantly adding new data centers.\nwhen a new site is added it is the job of our team to build out the new em environments.\noperations team provides the physically installed servers both exadata and exalogic and we go on to build out the enterprise manager site.\nthis includes building grid and database, installing oms & agents, configuring em for ssl and sso and working to set up tas and sdi\nprovisioning services.\neach of our sites monitor saas (software as a service) and/or paas (platform as a service) environments.\nserver upgrades (new releases), database upgrades applying critical bundle patches and updates, ensuring high availability for the customers\ninstallation of oracle software/databases upgrade grid, database from 10g to 11203/11204 & 11g to 12c apply database psu patches,\nand one off patches to the environment for every possible database bugs responsible for tuning the oracle applications database that run\non the unix server to achieve optimal performance.\nproficient knowledge of rac, configuration implemented building 20 different oem sites in various oracle cloud data centers deploy\noms, upgrade oms plugins, applying bp on top of oms infrastructure implement backup and recovery procedures using rman for\noracle databases and test regularly in conjunction with operations.\nadminister/upgrade/patch oracle weblogic servers.\napril 2004\nto\ngreen belt - certified itil v3 foundation certified oracle dba 10g/11g admin workshop i and ii (ocp) oracle weblogic server/application",
+      "keywords": [
+        "app",
+        "system",
+        "web"
+      ]
+    },
+    "SKILLS": [
+      "administration",
+      "change management aws",
+      "database",
+      "databases",
+      "dba",
+      "disaster recovery",
+      "excel",
+      "hp-unix",
+      "inventory",
+      "it support",
+      "itil",
+      "itil service management",
+      "linux",
+      "managing",
+      "ms",
+      "operations management",
+      "people management",
+      "process capability",
+      "technical support for 24x7 systems",
+      "troubleshooting",
+      "unix",
+      "upgrade",
+      "upgrades",
+      "visio",
+      "weblogic",
+      "win runner"
+    ],
+    "EDUCATION": {
+      "raw": "february 2005\ncompany name associate consultant\ninstallation of oracle software on linux boxes creating tablespaces and database files based on the ofa model.\nmanaging database security and creating and assigning appropriate roles and privileges as required by the application administration of\noracle 10g application server.\nperformance tuning of using explain plan, sql trace, tkprof, rda, and statspack.\napplying patches for backend changes monitoring backup schedules.\nprovided 24x7 on call production support database reorganizations to reduce fragmentations.\nmonitoring alert logs, trace files to check database health and corruption.\nmca, madurai kamaraj university university of madras - rkm vivekananda college trainings and certifictaions six sigma",
+      "degree": [],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cv (1503).pdf",
+  "normalized_sections": {
+    "ABOUT": "curriculum vitae\njennifer d j\nf2, royce enclave flats,\nno , chozhapuram, fifth street,\nambattur,\nchennai 600053, tamil nadu, india\ne-mail id: jenni.roque1 gmail.com\nmobile : 91- 8056203764\nto establish myself in the field of teaching so that i\ncan use and spread the knowledge that i gained for",
+    "EDUCATION": {
+      "raw": "the bright future of students and also for my own\nbetterment.\n76.6%\nm.phil mathematics, 2017\ncollege of engineering, guindy,\n(anna university)\nm.sc mathematics, 2016\n75.25%\nstella maris college, chennai,\n(university of madras)",
+      "degree": [],
+      "institution": [
+        "college",
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACHIEVEMENTS": "b.sc mathematics, 2014\n73.5%\nstella maris college, chennai,\n(university of madras)\nholder of ncc b certificate with grade c\nholder of ncc c certificate with grade a\nawarded best cado leader of stella maris",
+    "PROJECTS": {
+      "raw": "ncc coy\n1\n1. a study on orbital mechanics (internship )\n2. design of a humanoid robot involving control\n3. a study on efficiently secure dominatable\nlanguages known",
+      "keywords": []
+    },
+    "SKILLS": [
+      "ability to work with people",
+      "english",
+      "excel",
+      "internet",
+      "powerpoint presentation",
+      "tamil",
+      "technical knowledge microsoft word"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "savvy.\nmogappair (june,2018- present)\npersonal details\nage\n: 24 years\ndate of birth\n: 15-11-1993\ngender\n: female\nemail id\n: jenni.roque1 gmail.com\nmobile\n: 91 8056203764\ndeclaration\ni hereby declare that the above particulars are true to best of\nmy knowledge and belief.\nplace\n: chennai\ndate\n: 09-02-2019\njennifer dj\n2",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

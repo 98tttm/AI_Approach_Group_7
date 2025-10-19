@@ -1,0 +1,19 @@
+{
+  "id": "cv (4960).pdf",
+  "normalized_sections": {
+    "ABOUT": "mikayla neuer\na s s o c i a t e s y s t e m e n g i n e e r a n a l y s t\nwork background\nfresher early in system engineer role\nindosis care\nlooking to change tracks into data analytics\njunior system engineer analyst, jul 2020 -ongoing\nand application.",
+    "EDUCATION": {
+      "raw": "used automation on cloud technologies like kubernetes and aws to\nimprove the availability, reduce cost and improve ease of development\nand maintenance. communicated with different management\nteams for designing, developing, testing, troubleshooting and analyzing\nto debug the applications.\nsoftware development, application\nbachelor of technology(instrumentation) from hoogly engineering college in 2020\nprogramming, agile methodology,\nsystem analysis, technical",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "architecture, management,\nrequirement gathering, client\nmanagement, machine learning, java.\nemail delivery system\ndeep learning specialization\nautomating kubernetes and docker\nworkflow"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cv (4900).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "business analytics",
+      "data analysis",
+      "data analytics",
+      "deep learning",
+      "i am a fresher specializing in data analytics and machine learning",
+      "linux",
+      "machine",
+      "nlp.",
+      "python",
+      "sql"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "prove my potential as a developer. i can easily communicate and work\nintern, oct 2020 - dec 2020\nsoftware developer intern, dec 2019 - may 2020",
+      "companies": [],
+      "titles": [
+        "developer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "under someone s supervision who can guide me and help me in this\nbachelor of technology(computers) from amity university, noida in 2021",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "university"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "PROJECTS": {
+      "raw": "developed a small script based application to indentify fake\ncreated multiple applications based on object detection, ocr and",
+      "keywords": [
+        "app",
+        "object detection"
+      ]
+    }
+  }
+}

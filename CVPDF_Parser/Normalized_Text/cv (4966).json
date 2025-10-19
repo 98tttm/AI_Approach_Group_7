@@ -1,0 +1,42 @@
+{
+  "id": "cv (4966).pdf",
+  "normalized_sections": {
+    "WORK EXPERIENCE": {
+      "raw": "i am a software developer currently working on machine learning\nengineer, data analyst.\nsoftware developer (machine learning), nov 2019 - ongoing",
+      "companies": [],
+      "titles": [
+        "analyst",
+        "developer",
+        "engineer"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "SKILLS": [
+      ". the domain of analytics and machine learning has amassed",
+      "factory",
+      "machine learning",
+      "microsoft azure",
+      "pyspark",
+      "python",
+      "sql"
+    ],
+    "ABOUT": "a greater interest for me and i want to explore and learn about the\ntime role that will help me explore more about this.",
+    "CERTIFICATIONS": "azure databricks, azure data",
+    "PROJECTS": {
+      "raw": "fraud detection using natural language processing to identify the\ntext analyzer using nltk",
+      "keywords": []
+    },
+    "EDUCATION": {
+      "raw": "bachelor of technology (information technology) from prm college of",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [
+        "college"
+      ],
+      "years": []
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cv (900).pdf",
+  "normalized_sections": {
+    "SKILLS": [
+      "ansys",
+      "autocad",
+      "axis vm",
+      "driving license b",
+      "english intermediate c type language exam",
+      "language:",
+      "mathcad",
+      "microsoft excel",
+      "microsoft word",
+      "other qualification:",
+      "powerpoint",
+      "steelexpress",
+      "structural engineering",
+      "tekla",
+      "vb express",
+      "workplace:"
+    ],
+    "PROJECTS": {
+      "raw": "2007-\nadeptus plc. - professional practice (construction site management)\n2008-09\nf ldv ri engineering ltd. - professional practice (construction)\n2009-\ncivil engineer, ceos\n2007\ntdk earthquake resistance sensitivity of industrial steel buildings,\nsupervisor: jo , attila l szl and dunai, l szl (2nd price)",
+      "keywords": []
+    },
+    "ACHIEVEMENTS": "2009\notdk earthquake resistance sensitivity of industrial steel buildings,\nsupervisor: jo , attila l szl and dunai, l szl (1st price)\n2008\nbauhaus summer academy - validation of numerical models,\nweimar, germany (2 weeks)",
+    "ACTIVITIES": "2008\nprof. ott hal sz plaque for prominent professional and communal\nstructural engineering main references:\ngheorghiu-dej, 8th februar 1986\ndate of birth:\nnationality:\nhungarian\nhome address:\nh-1135 budapest, szt. l szl t 88., hungary\nmarital status:\nmarried\ne-mail:\niwgazdus ce-os.eu\nphone number: 36/30/863-04-29",
+    "WORK EXPERIENCE": {
+      "raw": "izabella gazdusn wusinczky\ncivil engineering\nmsc in civil engineering\npresent workplace:\ncivil engineer, ceos - civil engineering optimal solutions\nh-1054 budapest, v rtan k tere 1., hungary\ntel.: 36/30/863-04-29\nemail: iwgazdus ce-os.eu\nqualification:\nmsc diploma civil engineer, bme\n1996-2004\nf nyi gyula jesuit secondary school, miskolc\n2004-09\nbudapest university of technology and economics - department of",
+      "companies": [
+        "inc",
+        "solutions"
+      ],
+      "titles": [
+        "engineer"
+      ],
+      "years": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

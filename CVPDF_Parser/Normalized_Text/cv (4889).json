@@ -1,0 +1,43 @@
+{
+  "id": "cv (4889).pdf",
+  "normalized_sections": {
+    "ABOUT": "grant abberns\ndata manager\nexpertise in identifying & developing innovative and out-of-the-box analytical solutions using suitable machine learning\nalgorithms and statistical methods to achieve actionable insights & optimize business decisions skilled in assisting in the\nstrategic direction of the company by identifying opportunities in large, rich data sets and creating and implementing data-",
+    "SKILLS": [
+      "analytics practice and deciding best-fit commercial model options for different sourcing scenarios.",
+      "data analysis",
+      "data modelling",
+      "data programming",
+      "data visualization",
+      "deep learning",
+      "driven strategies that fuel growth capable in driving data-driven decisionmaking",
+      "excel",
+      "insights",
+      "machine learning",
+      "objective analysis.",
+      "python",
+      "sas base",
+      "stakeholder management",
+      "steering",
+      "tableau",
+      "text mining"
+    ],
+    "WORK EXPERIENCE": {
+      "raw": "movie market survey food recommending\npublicis sapient\nsystem\ndata programmer, jan 2019 - till date\nsetting up processes for data management, template\nother qualification\nanalytical modules/deliverables improving processes\nwith a focus on automation of data feeding to ml",
+      "companies": [],
+      "titles": [],
+      "years": [
+        "20"
+      ]
+    },
+    "EDUCATION": {
+      "raw": "data science with sas and r\nmodels.\nadvanced sas: sql & macros\npython text mining\npublicis sapient\nanalyst intern, oct 2018 - jan 2018\nworked on air pollution related disease analysis.\nbachelor of technology (electrical), nist kottam, 2019",
+      "degree": [
+        "bachelor"
+      ],
+      "institution": [],
+      "years": [
+        "20"
+      ]
+    }
+  }
+}

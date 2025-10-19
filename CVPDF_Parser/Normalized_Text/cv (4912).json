@@ -1,0 +1,20 @@
+{
+  "id": "cv (4912).pdf",
+  "normalized_sections": {
+    "ABOUT": "anthony guap\nf r e s h e r d e e p l e a r n i n g p r a c t i t i o n e r\ndeep learning fresher who is looking to join a\napplied machine learning, deep\ncompany to understand and experience production\nlearning, computer vision, guided",
+    "WORK EXPERIENCE": {
+      "raw": "grade models. i am experienced with latent as well\nmechanisms, search algorithms,\nas cloud-based models on azure and aws\noptimization, parameter tuning.\nvizon ltd\nb.tech computer science &\njunior intern aug 2019- sep 2020\nengineering from sadar sai chand",
+      "companies": [
+        "ltd"
+      ],
+      "titles": [
+        "engineer",
+        "intern"
+      ],
+      "years": [
+        "20"
+      ]
+    },
+    "ACTIVITIES": "college, mumbai in 2019\nused pre-trained model of vgg16 for\nimage classification..\npredicting dispute category\npython analysis with pandas and numpy\npredicting payment days category of an\nhands on machine learning\ninvoice"
+  }
+}
