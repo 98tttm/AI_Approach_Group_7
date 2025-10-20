@@ -1,22 +1,3 @@
-"""
-Huấn luyện mô hình NER (trích xuất kỹ năng) và chuẩn hóa kỹ năng
-File dataset: /mnt/data/cv_ner_dataset.jsonl
-Mô tả: mỗi dòng JSON có thể là 1 trong 2 format phổ biến:
-  1) {"text": "...", "entities": [[start, end, "SKILL"], ...]}
-  2) {"text": "...", "labels": [{"start":.., "end":.., "label": "SKILL"}, ...]}
-
-Script này dùng Hugging Face transformers + datasets để huấn luyện token-classification (BERT multilingual).
-Sau khi huấn luyện, script còn chứa module "normalize_skills" sử dụng RapidFuzz để map các kỹ năng trích xuất vào danh sách chuẩn (skills_master.csv).
-
-Lưu ý: môi trường cần cài các package: transformers, datasets, tokenizers, seqeval, sklearn, rapidfuzz, torch
-Ví dụ cài đặt:
-  pip install transformers datasets seqeval rapidfuzz torch
-
-Chạy ví dụ:
-  python train_ner_and_skill_normalization.py --do_train --output_dir ./ner_model
-
-"""
-
 import os
 import json
 import argparse
