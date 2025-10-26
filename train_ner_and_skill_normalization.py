@@ -1,337 +1,564 @@
 import os
 import json
+import logging
 import argparse
+import re
+import numpy as np
+from typing import List, Dict, Any, Tuple, Optional
 from pathlib import Path
-from typing import List, Dict, Tuple
 
-# --- Helpers: chuẩn hóa đầu vào JSONL thành format huggingface datasets ---
+import torch
+from torch.utils.data import DataLoader
+from transformers import (
+    AutoTokenizer,
+    AutoModelForTokenClassification,
+    TrainingArguments,
+    Trainer,
+    DataCollatorForTokenClassification
+)
+from datasets import Dataset, DatasetDict
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
+from transformers.trainer_utils import EvalPrediction
 
-def load_jsonl(path: str):
-    records = []
-    with open(path, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            records.append(json.loads(line))
-    return records
+# Import fuzzywuzzy với try-except để xử lý nếu thiếu
+try:
+    from fuzzywuzzy import fuzz
+except ImportError:
+    fuzz = None
+    logging.warning("Thư viện fuzzywuzzy chưa được cài đặt. Chức năng chuẩn hóa kỹ năng sẽ bị vô hiệu hóa. Hãy cài đặt bằng: pip install fuzzywuzzy python-Levenshtein")
 
+# Thiết lập logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
-def convert_to_ner_examples(records: List[dict]):
-    """Chuyển thành list of dicts: {"id","tokens?", "text","entities": [(start,end,label), ...]}"""
-    out = []
-    for i, r in enumerate(records):
-        text = r.get('text') or r.get('content') or r.get('sentence')
-        if text is None:
-            # try other keys
-            keys = list(r.keys())
-            if keys:
-                text = r[keys[0]]
-        entities = []
-        if 'entities' in r and isinstance(r['entities'], list):
-            # entities might already be list of [start,end,label] or dicts
-            for e in r['entities']:
-                if isinstance(e, list) and len(e) >= 3:
-                    start, end, label = e[0], e[1], e[2]
-                elif isinstance(e, dict):
-                    start = e.get('start')
-                    end = e.get('end')
-                    label = e.get('label') or e.get('type')
-                else:
-                    continue
-                entities.append((start, end, label))
-        elif 'labels' in r and isinstance(r['labels'], list):
-            for e in r['labels']:
-                start = e.get('start')
-                end = e.get('end')
-                label = e.get('label') or e.get('type')
-                entities.append((start, end, label))
-        else:
-            # no entities
-            entities = []
-        out.append({"id": str(i), "text": text, "entities": entities})
-    return out
+# Định nghĩa các nhãn
+LABELS = ["O", "B-SKILL", "I-SKILL"]
+LABEL_MAP = {label: i for i, label in enumerate(LABELS)}
+ID_TO_LABEL = {i: label for i, label in enumerate(LABELS)}
 
 
-# --- Token classification dataset conversion ---
+class NERDataProcessor:
+    """Lớp xử lý dữ liệu cho mô hình NER"""
 
-def align_labels_with_tokens(tokenizer, text, entities, label_to_id):
-    """Tokenize the text and create labels per token using BIO scheme.
-    entities: list of (start, end, label) where start/end are char indexes
-    Returns input_ids, attention_mask, labels (list aligned to tokens)
-    """
-    encoding = tokenizer(text, return_offsets_mapping=True, truncation=True)
-    offsets = encoding.pop('offset_mapping')
-    labels = [label_to_id['O']] * len(offsets)
+    def __init__(self, tokenizer: AutoTokenizer, max_length: int = 128):
+        self.tokenizer = tokenizer
+        self.max_length = max_length
 
-    for (start, end, label) in entities:
-        if start is None or end is None:
-            continue
-        # find token indices that overlap with this span
-        token_indices = []
-        for i, (s, e) in enumerate(offsets):
-            if e == 0 and s == 0:
-                continue  # special tokens
-            if not (e <= start or s >= end):
-                token_indices.append(i)
-        if not token_indices:
-            continue
-        # assign B- and I-
-        b_label = f'B-{label}'
-        i_label = f'I-{label}'
-        labels[token_indices[0]] = label_to_id.get(b_label, label_to_id['O'])
-        for idx in token_indices[1:]:
-            labels[idx] = label_to_id.get(i_label, label_to_id['O'])
+    def extract_skills_from_text(self, text: str) -> List[Dict[str, Any]]:
+        """
+        Trích xuất kỹ năng từ phần SKILLS trong văn bản CV.
+        - Tìm đoạn văn bản sau tiêu đề 'SKILLS' hoặc 'Skills'.
+        - Trả về danh sách kỹ năng với vị trí (start, end) và nhãn 'SKILL'.
+        """
+        skills = []
+        # Tìm phần SKILLS bằng regex
+        skills_section = re.search(r'(?i)SKILLS\n(.*?)(?=\n[A-Z\s]+:|\n[A-Z\s]+\n|$)', text, re.DOTALL)
+        if not skills_section:
+            return skills
 
-    return encoding['input_ids'], encoding['attention_mask'], labels
+        skills_text = skills_section.group(1).strip()
+        # Giả sử kỹ năng được liệt kê bằng dấu phẩy hoặc xuống dòng
+        raw_skills = [s.strip() for s in skills_text.split(',')]
+        raw_skills = [s for s in raw_skills if s]  # Loại bỏ chuỗi rỗng
 
+        for skill in raw_skills:
+            # Tìm tất cả các lần xuất hiện của kỹ năng trong text
+            for match in re.finditer(re.escape(skill), text):
+                start, end = match.start(), match.end()
+                skills.append({
+                    "start": start,
+                    "end": end,
+                    "label": "SKILL"
+                })
 
-# --- Normalization utilities ---
-
-def load_master_skill_list(path: str) -> List[str]:
-    skills = []
-    if not os.path.exists(path):
-        print(f"Warning: master skill list not found at {path}. Normalization will be disabled.")
         return skills
-    with open(path, 'r', encoding='utf-8') as f:
-        for line in f:
-            s = line.strip()
-            if s:
-                skills.append(s)
-    return skills
 
+    def create_dataset_from_dir(self, dir_path: str, output_jsonl: str, text_field: str = "text") -> int:
+        """
+        Tạo file JSONL dataset từ thư mục chứa file JSON CV.
+        - dir_path: Đường dẫn thư mục
+        - output_jsonl: File JSONL đầu ra
+        - text_field: Trường chứa văn bản CV (mặc định: 'text')
+        """
+        dir_path = Path(dir_path)
+        if not dir_path.exists():
+            logger.error(f"Thư mục không tồn tại: {dir_path}")
+            raise ValueError(f"Thư mục không tồn tại: {dir_path}")
 
-def normalize_skill(raw_skill: str, master_skills: List[str], top_k=1):
-    """Return best match from master_skills using RapidFuzz (fuzzy matching)"""
-    try:
-        from rapidfuzz import process
-    except Exception:
-        raise ImportError("rapidfuzz is required for normalization. Install with: pip install rapidfuzz")
-    if not master_skills:
-        return raw_skill, []
-    matches = process.extract(raw_skill, master_skills, limit=top_k)
-    # matches: list of (skill, score, index)
-    return matches[0][0], matches
+        json_files = list(dir_path.glob('*.json'))
+        num_files = len(json_files)
+        logger.info(f"Tìm thấy {num_files} file JSON trong {dir_path}")
 
+        if num_files == 0:
+            raise ValueError("Không tìm thấy file JSON nào trong thư mục.")
 
-# --- Main: training with transformers ---
+        samples = []
+        skipped = 0
+        for file_path in json_files:
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
 
-def make_label_map(entity_labels: List[str]):
-    labels = ['O']
-    for lab in sorted(set(entity_labels)):
-        labels.append(f'B-{lab}')
-        labels.append(f'I-{lab}')
-    label_to_id = {lab: i for i, lab in enumerate(labels)}
-    id_to_label = {i: lab for lab, i in label_to_id.items()}
-    return labels, label_to_id, id_to_label
-
-
-def prepare_hf_dataset(examples, tokenizer, label_to_id):
-    # Convert to huggingface-friendly dicts
-    input_ids_list = []
-    attention_list = []
-    label_list = []
-    for ex in examples:
-        input_ids, attention_mask, labels = align_labels_with_tokens(tokenizer, ex['text'], ex['entities'], label_to_id)
-        input_ids_list.append(input_ids)
-        attention_list.append(attention_mask)
-        label_list.append(labels)
-    # We will use dataset.Dataset.from_dict in the main training function, so return lists
-    return input_ids_list, attention_list, label_list
-
-
-# A compact Trainer-based training flow
-
-def train_transformer_ner(args):
-    from datasets import Dataset, DatasetDict
-    from transformers import AutoTokenizer, AutoModelForTokenClassification, TrainingArguments, Trainer, DataCollatorForTokenClassification
-    import numpy as np
-    from seqeval.metrics import classification_report
-
-    # 1) load raw
-    records = load_jsonl(args.dataset)
-    examples = convert_to_ner_examples(records)
-
-    # collect entity label set
-    entity_labels = []
-    for ex in examples:
-        for (_, _, lab) in ex['entities']:
-            if lab not in entity_labels:
-                entity_labels.append(lab)
-
-    labels, label_to_id, id_to_label = make_label_map(entity_labels)
-    print('Labels:', labels)
-
-    # 2) tokenizer & model
-    tokenizer = AutoTokenizer.from_pretrained(args.model_name)
-    model = AutoModelForTokenClassification.from_pretrained(args.model_name, num_labels=len(labels))
-
-    # 3) prepare data
-    input_ids_list, attention_list, label_list = prepare_hf_dataset(examples, tokenizer, label_to_id)
-
-    # build dataset
-    ds = Dataset.from_dict({
-        'input_ids': input_ids_list,
-        'attention_mask': attention_list,
-        'labels': label_list,
-        'text': [ex['text'] for ex in examples]
-    })
-
-    # simple split
-    ds = ds.train_test_split(test_size=0.1, seed=42)
-
-    # data collator
-    data_collator = DataCollatorForTokenClassification(tokenizer)
-
-    # compute metrics
-    def compute_metrics(p):
-        predictions, labels_batch = p
-        predictions = np.argmax(predictions, axis=2)
-        true_labels = []
-        pred_labels = []
-        for pred, lab, mask in zip(predictions, labels_batch, (labels_batch != -100)):
-            # convert ids to label names; note: dataset labels may have padding; here we assume labels list aligns
-            tl = []
-            pl = []
-            for p_id, l_id in zip(pred, lab):
-                if l_id == -100:
+                text = data.get(text_field, "")
+                if not text.strip():
+                    logger.warning(f"Bỏ qua file {file_path.name}: Không có văn bản")
+                    skipped += 1
                     continue
-                tl.append(id_to_label.get(int(l_id), 'O'))
-                pl.append(id_to_label.get(int(p_id), 'O'))
-            true_labels.append(tl)
-            pred_labels.append(pl)
-        # use seqeval
-        report = classification_report(true_labels, pred_labels, output_dict=True)
+
+                # Trích xuất kỹ năng từ phần SKILLS (nếu có)
+                entities = self.extract_skills_from_text(text)
+
+                samples.append({
+                    "text": text,
+                    "entities": entities
+                })
+
+            except json.JSONDecodeError as e:
+                logger.warning(f"Bỏ qua file {file_path.name}: {e}")
+                skipped += 1
+            except Exception as e:
+                logger.warning(f"Lỗi khi đọc file {file_path.name}: {e}")
+                skipped += 1
+
+        # Lưu vào JSONL
+        os.makedirs(Path(output_jsonl).parent, exist_ok=True)
+        with open(output_jsonl, 'w', encoding='utf-8') as f:
+            for sample in samples:
+                f.write(json.dumps(sample, ensure_ascii=False) + '\n')
+
+        logger.info(f"Đã tạo {len(samples)} mẫu vào {output_jsonl} (bỏ qua {skipped} file)")
+        return len(samples)
+
+    def load_data(self, file_path: str) -> List[Dict[str, Any]]:
+        """Đọc dữ liệu từ file JSONL"""
+        try:
+            data = []
+            with open(file_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    try:
+                        data.append(json.loads(line.strip()))
+                    except json.JSONDecodeError as e:
+                        logger.warning(f"Bỏ qua dòng không hợp lệ trong {file_path}: {e}")
+            logger.info(f"Đã đọc {len(data)} mẫu từ {file_path}")
+            return data
+        except FileNotFoundError:
+            logger.error(f"File không tồn tại: {file_path}")
+            raise
+        except Exception as e:
+            logger.error(f"Lỗi khi đọc file {file_path}: {e}")
+            raise
+
+    def _convert_to_dataset_format(self, examples: List[Dict[str, Any]]) -> Dict[str, List]:
+        """Chuyển đổi dữ liệu sang đặc trưng token dựa trên offset mapping."""
+        input_ids = []
+        attention_masks = []
+        labels_list = []
+
+        for example in examples:
+            text = example.get("text", "")
+            entities = example.get("entities", [])
+
+            if not text:
+                logger.warning("Bỏ qua mẫu không có văn bản")
+                continue
+
+            encoding = self.tokenizer(
+                text,
+                padding="max_length",
+                truncation=True,
+                max_length=self.max_length,
+                return_offsets_mapping=True,
+                return_tensors=None
+            )
+
+            token_ids = encoding["input_ids"]
+            attn_mask = encoding["attention_mask"]
+            offsets = encoding["offset_mapping"]
+
+            label_ids = []
+            for (tok_start, tok_end) in offsets:
+                if tok_start == tok_end:  # Token đặc biệt hoặc padding
+                    label_ids.append(-100)
+                    continue
+
+                assigned = False
+                for ent in entities:
+                    try:
+                        if isinstance(ent, dict):
+                            start = int(ent.get("start", 0))
+                            end = int(ent.get("end", 0))
+                            label = ent.get("label", "SKILL")
+                        elif isinstance(ent, (list, tuple)) and len(ent) >= 2:
+                            start = int(ent[0])
+                            end = int(ent[1])
+                            label = ent[2] if len(ent) > 2 else "SKILL"
+                        else:
+                            continue
+                        if tok_start < end and tok_end > start:
+                            if tok_start <= start < tok_end:
+                                label_ids.append(LABEL_MAP.get(f"B-{label}", LABEL_MAP["B-SKILL"]))
+                            else:
+                                label_ids.append(LABEL_MAP.get(f"I-{label}", LABEL_MAP["I-SKILL"]))
+                            assigned = True
+                            break
+                    except (ValueError, TypeError) as e:
+                        logger.warning(f"Bỏ qua thực thể không hợp lệ: {ent}, lỗi: {e}")
+                        continue
+
+                if not assigned:
+                    label_ids.append(LABEL_MAP["O"])
+
+            input_ids.append(token_ids)
+            attention_masks.append(attn_mask)
+            labels_list.append(label_ids)
+
         return {
-            'precision': report.get('micro avg', {}).get('precision', 0),
-            'recall': report.get('micro avg', {}).get('recall', 0),
-            'f1': report.get('micro avg', {}).get('f1-score', 0)
+            "input_ids": input_ids,
+            "attention_mask": attention_masks,
+            "labels": labels_list
         }
 
-    # training args
-    training_args = TrainingArguments(
-        output_dir=args.output_dir,
-        evaluation_strategy='epoch',
-        logging_strategy='steps',
-        logging_steps=50,
-        save_strategy='epoch',
-        per_device_train_batch_size=args.batch_size,
-        per_device_eval_batch_size=args.batch_size,
-        num_train_epochs=args.epochs,
-        weight_decay=0.01,
-        learning_rate=args.lr,
-        push_to_hub=False,
-        load_best_model_at_end=True,
-        metric_for_best_model='f1'
-    )
+    def prepare_dataset(self, data: List[Dict[str, Any]], split_ratio: float = 0.8) -> DatasetDict:
+        """Chuẩn bị tập dữ liệu và chia thành train/validation"""
+        processed_data = []
+        for item in data:
+            text = item.get("text", "")
+            entities = item.get("entities", [])
+            norm_entities = []
+            for ent in entities:
+                try:
+                    if isinstance(ent, dict):
+                        start = int(ent.get("start", 0))
+                        end = int(ent.get("end", 0))
+                        label = ent.get("label", "SKILL")
+                    elif isinstance(ent, (list, tuple)) and len(ent) >= 2:
+                        start = int(ent[0])
+                        end = int(ent[1])
+                        label = ent[2] if len(ent) > 2 else "SKILL"
+                    else:
+                        raise ValueError(f"Invalid entity format: {ent}")
+                    if start < end:
+                        norm_entities.append([start, end, label])
+                except (ValueError, TypeError) as e:
+                    logger.warning(f"Bỏ qua thực thể không hợp lệ: {ent}, lỗi: {e}")
+                    continue
+            processed_data.append({"text": text, "entities": norm_entities})
 
-    trainer = Trainer(
-        model=model,
-        args=training_args,
-        train_dataset=ds['train'],
-        eval_dataset=ds['test'],
-        tokenizer=tokenizer,
-        data_collator=data_collator,
-        compute_metrics=compute_metrics
-    )
+        np.random.seed(42)
+        np.random.shuffle(processed_data)
+        split_idx = int(len(processed_data) * split_ratio)
+        train_data = processed_data[:split_idx]
+        val_data = processed_data[split_idx:]
 
-    trainer.train()
-    trainer.save_model(args.output_dir)
-    tokenizer.save_pretrained(args.output_dir)
-    print('Training done. Model saved to', args.output_dir)
+        train_features = self._convert_to_dataset_format(train_data)
+        val_features = self._convert_to_dataset_format(val_data)
 
-
-# --- Simple inference + normalization example ---
-
-def inference_and_normalize(model_dir: str, texts: List[str], master_skill_path: str = None):
-    from transformers import AutoTokenizer, AutoModelForTokenClassification
-    import torch
-    from rapidfuzz import process
-
-    tokenizer = AutoTokenizer.from_pretrained(model_dir)
-    model = AutoModelForTokenClassification.from_pretrained(model_dir)
-
-    labels = model.config.id2label if hasattr(model.config, 'id2label') else None
-    if isinstance(labels, dict):
-        id2label = {int(k): v for k, v in labels.items()}
-    else:
-        # try default mapping
-        id2label = {i: lab for i, lab in enumerate(model.config.label2id.keys())}
-
-    master_skills = load_master_skill_list(master_skill_path) if master_skill_path else []
-
-    results = []
-    for text in texts:
-        enc = tokenizer(text, return_offsets_mapping=True, return_tensors='pt', truncation=True)
-        with torch.no_grad():
-            out = model(**{k: v for k, v in enc.items() if k!='offset_mapping'})
-        logits = out.logits.squeeze(0).cpu().numpy()
-        preds = logits.argmax(axis=-1)
-        offsets = enc['offset_mapping'].squeeze(0).cpu().numpy()
-
-        # collect spans with B-/I- scheme
-        spans = []
-        cur_span = None
-        for pred_id, (s, e) in zip(preds, offsets):
-            label = id2label.get(int(pred_id), 'O')
-            if label == 'O' or e==0 and s==0:
-                if cur_span:
-                    spans.append(cur_span)
-                    cur_span = None
-                continue
-            if label.startswith('B-'):
-                if cur_span:
-                    spans.append(cur_span)
-                cur_span = {'label': label[2:], 'start': s, 'end': e}
-            elif label.startswith('I-') and cur_span:
-                cur_span['end'] = e
-            else:
-                # fallback
-                if cur_span:
-                    spans.append(cur_span)
-                cur_span = None
-        if cur_span:
-            spans.append(cur_span)
-
-        extracted = []
-        for sp in spans:
-            raw = text[sp['start']:sp['end']]
-            canonical = raw
-            best = None
-            if master_skills:
-                match = process.extractOne(raw, master_skills)
-                if match:
-                    canonical = match[0]
-                    best = match
-            extracted.append({'text': raw, 'label': sp['label'], 'canonical': canonical, 'match': best})
-        results.append({'text': text, 'extracted': extracted})
-    return results
+        dataset_dict = DatasetDict({
+            "train": Dataset.from_dict(train_features),
+            "validation": Dataset.from_dict(val_features)
+        })
+        logger.info(f"Dataset: {len(train_data)} train, {len(val_data)} validation")
+        return dataset_dict
 
 
-# --- Command line interface ---
+class NERTrainer:
+    """Lớp huấn luyện mô hình NER"""
+
+    def __init__(self, model_name: str = "bert-base-uncased", output_dir: str = "./models/ner_model"):
+        self.model_name = model_name
+        self.output_dir = output_dir
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+        self.data_processor = NERDataProcessor(self.tokenizer)
+
+        os.makedirs(output_dir, exist_ok=True)
+
+    def train(self, dataset: DatasetDict, epochs: int = 3, batch_size: int = 16, learning_rate: float = 5e-5):
+        """Huấn luyện mô hình NER"""
+        try:
+            model = AutoModelForTokenClassification.from_pretrained(
+                self.model_name,
+                num_labels=len(LABELS),
+                id2label=ID_TO_LABEL,
+                label2id=LABEL_MAP
+            )
+        except Exception as e:
+            logger.error(f"Lỗi khi tải mô hình {self.model_name}: {e}")
+            raise
+
+        training_args = TrainingArguments(
+            output_dir=self.output_dir,
+            num_train_epochs=epochs,
+            per_device_train_batch_size=batch_size,
+            per_device_eval_batch_size=batch_size,
+            learning_rate=learning_rate,
+            weight_decay=0.01,
+            eval_strategy="epoch",
+            save_strategy="epoch",
+            load_best_model_at_end=True,
+            metric_for_best_model="f1",
+            greater_is_better=True,
+            logging_dir=os.path.join(self.output_dir, "logs"),
+            logging_steps=100,
+            save_total_limit=2,
+            report_to="none"
+        )
+
+        def compute_metrics(pred: EvalPrediction):
+            predictions = np.argmax(pred.predictions, axis=2)
+            labels = pred.label_ids
+
+            true_labels = [[ID_TO_LABEL[l] for l in label if l != -100] for label in labels]
+            true_predictions = [
+                [ID_TO_LABEL[p] for (p, l) in zip(prediction, label) if l != -100]
+                for prediction, label in zip(predictions, labels)
+            ]
+
+            all_true_labels = [label for sublist in true_labels for label in sublist]
+            all_predictions = [pred for sublist in true_predictions for pred in sublist]
+
+            precision, recall, f1, _ = precision_recall_fscore_support(
+                all_true_labels, all_predictions, average="weighted", zero_division=0
+            )
+            acc = accuracy_score(all_true_labels, all_predictions)
+
+            return {
+                "accuracy": acc,
+                "precision": precision,
+                "recall": recall,
+                "f1": f1
+            }
+
+        data_collator = DataCollatorForTokenClassification(self.tokenizer)
+
+        trainer = Trainer(
+            model=model,
+            args=training_args,
+            train_dataset=dataset["train"],
+            eval_dataset=dataset["validation"],
+            data_collator=data_collator,
+            tokenizer=self.tokenizer,
+            compute_metrics=compute_metrics
+        )
+
+        logger.info("Bắt đầu huấn luyện mô hình...")
+        trainer.train()
+
+        trainer.save_model(self.output_dir)
+        self.tokenizer.save_pretrained(self.output_dir)
+        logger.info(f"Đã lưu mô hình vào {self.output_dir}")
+
+        eval_result = trainer.evaluate()
+        logger.info(f"Kết quả đánh giá: {eval_result}")
+
+        return eval_result
+
+
+class SkillNormalizer:
+    """Lớp chuẩn hóa kỹ năng"""
+
+    def __init__(self, normalization_dict_path: Optional[str] = None):
+        self.normalization_dict = {}
+        if normalization_dict_path and os.path.exists(normalization_dict_path):
+            try:
+                with open(normalization_dict_path, 'r', encoding='utf-8') as f:
+                    self.normalization_dict = json.load(f)
+                logger.info(f"Đã tải từ điển chuẩn hóa với {len(self.normalization_dict)} mục")
+            except Exception as e:
+                logger.error(f"Lỗi khi tải từ điển chuẩn hóa: {e}")
+                raise
+
+    def normalize_skill(self, skill: str, threshold: int = 80) -> str:
+        """Chuẩn hóa kỹ năng bằng fuzzy matching"""
+        if fuzz is None:
+            logger.warning("fuzzywuzzy chưa cài đặt, bỏ qua chuẩn hóa và trả về skill gốc.")
+            return skill.strip()
+
+        if not skill:
+            return skill
+
+        skill = skill.strip()
+        if skill in self.normalization_dict:
+            return self.normalization_dict[skill]
+
+        best_match = None
+        best_score = 0
+        for known_skill in self.normalization_dict:
+            score = fuzz.ratio(skill.lower(), known_skill.lower())
+            if score > best_score and score >= threshold:
+                best_score = score
+                best_match = known_skill
+
+        return self.normalization_dict.get(best_match, skill)
+
+    def add_to_dict(self, skill: str, normalized_skill: str):
+        """Thêm một cặp kỹ năng vào từ điển"""
+        self.normalization_dict[skill] = normalized_skill
+
+    def save_dict(self, output_path: str):
+        """Lưu từ điển chuẩn hóa"""
+        try:
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(self.normalization_dict, f, ensure_ascii=False, indent=2)
+            logger.info(f"Đã lưu từ điển chuẩn hóa vào {output_path}")
+        except Exception as e:
+            logger.error(f"Lỗi khi lưu từ điển chuẩn hóa: {e}")
+            raise
+
+
+class NERInference:
+    """Lớp suy luận cho mô hình NER"""
+
+    def __init__(self, model_dir: str, skill_normalizer: Optional[SkillNormalizer] = None):
+        try:
+            self.tokenizer = AutoTokenizer.from_pretrained(model_dir)
+            self.model = AutoModelForTokenClassification.from_pretrained(model_dir)
+            self.skill_normalizer = skill_normalizer
+            self.model.eval()
+        except Exception as e:
+            logger.error(f"Lỗi khi tải mô hình hoặc tokenizer từ {model_dir}: {e}")
+            raise
+
+    def extract_skills(self, text: str) -> List[Dict[str, Any]]:
+        """Trích xuất kỹ năng từ văn bản"""
+        try:
+            enc = self.tokenizer(
+                text,
+                return_tensors="pt",
+                padding=True,
+                truncation=True,
+                max_length=128,
+                return_offsets_mapping=True
+            )
+
+            model_inputs = {k: v.to(self.model.device) for k, v in enc.items() if k != "offset_mapping"}
+            offsets = enc["offset_mapping"][0].tolist()
+
+            with torch.no_grad():
+                outputs = self.model(**model_inputs)
+                pred_ids = torch.argmax(outputs.logits, dim=2)[0].tolist()
+
+            skills = []
+            current_span = None
+
+            for tok_idx, pred_id in enumerate(pred_ids):
+                if tok_idx >= len(offsets):
+                    break
+                start, end = offsets[tok_idx]
+                if start == end:
+                    continue
+
+                label = ID_TO_LABEL.get(pred_id, "O")
+                if label == "B-SKILL":
+                    if current_span is not None:
+                        s, e = current_span
+                        skill_text = text[s:e].strip()
+                        if skill_text:
+                            skill_info = {"skill": skill_text, "start": s, "end": e}
+                            if self.skill_normalizer:
+                                skill_info["normalized"] = self.skill_normalizer.normalize_skill(skill_text)
+                            skills.append(skill_info)
+                    current_span = (start, end)
+                elif label == "I-SKILL" and current_span is not None:
+                    current_span = (current_span[0], end)
+                else:
+                    if current_span is not None:
+                        s, e = current_span
+                        skill_text = text[s:e].strip()
+                        if skill_text:
+                            skill_info = {"skill": skill_text, "start": s, "end": e}
+                            if self.skill_normalizer:
+                                skill_info["normalized"] = self.skill_normalizer.normalize_skill(skill_text)
+                            skills.append(skill_info)
+                        current_span = None
+
+            if current_span is not None:
+                s, e = current_span
+                skill_text = text[s:e].strip()
+                if skill_text:
+                    skill_info = {"skill": skill_text, "start": s, "end": e}
+                    if self.skill_normalizer:
+                        skill_info["normalized"] = self.skill_normalizer.normalize_skill(skill_text)
+                    skills.append(skill_info)
+
+            return skills
+        except Exception as e:
+            logger.error(f"Lỗi khi trích xuất kỹ năng: {e}")
+            raise
+
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=str, default='/mnt/data/cv_ner_dataset.jsonl')
-    parser.add_argument('--model_name', type=str, default='bert-base-multilingual-cased')
-    parser.add_argument('--output_dir', type=str, default='./ner_model')
-    parser.add_argument('--epochs', type=int, default=3)
-    parser.add_argument('--batch_size', type=int, default=8)
-    parser.add_argument('--lr', type=float, default=5e-5)
-    parser.add_argument('--do_train', action='store_true')
-    parser.add_argument('--master_skill_list', type=str, default='./skills_master.txt')
-    parser.add_argument('--do_infer', action='store_true')
-    parser.add_argument('--infer_text', type=str, default=None, help='If provided, run inference on this single text (in quotes)')
+    """Hàm chính"""
+    parser = argparse.ArgumentParser(description="Huấn luyện và suy luận mô hình NER cho kỹ năng")
+
+    parser.add_argument("--model_dir", type=str, default="./models/ner_model",
+                        help="Thư mục chứa mô hình")
+    parser.add_argument("--output_dir", type=str, default="./models/ner_model",
+                        help="Thư mục lưu mô hình")
+    parser.add_argument("--create_dataset", action="store_true",
+                        help="Tạo dataset JSONL từ thư mục file JSON CV")
+    parser.add_argument("--cv_dir", type=str,
+                        default="/Users/bi/PycharmProjects/python test/pythonProject2/AI_Approach_Group_7-main/CVPDF_Parser/Clean_Text",
+                        help="Thư mục chứa file JSON CV")
+    parser.add_argument("--output_jsonl", type=str, default="./data/cv_ner_dataset.jsonl",
+                        help="File JSONL đầu ra")
+    parser.add_argument("--text_field", type=str, default="text",
+                        help="Tên trường chứa văn bản CV trong JSON")
+    parser.add_argument("--do_train", action="store_true",
+                        help="Huấn luyện mô hình")
+    parser.add_argument("--dataset", type=str, default="./data/cv_ner_dataset.jsonl",
+                        help="Đường dẫn đến tập dữ liệu")
+    parser.add_argument("--epochs", type=int, default=3,
+                        help="Số epoch huấn luyện")
+    parser.add_argument("--batch_size", type=int, default=16,
+                        help="Kích thước batch")
+    parser.add_argument("--lr", type=float, default=5e-5,
+                        help="Tốc độ học")
+    parser.add_argument("--normalization_dict", type=str, default=None,
+                        help="Đường dẫn đến từ điển chuẩn hóa kỹ năng")
+    parser.add_argument("--do_infer", action="store_true",
+                        help="Thực hiện suy luận")
+    parser.add_argument("--infer_text", type=str, default=None,
+                        help="Văn bản để trích xuất kỹ năng")
+
     args = parser.parse_args()
 
+    if args.create_dataset:
+        logger.info("Bắt đầu tạo dataset từ thư mục CV...")
+        tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+        processor = NERDataProcessor(tokenizer)
+        num_samples = processor.create_dataset_from_dir(
+            args.cv_dir, args.output_jsonl, args.text_field
+        )
+        print(f"Hoàn thành! Đã tạo {num_samples} mẫu trong {args.output_jsonl}")
+        return
+
     if args.do_train:
-        train_transformer_ner(args)
+        logger.info("Bắt đầu quá trình huấn luyện...")
+        trainer = NERTrainer(model_name="bert-base-uncased", output_dir=args.output_dir)
+        data = trainer.data_processor.load_data(args.dataset)
+        dataset = trainer.data_processor.prepare_dataset(data)
+        trainer.train(dataset, epochs=args.epochs, batch_size=args.batch_size, learning_rate=args.lr)
 
     if args.do_infer:
-        texts = [args.infer_text] if args.infer_text else ["Example: Thành thạo Python, TensorFlow và quản trị Linux."]
-        res = inference_and_normalize(args.output_dir, texts, master_skill_path=args.master_skill_list)
-        print(json.dumps(res, ensure_ascii=False, indent=2))
+        if not args.infer_text:
+            logger.error("Vui lòng cung cấp văn bản để trích xuất kỹ năng (--infer_text)")
+            return
+
+        logger.info("Bắt đầu quá trình suy luận...")
+        skill_normalizer = SkillNormalizer(args.normalization_dict) if args.normalization_dict else None
+        inference = NERInference(args.model_dir, skill_normalizer)
+        skills = inference.extract_skills(args.infer_text)
+
+        print("\nKỹ năng được trích xuất:")
+        for skill in skills:
+            if "normalized" in skill:
+                print(f"- {skill['skill']} (chuẩn hóa: {skill['normalized']})")
+            else:
+                print(f"- {skill['skill']}")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
