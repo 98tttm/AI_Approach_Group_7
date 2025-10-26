@@ -16,9 +16,12 @@ from transformers import (
     Trainer,
     DataCollatorForTokenClassification
 )
-from datasets import Dataset, DatasetDict
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support
-from transformers.trainer_utils import EvalPrediction
+
+# Import datasets với try-except để xử lý nếu thiếu
+try:
+    from datasets import Dataset, DatasetDict
+except ImportError:
+    raise ImportError("Thư viện 'datasets' chưa được cài đặt. Hãy cài đặt bằng: pip install datasets")
 
 # Import fuzzywuzzy với try-except để xử lý nếu thiếu
 try:
@@ -26,6 +29,9 @@ try:
 except ImportError:
     fuzz = None
     logging.warning("Thư viện fuzzywuzzy chưa được cài đặt. Chức năng chuẩn hóa kỹ năng sẽ bị vô hiệu hóa. Hãy cài đặt bằng: pip install fuzzywuzzy python-Levenshtein")
+
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
+from transformers.trainer_utils import EvalPrediction
 
 # Thiết lập logging
 logging.basicConfig(
@@ -54,18 +60,15 @@ class NERDataProcessor:
         - Trả về danh sách kỹ năng với vị trí (start, end) và nhãn 'SKILL'.
         """
         skills = []
-        # Tìm phần SKILLS bằng regex
         skills_section = re.search(r'(?i)SKILLS\n(.*?)(?=\n[A-Z\s]+:|\n[A-Z\s]+\n|$)', text, re.DOTALL)
         if not skills_section:
             return skills
 
         skills_text = skills_section.group(1).strip()
-        # Giả sử kỹ năng được liệt kê bằng dấu phẩy hoặc xuống dòng
         raw_skills = [s.strip() for s in skills_text.split(',')]
-        raw_skills = [s for s in raw_skills if s]  # Loại bỏ chuỗi rỗng
+        raw_skills = [s for s in raw_skills if s]
 
         for skill in raw_skills:
-            # Tìm tất cả các lần xuất hiện của kỹ năng trong text
             for match in re.finditer(re.escape(skill), text):
                 start, end = match.start(), match.end()
                 skills.append({
@@ -77,12 +80,6 @@ class NERDataProcessor:
         return skills
 
     def create_dataset_from_dir(self, dir_path: str, output_jsonl: str, text_field: str = "text") -> int:
-        """
-        Tạo file JSONL dataset từ thư mục chứa file JSON CV.
-        - dir_path: Đường dẫn thư mục
-        - output_jsonl: File JSONL đầu ra
-        - text_field: Trường chứa văn bản CV (mặc định: 'text')
-        """
         dir_path = Path(dir_path)
         if not dir_path.exists():
             logger.error(f"Thư mục không tồn tại: {dir_path}")
@@ -108,9 +105,7 @@ class NERDataProcessor:
                     skipped += 1
                     continue
 
-                # Trích xuất kỹ năng từ phần SKILLS (nếu có)
                 entities = self.extract_skills_from_text(text)
-
                 samples.append({
                     "text": text,
                     "entities": entities
@@ -123,7 +118,6 @@ class NERDataProcessor:
                 logger.warning(f"Lỗi khi đọc file {file_path.name}: {e}")
                 skipped += 1
 
-        # Lưu vào JSONL
         os.makedirs(Path(output_jsonl).parent, exist_ok=True)
         with open(output_jsonl, 'w', encoding='utf-8') as f:
             for sample in samples:
@@ -133,7 +127,6 @@ class NERDataProcessor:
         return len(samples)
 
     def load_data(self, file_path: str) -> List[Dict[str, Any]]:
-        """Đọc dữ liệu từ file JSONL"""
         try:
             data = []
             with open(file_path, 'r', encoding='utf-8') as f:
@@ -152,7 +145,6 @@ class NERDataProcessor:
             raise
 
     def _convert_to_dataset_format(self, examples: List[Dict[str, Any]]) -> Dict[str, List]:
-        """Chuyển đổi dữ liệu sang đặc trưng token dựa trên offset mapping."""
         input_ids = []
         attention_masks = []
         labels_list = []
@@ -180,7 +172,7 @@ class NERDataProcessor:
 
             label_ids = []
             for (tok_start, tok_end) in offsets:
-                if tok_start == tok_end:  # Token đặc biệt hoặc padding
+                if tok_start == tok_end:
                     label_ids.append(-100)
                     continue
 
@@ -222,7 +214,6 @@ class NERDataProcessor:
         }
 
     def prepare_dataset(self, data: List[Dict[str, Any]], split_ratio: float = 0.8) -> DatasetDict:
-        """Chuẩn bị tập dữ liệu và chia thành train/validation"""
         processed_data = []
         for item in data:
             text = item.get("text", "")
@@ -265,18 +256,14 @@ class NERDataProcessor:
 
 
 class NERTrainer:
-    """Lớp huấn luyện mô hình NER"""
-
     def __init__(self, model_name: str = "bert-base-uncased", output_dir: str = "./models/ner_model"):
         self.model_name = model_name
         self.output_dir = output_dir
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.data_processor = NERDataProcessor(self.tokenizer)
-
         os.makedirs(output_dir, exist_ok=True)
 
     def train(self, dataset: DatasetDict, epochs: int = 3, batch_size: int = 16, learning_rate: float = 5e-5):
-        """Huấn luyện mô hình NER"""
         try:
             model = AutoModelForTokenClassification.from_pretrained(
                 self.model_name,
@@ -357,8 +344,6 @@ class NERTrainer:
 
 
 class SkillNormalizer:
-    """Lớp chuẩn hóa kỹ năng"""
-
     def __init__(self, normalization_dict_path: Optional[str] = None):
         self.normalization_dict = {}
         if normalization_dict_path and os.path.exists(normalization_dict_path):
@@ -371,7 +356,6 @@ class SkillNormalizer:
                 raise
 
     def normalize_skill(self, skill: str, threshold: int = 80) -> str:
-        """Chuẩn hóa kỹ năng bằng fuzzy matching"""
         if fuzz is None:
             logger.warning("fuzzywuzzy chưa cài đặt, bỏ qua chuẩn hóa và trả về skill gốc.")
             return skill.strip()
@@ -394,11 +378,9 @@ class SkillNormalizer:
         return self.normalization_dict.get(best_match, skill)
 
     def add_to_dict(self, skill: str, normalized_skill: str):
-        """Thêm một cặp kỹ năng vào từ điển"""
         self.normalization_dict[skill] = normalized_skill
 
     def save_dict(self, output_path: str):
-        """Lưu từ điển chuẩn hóa"""
         try:
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump(self.normalization_dict, f, ensure_ascii=False, indent=2)
@@ -409,8 +391,6 @@ class SkillNormalizer:
 
 
 class NERInference:
-    """Lớp suy luận cho mô hình NER"""
-
     def __init__(self, model_dir: str, skill_normalizer: Optional[SkillNormalizer] = None):
         try:
             self.tokenizer = AutoTokenizer.from_pretrained(model_dir)
@@ -422,7 +402,6 @@ class NERInference:
             raise
 
     def extract_skills(self, text: str) -> List[Dict[str, Any]]:
-        """Trích xuất kỹ năng từ văn bản"""
         try:
             enc = self.tokenizer(
                 text,
@@ -490,38 +469,21 @@ class NERInference:
 
 
 def main():
-    """Hàm chính"""
     parser = argparse.ArgumentParser(description="Huấn luyện và suy luận mô hình NER cho kỹ năng")
-
-    parser.add_argument("--model_dir", type=str, default="./models/ner_model",
-                        help="Thư mục chứa mô hình")
-    parser.add_argument("--output_dir", type=str, default="./models/ner_model",
-                        help="Thư mục lưu mô hình")
-    parser.add_argument("--create_dataset", action="store_true",
-                        help="Tạo dataset JSONL từ thư mục file JSON CV")
-    parser.add_argument("--cv_dir", type=str,
-                        default="/Users/bi/PycharmProjects/python test/pythonProject2/AI_Approach_Group_7-main/CVPDF_Parser/Clean_Text",
-                        help="Thư mục chứa file JSON CV")
-    parser.add_argument("--output_jsonl", type=str, default="./data/cv_ner_dataset.jsonl",
-                        help="File JSONL đầu ra")
-    parser.add_argument("--text_field", type=str, default="text",
-                        help="Tên trường chứa văn bản CV trong JSON")
-    parser.add_argument("--do_train", action="store_true",
-                        help="Huấn luyện mô hình")
-    parser.add_argument("--dataset", type=str, default="./data/cv_ner_dataset.jsonl",
-                        help="Đường dẫn đến tập dữ liệu")
-    parser.add_argument("--epochs", type=int, default=3,
-                        help="Số epoch huấn luyện")
-    parser.add_argument("--batch_size", type=int, default=16,
-                        help="Kích thước batch")
-    parser.add_argument("--lr", type=float, default=5e-5,
-                        help="Tốc độ học")
-    parser.add_argument("--normalization_dict", type=str, default=None,
-                        help="Đường dẫn đến từ điển chuẩn hóa kỹ năng")
-    parser.add_argument("--do_infer", action="store_true",
-                        help="Thực hiện suy luận")
-    parser.add_argument("--infer_text", type=str, default=None,
-                        help="Văn bản để trích xuất kỹ năng")
+    parser.add_argument("--model_dir", type=str, default="./models/ner_model", help="Thư mục chứa mô hình")
+    parser.add_argument("--output_dir", type=str, default="./models/ner_model", help="Thư mục lưu mô hình")
+    parser.add_argument("--create_dataset", action="store_true", help="Tạo dataset JSONL từ thư mục file JSON CV")
+    parser.add_argument("--cv_dir", type=str, default="D:/Desktop/PycharmProjects/AI Approach/CVPDF_Parser/Clean_Text", help="Thư mục chứa file JSON CV")
+    parser.add_argument("--output_jsonl", type=str, default="./data/cv_ner_dataset.jsonl", help="File JSONL đầu ra")
+    parser.add_argument("--text_field", type=str, default="text", help="Tên trường chứa văn bản CV trong JSON")
+    parser.add_argument("--do_train", action="store_true", help="Huấn luyện mô hình")
+    parser.add_argument("--dataset", type=str, default="./data/cv_ner_dataset.jsonl", help="Đường dẫn đến tập dữ liệu")
+    parser.add_argument("--epochs", type=int, default=3, help="Số epoch huấn luyện")
+    parser.add_argument("--batch_size", type=int, default=16, help="Kích thước batch")
+    parser.add_argument("--lr", type=float, default=5e-5, help="Tốc độ học")
+    parser.add_argument("--normalization_dict", type=str, default=None, help="Đường dẫn đến từ điển chuẩn hóa kỹ năng")
+    parser.add_argument("--do_infer", action="store_true", help="Thực hiện suy luận")
+    parser.add_argument("--infer_text", type=str, default=None, help="Văn bản để trích xuất kỹ năng")
 
     args = parser.parse_args()
 
@@ -529,9 +491,7 @@ def main():
         logger.info("Bắt đầu tạo dataset từ thư mục CV...")
         tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
         processor = NERDataProcessor(tokenizer)
-        num_samples = processor.create_dataset_from_dir(
-            args.cv_dir, args.output_jsonl, args.text_field
-        )
+        num_samples = processor.create_dataset_from_dir(args.cv_dir, args.output_jsonl, args.text_field)
         print(f"Hoàn thành! Đã tạo {num_samples} mẫu trong {args.output_jsonl}")
         return
 
