@@ -1,11 +1,8 @@
 """
 FILE: cv_jd_matcher.py
 PURPOSE: Rule-Based CV-JD Scoring System
-AUTHOR: Task 3 - CV Scoring System
-DATE: 2024
-
 =============================================================================
-HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI KHÔNG CHUYÊN CODE:
+HƯỚNG DẪN SỬ DỤNG:
 =============================================================================
 
 FILE NÀY LÀM GÌ?
