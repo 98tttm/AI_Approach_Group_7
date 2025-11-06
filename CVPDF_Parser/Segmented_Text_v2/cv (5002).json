@@ -1,9 +1,0 @@
-{
-  "id": "cv (5002).pdf",
-  "sections": {
-    "ABOUT": "JAIME HORAN\nDATA ANALYST\nData Analyst, interested in Machine Learning application development. As a data analyst, I have extensive experience with\ndata preprocessing and pipeline building and I would like to venture further into this domain to learn more about it.",
-    "SKILLS": "Data Analyst, Data Analytics, Data Analysis, Time Series Analysis, Business Analytics, Predictive Modeling, Regression\nAnalysis, Image Processing, Data Visualization, Linear Regression, Statistical Analysis, Requirement Analysis, SQL,\nTableau, Python.",
-    "WORK EXPERIENCE": "Sanrachna SGT University\nDeputy Data Analyst  Jun 2019 to Jun 2020\nCreating reports, extracting, and cleaning the data.\nData Analysis, EDA and modelling of the secondary\ndata particularly data related to weather. Creating",
-    "EDUCATION": "dashboards using RShiny of quantitative data and\nmade a good animated graphical representation,\nworked on unstructured text data as well, built a text\nclassifier.\nBSc (Information Technology) from Sikkim Manipal\nuniversity in 2019"
-  }
-}
