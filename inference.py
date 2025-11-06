@@ -1,11 +1,8 @@
 """
 FILE: inference.py
 PURPOSE: Score new CVs using trained model
-AUTHOR: Task 3 - CV Scoring System
-DATE: 2024
-
 =============================================================================
-HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI KHÔNG CHUYÊN CODE:
+HƯỚNG DẪN SỬ DỤNG:
 =============================================================================
 
 FILE NÀY LÀM GÌ?
