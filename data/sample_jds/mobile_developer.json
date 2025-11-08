@@ -1,0 +1,32 @@
+{
+  "job_id": "JD_005",
+  "title": "Mobile Developer (iOS/Android)",
+  "company": "MobileFirst Vietnam",
+  "requirements": {
+    "skills": [
+      "Swift",
+      "Kotlin",
+      "iOS",
+      "Android",
+      "React Native",
+      "Flutter",
+      "REST API",
+      "Firebase",
+      "SQLite",
+      "Git",
+      "UI/UX",
+      "App Store",
+      "Google Play"
+    ],
+    "min_years_experience": 3,
+    "key_responsibilities": [
+      "Develop native mobile applications for iOS and Android",
+      "Build cross-platform apps using React Native or Flutter",
+      "Integrate with backend APIs and third-party services",
+      "Optimize app performance and user experience",
+      "Publish apps to App Store and Google Play",
+      "Fix bugs and implement new features"
+    ],
+    "min_education": "Bachelor"
+  }
+}
