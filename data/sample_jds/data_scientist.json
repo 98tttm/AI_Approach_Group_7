@@ -1,0 +1,33 @@
+{
+  "job_id": "JD_003",
+  "title": "Data Scientist",
+  "company": "AI Innovations Vietnam",
+  "requirements": {
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "SQL",
+      "Statistics",
+      "Data Visualization",
+      "Jupyter",
+      "Git",
+      "NLP"
+    ],
+    "min_years_experience": 3,
+    "key_responsibilities": [
+      "Build and deploy machine learning models",
+      "Analyze large datasets to extract insights",
+      "Develop predictive models for business problems",
+      "Collaborate with product teams on AI features",
+      "Create data visualizations and reports",
+      "Research and implement new ML algorithms"
+    ],
+    "min_education": "Bachelor"
+  }
+}

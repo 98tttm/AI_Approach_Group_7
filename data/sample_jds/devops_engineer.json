@@ -1,0 +1,34 @@
+{
+  "job_id": "JD_004",
+  "title": "DevOps Engineer",
+  "company": "CloudTech Vietnam",
+  "requirements": {
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "CI/CD",
+      "Terraform",
+      "Ansible",
+      "Linux",
+      "Python",
+      "Bash",
+      "Git",
+      "Monitoring",
+      "Prometheus",
+      "Grafana"
+    ],
+    "min_years_experience": 4,
+    "key_responsibilities": [
+      "Design and maintain CI/CD pipelines",
+      "Manage cloud infrastructure on AWS/Azure",
+      "Deploy and orchestrate containers with Kubernetes",
+      "Implement infrastructure as code using Terraform",
+      "Monitor system performance and troubleshoot issues",
+      "Ensure security and compliance best practices"
+    ],
+    "min_education": "Bachelor"
+  }
+}
