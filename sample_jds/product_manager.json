@@ -1,0 +1,33 @@
+{
+  "job_id": "JD_010",
+  "title": "Product Manager",
+  "company": "ProductLead Vietnam",
+  "requirements": {
+    "skills": [
+      "Product Management",
+      "Agile",
+      "Scrum",
+      "User Stories",
+      "Roadmapping",
+      "Data Analysis",
+      "SQL",
+      "JIRA",
+      "Wireframing",
+      "A/B Testing",
+      "Market Research",
+      "Stakeholder Management",
+      "Communication",
+      "Leadership"
+    ],
+    "min_years_experience": 5,
+    "key_responsibilities": [
+      "Define product vision and strategy",
+      "Manage product roadmap and prioritize features",
+      "Collaborate with engineering and design teams",
+      "Conduct user research and gather requirements",
+      "Analyze metrics and make data-driven decisions",
+      "Lead product launches and coordinate stakeholders"
+    ],
+    "min_education": "Bachelor"
+  }
+}

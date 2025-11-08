@@ -1,0 +1,33 @@
+{
+  "job_id": "JD_008",
+  "title": "Data Engineer",
+  "company": "BigData Vietnam",
+  "requirements": {
+    "skills": [
+      "Python",
+      "SQL",
+      "Apache Spark",
+      "Hadoop",
+      "Kafka",
+      "Airflow",
+      "ETL",
+      "AWS",
+      "Redshift",
+      "Snowflake",
+      "PostgreSQL",
+      "MongoDB",
+      "Git",
+      "Docker"
+    ],
+    "min_years_experience": 4,
+    "key_responsibilities": [
+      "Build and maintain data pipelines and ETL processes",
+      "Design scalable data warehouse architecture",
+      "Process large datasets using Spark and Hadoop",
+      "Implement real-time data streaming with Kafka",
+      "Optimize data queries and storage",
+      "Collaborate with data scientists and analysts"
+    ],
+    "min_education": "Bachelor"
+  }
+}
