@@ -1,0 +1,305 @@
+# BỘ TIÊU CHÍ CHẤM ĐIỂM CV - RULE-BASED
+## Hướng dẫn chấm điểm thủ công (không dùng AI)
+
+---
+
+## 📊 TỔNG QUAN
+
+**Tổng điểm: 100 điểm** được chia thành 4 tiêu chí:
+
+| Tiêu chí | Trọng số | Cách tính |
+|----------|----------|-----------|
+| **Skills** | 35 điểm | (Số skills khớp / Tổng skills yêu cầu) × 35 |
+| **Experience - Years** | 20 điểm | Theo mức độ (xem bảng bên dưới) |
+| **Experience - Responsibilities** | 20 điểm | (Số nhiệm vụ khớp / Tổng nhiệm vụ yêu cầu) × 20 |
+| **Education** | 15 điểm | Theo level (xem bảng bên dưới) |
+| **About/Summary** | 10 điểm | Title match (5đ) + Skills mention (5đ) |
+
+---
+
+## 1️⃣ SKILLS - 35 ĐIỂM
+
+### Công thức:
+```
+Điểm = (Số skills CV có / Số skills JD yêu cầu) × 35
+```
+
+### Cách đếm:
+- **1.0 điểm:** Skill khớp chính xác (VD: Python = Python)
+- **0.8 điểm:** Skill tương tự (VD: Django ≈ Flask, PostgreSQL ≈ MySQL)
+- **0.0 điểm:** Skill không liên quan
+
+### Ví dụ:
+
+**JD yêu cầu 5 skills:** Python, Django, PostgreSQL, AWS, Docker
+
+| CV có skills | Tính toán | Điểm |
+|-------------|-----------|------|
+| Python, Django, PostgreSQL, AWS, Docker | 5/5 = 100% | 35.0 |
+| Python, Flask (0.8), MySQL (0.8), AWS, Docker | 4.6/5 = 92% | 32.2 |
+| Python, Django, PostgreSQL | 3/5 = 60% | 21.0 |
+| Python, JavaScript, HTML | 1/5 = 20% | 7.0 |
+
+### Quy tắc đặc biệt:
+
+**1. Skill aliases (cùng 1 công nghệ):**
+- `k8s` = `kubernetes` → 1.0 điểm
+- `postgres` = `postgresql` → 1.0 điểm
+- `rest` = `restful` = `rest api` → 1.0 điểm
+
+**2. Parent-child skills:**
+- CV có `EC2`, `S3`, `Lambda` → tự động cộng `AWS` → 1.0 điểm
+
+**3. OR logic trong JD:**
+- JD: "Django OR FastAPI" → CV chỉ cần có 1 trong 2 → 1.0 điểm
+
+---
+
+## 2️⃣ EXPERIENCE - 40 ĐIỂM
+
+### A. Years of Experience - 20 điểm
+
+**KHÔNG theo công thức tỷ lệ**, mà theo **mức độ**:
+
+| So sánh | Điểm | Ví dụ (JD yêu cầu 5 năm) |
+|---------|------|--------------------------|
+| CV ≥ JD × 1.5 | 20 | CV có 7.5+ năm |
+| CV ≥ JD | 18 | CV có 5-7.4 năm |
+| CV ≥ JD × 0.8 | 14 | CV có 4-4.9 năm |
+| CV < JD × 0.8 | (CV/(JD×0.8)) × 14 | CV có 3 năm → (3/4)×14 = 10.5 |
+
+**Cách đếm năm:**
+- Tìm pattern: "X year(s)" hoặc "from YYYY to YYYY"
+- Cộng tất cả số năm tìm được
+
+**Ví dụ:**
+```
+CV: "Built APIs for 3 years. Led team for 2 years. Worked at X from 2018 to 2024."
+→ Cách 1: 3 + 2 = 5 năm
+→ Cách 2: 2024 - 2018 = 6 năm
+→ Lấy số lớn hơn = 6 năm
+```
+
+### B. Responsibilities Match - 20 điểm
+
+### Công thức:
+```
+Điểm = (Số nhiệm vụ khớp / Tổng nhiệm vụ JD yêu cầu) × 20
+```
+
+### Cách đếm:
+1. Với mỗi nhiệm vụ JD, rút ra **keywords** (bỏ stop words: and, the, for...)
+2. Đếm bao nhiêu keywords xuất hiện trong CV Experience
+3. Nếu ≥ 40% keywords có trong CV → **Khớp** (có thể tính partial từ 0.4-1.0)
+
+### Ví dụ:
+
+**JD yêu cầu 3 nhiệm vụ:**
+1. "Design and build RESTful APIs"
+2. "Optimize database queries"
+3. "Lead technical teams"
+
+**CV Experience:**
+```
+- Built RESTful APIs for e-commerce platform (3 years)
+- Optimized database queries, reduced load time by 60% (2 years)
+- Led backend team of 5 engineers (1 year)
+```
+
+| Nhiệm vụ JD | Keywords | Found in CV | Match ratio |
+|-------------|----------|-------------|-------------|
+| Design and build RESTful APIs | design, build, restful, apis | built, restful, apis | 3/4 = 0.75 ✅ |
+| Optimize database queries | optimize, database, queries | optimized, database, queries | 3/3 = 1.0 ✅ |
+| Lead technical teams | lead, technical, teams | led, team | 2/3 = 0.67 ✅ |
+
+**Tính điểm:**
+- Matched count = 0.75 + 1.0 + 0.67 = 2.42
+- Điểm = (2.42 / 3) × 20 = **16.1**
+
+---
+
+## 3️⃣ EDUCATION - 15 ĐIỂM
+
+### Level của bằng cấp:
+
+| Bằng | Level |
+|------|-------|
+| PhD / Doctorate | 4 |
+| Master / MBA / M.S. | 3 |
+| Bachelor / B.S. / B.A. | 2 |
+| Associate / Diploma | 1 |
+| No degree | 0 |
+
+### Cách chấm điểm:
+
+**KHÔNG theo công thức**, mà theo **so sánh level**:
+
+| So sánh | Điểm | Ví dụ (JD yêu cầu Bachelor) |
+|---------|------|----------------------------|
+| CV level ≥ JD level | 15 | CV có Bachelor/Master/PhD |
+| CV level = JD level - 1 | 10 | JD cần Bachelor, CV có Associate |
+| CV level < JD level - 1 nhưng có degree | 5 | JD cần Master, CV có Associate |
+| CV không có degree | 0 | Tự học, chưa tốt nghiệp |
+
+### Ví dụ:
+
+**Case 1: JD yêu cầu Bachelor (level 2)**
+
+| CV có | Level | So sánh | Điểm |
+|-------|-------|---------|------|
+| PhD | 4 | 4 ≥ 2 | 15 |
+| Master | 3 | 3 ≥ 2 | 15 |
+| Bachelor | 2 | 2 ≥ 2 | 15 |
+| Associate | 1 | 1 = 2-1 | 10 |
+| No degree | 0 | 0 < 2-1 | 0 |
+
+**Case 2: JD yêu cầu Master (level 3)**
+
+| CV có | Level | So sánh | Điểm |
+|-------|-------|---------|------|
+| PhD | 4 | 4 ≥ 3 | 15 |
+| Master | 3 | 3 ≥ 3 | 15 |
+| Bachelor | 2 | 2 = 3-1 | 10 |
+| Associate | 1 | 1 < 3-1 | 5 |
+| No degree | 0 | 0 < 3-1 | 0 |
+
+---
+
+## 4️⃣ ABOUT/SUMMARY - 10 ĐIỂM
+
+### A. Title Match - 5 điểm
+
+Đếm số từ trong **JD Title** xuất hiện trong **CV About**:
+
+```
+Điểm = min(số từ khớp × 1.5, 5.0)
+```
+
+**Ví dụ:**
+
+JD Title: "**Senior Backend Engineer**"
+
+| CV About | Từ khớp | Tính toán | Điểm |
+|----------|---------|-----------|------|
+| "**Senior Backend Engineer** with 7 years..." | 3 từ | 3 × 1.5 = 4.5 | 4.5 |
+| "**Backend Engineer** specialized in..." | 2 từ | 2 × 1.5 = 3.0 | 3.0 |
+| "**Engineer** with experience in..." | 1 từ | 1 × 1.5 = 1.5 | 1.5 |
+| "Developer looking for opportunities..." | 0 từ | 0 × 1.5 = 0 | 0 |
+
+**Chỉ đếm từ dài > 3 ký tự** (bỏ qua "the", "and"...)
+
+### B. Skills Mention - 5 điểm
+
+Đếm có bao nhiêu trong **top 5 skills** của JD được mention trong **CV About**:
+
+```
+Điểm = min(số skills mention, 5.0)
+```
+
+**Ví dụ:**
+
+JD Top 5 Skills: Python, Django, PostgreSQL, AWS, Docker
+
+| CV About | Skills mention | Điểm |
+|----------|----------------|------|
+| "Expert in **Python**, **Django**, **AWS**..." | 3 skills | 3.0 |
+| "Experienced with **Python** and **Docker**..." | 2 skills | 2.0 |
+| "Software engineer building scalable systems..." | 0 skills | 0 |
+
+### Total About Score:
+```
+About Score = Title Match Score + Skills Mention Score (max 10)
+```
+
+---
+
+## 📋 THANG ĐIỂM RATING
+
+Sau khi tính tổng 4 tiêu chí → **Rating**:
+
+| Tổng điểm | Rating |
+|-----------|--------|
+| 85-100 | ⭐⭐⭐⭐⭐ Excellent |
+| 70-84 | ⭐⭐⭐⭐ Very Good |
+| 60-69 | ⭐⭐⭐ Good |
+| 50-59 | ⭐⭐ Fair |
+| 40-49 | ⭐ Below Average |
+| 0-39 | ❌ Poor |
+
+---
+
+## 💡 VÍ DỤ HOÀN CHỈNH
+
+### JD Requirements:
+```yaml
+Title: Senior Backend Engineer
+Skills: [Python, Django, PostgreSQL, AWS, Docker]  # 5 skills
+Experience: 5+ years
+Responsibilities:
+  - Design and build RESTful APIs
+  - Optimize database queries  
+  - Lead technical teams
+Education: Bachelor
+```
+
+### CV của Ứng viên:
+```
+ABOUT:
+Senior Backend Engineer with 6 years of experience in Python and Django.
+
+SKILLS:  
+Python, Django, PostgreSQL, AWS, Docker, Git
+
+EXPERIENCE:
+- Built RESTful APIs for e-commerce (3 years)
+- Optimized database queries (2 years)  
+- Led backend team (1 year)
+- Worked at TechCorp from 2018 to 2024
+
+EDUCATION:
+B.S. in Computer Science, 2018
+```
+
+### Chấm điểm:
+
+| Tiêu chí | Cách tính | Điểm |
+|----------|-----------|------|
+| **Skills** | 5/5 skills match = 100% | (5/5) × 35 = **35.0** |
+| **Experience - Years** | 6 năm ≥ 5 năm | **18.0** |
+| **Experience - Resp** | 3/3 nhiệm vụ match | (3/3) × 20 = **20.0** |
+| **Education** | Bachelor ≥ Bachelor | **15.0** |
+| **About - Title** | 3 từ khớp (Senior Backend Engineer) | 3 × 1.5 = **4.5** |
+| **About - Skills** | 2 skills mention (Python, Django) | **2.0** |
+| **TOTAL** | | **94.5** |
+
+**Rating:** ⭐⭐⭐⭐⭐ **Excellent**
+
+---
+
+## 🔍 LƯU Ý QUAN TRỌNG
+
+### 1. Skills matching:
+- Exact match = 1.0
+- Similar = 0.8  
+- Unrelated = 0.0
+
+### 2. Years scoring:
+- KHÔNG chia tỷ lệ đơn giản
+- Dùng mức độ (20/18/14/proportional)
+
+### 3. Education:
+- KHÔNG chia tỷ lệ
+- Dùng so sánh level (15/10/5/0)
+
+### 4. Partial matching:
+- Responsibilities có thể 0.4-1.0 (không chỉ 0 hoặc 1)
+- Cộng dồn các partial matches
+
+### 5. Stop words:
+- Bỏ: "and", "the", "for", "with", "a", "an", "in", "on", "at", "to", "of", "from", "by"
+- Chỉ đếm từ > 3 ký tự
+
+---
+
+**Version:** 1.0  
+**Purpose:** Hướng dẫn chấm điểm CV thủ công theo rule-based system

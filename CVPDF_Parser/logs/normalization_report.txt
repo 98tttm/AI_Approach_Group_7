@@ -1,8 +1,0 @@
-=== NORMALIZATION REPORT ===
-others: 6686 (35.1%)
-work: 3976 (20.8%)
-skills: 3326 (17.4%)
-projects: 2774 (14.5%)
-education: 2309 (12.1%)
-
-Total processed: 19071
