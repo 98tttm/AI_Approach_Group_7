@@ -519,4 +519,12 @@ if __name__ == "__main__":
     COMMAND:
     python inference.py --cv cv_file.json --jd jd_file.json
     """
-    main()
+    try:
+        # Nếu không có tham số, chạy example
+        import sys
+        if len(sys.argv) == 1:
+            example_usage()
+        else:
+            main()
+    except Exception as e:
+        print(f"Error: {e}")
