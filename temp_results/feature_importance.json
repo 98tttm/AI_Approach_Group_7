@@ -1,0 +1,210 @@
+[
+  {
+    "feature": "is_stem_degree",
+    "importance": 0.2948684349542059
+  },
+  {
+    "feature": "skills_match_percentage",
+    "importance": 0.1353915926259366
+  },
+  {
+    "feature": "degree_level_difference",
+    "importance": 0.08294056803115986
+  },
+  {
+    "feature": "education_text_length",
+    "importance": 0.07062708745482399
+  },
+  {
+    "feature": "degree_level",
+    "importance": 0.06040755962235516
+  },
+  {
+    "feature": "education_meets_requirement",
+    "importance": 0.05798564678591464
+  },
+  {
+    "feature": "avg_skill_length",
+    "importance": 0.029989748986530968
+  },
+  {
+    "feature": "skills_text_length",
+    "importance": 0.029361273008174527
+  },
+  {
+    "feature": "years_ratio",
+    "importance": 0.026644292209074633
+  },
+  {
+    "feature": "experience_text_length",
+    "importance": 0.024893567548923766
+  },
+  {
+    "feature": "about_text_length",
+    "importance": 0.024039618694372118
+  },
+  {
+    "feature": "total_years_experience",
+    "importance": 0.02192948156988136
+  },
+  {
+    "feature": "cv_completeness_score",
+    "importance": 0.018087886044151433
+  },
+  {
+    "feature": "cv_total_length",
+    "importance": 0.016148501729423934
+  },
+  {
+    "feature": "num_skills_matched",
+    "importance": 0.010020443254476987
+  },
+  {
+    "feature": "num_action_verbs",
+    "importance": 0.008846462088638922
+  },
+  {
+    "feature": "avg_section_length",
+    "importance": 0.008328117848699005
+  },
+  {
+    "feature": "num_responsibilities_matched",
+    "importance": 0.008005312610190834
+  },
+  {
+    "feature": "responsibilities_match_percentage",
+    "importance": 0.007905041498537326
+  },
+  {
+    "feature": "has_python",
+    "importance": 0.007175248114989407
+  },
+  {
+    "feature": "num_impact_keywords",
+    "importance": 0.00642696323838472
+  },
+  {
+    "feature": "num_leadership_indicators",
+    "importance": 0.006284662561007341
+  },
+  {
+    "feature": "has_programming_language",
+    "importance": 0.004943623878311936
+  },
+  {
+    "feature": "has_top_university",
+    "importance": 0.004794221031200489
+  },
+  {
+    "feature": "has_rest_api",
+    "importance": 0.00465298676618616
+  },
+  {
+    "feature": "num_skills_in_cv",
+    "importance": 0.003961389372109716
+  },
+  {
+    "feature": "has_framework",
+    "importance": 0.0031270042097769225
+  },
+  {
+    "feature": "has_git",
+    "importance": 0.0027177200793225896
+  },
+  {
+    "feature": "has_aws",
+    "importance": 0.0026961167781423545
+  },
+  {
+    "feature": "has_azure",
+    "importance": 0.00257116423130156
+  },
+  {
+    "feature": "has_leadership_keywords",
+    "importance": 0.0022364916030227903
+  },
+  {
+    "feature": "has_database",
+    "importance": 0.0022058295512237163
+  },
+  {
+    "feature": "has_docker",
+    "importance": 0.0018908708543063555
+  },
+  {
+    "feature": "num_trending_skills",
+    "importance": 0.001756855316838637
+  },
+  {
+    "feature": "has_django",
+    "importance": 0.001504068343287857
+  },
+  {
+    "feature": "has_postgresql",
+    "importance": 0.0014213220333009213
+  },
+  {
+    "feature": "has_kubernetes",
+    "importance": 0.0013887257225385038
+  },
+  {
+    "feature": "has_gcp",
+    "importance": 0.0011895435717937228
+  },
+  {
+    "feature": "num_skills_in_jd",
+    "importance": 0.000634556177482406
+  },
+  {
+    "feature": "has_fastapi",
+    "importance": 0.0
+  },
+  {
+    "feature": "has_redis",
+    "importance": 0.0
+  },
+  {
+    "feature": "has_microservices",
+    "importance": 0.0
+  },
+  {
+    "feature": "skill_diversity_score",
+    "importance": 0.0
+  },
+  {
+    "feature": "has_quantifiable_metrics",
+    "importance": 0.0
+  },
+  {
+    "feature": "num_metrics",
+    "importance": 0.0
+  },
+  {
+    "feature": "has_impact_language",
+    "importance": 0.0
+  },
+  {
+    "feature": "has_top_company",
+    "importance": 0.0
+  },
+  {
+    "feature": "has_large_scale_indicators",
+    "importance": 0.0
+  },
+  {
+    "feature": "has_career_progression",
+    "importance": 0.0
+  },
+  {
+    "feature": "num_sections_complete",
+    "importance": 0.0
+  },
+  {
+    "feature": "has_complete_sections",
+    "importance": 0.0
+  },
+  {
+    "feature": "about_quality_score",
+    "importance": 0.0
+  }
+]

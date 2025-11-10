@@ -1,0 +1,195 @@
+{
+  "cv_id": "cv_400.pdf",
+  "jd_id": "JD_001",
+  "jd_title": "Senior Backend Engineer (Python)",
+  "rule_based_score": 35.0,
+  "ml_predicted_score": 33.08,
+  "final_score": 33.95,
+  "confidence": 91.27,
+  "rating": "Poor",
+  "recommendation": "\u274c Not a good fit - Reject",
+  "breakdown": {
+    "skills": {
+      "score": 0.0,
+      "matched_count": 0.0,
+      "total_required": 9,
+      "match_percentage": 0.0,
+      "details": [
+        {
+          "jd_skill": "Python",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        },
+        {
+          "jd_skill": "Django or FastAPI",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        },
+        {
+          "jd_skill": "PostgreSQL",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        },
+        {
+          "jd_skill": "Redis",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        },
+        {
+          "jd_skill": "Docker",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        },
+        {
+          "jd_skill": "AWS",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        },
+        {
+          "jd_skill": "REST API",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        },
+        {
+          "jd_skill": "Microservices",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        },
+        {
+          "jd_skill": "Git",
+          "expanded_alternative_used": null,
+          "matched_with": null,
+          "match_score": 0.0
+        }
+      ]
+    },
+    "experience": {
+      "score": 20.0,
+      "years_score": 20.0,
+      "responsibilities_score": 0.0,
+      "years_details": {
+        "score": 20.0,
+        "cv_years": 7,
+        "jd_min_years": 4,
+        "ratio": 1.75,
+        "level": "Excellent"
+      },
+      "responsibilities_details": {
+        "score": 0.0,
+        "matched_count": 0.0,
+        "total_required": 6,
+        "match_percentage": 0.0,
+        "details": [
+          {
+            "responsibility": "Design and build REST APIs using Django or FastAPI",
+            "keywords": [
+              "design",
+              "build",
+              "rest api",
+              "using",
+              "django",
+              "fastapi"
+            ],
+            "found_keywords": [],
+            "match_ratio": 0.0,
+            "matched": false
+          },
+          {
+            "responsibility": "Develop and maintain microservices with proper observability",
+            "keywords": [
+              "develop",
+              "maintain",
+              "microservices",
+              "proper",
+              "observability"
+            ],
+            "found_keywords": [],
+            "match_ratio": 0.0,
+            "matched": false
+          },
+          {
+            "responsibility": "Optimize PostgreSQL queries and schema performance",
+            "keywords": [
+              "optimize",
+              "postgresql",
+              "query",
+              "schema",
+              "performance"
+            ],
+            "found_keywords": [
+              "performance"
+            ],
+            "match_ratio": 0.2,
+            "matched": false
+          },
+          {
+            "responsibility": "Deploy and operate services on AWS (EC2/S3/RDS/Lambda)",
+            "keywords": [
+              "deploy",
+              "operate",
+              "service",
+              "ec2s3rdslambda"
+            ],
+            "found_keywords": [],
+            "match_ratio": 0.0,
+            "matched": false
+          },
+          {
+            "responsibility": "Implement caching and messaging with Redis (and optionally RabbitMQ)",
+            "keywords": [
+              "implement",
+              "caching",
+              "messaging",
+              "redis",
+              "optionally",
+              "rabbitmq"
+            ],
+            "found_keywords": [],
+            "match_ratio": 0.0,
+            "matched": false
+          },
+          {
+            "responsibility": "Conduct code reviews, lead technical discussions, and mentor juniors",
+            "keywords": [
+              "conduct",
+              "code",
+              "reviews",
+              "lead",
+              "technical",
+              "discussions",
+              "mentor",
+              "juniors"
+            ],
+            "found_keywords": [],
+            "match_ratio": 0.0,
+            "matched": false
+          }
+        ]
+      }
+    },
+    "education": {
+      "score": 15.0,
+      "cv_degree": "B.SC",
+      "cv_level": 2,
+      "jd_level": 2,
+      "jd_required": "Bachelor",
+      "meets_requirement": true
+    },
+    "about": {
+      "score": 0.0,
+      "title_score": 0.0,
+      "keyword_score": 0,
+      "title_words_matched": 0,
+      "keywords_mentioned": 0
+    }
+  },
+  "timestamp": "2025-11-09 22:00:07"
+}

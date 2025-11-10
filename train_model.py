@@ -440,6 +440,13 @@ class ModelTrainer:
             # Step 3: Split and scale
             X_train, X_test, y_train, y_test, scaler = self.split_and_scale(X, y)
 
+            # --- SAVE TEST DATA (for evaluation later) ---
+            # Ensure data/ exists and save X_test,y_test for the notebook/report
+            os.makedirs("data", exist_ok=True)
+            np.save("data/X_test.npy", X_test)
+            np.save("data/y_test.npy", y_test)
+            print("  ✓ Saved X_test.npy and y_test.npy for evaluation")
+
             # Step 4: Train model
             model = self.train_model(X_train, y_train)
 
