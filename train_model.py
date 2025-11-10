@@ -495,7 +495,7 @@ def main():
 
     # Paths (có thể thay đổi nếu cần)
     CVS_FOLDER = "data/Segmented_Text_2"
-    JDS_FOLDER = "data/test_jd_new"
+    JDS_FOLDER = "data/sample_jds"
     OUTPUT_FOLDER = "models"
 
     # Create trainer
